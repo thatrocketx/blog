@@ -98,7 +98,7 @@ Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanz
 {{< img "/img/articoli/eremo-foto-stanze.jpg" "Foto di una camera distrutta." >}}\
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
 
-Se si prosegue verso sinistra o verso destra, invece si trovano **due terrazze** che donano una vista diversa da quella principale, in particolare la prolungano. Piccola curiosità per i fan di **Liberato** (l' artista musicale): una delle scene del video della canzone [_Me staje appennenn' amò_](https://www.youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
+Se si prosegue verso sinistra o verso destra, invece si trovano **due terrazze** che donano una vista diversa da quella principale, prolungandola a destra e a sinistra, sul Vesuvio. Piccola curiosità per i fan di **Liberato** (l' artista musicale): una delle scene del video della canzone [_Me staje appennenn' amò_](https://www.youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
 
 {{< img "/img/articoli/eremo-vista-balcone.jpg" "Vista dal balcone al piano superiore." >}}\
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
@@ -108,4 +108,4 @@ Vi è ancora un altro piano, ma data la fatiscenza dell' edificio abbiamo deciso
 {{< titolo title="Conclusioni" link="conclusioni" >}}​
 Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità**, **adrenalina** e **inquietudine**. Viene voglia di esplorarlo da cima a fondo, ma il senso di stranezza e inquietudine spesso blocca questa voglia iniziale. Ciò che secondo noi rende così affascinante questo luogo è proprio questa sua stranezza: **un hotel così bello**, in un posto fantastico, nel quale prima non si poteva accedere, oggi è lì **abbandonato** e **distrutto**.​
 
-Ormai non credo ci sia alcuna speranza di **rivederlo così com' era** se non in queste foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
+Ormai non credo ci sia alcuna speranza di **rivederlo così com' era** se non in alcune foto d' epoca che si trovano su delle vecchie cartoline in vendita su eBay per pochi euro, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​

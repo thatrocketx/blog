@@ -1,0 +1,80 @@
+backend:   
+  name: git-gateway   
+  branch: master
+
+media_folder: "static/img/articoli" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/articoli" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "italiano" # Used in routes, e.g., /admin/collections/blog
+    label: "Nuovo articolo" # Used in the UI
+    folder: "content/italiano" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template
+    fields: # The fields for each document, usually in front matter
+      - {label: "Bozza", name: "draft", widget: "boolean", default: false, required: true, hint: "Spuntare la casella se non si vuole pubblicare l' articolo, ma salvarlo per successive modifiche"}
+      - {label: "Data", name: "date", widget: "datetime", required: false}
+      - {label: "Titolo", name: "title", widget: "string", required: true}
+      - {label: "Descrizione articolo", name: "description", widget: "string", required: true, hint: "Inserire una descrizione sull' argomento dell' articolo. Se la descrizione è troppo lunga, aggiungere un sottotitolo nella sezione Bellezza"}
+      - {label: "Autore", name: "autore", widget: "select", options: ["Mediterraneo", "Oraion", "that Rocket X", "Staff"], required: false}
+      - {label: "Immagine principale", name: "immagine", widget: "image", required: true, hint: "Immagine che comparirà sui social e nella homepage"}
+      - {label: "Categorie", name: "categories", widget: "list", required: false, hint: "Categoria dell' articolo"}
+      - {label: "Serie", name: "series", widget: "list", required: false, hint: "Se l' articolo fa parte di una serie, inserirla"}
+      - {label: "Parole chiave", name: "tags", widget: "list", hint: "Inserire le parole chiave dell' articolo, NON ESAGERARE", required: false}
+      - {label: "Parole chiave Google News", name: "news_keywords", widget: "list", hint: "Inserire le parole chiave per Google News", required: false}
+      - {label: "Paese sul quale si basa l' articolo", name: "countries", widget: "string", hint: "Inserire il paese di cui parla l' articolo", required: false}
+      - {label: "Titolo SEO", name: "titoloSEO", widget: "string", required: false}
+      - {label: "Sottotitolo", name: "sottotitolo", widget: "string", required: false, hint: "Da aggiungere SOLO se la descrizione dell' articolo è troppo lunga. Compare sotto al titolo dell' articolo"}
+      - {label: "URL Personalizzato", name: "slug", widget: "string", required: false, hint: "Serve a dare un nome più carino al link dell' articolo, utile per avere più ricerche"}
+      - {label: "Immagine apertura articolo", name: "immagineprincipale", widget: "image", required: false, hint: "Da aggiungere SOLO se si vogliono due immagini diverse"}
+      - {label: "Descrizione immagine di apertura", name: "descrizioneimg", widget: "string", required: true, hint: "Descrizione dell' immagine utilizzata come immagine di apertura"}
+      - {label: "LINK al video", name: "videoSEO", widget: "string", hint: "Link al video", required: false}
+      - {label: "Il video è hostato sul nostro sito", name: "videoself", widget: "boolean", hint: "Da spuntare solo se il video si trova sul nostro sito", required: false}
+      - {label: "Abilita Fontawesome", name: "fontawesome", widget: "boolean", default: false, required: false, hint: "Abilita le icone fontawesome"}
+      - {label: "Abilita Animazioni Javascript", name: "js", widget: "boolean", default: false, required: false, hint: "Abilita il supporto alle animazioni su scorrimento tramite Javascript"}
+      - {label: "Testo", name: "body", widget: "markdown", required: true, hint: "Qui va inserito il testo dell' articolo"}
+      - {label: "Data nella quale pubblicare l' articolo", name: "publishdate", widget: "datetime", required: true, hint: "Inserire la data nella quale si vuole pubblicare l' articolo"}
+      - {label: "Data di scadenza articolo", name: "expirydate", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo", default: " "}
+      - {label: "Mostra scadenza", name: "mostrascadenza", widget: "boolean", required: false, hint: "Mostra la scadenza nell' anteprima dell' articolo"}
+      - {label: "Data ultima modifica", name: "lastmod", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo"}
+      
+  - name: "inglese" # Used in routes, e.g., /admin/collections/blog
+    label: "Articolo in inglese" # Used in the UI
+    folder: "content/english" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template
+    fields: # The fields for each document, usually in front matter
+      - {label: "Bozza", name: "draft", widget: "boolean", default: false, required: true, hint: "Spuntare la casella se non si vuole pubblicare l' articolo, ma salvarlo per successive modifiche"}
+      - {label: "Data", name: "date", widget: "datetime", required: false}
+      - {label: "Titolo", name: "title", widget: "string", required: true}
+      - {label: "Descrizione articolo", name: "description", widget: "string", required: true, hint: "Inserire una descrizione sull' argomento dell' articolo. Se la descrizione è troppo lunga, aggiungere un sottotitolo nella sezione Bellezza"}
+      - {label: "Autore", name: "autore", widget: "select", options: ["Mediterraneo", "Oraion", "that Rocket X", "Staff"], required: false}
+      - {label: "Immagine principale", name: "immagine", widget: "image", required: true, hint: "Immagine che comparirà sui social e nella homepage"}
+      - {label: "Categorie", name: "categories", widget: "list", required: false, hint: "Categoria dell' articolo"}
+      - {label: "Parole chiave", name: "tags", widget: "list", hint: "Inserire le parole chiave dell' articolo, NON ESAGERARE"}
+      - {label: "Paese sul quale si basa l' articolo", name: "countries", widget: "string", hint: "Inserire il paese di cui parla l' articolo", required: false}
+      - {label: "Titolo SEO", name: "titoloSEO", widget: "string", required: false}
+      - {label: "Sottotitolo", name: "sottotitolo", widget: "string", required: false, hint: "Da aggiungere SOLO se la descrizione dell' articolo è troppo lunga. Compare sotto al titolo dell' articolo"}
+      - {label: "URL Personalizzato", name: "slug", widget: "string", required: false, hint: "Serve a dare un nome più carino al link dell' articolo, utile per avere più ricerche"}
+      - {label: "Immagine apertura articolo", name: "immagineprincipale", widget: "image", required: false, hint: "Da aggiungere SOLO se si vogliono due immagini diverse"}
+      - {label: "Descrizione immagine di apertura", name: "descrizioneimg", widget: "string", required: true, hint: "Descrizione dell' immagine utilizzata come immagine di apertura"}
+      - {label: "LINK al video", name: "videoSEO", widget: "string", hint: "Link al video", required: false}
+      - {label: "Il video è hostato sul nostro sito", name: "videoself", widget: "boolean", hint: "Da spuntare solo se il video si trova sul nostro sito", required: false}
+      - {label: "Abilita Fontawesome", name: "fontawesome", widget: "boolean", default: false, required: false, hint: "Abilita le icone fontawesome"}
+      - {label: "Abilita Animazioni Javascript", name: "js", widget: "boolean", default: false, required: false, hint: "Abilita il supporto alle animazioni su scorrimento tramite Javascript"}
+      - {label: "Testo", name: "body", widget: "markdown", required: true, hint: "Qui va inserito il testo dell' articolo"}
+      - {label: "Data nella quale pubblicare l' articolo", name: "publishdate", widget: "datetime", required: true, hint: "Inserire la data nella quale si vuole pubblicare l' articolo"}
+      - {label: "Data di scadenza articolo", name: "expirydate", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo", default: " "}
+      - {label: "Mostra scadenza", name: "mostrascadenza", widget: "boolean", required: false, hint: "Mostra la scadenza nell' anteprima dell' articolo"}
+
+  - name: "seriesit" # Used in routes, e.g., /admin/collections/blog
+    label: "Aggiungi serie" # Used in the UI
+    folder: "content/italiano/series" # The path to the folder where the documents are stored
+    create: true
+    slug: "series/{{slug}}/_index.md"
+    fields:
+      - {label: "Nome serie", name: "title", widget: "string", required: true}
+      - {label: "Descrizione", name: "description", widget: "string", required: true, hint: "Descrizione"}
+      - {label: "Breve Descrizione", name: "body", widget: "markdown", required: true}
+
+    

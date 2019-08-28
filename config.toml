@@ -1,0 +1,36 @@
+baseURL = "https://www.thatrocketx.com/"
+DefaultContentLanguage = "it"
+title = "that Rocket X"
+theme = "tema"
+PaginatePath = "pag"
+disqusShortname = "thatrocketx"
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "AMP", "RSS"]
+  taxonomy = ["HTML", "AMP", "RSS"]
+  section = ["HTML", "AMP", "RSS"]
+[outputFormats]
+  [outputFormats.RSS]
+  noUgly = true
+  baseName = "index"
+  path = "rss"
+  [outputFormats.AMP]
+  baseName = "index-amp"
+  path= ""
+[languages]
+  [languages.it]
+    languageName = "Italiano"
+    LanguageCode = "it-IT"
+    weight = 1
+    contentDir = "content/italiano"
+  [languages.en]
+    languageName = "English"
+    LanguageCode = "en"
+    weight = 2
+    title = "that Rocket X (EN)"
+    contentDir = "content/english"
+ [taxonomies]
+      category = "categories"
+      tag = "tags"
+      country = "countries"
+      series = "series"

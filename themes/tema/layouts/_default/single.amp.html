@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html ⚡ lang="{{ .Language.Lang }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="description" content="{{ .Params.description }}">
+  <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
+  <link rel="preload" href="{{ .Params.immagine }}" as="image">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+  {{ partial "favicon.html" }}
+  <!-- Import other AMP Extensions here -->
+  <style amp-custom>
+    body {position: relative; min-height: 100vh;  background-color: #ededed; width: 100%; font-family: Arial}
+      .nascosto {
+        display: none
+      }
+      .banner {  background-color: #FFF; text-align: center; padding-top: 10px; border-bottom: 9px solid #df2a66}
+      .logo-svg {
+        background-image: url('/trx.png');
+        background-image: url('/trx.svg');
+        width: 140px;
+        height: 60px;
+        background-size: 150px;
+        margin-bottom: 10px;
+      }
+
+      .banner a {color: #ffffff; text-decoration: none; display: inline-block}
+      .articoli {margin-top: 10px; margin-left: auto; margin-right: auto; max-width: 800px; background-color: #FFF; border: 1px solid #e9e9e9; -webkit-transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;}
+      .articoli.lista {border-radius: 20px;overflow: hidden;}
+      .articoli.lista:hover, .articoli.lista:focus {-webkit-box-shadow: 0 0 5px 2px #D6D6D6;
+      box-shadow: 0 0 5px 2px #D6D6D6;-webkit-transition: all .5s ease-in-out; -webkit-transform: scale(1.01); transform: scale(1.01);
+      transition: all .5s ease-in-out;}
+      .contenitore-immagine {max-width: 1200px; max-height: 330px; overflow: hidden; margin-left: auto; margin-right: auto}
+      .articoli img {width: 100%}
+      .titolo-lista {color: #dd3d57; margin-bottom: 0}
+      .info {color: #000000; padding: 10px;}
+      .pubblicato-lista {color: #666666}
+
+      .lingue-lista, .lingue-lista li, .lingue-lista ul {
+        display: inline
+      }
+
+      .lingue-lista a[lang="it"]::before {
+        content: '🇮🇹 '
+      }
+
+      .lingue-lista a[lang="en"]::before {
+        content: '🌐 '
+      }
+
+      .lingue-lista a[lang="de"]::before {
+        content: '🇩🇪 '
+      }
+
+      .autore::before {
+        content: ' ';
+        display: inline-block;
+        background-image: url('/user.svg');
+        -webkit-background-size: 15px;
+        background-size: 15px;
+        width: 15px;
+        height: 15px;
+        margin-right: 3px;
+      }
+
+      .data::before {
+        content: ' ';
+        display: inline-block;
+        background-image: url('/calendar.svg');
+        -webkit-background-size: 15px;
+        background-size: 15px;
+        width: 15px;
+        height: 15px;
+        margin-right: 3px;
+      }
+
+      .banner-articolo {overflow: auto; scrollbar-width: none;}
+      article figure {margin: auto;}
+      article figcaption {color: #c3c3c3; font-size: .9em}
+      .titolo {max-width: 400px; margin-left: auto; margin-right: auto; border-bottom: 2px solid #de0d1b; }
+      .descrizione {font-family: Goudy Old Style; color: #5d5d5d; font-size: 1.3em; text-transform: lowercase;}
+
+      header, article {margin-left: auto; margin-right: auto; padding: 10px}
+      header {text-align: center}
+      article a {color: #dd3d57}
+      article {text-align: justify;}
+      article h3 {font-weight: normal}
+      blockquote {
+        padding: 0 0 10px 5px;
+        border-left: 3px solid #dd3d57;
+        margin: 20px 2px 30px 3px;
+      }
+
+
+      .compra {
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative;
+        text-align: center;
+        max-width: 800px;
+        background: #FFF;
+        -webkit-transition: all .5s ease-in-out;
+        -moz-transition: all .5s ease-in-out;
+        -ms-transition: all .5s ease-in-out;
+        -o-transition: all .5s ease-in-out;
+        transition: all .5s ease-in-out;
+      }
+
+      .compra:hover {
+        -webkit-box-shadow: 0 5px 10px 1px rgba(189, 189, 189, 0.37);
+        box-shadow: 0 5px 10px 1px rgba(189, 189, 189, 0.37);
+        -webkit-transition: all .5s ease-in-out;
+        -moz-transition: all .5s ease-in-out;
+        -ms-transition: all .5s ease-in-out;
+        -o-transition: all .5s ease-in-out;
+        transition: all .5s ease-in-out;
+        transform: scale(1.01)
+      }
+
+      .compra img {
+        max-width: 200px;
+        float: left;
+        display: inline-block;
+        max-height: 300px;
+      }
+
+      @media screen and (max-width: 565px) {
+        .compra img {
+          max-width: 100%;
+        }
+      }
+
+      .compra-titolo {
+        display: block;
+        font-size: 1.2em;
+        margin: 3px;
+      }
+
+      .contenitore-compra {
+        text-align: center;
+        max-width: 300px;
+        display: inline-block;
+      }
+
+      .compra-link {
+        max-width: 400px;
+        border-radius: 10px;
+        color: #FFF;
+        text-align: center;
+        padding: 10px;
+        display: block;
+        margin: 15px;
+        font-size: .9em;
+      }
+
+      .compra.amazon {
+        border: 1px solid #e44331;
+      }
+
+      .compra-link.amazon {
+        background-color: #638000;
+      }
+
+      .compra.booking {
+        border: 1px solid #1682e8;
+      }
+
+      .compra-link.booking {
+        background-color: #1a4ec1;
+      }
+
+      .compra.flixbus {
+        border: 1px solid #16e84d;
+      }
+
+      .compra-link.flixbus {
+        background-color: #16c25c;
+      }
+
+      .compra.gyg {
+        border: 1px solid #e4712d;
+      }
+
+      .compra-link.gyg {
+        background-color: #e47c1a;
+      }
+      article table {
+        border: 1px solid #cec7c7;
+        width: 100%;
+      }
+
+      article td {
+        border-top: 1px solid #cec7c7;
+        padding: 5px;
+      }
+      .sponsor {width: 100%; margin-bottom: 50px; text-align: center}
+      .sponsor img {margin-left: auto; margin-right: auto; display: block; max-width: 90%}
+
+      .no-amp {text-align: center}
+      .fixed-container {
+   position: relative;
+   width: 400px;
+   height: 400px;
+   margin: auto;
+ }
+
+ amp-img {max-width: 100%}
+
+    </style>
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript>
+    <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style>
+  </noscript>
+
+  <link rel="canonical" href="{{ .RelPermalink }}index.html">
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="{{ if (isset .Params "titoloseo") }}{{ .Params.titoloSEO }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ .Params.description }}">
+  {{ if (isset .Params "videoseo") }}<meta property="og:video" content="{{ .Params.videoseo }}">  {{ end }}
+  <meta property="og:image" content="{{ if (isset .Params "immagine") }}{{ .Params.immagine }}{{else}}/img/og/og-home.jpg{{end}}">
+  <meta property="og:locale" content="{{ .Language.Lang }}">
+  <meta property="og:site_name" content="that Rocket X">
+  {{ if (isset .Params "autore") }}<meta property="article:author" content="{{ .Params.autore }}">{{end}}
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="{{ if (isset .Params "titoloseo") }}{{ .Params.titoloSEO }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="twitter:description" content="{{ .Params.description }}">
+  <meta property="twitter:image" content="{{ if (isset .Params "immagine") }}{{ .Params.immagine }}{{else}}/img/og/og-home.jpg{{end}}">
+
+  <title>{{.Title}}</title>
+  <script type="application/ld+json">
+    {{ if .IsHome }}
+    {
+  	"@context": "http://schema.org/",
+    "@type": "Blog",
+    "url": "https://thatrocketx.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}trx-amp.png",
+      "width": "118",
+      "height": "60"
+    },
+    "mainEntityOfPage": {
+      "@type": "Blog",
+      "id": "https://thatrocketx.com"
+    },
+    "name": "that Rocket X",
+    "sameAs": [ "https://facebook.com/thatrocketx",
+     "https://twitter.com/thatrocketx",
+    "https://t.me/thatrocketx",
+    "https://flipboard.com/@thatrocketx",
+    "https://pinterest.com/thatrocketx"
+  ],
+  	"copyrightYear": "2019",
+  	"license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  	"description": "{{ .Params.description }}"
+  }
+    {{ else }}
+  {
+    "@context": "http://schema.org/",
+    {{ if (isset .Params "recensioneprodotto") }}
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "Thing",
+      "name": "{{ .Params.recensioneprodotto }}"
+    },
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ .Params.recensionevoto }}"
+    },
+    {{ else }}
+    "@type": "Article",
+    {{ end }}
+     "mainEntityOfPage": {
+       "@type": "Blog",
+       "id": "https://thatrocketx.com"
+    },
+    "headline": "{{ .Title }}",
+    {{ if (isset .Params "date") }}"datePublished": "{{ .Date }}",{{end}}
+    {{ if (isset .Params "lastmod") }}"dateModified": "{{ .Lastmod }}", {{ end }}
+    {{ if (isset .Params "description") }}"description": "{{ .Params.description }}",{{end}}
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}{{ if (isset .Params "immagine") }}{{ .Params.immagine }}{{else}}img/og/og-home-v2.jpg{{end}}"
+    },
+    {{ if (isset .Params "autore") }}"author": {
+      "@type": "Person",
+      "name": "{{ .Params.autore }}"
+    },{{end}}
+    "publisher": {
+      "@type": "Organization",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}trx-amp.png",
+        "width": "118",
+        "height": "60"
+      },
+      "name": "that Rocket X",
+      "sameAs": [ "https://facebook.com/thatrocketx",
+       "https://twitter.com/thatrocketx",
+      "https://t.me/thatrocketx",
+      "https://flipboard.com/@thatrocketx",
+      "https://pinterest.com/thatrocketx"
+    ]
+    }{{ if (isset .Params "content") }},
+    "articleBody" "{{ .Content | plainify | safeHTML }}"{{end}}
+  }
+  {{ end }}
+  </script>
+</head>
+
+<body>
+  <nav class="banner">
+    <a href="/{{ .Language.Lang }}">
+      <div class="contenitore-logo">
+        <div class="logo-svg"><span class="nascosto">that Rocket X</span></div>
+      </div>
+    </a>
+  </nav>
+
+  <article class="articoli">
+    <header>
+      <div class="banner-articolo">
+        <h1 class="titolo" itemprop="title">{{ .Title }}</h1>
+        <h2 class="descrizione" itemprop="subheading">{{if (isset .Params "sottotitolo")}} {{.Params.sottotitolo}} {{else}}{{ .Description }} {{end}}</h2>
+        <div class="no-amp"><a href="{{ .RelPermalink }}"> {{ T "no_amp"}} </a></div><br>
+        <div class="fixed-container">
+          <amp-img layout="fill" src="{{ if (isset .Params "immagineprincipale") }}{{ .Params.immagineprincipale }}{{ else }}{{ .Params.immagine }}{{ end }}" alt="{{ .Params.descrizioneimg }}">
+          </amp-img>
+        </div>
+      </div>
+      <div class="info articolo">
+        {{ if (isset .Params "autore") }}<span itemprop="author" class="autore">{{ .Params.autore }}</span>
+        - {{end}}{{ if (isset .Params "date") }}<time class="data" itemprop="pubdate" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{- .Date.Format "2/1/2006" -}}</time> {{ if (isset .Params "stelle") }} -{{end}} <span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> {{ end }}
+      </div>
+    </header>
+    <main class="info articolo">
+      {{ .Content }}
+      <br>
+      <a href="{{ .RelPermalink }}#c"> {{ T "vaiaicommenti" }}</a><br><br>
+
+      {{ if (isset .Params "prodottoamazon") }} {{- partial "compra.html" . -}} {{ end }}
+    </main>
+  </article>
+  {{- partial "pubblicita.html" . -}}
+</body>
+
+</html>

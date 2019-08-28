@@ -1,0 +1,117 @@
+# italiano
+# cookie per analizzare il traffico e 
+- id: salta_contenuto
+  translation: "Salta al contenuto"
+- id: no_amp
+  translation: "Passa alla versione non accelerata"
+- id: cookie
+  translation: "🍪 Utilizziamo cookie di terze parti per offrire il servizio commenti."
+- id: leggi-cookie
+  translation: "Leggi la policy sui cookie."
+- id: ok-cookie
+  translation: "Ho capito"
+- id: errore404
+  translation: "Errore 404: Pagina non trovata."
+- id: suggerimento404
+  translation: "Non riusciamo a trovare la tua pagina. Vuoi cercarla?"
+- id: cerca404
+  translation: "Cerca sul sito"
+
+- id: tema1
+  translation: "Recensioni"
+- id: tema2
+  translation: "Guide"
+- id: tema3
+  translation: "Racconti di viaggio"
+- id: tema4
+  translation: "Offerte e sconti"
+- id: tema5
+  translation: "Cibo"
+- id: tema6
+  translation: "Destinazioni"
+- id: tema1_l
+  translation: "/categories/recensioni"
+- id: tema2_l
+  translation: "/categories/guide"
+- id: tema3_l
+  translation: "/categories/racconti-di-viaggio"
+- id: tema4_l
+  translation: "/categories/offerte-viaggi"
+- id: tema5_l
+  translation: "/categories/cibo"
+- id: tema6_l
+  translation: "/countries"
+
+- id: ultimi-articoli
+  translation: "Ultimi Articoli"
+- id: evidenza
+  translation: "In evidenza"
+- id: scritto_da
+  translation: "Di"
+- id: il
+  translation: "il"
+- id: scadenza
+  translation: "SCADENZA"
+- id: leggi-altro
+  translation: "Continua a leggere →"
+- id: tempo_lettura
+  translation: "Tempo di lettura"
+- id: autoreinf
+  translation: "Autore"
+- id: datainf
+  translation: "Pubblicato"
+- id: lett_min
+  translation: "minuto"
+- id: lett_mins
+  translation: "minuti"
+- id: ultima-modifica
+  translation: "Aggiornato al"
+
+- id: vaiaicommenti
+  translation: "VAI AI COMMENTI"
+- id: comprasuamazon
+  translation: "Vedi i prezzi su Amazon.it"
+- id: donazione
+  translation: "Donazione"
+- id: donazione_desc
+  translation: "Aiutaci a supportare il nostro progetto."
+- id: pubblicita
+  translation: "Pubblicità"
+- id: pubblicita_desc
+  translation: "Questa pubblicità ci aiuta a supportare il nostro progetto."
+- id: pubblicita_img
+  translation: "/amazon-ad.png"
+- id: pubblicita_url
+  translation: "https://amazon.it?tag="
+
+- id: esortazionecommenti
+  translation: "Hai domande, vuoi consigli o vuoi semplicemente dire la tua?"
+- id: condividi
+  translation: "Condividi questo articolo"
+- id: pocket
+  translation: "Aggiungi a Pocket"
+- id: vedi-anche
+  translation: "Vedi anche"
+- id: commenti
+  translation: "Commenti"
+- id: commentiinfo
+  translation: "Vuoi scrivere un commento SENZA registrarti? Clicca \"Preferisco commentare come ospite\", inserisci una vecchia mail o una inesistente e inizia la discussione!"
+
+- id: ricerca
+  translation: "Ricerca"
+- id: risultati-ricerca
+  translation: "Risultati della ricerca:"
+- id: ricerca-nojs
+  translation: "Ciao, la ricerca non funziona senza JavaScript... Se vuoi cercare un post, attiva JavaScript su questo browser oppure vai sul tuo motore di ricerca preferito e aggiungi site:thatrocketx.com alla fine di cosa vuoi cercare!"
+
+
+- id: copy
+  translation: "Alcuni diritti riservati"
+- id: slogan
+  translation: "Il blog che rispetta la tua privacy"
+- id: tuttitags
+  translation: "Vedi tutti i tag"
+- id: tuttecategorie
+  translation: "Vedi tutte le categorie"
+- id: tornasu
+  translation: "Torna su"

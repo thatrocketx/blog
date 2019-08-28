@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} - {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <webfeeds:logo>{{ .Site.BaseURL }}trx-feed.svg</webfeeds:logo>
+    <webfeeds:accentColor>DD3D57</webfeeds:accentColor>
+    <webfeeds:related layout="card" target="browser"/>
+    <webfeeds:analytics id="UA-146359230-1" engine="GoogleAnalytics"/>
+    <category>Travel</category> 
+    <image>
+    <url>{{ .Site.BaseURL }}favicon-32x32.png</url>
+    <title>that Rocket X</title>
+    <link>{{ .Site.BaseURL }}</link>
+    </image>
+    <link>{{ .Permalink }}</link>
+    <description>{{.Params.description}}</description>
+    <language>{{ .Language.Lang }}</language>{{ with .Site.Copyright }}
+    <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{ with .OutputFormats.Get "RSS" }}
+        {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{ end }}
+    {{ range .Pages }}
+    {{ if not (isset .Params "nolist" ) }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ .Content | html }}<br /><h2><a href="{{ .Permalink }}#c">{{ T "vaiaicommenti"}}</a></h2></description>
+      <webfeeds:cover image="{{ .Site.BaseURL }}{{.Params.immagine}}" />
+      <enclosure url="{{ .Site.BaseURL }}{{.Params.immagine}}" type="image/jpg" />
+      <category> {{ if (isset .Params "categories") }}{{range first 1 .Params.categories}}{{ . }}{{end}}{{ end }} </category>
+      <comments>{{ .Permalink }}#c</comments> 
+    </item>
+    {{end}}
+    {{ end }}
+  </channel>
+</rss>

@@ -1,0 +1,118 @@
+# inglese
+# first-party cookies to analyse our traffic and 
+- id: salta_contenuto
+  translation: "Skip to content"
+- id: linguasuff
+  translation: "EN"
+- id: no_amp
+  translation: "Go to no-AMP version"
+- id: cookie
+  translation: "🍪 We use third party cookies to offer comments."
+- id: leggi-cookie
+  translation: "Read our cookie policy"
+- id: ok-cookie
+  translation: "I understand"
+- id: errore404
+  translation: "Error 404: Page not found."
+- id: suggerimento404
+  translation: "We can't find your page, do you want to search for it?"
+- id: cerca404
+  translation: "Search on the website"
+
+- id: tema1
+  translation: "Reviews"
+- id: tema2
+  translation: "Guides"
+- id: tema3
+  translation: "Travel Experiences"
+- id: tema4
+  translation: "Deals"
+- id: tema5
+  translation: "Food Discoveries"
+- id: tema6
+  translation: "Destinations"
+- id: tema1_l
+  translation: "/en/categories/reviews"
+- id: tema2_l
+  translation: "/en/categories/guides"
+- id: tema3_l
+  translation: "/en/categories/experiences"
+- id: tema4_l
+  translation: "/en/categories/deals"
+- id: tema5_l
+  translation: "/en/categories/food"
+- id: tema6_l
+  translation: "/en/countries/"
+
+- id: ultimi-articoli
+  translation: "Recent Articles"
+- id: evidenza
+  translation: "Featured"
+- id: scritto_da
+  translation: "By"
+- id: il
+  translation: "on"
+- id: scadenza
+  translation: "EXPIRATION"
+- id: leggi-altro
+  translation: "Read more →"
+- id: tempo_lettura
+  translation: "Reading time"
+- id: autoreinf
+  translation: "Author"
+- id: datainf
+  translation: "Published"
+- id: lett_min
+  translation: "minute"
+- id: lett_mins
+  translation: "minutes"
+- id: ultima-modifica
+  translation: "Updated on"
+
+- id: vaiaicommenti
+  translation: "SEE COMMENTS"
+- id: comprasuamazon
+  translation: "Check prices on Amazon.com"
+- id: donazione
+  translation: "Donation"
+- id: donazione_desc
+  translation: "Help us by supporting our project"
+- id: pubblicita
+  translation: "Advertisement"
+- id: pubblicita_desc
+  translation: "This advertisement helps us by supporting our project"
+- id: pubblicita_img
+  translation: "/amazon-ad.png"
+- id: pubblicita_url
+  translation: "https://amazon.com?tag="
+
+- id: esortazionecommenti
+  translation: "See what people think of this article or start the conversation!"
+- id: condividi
+  translation: "Share this article"
+- id: pocket
+  translation: "Add to Pocket"
+- id: vedi-anche
+  translation: "See also"
+- id: commenti
+  translation: "Comments"
+- id: commentiinfo
+  translation: "Bored of signing up to websites? You don't need to do it here! Check the \"Comment as a guest\" box and type an old email, we'd love to read your opinions!"
+
+- id: ricerca
+  translation: "Search"
+- id: risultati-ricerca
+  translation: "Search results:"
+- id: ricerca-nojs
+  translation: "Hi, this search engine requires JavaScript! If you want to search for something enable JavaScript on your browser. If you don't want to, go to your favourite search engine and type site:thatrocketx.com at the end of you search query!"
+
+- id: copy
+  translation: "Some rights reserved"
+- id: slogan
+  translation: "The Privacy-Friendly Blog"
+- id: tuttitags
+  translation: "See all tags"
+- id: tuttecategorie
+  translation: "See all categories"
+- id: tornasu
+  translation: "Go to the top"

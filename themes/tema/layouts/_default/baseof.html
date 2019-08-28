@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}">
+    {{- partial "head.html" . -}}
+    <body>
+      <a href="#content" class="nascosto">{{ T "salta_contenuto"}}</a>
+        {{- partial "header.html" . -}}
+        <div id="content" class="main-contenitore">
+        <section class="main">
+        {{- block "main" . }}{{- end }}
+        </section>
+      </div>
+        {{- partial "footer.html" . -}}
+
+        <script>
+
+      if ('serviceWorker' in navigator) {
+
+        console.log(" that");
+
+        navigator.serviceWorker.register('/service-worker.js')
+          .then(function(reg){
+
+            console.log("ROCKET X 🚀");
+
+         }).catch(function(err) {
+
+            console.log("err:", err)
+
+        });
+      }
+      </script>   
+      {{- block "footerfiles" .}} {{end}}
+    </body>
+</html>

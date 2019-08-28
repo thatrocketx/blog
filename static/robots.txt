@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /search
+Disallow: /404.html
+Disallow: /en/search
+Disallow: /404.html
+
+User-agent: ia_archiver
+Disallow: /
+
+Sitemap: http://thatrocketx.com/sitemap.xml

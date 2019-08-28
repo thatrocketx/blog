@@ -1,0 +1,23 @@
+{{ $readingtime := .ReadingTime }}
+{{ $readingtimeone := 1 }}
+<div class="articoli lista" aria-describedby="sommario">
+  <a href="{{ .URL }}">
+ <div class="contenitore-immagine">
+{{ if and (isset .Params "videoself") }}
+<video src="{{ .Params.videoseo }}" autoplay loop muted playsinline class="video-lista" poster="{{ .Params.immagine }}"></video>
+{{else}}
+{{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="" aria-describedby="sommario">{{end}}
+{{end}}
+</div>
+<div class="info lista">
+ {{ if (isset .Params "countries") }} <span class="paese" data-paese="{{ .Params.countries }}"> {{ .Params.countries }} </span> {{ end }}
+ {{ if (isset .Params "categories") }}{{range .Params.categories}}<span class="categoria">{{ . }}</span> {{end}}{{ end }}
+ <h1 class="titolo-lista">{{ .Title }}</h1>
+ <div class="pubblicato-lista">{{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "2/1/2006" -}}</time> -
+ <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="nascosto">{{ T "tempo_lettura"}}:</span></span>
+  {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}} {{end}}</div>
+ {{ if (isset .Params "mostrascadenza") }}<div class="scadenza">{{ T "scadenza" }}: <time datetime="{{ .ExpiryDate.Format "2006-01-02T15:04:05Z07:00" }}">{{- .ExpiryDate.Format "2/1/2006" -}}</time></div>{{end}}
+ <div id="sommario" class="sommario">{{ if (isset .Params "sottotitolo")}} {{ .Params.description }} {{ else }} {{ .Summary | plainify | safeHTML }}{{if .Truncated }}<span class="leggi-altro"> {{ T "leggi-altro"}}</span>{{end}}{{ end }}</div>
+</div>
+</a>
+</div>

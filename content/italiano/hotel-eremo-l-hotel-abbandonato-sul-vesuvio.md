@@ -41,6 +41,8 @@ publishdate: '2019-08-28T09:00:15+00:00'
 expirydate: ' '
 lastmod: '2019-08-28T09:00:15+00:00'
 ---
+Vicino Napoli sorge, sulla strada che porta verso il Vesuvio, un hotel.​
+
 Ciò che rende quest' hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l' _(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un' ottima presenza "_turistica_" per gli amanti dei luoghi abbandonati. 
 
 Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci siamo ritornati più volte) per vederlo dal vivo e soddisfare quella strana voglia di **esplorare** i **luoghi più nascosti**, poco frequentati dai turisti (in inglese direbbero _urban exploration_ {{< nota "Andare in posti in cui non si dovrebbe. (Urban Dictionary)" >}} ), per dare un' occhiata in giro e tornare per qualche ora indietro nel tempo e provare ad immaginare come era in passato, prima che i soggiorni nell' hotel cessassero e l' hotel venisse abbandonato.​
@@ -71,36 +73,29 @@ L' hotel è ormai completamente **distrutto** a causa dei vari **vandalismi** ed
 
 {{< img "/img/articoli/eremo-interno-2.jpg" "Interno dell' Hotel Eremo" >}}
 
-
 Con quel poco che è rimasto (le mura e qualche pezzo di mobilia troppo vecchia per essere usata), però, è possibile fare un resoconto e **immaginare un po'** come potesse essere **la vita degli** ospitanti e degli **ospitati** in questo hotel, che possiamo dedurre sia stato un **hotel prestigioso** a suo tempo.​
 
 {{< img "/img/articoli/eremo-non-scendete.jpg" "Uno dei graffiti nell' hotel" >}}
-
 
 Proseguendo dritto, percorrendo lo spazio tra le colonne andando verso la luce, è possibile affacciarsi dall' **enorme terrazza**, che ci dona una meravigliosa **vista di Napoli** quasi completa: dal **lungomare** alle zone più periferiche e, per qualche minuto, quasi si dimentica dove ci si trova. 
 
 {{< img "/img/articoli/eremo-vista-terrazza.jpg" "Vista dalla terrazza sulla città di Napoli." >}}
 
-
 Da qui è possibile rendersi conto della grandezza dell' hotel: l' ampia area di ingresso, la distensione dell' edificio a sinistra che era probabilmente (su nostra supposizione) il vecchio ristorante (ricordiamo che l' **Eremo** era pubblicizzato come **Hotel - Ristorante**).​
 
 {{< img "/img/articoli/eremo-terrazza.jpg" "Parte della terrazza." >}}
-
 
 Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l' ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattato una da una delle finestre dell' hotel. Che dire, mette abbastanza inquietudine. In passato in questo luogo vi erano anche molti segni satanici, che sembrano essere stati cancellati.​
 
 {{< img "/img/articoli/eremo-statua-gesu.jpg" "Foto della statua di Gesù nello spiazzato dell' hotel." >}}
 
-
 Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali. 
 
 {{< img "/img/articoli/eremo-foto-stanze.jpg" "Foto di una camera distrutta." >}}
 
-
 Se si prosegue verso sinistra o verso destra, invece si trovano **due terrazze** che donano una vista diversa da quella principale, in particolare la prolungano. Piccola curiosità per i fan di **Liberato** (l' artista musicale): una delle scene del video della canzone [_Me staje appennenn' amò_](https://www.youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
 
 {{< img "/img/articoli/eremo-vista-balcone.jpg" "Vista dal balcone al piano superiore." >}}
-
 
 Vi è ancora un altro piano, ma data la fatiscenza dell' edificio abbiamo deciso di non visitarlo questa volta. Uno di noi l' ha perlustrato e **sconsiglia di visitarlo** per la sua forte esposizione alle intemperie. A quanto pare sembra essere un **vecchio deposito**, quindi nulla di che.​
 

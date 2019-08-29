@@ -4,7 +4,7 @@
   <a href="{{ .URL }}">
  <div class="contenitore-immagine">
 {{ if and (isset .Params "videoself") }}
-<video src="{{ .Params.videoseo }}" autoplay loop muted playsinline class="video-lista" poster="{{ .Params.immagine }}"></video>
+<video autoplay loop muted playsinline class="video-lista" poster="{{ .Params.immagine }}" src="{{ .Params.videoseo }}"></video>
 {{else}}
 {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="" aria-describedby="sommario">{{end}}
 {{end}}

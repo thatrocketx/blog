@@ -87,7 +87,7 @@ Più in basso trovate una guida su [**dove acquistare i biglietti**](#biglietti)
 
 {{< titolo title="🚍 BUS" link="BUS" >}}
 
-Sui bus **riportiamo semplicemente le informazioni** dal [sito di Berlino](https://www.berlin.de/it/). **Non abbiamo provato il viaggio in autobus** e per questo motivo non possiamo nè consigliarlo nè fare il contrario. Lasciamo a voi la scelta di prenderlo in considerazione o meno (considerate che **non arrivano in centro città** e che probabilmente dovrete usare **ulteriori treni o bus**). **Noi abbiamo però viaggiato con il _Flixbus_** durante il nostro soggiorno a Berlino per andare a Dresda (diario di viaggio in arrivo), il quale ha fatto una sosta anche all' aeroporto. Vi possiamo garantire che **la strada** da Alexanderplatz all' aeroporto **non è per niente breve** (o almeno così ci è sembrata).
+Sui bus **riportiamo semplicemente le informazioni** dal [sito di Berlino](https://www.berlin.de/it/). **Non abbiamo provato il viaggio in autobus** e per questo motivo non possiamo nè consigliarlo nè fare il contrario. Lasciamo a voi la scelta di prenderlo in considerazione o meno (considerate che i bus che partono dall' aeroporto **non arrivano in centro città** e che probabilmente dovrete usare **ulteriori treni o bus**). **Noi abbiamo però viaggiato con il _Flixbus_** durante il nostro soggiorno a Berlino per andare a Dresda (diario di viaggio in arrivo), il quale ha fatto una sosta anche all' aeroporto. Vi possiamo garantire che **la strada** da Alexanderplatz all' aeroporto **non è per niente breve** (o almeno questa è stata la nostra sensazione).
 
 ### Bus e fermate
 

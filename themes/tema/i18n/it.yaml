@@ -64,6 +64,8 @@
   translation: "minuto"
 - id: lett_mins
   translation: "minuti"
+- id: mappa-tel
+  translation: "Apri nell' app mappe (cellulare)"
 - id: ultima-modifica
   translation: "Aggiornato al"
 

@@ -134,7 +134,7 @@ Sebbene inizialmente possa sembrare complicato, arrivare alla stazione dell' aer
 
 <small> Foto di that Rocket X (Licenza CC BY 4.0). </small>
 
-Una volta usciti dall' aeroporto percorrente la lunga pensilina bianca alla vostra sinistra, ad un certo punto, sempre alla vostra sinistra, troverete delle tende blu del ristorante _Augustiner Am Flughafen_, se è così proseguite sempre dritto, siete sulla pensilina giusta. Troverete un edificio, una volta entrati sarete all' interno della stazione.
+Una volta usciti dall' aeroporto percorrente la lunga pensilina bianca alla vostra sinistra, ad un certo punto, sempre alla vostra sinistra, troverete delle tende blu del ristorante _Augustiner Am Flughafen_, se è così proseguite sempre dritto, siete sotto la pensilina giusta. Troverete un edificio, una volta entrati sarete all' interno della stazione.
 
 {{< img "Stazione dell' aeroporto Berlino Schönefeld. Persone percorrono la galleria verso l' uscita." "/img/articoli/stazione-sxf_compressed.jpg">}}
 

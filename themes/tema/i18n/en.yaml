@@ -66,6 +66,9 @@
   translation: "minute"
 - id: lett_mins
   translation: "minutes"
+- id: mappa-tel
+  translation: "Open in your maps app (mobile phones)"
+
 - id: ultima-modifica
   translation: "Updated on"
 

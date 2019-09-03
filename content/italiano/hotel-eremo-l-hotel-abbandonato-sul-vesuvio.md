@@ -99,7 +99,7 @@ Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanz
 {{< img "Foto di una camera distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}\
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
 
-Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due terrazze laterali** che donano una vista diversa da quella principale, focalizzandosi di più sul Vesuvio. Piccola curiosità per i fan di **Liberato** (l' artista musicale): una delle scene del video della canzone [_Me staje appennenn' amò_](https://www.youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
+Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due terrazze laterali** che donano una vista diversa da quella principale, focalizzandosi di più sul Vesuvio. Piccola curiosità per i fan di **Liberato** (l' artista musicale): una delle scene del video della canzone [_Me staje appennenn' amò_](https://youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
 
 {{< img "Vista dal balcone al piano superiore." "/img/articoli/eremo-vista-balcone.jpg" >}}\
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​

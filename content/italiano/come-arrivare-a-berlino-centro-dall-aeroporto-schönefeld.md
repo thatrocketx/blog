@@ -107,9 +107,9 @@ I bus partono dall' uscita dell' aeroporto o nel parcheggio sulla destra.
 
 {{< titolo title="🚇 Treno S-BAHN" link="SBAHN" >}}
 
-Durante il nostro viaggio prendemmo questo treno "_per sbaglio_" mentre ci dirigevamo verso l' aeroporto per ritornare a casa e notammo una cosa: che le stazioni erano molte di più rispetto all' andata. La metropolitana dell' S-Bahn ha appunto questo problema. Il viaggio risulta un po' più lento a causa delle fermate aggiuntive, ma il viaggio risulta comunque piacevole grazie al paesaggio di Berlino (è stato un po' come un lento saluto per noi).
+Durante il nostro viaggio prendemmo questo treno "_per sbaglio_" mentre ci dirigevamo verso l' aeroporto per ritornare a casa e notammo una cosa: che le stazioni erano molte di più rispetto all' andata. La metropolitana dell' S-Bahn ha appunto questo problema. Il viaggio è un po' più lento a causa delle fermate aggiuntive, ma risulta comunque piacevole grazie al paesaggio di Berlino (è stato un po' come un lento saluto per noi).
 
-Andando al sodo, è possibile prendere la linea **S9** della metropolitana dalla stazione (direzione **Spandau**), nei primi binari della stazione, **seguendo le frecce**. A differenza dei regionali, grazie a questa linea è possibile entrare maggiormente **nel centro città** grazie alle stazioni aggiuntive, ma questo comporta un viaggio più lento che viene compensato dal fatto che i treni della linea **S9** partono **ogni 20 minuti**.
+È possibile prendere la linea **S9** della metropolitana dalla stazione dei treni (treno direzione **Spandau**), nei primi binari della stazione, **seguendo le frecce**. A differenza dei regionali, con questa linea è possibile entrare maggiormente **nel centro città** grazie alle stazioni aggiuntive, ma questo comporta un viaggio più lento che viene compensato dal fatto che i treni della linea **S9** partono **ogni 20 minuti**.
 Qui sotto riportiamo tutte le stazioni nelle quali si ferma la linea **S9**.
 
 ### Fermate

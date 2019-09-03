@@ -1,13 +1,19 @@
 <div>
 <div class="mappa-contenitore">
-  <div class="mappa-tasto gmaps">
+  <a href="{{.Get 0}}">
+    <div class="mappa-tasto gmaps">
     Google Maps
-  </div>
+    </div>
+  </a>
+  <a href="{{.Get 1}}">
   <div class="mappa-tasto osm">
     OpenStreetMap
   </div>
+  </a>
+  <a href="{{.Get 2}}">
   <div class="mappa-tasto geo">
     {{ T "mappa-tel" }}
   </div>
+  </a>
 </div>
 </div>

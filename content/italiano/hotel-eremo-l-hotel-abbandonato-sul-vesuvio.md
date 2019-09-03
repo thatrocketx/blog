@@ -71,37 +71,37 @@ All' entrata dell' hotel manca di qualsiasi forma di chiusura di sicurezza: il v
 {{< titolo title="L' interno" link="interno" >}}​
 L' hotel è ormai completamente **distrutto** a causa dei vari **vandalismi** ed è lasciato in stato **di totale abbandono** con **spazzatura**, oggetti che forse sarebbe meglio non toccare e **graffiti** su graffiti che variano da quelli artistici e simpatici a quelli decisamente fuori luogo, ma che donano comunque un tocco in più all' intero complesso. Tutto ciò che poteva essere rubato è stato rubato, tutto ciò che poteva essere distrutto è stato distrutto. Un vero peccato.​
 
-{{< img "Interno dell' Hotel Eremo" "/img/articoli/eremo-interno-2.jpg" >}}\
+{{< img "Interno dell' Hotel Eremo" "/img/articoli/eremo-interno-2.jpg" >}}
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
 
 Con quel poco che è rimasto (le mura e qualche pezzo di mobilia troppo vecchia per essere usata), però, è possibile fare un resoconto e **immaginare un po'** come potesse essere questo hotel, e possiamo dedurre che a suo tempo sia stato un **hotel di tutto prestigio**.​
 
-{{< img "Uno dei graffiti nell' hotel" "/img/articoli/eremo-non-scendere.jpg" >}}\
+{{< img "Uno dei graffiti nell' hotel" "/img/articoli/eremo-non-scendere.jpg" >}}
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
 
 Proseguendo dritto, percorrendo lo spazio tra le colonne e dirigendosi verso la luce, è possibile affacciarsi dall' **enorme terrazza**, che ci dona una meravigliosa **vista su Napoli**: dal **lungomare** alle zone più periferiche e, per qualche minuto, quasi si dimentica dove ci si trova. 
 
-{{< img "Vista dalla terrazza sulla città di Napoli." "/img/articoli/eremo-vista-terrazza.jpg" >}}\
+{{< img "Vista dalla terrazza sulla città di Napoli." "/img/articoli/eremo-vista-terrazza.jpg" >}}
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
 
 Da qui è possibile rendersi conto di quanto fosse grande l' hotel: si può notare l' ampia area di ingresso e la distensione dell' edificio a sinistra che era probabilmente (_N.B. su nostra supposizione_) il vecchio ristorante (ricordiamo che l' **Eremo** era pubblicizzato come **Hotel - Ristorante**).​
 
-{{< img "Parte della terrazza." "/img/articoli/eremo-terrazza.jpg>}}\
+{{< img "Parte della terrazza." "/img/articoli/eremo-terrazza.jpg" >}}
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
 
 Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l' ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattata una da una delle finestre dell' hotel. Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti segni satanici, che ora sembrano essere stati cancellati o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​
 
-{{< img "Foto della statua di Gesù nello spiazzato dell' hotel." "/img/articoli/eremo-statua-gesu.jpg" >}}\
+{{< img "Foto della statua di Gesù nello spiazzato dell' hotel." "/img/articoli/eremo-statua-gesu.jpg" >}}
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>
 
 Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali. 
 
-{{< img "Foto di una camera distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}\
+{{< img "Foto di una camera distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
 
 Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due terrazze laterali** che donano una vista diversa da quella principale, focalizzandosi di più sul Vesuvio. Piccola curiosità per i fan di **Liberato** (l' artista musicale): una delle scene del video della canzone [_Me staje appennenn' amò_](https://youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
 
-{{< img "Vista dal balcone al piano superiore." "/img/articoli/eremo-vista-balcone.jpg" >}}\
+{{< img "Vista dal balcone al piano superiore." "/img/articoli/eremo-vista-balcone.jpg" >}}
 <small>Foto di that Rocket X (Licenza CC BY 4.0).</small>​
 
 Vi è ancora un altro piano, ma che data la fatiscenza dell' edificio abbiamo deciso di non visitare. Uno di noi l' ha perlustrato e **sconsiglia di visitarlo** per la sua forte esposizione alle intemperie. A quanto pare sembra essere un **vecchio deposito**.​

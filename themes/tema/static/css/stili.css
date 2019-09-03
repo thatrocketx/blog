@@ -1128,6 +1128,31 @@ article p:last-child:after {
   box-shadow: 0 3px 10px 0 #FFC7D2;
 }
 
+.mappa-contenitore {
+  max-width: 500px; 
+  min-width: 200px; 
+  text-align: center; 
+  color: #FFF; 
+  margin: auto;
+}
+
+.mappa-tasto {
+  margin-bottom: 2px; 
+  padding: 5px;
+}
+
+.mappa-tasto .gmaps{
+  background: #1EA362;
+}
+
+.mappa-tasto .osm {
+  background: #7ebc6f;
+}
+
+.mappa-tasto .geo {
+  background: #f57c00;
+}
+
 .ultimamodifica {
   color: #d4d3d3;
   font-size: .9em

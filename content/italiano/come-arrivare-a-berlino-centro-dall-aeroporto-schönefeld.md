@@ -42,7 +42,7 @@ lastmod: '2019-08-27T11:31:15+00:00'
 
 Se viaggiate con una compagnia aerea _low cost_ come ad esempio <span style="color: #f60;">easyJet</span> o <span style="color: #073590">RYANAIR</span> è molto probabile che **il vostro aeroporto** di destinazione **sarà** quello di **Berlino Schönefeld** che si trova a 18 km di distanza dal centro città.​
 
-{{< img "/img/articoli/distanza-sxf-berlino.png" "Mappa mostra la distanza approsimativa dell' aeroporto di Berlino Schönefeld dal centro di Berlino. La distanza è di circa 18 chilometri." >}}
+{{< img "Mappa mostra la distanza approsimativa dell' aeroporto di Berlino Schönefeld dal centro di Berlino. La distanza è di circa 18 chilometri." "/img/articoli/distanza-sxf-berlino.png" >}}
 
 ​Per i viaggiatori instancabili, si tratta di un **3-4 ore di cammino** (secondo Google Maps) alla scoperta della Berlino più periferica. Per chi invece non se la sente, troverà conforto in questa guida nella quale vi spiegheremo come arrivare dall' aeroporto di Berlino Schönefeld a **Berlino Centro** utilizzando i mezzi pubblici a disposizione e vi descriveremo la nostra esperienza con il trasporto ferroviario di Berlino.​
 

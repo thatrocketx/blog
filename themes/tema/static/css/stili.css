@@ -762,22 +762,6 @@ color: #000;
   fill: #666
 }
 
-.articoli.lista a:hover>.info.lista {
-  -webkit-transform: translatey(-10px);
-  transform: translatey(-10px);
-  -webkit-transition: all .5s ease-in-out;
-  transition: all .5s ease-in-out;
-}
-
-@media (pointer: coarse) {
-  .articoli.lista:hover>.info.lista {
-    -webkit-transform: none;
-    transform: none;
-    -webkit-transition: none;
-    transition: none;
-  }
-}
-
 .pubblicato-lista {
   color: #666666
 }

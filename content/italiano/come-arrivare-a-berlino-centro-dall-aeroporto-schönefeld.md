@@ -31,7 +31,7 @@ slug: schonefeld-berlino-centro
 immagineprincipale: /img/articoli/schonefeld-into_compressed.jpg
 descrizioneimg: >-
   Scorcio dell' entrata dell' aeroporto. In alto si legge il nome dell'
-  aeroporto: "Berlin Schönefeld". Foto di that Rocket X (Licenza CC BY 4.0).
+  aeroporto: "Berlin Schönefeld". Foto di that Rocket X.
 publishdate: '2019-08-21T15:33:15+00:00'
 expirydate: ' '
 lastmod: '2019-08-27T11:31:15+00:00'
@@ -101,7 +101,7 @@ Sui bus **riportiamo semplicemente le informazioni** dal [sito di Berlino](https
 
 {{< img "Stazione bus dell' aeroporto di Berlino Schönefeld. Mostra due autobus parcheggiati: uno bianco e un Flixbus." "/img/articoli/bus_compressed.jpg" >}}
 
-<small> Foto di that Rocket X (Licenza CC BY 4.0).</small>
+<small> Foto di that Rocket X.</small>
 
 I bus partono dall' uscita dell' aeroporto o nel parcheggio sulla destra.
 
@@ -132,13 +132,13 @@ Sebbene inizialmente possa sembrare complicato, arrivare alla stazione dell' aer
 
 {{< img "Pensilina con insegna che indica la via per la stazione dell' aeroporto di Berlino Schönefeld" "/img/articoli/pensilina1_compressed.jpg" >}}
 
-<small> Foto di that Rocket X (Licenza CC BY 4.0). </small>
+<small> Foto di that Rocket X. </small>
 
 Una volta usciti dall' aeroporto percorrente la lunga pensilina bianca alla vostra sinistra, ad un certo punto, sempre alla vostra sinistra, troverete delle tende blu del ristorante _Augustiner Am Flughafen_, se è così proseguite sempre dritto, siete sotto la pensilina giusta. Troverete un edificio, una volta entrati sarete all' interno della stazione.
 
 {{< img "Stazione dell' aeroporto Berlino Schönefeld. Persone percorrono la galleria verso l' uscita." "/img/articoli/stazione-sxf_compressed.jpg">}}
 
-<small> Foto di that Rocket X (Licenza CC BY 4.0).</small>
+<small> Foto di that Rocket X.</small>
 
 {{< titolo title="🎫 Dove acquistare i biglietti dei treni" link="biglietti" >}}
 

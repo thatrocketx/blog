@@ -40,7 +40,7 @@ Berlino è una città molto moderna, ma dalla quale è possibile ricavare la sua
 
 Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista dei posti che abbiamo maggiormente apprezzato** e di quelli che **vale la pena visitare**. Daremo inotre dei consigli basati sulla **nostra esperienza** in modo da darvi un **resoconto completo per il vostro viaggio**.
 
-## Indice
+## 👉 Indice
 
 * [Come funzionano i **trasporti pubblici a Berlino**](#trasporti)
 * [Cosa visitare **gratis a Berlino**](#cosa-visitare-gratis)
@@ -48,7 +48,7 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 * [Cosa vedere a Berlino (_a pagamento_)](#cosa-vedere-a-pagamento)
 * [_EXTRA_: **Cose insolite da visitare** a Berlino](#cose-insolite-da-visitare)
 
-{{< titolo title="Trasporti pubblici a Berlino" link="trasporti" >}}
+{{< titolo title="🚏 Trasporti pubblici a Berlino" link="trasporti" >}}
 
 **Il trasporto** nella città di Berlino **funziona a zone**: ogni zona ha un **prezzo differente**. [Qui trovate una mappa delle varie zone di Berlino](http://www.bvg.de/index.php?section=downloads&download=653). 
 
@@ -178,7 +178,7 @@ Se atterrate invece al Tegel, allora qui trovate la [card valida solo per la zon
 
 Se amate godervi la città a piedi, come noi, potete anche farne a meno (Berlino è facilmente percorribile a piedi), ma **se volete evitare tragitti lunghi** e volete soltanto vedere i vari monumenti allora vi consiglio di darci un' occhiata.
 
-{{< titolo title="Cosa vedere gratis a Berlino" link="cosa-visitare-gratis" >}}
+{{< titolo title="🆓 Cosa vedere gratis a Berlino" link="cosa-visitare-gratis" >}}
 
 **Berlino è piena di luoghi e musei gratuiti**, in questa sezione vi elencheremo **i luoghi che abbiamo visto e quelli che avremmo voluto vedere**; Berlino è una città ricca di cose da vedere e per questo non ci è stato possibile visitarli tutti, ma siamo riusciti almeno a vederne la maggior parte.
 
@@ -755,7 +755,7 @@ Si trova **a pochi passi da Potsdamer Platz**, andando verso Checkpoint Charlie,
   
 ---
 
-{{< titolo title="Cosa vedere solo su prenotazione" link="cosa-vedere-su-prenotazione" >}}
+{{< titolo title="✋ Cosa vedere solo su prenotazione" link="cosa-vedere-su-prenotazione" >}}
 
 Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di essere prenotate, qui ve le elenchiamo.
 
@@ -772,7 +772,7 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 ---
 
 
-{{< titolo title="Cosa vedere (a pagamento)" link="cosa-vedere-a-pagamento" >}}
+{{< titolo title="💶 Cosa vedere (a pagamento)" link="cosa-vedere-a-pagamento" >}}
 
 In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono piaciute di più. Abbiamo deciso di descrivere solo quelle in cui siamo andati perché non ci sentiamo di consigliare posti di cui non sappiamo nulla e farvi spendere dei soldi inutilmente, alla fine di questa sezione vi elencheremo il resto dei posti che potreste visitare in base a quelli che avevamo inizialmente deciso di vedere (ma che a causa del poco tempo e di qualche imprevisto non siamo riusciti a guardare).
 
@@ -1045,7 +1045,7 @@ Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sa
 
 - - -
 
-**Se non volete aspettare** il vostro turno potete anche acquistare il [fast ticket online, che vi darà l' accesso prioritario alla torre, su GetYouGuide](https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/). Il prezzo in questo caso è maggiorato e costa € 21.50.
+🏃 **Se non volete aspettare** il vostro turno potete anche acquistare il [fast ticket online, che vi darà l' accesso prioritario alla torre, su GetYouGuide](https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/). Il prezzo in questo caso è maggiorato e costa € 21.50.
 
 - - -
 
@@ -1059,7 +1059,7 @@ Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sa
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
   </div>
 
-#### Altri posti da visitare
+#### 👁️ Altri posti da visitare
 
 Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abbiamo visitato. Trovate dei link a siti per altre informazioni.
 
@@ -1096,7 +1096,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
   Un parco abbandonato sulla riva del fiume.
   [Sito web](https://gruen-berlin.de/en/spreepark) (inglese).
 
-{{< titolo title="EXTRA: Cose insolite da vedere a Berlino" link="cose-insolite-da-visitare" >}}
+{{< titolo title="🤨 EXTRA: Cose insolite da vedere a Berlino" link="cose-insolite-da-visitare" >}}
 
 Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potreste visitare.
 

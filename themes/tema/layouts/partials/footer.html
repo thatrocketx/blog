@@ -48,7 +48,7 @@ function lazyLoad(){
     var lazy = 
     document.getElementsByClassName('lazy');
 
-    for(var i=0; i<lazy.length; i++) {
+    for(var i=0; i<lazy.length+window.innerHeight; i++) {
         if(isInViewport(lazy[i])){
            lazy[i].src =
             lazy[i].getAttribute('data-src');
@@ -62,6 +62,32 @@ function registerListener(event, func) {
     } else {
         window.attachEvent('on' + event, func)
     }
+}
+	
+function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+        if(isInViewport(lazy[i])){
+            if (lazy[i].getAttribute('data-src')){
+                lazy[i].src = 
+                 lazy[i].getAttribute('data-src');
+
+                // remove the attribute
+                lazy[i].removeAttribute('data-src');
+            }
+        }
+    }
+
+    cleanLazy();
+}
+
+function cleanLazy(){
+    lazy = 
+        Array.prototype.filter.call(
+            lazy, 
+            function(l){ 
+                return l.getAttribute('data-src');
+             }
+        );
 }
 	registerListener('scroll', lazyLoad);
 </script>

@@ -28,68 +28,86 @@
 </div>
 </footer>
 <script>
-function isInViewport(el){
-    var rect = el.getBoundingClientRect();
+/* lazyload.js (c) Lorenzo Giuliani
+ * MIT License (http://www.opensource.org/licenses/mit-license.html)
+ *
+ * expects a list of:  
+ * `<img src="blank.gif" data-src="my_image.png" width="600" height="400" class="lazy">`
+ */
 
-return (
-    rect.bottom >= 0 && 
-    rect.right >= 0 && 
+!function(window){
+  var $q = function(q, res){
+        if (document.querySelectorAll) {
+          res = document.querySelectorAll(q);
+        } else {
+          var d=document
+            , a=d.styleSheets[0] || d.createStyleSheet();
+          a.addRule(q,'f:b');
+          for(var l=d.all,b=0,c=[],f=l.length;b<f;b++)
+            l[b].currentStyle.f && c.push(l[b]);
 
-    rect.top <= (
-    window.innerHeight || 
-    document.documentElement.clientHeight) && 
-
-    rect.left <= (
-    window.innerWidth || 
-    document.documentElement.clientWidth)
- );
-}
-function lazyLoad(){
-    var lazy = 
-    document.getElementsByClassName('lazy');
-
-    for(var i=0; i<lazy.length+window.innerHeight; i++) {
-        if(isInViewport(lazy[i])){
-           lazy[i].src =
-            lazy[i].getAttribute('data-src');
+          a.removeRule(0);
+          res = c;
         }
-    }
- }
+        return res;
+      }
+    , addEventListener = function(evt, fn){
+        window.addEventListener
+          ? this.addEventListener(evt, fn, false)
+          : (window.attachEvent)
+            ? this.attachEvent('on' + evt, fn)
+            : this['on' + evt] = fn;
+      }
+    , _has = function(obj, key) {
+        return Object.prototype.hasOwnProperty.call(obj, key);
+      }
+    ;
 
-function registerListener(event, func) {
-    if (window.addEventListener) {
-        window.addEventListener(event, func)
-    } else {
-        window.attachEvent('on' + event, func)
-    }
-}
-	
-function lazyLoad(){
-    for(var i=0; i<lazy.length; i++){
-        if(isInViewport(lazy[i])){
-            if (lazy[i].getAttribute('data-src')){
-                lazy[i].src = 
-                 lazy[i].getAttribute('data-src');
+  function loadImage (el, fn) {
+    var img = new Image()
+      , src = el.getAttribute('data-src');
+    img.onload = function() {
+      if (!! el.parent)
+        el.parent.replaceChild(img, el)
+      else
+        el.src = src;
 
-                // remove the attribute
-                lazy[i].removeAttribute('data-src');
+      fn? fn() : null;
+    }
+    img.src = src;
+  }
+
+  function elementInViewport(el) {
+    var rect = el.getBoundingClientRect()
+
+    return (
+       rect.top    >= 0
+    && rect.left   >= 0
+    && rect.top <= (window.innerHeight || document.documentElement.clientHeight)
+    )
+  }
+
+    var images = new Array()
+      , query = $q('img.lazy')
+      , processScroll = function(){
+          for (var i = 0; i < images.length; i++) {
+            if (elementInViewport(images[i])) {
+              loadImage(images[i], function () {
+                images.splice(i, i);
+              });
             }
+          };
         }
-    }
+      ;
+    // Array.prototype.slice.call is not callable under our lovely IE8 
+    for (var i = 0; i < query.length; i++) {
+      images.push(query[i]);
+    };
 
-    cleanLazy();
-}
+    processScroll();
+    addEventListener('scroll',processScroll);
 
-function cleanLazy(){
-    lazy = 
-        Array.prototype.filter.call(
-            lazy, 
-            function(l){ 
-                return l.getAttribute('data-src');
-             }
-        );
-}
-	registerListener('scroll', lazyLoad);
+}(this);
 </script>
 {{ if (isset .Params "js") }}<link rel="stylesheet" type="text/css" href="/css/animate.min.css" />
 <script async src="/js/wow.min.js"></script>

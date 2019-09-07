@@ -29,9 +29,7 @@ titoloSEO: 'Viaggio a Berlino: cosa vedere?'
 sottotitolo: Le nostre attrazioni preferite per la capitale tedesca.
 slug: cosa-vedere-a-berlino
 immagineprincipale: /img/articoli/20190812_193550_compressed.jpg
-descrizioneimg: >-
-  Vista sul Reichstag, il palazzo del Parlamento Tedesco. È una delle attrazioni
-  più popolari di Berlino. Foto di that Rocket X
+descrizioneimg: 'Vista sul Reichstag, il palazzo del Parlamento Tedesco. Foto di that Rocket X'
 fontawesome: false
 js: false
 publishdate: '2019-09-06T18:35:39+00:00'

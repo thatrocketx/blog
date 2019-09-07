@@ -1,1 +1,4 @@
-<img src="{{ .Get 1 }}" alt="{{ .Get 0 }}" loading="lazy"/> 
+<img src="/lazy.gif" alt="{{ .Get 0 }}" loading="lazy" data-src="{{ .Get 1 }}" class="lazy-load"/>
+<noscript>
+    <img src="{{ .Get 1 }}" alt="{{ .Get 0 }}" loading="lazy"/>
+</noscript>

@@ -753,15 +753,15 @@ Si trova **a pochi passi da Potsdamer Platz**, andando verso Checkpoint Charlie,
   </div>
   
   
-  
+---
 
 {{< titolo title="Cosa vedere solo su prenotazione" link="cosa-vedere-su-prenotazione" >}}
 
 Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di essere prenotate, qui ve le elenchiamo.
 
 * **Salita sulla cupola del Reichstag**
-  La prenotazione è **completamente gratuita** e va fatta online preferibilmente in largo anticipo. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/berlino-reichstag-prenotazione-cupola), oppure se ve la cavate bene con l' inglese, questo è il link al [sito del Bundestag sul quale va effettuata la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).
-  Se volete potete anche prenotare una visita guidata all' interno del Reichstag stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene prenotare il prima possibile (almeno due mesi prima).
+  La prenotazione è **completamente gratuita** e va fatta **online** preferibilmente in **largo anticipo**. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/berlino-reichstag-prenotazione-cupola), oppure se ve la cavate bene con l' inglese, questo è il link al [**sito del Bundestag sul quale va effettuata la prenotazione**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).
+  Se volete potete anche prenotare una **visita guidata all' interno del Reichstag** stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene **prenotare il prima possibile** (almeno due mesi prima).
 * **Spreepark**
   Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo **parco abbandonato** della Germania dell' Est.
   Vi consigliamo di **prenotare mesi prima**, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.
@@ -769,13 +769,18 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
   Il costo del biglietto è di **€ 5**.
   
   
-  
+---
+
 
 {{< titolo title="Cosa vedere (a pagamento)" link="cosa-vedere-a-pagamento" >}}
 
 In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono piaciute di più. Abbiamo deciso di descrivere solo quelle in cui siamo andati perché non ci sentiamo di consigliare posti di cui non sappiamo nulla e farvi spendere dei soldi inutilmente, alla fine di questa sezione vi elencheremo il resto dei posti che potreste visitare in base a quelli che avevamo inizialmente deciso di vedere (ma che a causa del poco tempo e di qualche imprevisto non siamo riusciti a guardare).
 
+---
+
 Tenete presente che gran parte di queste attrazioni sono incluse nel **pass di 3 giorni per i musei**, che per soli 30 € vi da diritto ad entrare **in 30 musei a vostra scelta per 3 giorni**. Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/).
+
+---
 
 {{< titolo2 title="Museo della storia tedesco (Deutsches Historisches Museum)" link="deutsches-historisches-museum" >}} 
 
@@ -836,7 +841,7 @@ Ci sono anche **giochi interattivi** per comprendere meglio il funzionamento del
 
 Il nostro preferito insieme a quello dello spionaggio.
 
-**CONSIGLIO:** Potete scaricare l' **audioguida gratuit**a per il museo **su Google Play o App Store**. Vi lascio qui sotto i link!
+**CONSIGLIO:** Potete scaricare l' **audioguida gratuita** per il museo **su Google Play o App Store**. Vi lascio qui sotto i link!
 
 [Scarica l' app su Google Play](https://play.google.com/store/apps/details?id=com.fluxguide.technikmuseumberlin)
 
@@ -1017,7 +1022,7 @@ Bambini fino a 6 anni gratis.
 
 Se si vuole avere **una vista totale sulla città di Berlino** è assolutamente necessario salire sulla Torre della TV.
 
-Si, è un po' cara, è vero, ma è davvero u**n' esperienza da fare assolutamente** se si va a Berlino.
+Si, è un po' cara, è vero, ma è davvero **un' esperienza da fare assolutamente** se si va a Berlino.
 
 Una volta entrati all' interno della torre si possono fare i biglietti ed aspettare il proprio turno per entrare all' interno dell' ascensore che vi porterà fino in cima, nella sfera. **Vi consigliamo vivamente di portare con voi un binocolo** perché quelli già presenti sono, naturalmente, a pagamento.
 

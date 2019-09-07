@@ -27,12 +27,12 @@
 <br> <div class="credits">CMS: <a href="https://gohugo.io" rel="nofollow">Hugo</a> - Theme made specifically for {{.Site.Title}} by collaborators - Icons made by <a href="https://www.freepik.com/" title="Freepik" rel="nofollow">Freepik</a> and <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy" rel="nofollow">Dave Gandy</a> from <a href="https://www.flaticon.com/" title="Flaticon" rel="nofollow">www.flaticon.com</a> are licensed by <a href="https://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" rel="nofollow">CC 3.0 BY</a> - Cookie alert by <a href="https://cookieconsent.osano.com/" rel="nofollow">Osano</a> - Special thanks go to <a href="https://sharingbuttons.io/" rel="nofollow">Sharingbuttons.io</a>, <a href="https://wowjs.co.uk/" rel="nofollow">WOW.js</a>, <a href="https://fontawesome.com/" rel="nofollow">Fontawesome</a>, <a href="https://30-seconds.github.io/30-seconds-of-css/" rel="nofollow">30s of CSS</a> and <a href="https://gist.github.com/eddiewebb/735feb48f50f0ddd65ae5606a1cb41ae" rel="nofollow">eddiewebb</a>.<!--<br> thatRocketX is a participant in the Amazon Services LLC Associates Program (Amazon.com/Amazon.it) and GetYourGuide affiliate program, with affiliate advertising programs designed to provide a means for sites to earn advertising fees by advertising and linking to these sites.--></div>
 </div>
 </footer>
-{{ with .Params "js" }}<link rel="stylesheet" type="text/css" href="/css/animate.min.css" />
+{{ if and (isset .Params "js") }}<link rel="stylesheet" type="text/css" href="/css/animate.min.css" />
 <script async src="/js/wow.min.js"></script>
             <script>
             new WOW().init();
             </script> {{end}}
-{{ with .Params "fontawesome" }}<link href="/css/all.min.css" rel="stylesheet" />{{end}}
+{{ if and (isset .Params "fontawesome") }}<link href="/css/all.min.css" rel="stylesheet" />{{end}}
 <script src="/js/cookie.js" async></script>
 <script>
 window.addEventListener("load", function(){

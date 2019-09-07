@@ -159,7 +159,7 @@ Simbolo della piazza è l' **Urania Weltzeituhr**, un orologio universale del 19
 State solo attenti ai tram che percorrono le vie intorno la piazza. 
 Da qui **potere facilmente raggiungere altri posti** famosi come la **Torre della TV** (si trova proprio davanti), **Nikolaiviertel** ed **East Side Gallery**.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Alexanderplatz/@52.5219184,13.411026,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e1edb11286f:0x30fc01c366e4166e!8m2!3d52.5219184!4d13.4132147" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.52166/13.41185" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.52166,13.41185?z=17" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Alexanderplatz/@52.5219184,13.411026,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e1edb11286f:0x30fc01c366e4166e!8m2!3d52.5219184!4d13.4132147"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.52166/13.41185"  >OpenStreetMap</a> - <a href="geo:52.52166,13.41185?z=17"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Alte Bibliothek" link="alte-bibliothek" >}} 
@@ -168,7 +168,7 @@ Da qui **potere facilmente raggiungere altri posti** famosi come la **Torre dell
 
 Situata a Bebelplatz, **è una vecchia biblioteca di Berlino**. **Venne fatta costruire da Federico il Grande nel 1775** per ospitare la **Biblioteca Reale** e rendere i libri accessibili alla borghesia. Venne fortemente **ispirata dal palazzo reale di Vienna**. **Oggi è la sede della facoltà di legge dell' Università Humboldt** di Berlino (la **più antica università** della città).
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Universit%C3%A4tsbibliothek+Humboldt-Universit%C3%A4t+zu+Berlin,+ZwB+Rechtswissenschaften/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x0:0x6afecf18e757f4b9!8m2!3d52.516408!4d13.393313" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51644/13.39316" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51644,13.39316?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Universit%C3%A4tsbibliothek+Humboldt-Universit%C3%A4t+zu+Berlin,+ZwB+Rechtswissenschaften/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x0:0x6afecf18e757f4b9!8m2!3d52.516408!4d13.393313"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51644/13.39316"  >OpenStreetMap</a> - <a href="geo:52.51644,13.39316?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Bebelplatz" link="bebelplatz" >}} 
@@ -181,7 +181,7 @@ In questa piazza, il **10 maggio del 1933** vi fu il famoso **primo rogo dei lib
 
 Originariamente si chiamava Opernplatz, venne rinominata Bebelplatz nel 1947 da August Bebel, co-fondatore del Parito Social Democratico Tedesco. 
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Bebelplatz/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x47a84e207787e7a3:0xa87068b4927a3de0!8m2!3d52.5166162!4d13.394147" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51653/13.39383" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51653,13.39383?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Bebelplatz/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x47a84e207787e7a3:0xa87068b4927a3de0!8m2!3d52.5166162!4d13.394147"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51653/13.39383"  >OpenStreetMap</a> - <a href="geo:52.51653,13.39383?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Berliner Philharmonie" link="philharmonie" >}}
@@ -192,14 +192,14 @@ Sala da concerto. La sala venne costruita quando, all' innalzamento del Muro di 
 
 Purtroppo, al momento della scrittura di questo articolo, la strada intorno all' edificio è in ristrutturazione quindi non è possibile vedere l' edificio in alcune angolazioni.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Philharmonie+Berlin,+10785+Berlin,+Germania/@52.5100058,13.3676479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851b611718aef:0xccfaa51f69694864!8m2!3d52.5100058!4d13.3698366" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50996/13.36943" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50996,13.36943?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Philharmonie+Berlin,+10785+Berlin,+Germania/@52.5100058,13.3676479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851b611718aef:0xccfaa51f69694864!8m2!3d52.5100058!4d13.3698366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50996/13.36943"  >OpenStreetMap</a> - <a href="geo:52.50996,13.36943?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Cattedrale di Sant' Edvige" link="sant-edvige" >}}
 
 Cattedrale posta sul retro dell' Opera di Stato, a Bebelplatz. **Venne commissionata nel 1773 da Frederick il Grande**. Venne **modellata sul Pantheon di Roma**. Era la **prima chiesa cattolica post-riforma** di Berlino e fino al 1854 rimase l' unica. Venne **restaurata dopo la seconda guerra mondiale**. Nella cripta **vi sono i resti di Bernard Lichtenberg**, prete che trasformò la chiesa in un centro antinazista. Purtroppo al momento della nostra visita la chiesa era chiusa e quindi non è stato possibile entrarci dentro.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Cattedrale+di+Berlino/@52.515324,13.3921687,17z/data=!4m5!3m4!1s0x47a84e1e549f0fc7:0x147458d5478e7977!8m2!3d52.5157704!4d13.3948097" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51570/13.39419" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51570,13.39419?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Cattedrale+di+Berlino/@52.515324,13.3921687,17z/data=!4m5!3m4!1s0x47a84e1e549f0fc7:0x147458d5478e7977!8m2!3d52.5157704!4d13.3948097"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51570/13.39419"  >OpenStreetMap</a> - <a href="geo:52.51570,13.39419?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Checkpoint Charlie" link="checkpoint-charlie" >}} 
@@ -214,7 +214,7 @@ Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontier
 
 State molto attenti alle truffe che avvengono qualche volta davanti a questo monumento. Il [gioco dei tre bussolotti](https://it.wikipedia.org/wiki/Gioco_delle_tre_campanelle) (in questo caso) non ha niente a che fare con la fortuna, lasciate perdere!
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Checkpoint+Charlie/@52.5074534,13.3902253,20z/data=!4m5!3m4!1s0x47a851d15c26d8cd:0x23a50042477d89c8!8m2!3d52.5074434!4d13.3903913" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50751/13.39037" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50751,13.39037?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Checkpoint+Charlie/@52.5074534,13.3902253,20z/data=!4m5!3m4!1s0x47a851d15c26d8cd:0x23a50042477d89c8!8m2!3d52.5074434!4d13.3903913"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50751/13.39037"  >OpenStreetMap</a> - <a href="geo:52.50751,13.39037?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Deutsch-Russisches Museum Berlin-Karlshorst" link="museo-russia-germania" >}}
@@ -223,7 +223,7 @@ Museo abbastanza lontano dal centro di Berlino.
 
 È dedicato alla **documentazione dei rapporti tra la Germania e la Russia** che si ebbero tra il 1917 e il 1990. Uno delle attrazioni più famose è il **tavolo su cui vi fu la resa incondizionata della Germania** durante la Seconda Guerra Mondiale l' 8 Maggio 1945. Ci sono documenti, fotografie, uniformi sia tedesche che sovietiche.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Museo+tedesco-russo+Berlino+Karlshorst/@52.4862661,13.5374981,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84920fb2e08e1:0xb5a4b26e54f008eb!8m2!3d52.4862661!4d13.5396868" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.48618/13.54031" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.48618,13.54031?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Museo+tedesco-russo+Berlino+Karlshorst/@52.4862661,13.5374981,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84920fb2e08e1:0xb5a4b26e54f008eb!8m2!3d52.4862661!4d13.5396868"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.48618/13.54031"  >OpenStreetMap</a> - <a href="geo:52.48618,13.54031?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Deutscher Dom" link="deutscher-dom" >}} 
@@ -249,7 +249,7 @@ Come detto prima, è davvero una bella mostra, assolutamente da non perdere e in
 
 Chiuso il lunedì.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutscher+Dom/@52.5127168,13.3903554,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851da6e329be1:0xca0d40954fa15a8!8m2!3d52.5127168!4d13.3925442" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/way/43347270" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51275,13.39270?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutscher+Dom/@52.5127168,13.3903554,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851da6e329be1:0xca0d40954fa15a8!8m2!3d52.5127168!4d13.3925442"  >Google Maps</a> - <a href="https://www.openstreetmap.org/way/43347270"  >OpenStreetMap</a> - <a href="geo:52.51275,13.39270?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Duomo di Berlino" link="duomo-berlino" >}}
@@ -268,7 +268,7 @@ Purtroppo, al momento della scrittura, l' intero complesso è in fase di restaur
 
 **Si merita comunque una visita dall' esterno**. Attenzione ai bus che passano sulla strada fuori la chiesa, a volte sono abbastanza silenziosi.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Duomo+di+Berlino/@52.5190608,13.3988893,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851def3c2d14b:0x780e68d5b02f8afc!8m2!3d52.5190608!4d13.401078" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51891/13.40119" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51891,13.40119?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Duomo+di+Berlino/@52.5190608,13.3988893,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851def3c2d14b:0x780e68d5b02f8afc!8m2!3d52.5190608!4d13.401078"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51891/13.40119"  >OpenStreetMap</a> - <a href="geo:52.51891,13.40119?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="East Side Gallery" link="east-side-gallery" >}} 
@@ -281,7 +281,7 @@ Forse **il pezzo di Muro più famoso della città**. È abbastanza distante dal 
 
 La foto di fronte al quadro più famoso, _My God, Help Me to Survive this Deadly Love_, sarà abbastanza ardua in alcune ore, in quanto si forma una fila di gente abbastanza lunga, però si risolve tutto abbastanza velocemente.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/East+Side+Gallery/@52.5054011,13.43636,16z/data=!3m1!4b1!4m5!3m4!1s0x47a847a6f5edaf4b:0xde9be97b4a912818!8m2!3d52.5050224!4d13.4396953" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=16/52.5055/13.4403" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.5055,13.4403?z=16" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/East+Side+Gallery/@52.5054011,13.43636,16z/data=!3m1!4b1!4m5!3m4!1s0x47a847a6f5edaf4b:0xde9be97b4a912818!8m2!3d52.5050224!4d13.4396953"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=16/52.5055/13.4403"  >OpenStreetMap</a> - <a href="geo:52.5055,13.4403?z=16"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Erlebnis Europa (Europa Experience)" link="europa-experience" >}} 
@@ -304,7 +304,7 @@ Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile 
 | -------- | -------- |
 | 10:00    | 18:00    |
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Erlebnis+Europa/@52.5054011,13.43636,16z/data=!4m5!3m4!1s0x47a851c6913d326b:0x14ebe52cf302fbaa!8m2!3d52.5167436!4d13.3802667" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51674/13.38050" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51674,13.38050?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Erlebnis+Europa/@52.5054011,13.43636,16z/data=!4m5!3m4!1s0x47a851c6913d326b:0x14ebe52cf302fbaa!8m2!3d52.5167436!4d13.3802667"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51674/13.38050"  >OpenStreetMap</a> - <a href="geo:52.51674,13.38050?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Fernsehturm (Torre della TV)" link="torre-della-tv" >}} 
@@ -323,7 +323,7 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 
 [Clicca qui per andare direttamente alla sezione sulla torre](#accesso-torre-della-televisione).
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947"  >OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Franziskaner-Klosterkirche" link="franziskaner-klosterkirche" >}} 
@@ -334,7 +334,7 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 
 {{< img "Foto del crocifisso con Torre di Berlino sullo sfondo" "/img/articoli/franziskaner-klosterkirche-con-torre-della-tv_compressed.jpg" >}}
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Franziskaner-Klosterkirche/@52.5184153,13.4124623,20z/data=!4m5!3m4!1s0x47a84e219a90a47b:0x4c0f455432331894!8m2!3d52.51837!4d13.4123399" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51843/13.41261" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51843,13.41261?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Franziskaner-Klosterkirche/@52.5184153,13.4124623,20z/data=!4m5!3m4!1s0x47a84e219a90a47b:0x4c0f455432331894!8m2!3d52.51837!4d13.4123399"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51843/13.41261"  >OpenStreetMap</a> - <a href="geo:52.51843,13.41261?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Französischer Dom" link="franzosischer-dom" >}}
@@ -343,7 +343,7 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 
 Si trova a Gendarmenmarkt al lato opposto del Deutscher Dom. **Venne costruita nel 1705 dai rifugiati Ugunotti** ed è formata da due strutture: la torre bombata, che venne aggiunta nel 1785 e la Französische Kirche (chiesa francese), una copia della chiesa originale di Charenton.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Franz%C3%B6sischer+Dom/@52.5141895,13.3922974,19z/data=!4m5!3m4!1s0x47a851da6e329be1:0x2d167f9d3fd82ae8!8m2!3d52.5143993!4d13.3923984" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51433/13.39233" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51433,13.39233?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Franz%C3%B6sischer+Dom/@52.5141895,13.3922974,19z/data=!4m5!3m4!1s0x47a851da6e329be1:0x2d167f9d3fd82ae8!8m2!3d52.5143993!4d13.3923984"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51433/13.39233"  >OpenStreetMap</a> - <a href="geo:52.51433,13.39233?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Gedenkstatte Berliner Mauer" link="memoriale-muro-berlino" >}} 
@@ -366,7 +366,7 @@ Ogni punto di questo memoriale ha qualcosa di davvero toccante: troverete fondam
 
 State attenti alle truffe che spesso avvengono in questo luogo: se si avvicinano delle persone con dei fogli e vi chiedono di firmare qualcosa o se vi domandano se parlate inglese, dite di no e allontanatevi il prima possibile perché potrebbero provare a distrarvi per derubarvi e potreste non rendervene nemmeno conto.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Visitor+center+of+the+Berlin+Wall+Memorial/@52.5346113,13.3822149,16z/data=!4m5!3m4!1s0x47a851ed8ea1d191:0x6688af17f4244b1a!8m2!3d52.5337768!4d13.387447" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.53466/13.38513" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.53466,13.38513?z=17" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Visitor+center+of+the+Berlin+Wall+Memorial/@52.5346113,13.3822149,16z/data=!4m5!3m4!1s0x47a851ed8ea1d191:0x6688af17f4244b1a!8m2!3d52.5337768!4d13.387447"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.53466/13.38513"  >OpenStreetMap</a> - <a href="geo:52.53466,13.38513?z=17"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Gendarmenmarkt" link="gendarmenmarkt" >}} 
@@ -377,7 +377,7 @@ State attenti alle truffe che spesso avvengono in questo luogo: se si avvicinano
 
 Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Gendarmenmarkt/@52.5140099,13.3930886,17z/data=!4m5!3m4!1s0x47a851da6e329be1:0x69ed42f426573790!8m2!3d52.5137235!4d13.3926719" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/search?query=We%20love%20that%20Rocket%20X#map=17/52.51343/13.39310" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51343,13.39310?z=17" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Gendarmenmarkt/@52.5140099,13.3930886,17z/data=!4m5!3m4!1s0x47a851da6e329be1:0x69ed42f426573790!8m2!3d52.5137235!4d13.3926719"  >Google Maps</a> - <a href="https://www.openstreetmap.org/search?query=We%20love%20that%20Rocket%20X#map=17/52.51343/13.39310"  >OpenStreetMap</a> - <a href="geo:52.51343,13.39310?z=17"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Hackesche Höfe" link="hackesche-hofe" >}}
@@ -386,7 +386,7 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 
 Purtroppo questo è uno dei posti che non siamo riusciti a visitare per il poco tempo e di cui ci dispiace. Nel caso dovessimo riorganizzare qualcosa a Berlino questo sarebbe il primo posto in cui probabilmente andremmo.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5243706,13.4019238,18z target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.52462/13.40189" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.52462,13.40189?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/@52.5243706,13.4019238,18z  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.52462/13.40189"  >OpenStreetMap</a> - <a href="geo:52.52462,13.40189?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Kaiser-Wilhelm-Gedächtniskirche" link="kaiser-wilhelm-gedachtniskirche" >}} 
@@ -402,7 +402,7 @@ Il monumento si trova **abbastanza lontano dal centro**, tanto è vero che abbia
 Purtroppo l' intero monumento, nel momento in cui scriviamo, **è in fase di restaurazione** e per questo è comperto da un' enorme pubblicità e da vare impalcature che lo rovinano completamente. 
 **Molto bella**, invece, **la nuova chiesa**, soprattutto all' interno. Vi consiglio di vederla, soprattutto una volta che la restaurazione sarà terminata. 
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Kaiser-Wilhelm-Ged%C3%A4chtniskirche/@52.5049252,13.3353514,18z/data=!4m5!3m4!1s0x47a850ff09fc6b77:0x1070dac9e29eb09c!8m2!3d52.5048183!4d13.3350822" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.50464/13.33515" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50464,13.33515?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Kaiser-Wilhelm-Ged%C3%A4chtniskirche/@52.5049252,13.3353514,18z/data=!4m5!3m4!1s0x47a850ff09fc6b77:0x1070dac9e29eb09c!8m2!3d52.5048183!4d13.3350822"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.50464/13.33515"  >OpenStreetMap</a> - <a href="geo:52.50464,13.33515?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Konzerthaus" link="konzerthaus" >}}
@@ -413,7 +413,7 @@ Maestoso edificio del 1821 al centro di Gendarmenmarkt.
 
 La scultura rappresenta [Fiedrich Schiller](https://it.wikipedia.org/wiki/Friedrich_Schiller), lo scrittore dell' Inno alla gioia musicato da Beethoven.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Konzerthaus+Berlin/@52.5135747,13.3917331,19z/data=!4m5!3m4!1s0x47a851da5ed87d97:0xc85b1ffb144309e5!8m2!3d52.5136439!4d13.3917895" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51358/13.39202" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51358,13.39202?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Konzerthaus+Berlin/@52.5135747,13.3917331,19z/data=!4m5!3m4!1s0x47a851da5ed87d97:0xc85b1ffb144309e5!8m2!3d52.5136439!4d13.3917895"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51358/13.39202"  >OpenStreetMap</a> - <a href="geo:52.51358,13.39202?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Memoriale a Peter Fechter" link="memoriale-peter-fechter" >}} 
@@ -432,7 +432,7 @@ L' iscrizione recita
 
 > egli voleva soltanto la libertà.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Peter+Fechter+-+Monument/@52.5078512,13.3929988,21z/data=!4m5!3m4!1s0x47a851d6c9f5ad1b:0xb4fd2cbf111e491c!8m2!3d52.5078374!4d13.3930749" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50677/13.39338" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50677,13.39338?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Peter+Fechter+-+Monument/@52.5078512,13.3929988,21z/data=!4m5!3m4!1s0x47a851d6c9f5ad1b:0xb4fd2cbf111e491c!8m2!3d52.5078374!4d13.3930749"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50677/13.39338"  >OpenStreetMap</a> - <a href="geo:52.50677,13.39338?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Memoriale degli eroi silenziosi  & Memoriale della Resistenza Tedesca" link="eroi-silenziosi-resistenza" >}} 
@@ -462,7 +462,7 @@ All' esterno è presente una **statua in ricordo di chi ha lottato contro il naz
 
 Chiuso il 24, 25, 26 e 31 dicembre e l' 1 gennaio.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Resistance+Memorial+Center/@52.5077958,13.3626203,19z/data=!4m5!3m4!1s0x47a851b49ef5d5af:0x985de95bf31847cb!8m2!3d52.5077126!4d13.3626739" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50768/13.36270" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50768,13.36270?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Resistance+Memorial+Center/@52.5077958,13.3626203,19z/data=!4m5!3m4!1s0x47a851b49ef5d5af:0x985de95bf31847cb!8m2!3d52.5077126!4d13.3626739"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50768/13.36270"  >OpenStreetMap</a> - <a href="geo:52.50768,13.36270?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Memoriale per gli ebrei assassinati d'Europa" link="memoriale-olocausto" >}} 
@@ -496,7 +496,7 @@ Chiuso il lunedì. Chiuso il 24, 25, 26 dicembre, chiuso dalle 16:00 in poi il 3
 
 Si può entrare fino a 45 min prima dell' orario di chiusura.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Memoriale+per+gli+ebrei+assassinati+d"'Europa/@52.5139062,13.3780765,18z/data=!4m12!1m6!3m5!1s0x47a851b49ef5d5af:0x985de95bf31847cb!2sGerman+Resistance+Memorial+Center!8m2!3d52.5077126!4d13.3626739!3m4!1s0x0:0x1434a79012ee5bc8!8m2!3d52.5139471!4d13.3787137 target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51390/13.37875" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51390,13.37875?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Memoriale+per+gli+ebrei+assassinati+d"'Europa/@52.5139062,13.3780765,18z/data=!4m12!1m6!3m5!1s0x47a851b49ef5d5af:0x985de95bf31847cb!2sGerman+Resistance+Memorial+Center!8m2!3d52.5077126!4d13.3626739!3m4!1s0x0:0x1434a79012ee5bc8!8m2!3d52.5139471!4d13.3787137  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51390/13.37875"  >OpenStreetMap</a> - <a href="geo:52.51390,13.37875?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Monumento commemorativo dedicato alle vittime del programma nazista di Eutanasia" link="memoriale-t4" >}} 
@@ -509,7 +509,7 @@ Il memoriale è un **lungo pannello informativo con storia, video e foto** e un 
 
 Da vedere se ci si trova nell' area della Philarmonie (il memoriale si trova a Tiergartenstaße la nella quale avveniva il programma) in quanto si trova proprio a lato, verso la strada.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5105831,13.3691635,20z target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51038/13.36866" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51038,13.36866?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/@52.5105831,13.3691635,20z  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51038/13.36866"  >OpenStreetMap</a> - <a href="geo:52.51038,13.36866?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Neue Wache" link="neue-wache" >}} 
@@ -524,7 +524,7 @@ Entrando all' interno si trova un enorme spazio vuoto con al centro una statua c
 
 {{< instagram "B1wxChWiG8O" >}}
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Neue+Wache/@52.5178268,13.3955271,20z/data=!4m5!3m4!1s0x47a851dc12cdb693:0xdae82496d519367c!8m2!3d52.5178906!4d13.3955285" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51789/13.39563" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51789,13.39563?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Neue+Wache/@52.5178268,13.3955271,20z/data=!4m5!3m4!1s0x47a851dc12cdb693:0xdae82496d519367c!8m2!3d52.5178906!4d13.3955285"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51789/13.39563"  >OpenStreetMap</a> - <a href="geo:52.51789,13.39563?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Nikolaiviertel" link="nikolaiviertel" >}} 
@@ -539,7 +539,7 @@ Il centro storico di Berlino fu infatti **completamente distrutto durante la Sec
 
 {{< img "Statua dell' orso a Nikolaiviertel" "/img/articoli/nikolaikirche-statua-orso_compressed.jpg" >}}
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Nikolaikirche/@52.517178,13.4069868,18z/data=!4m5!3m4!1s0x47a84e20c6611801:0x54922f7cce9a1368!8m2!3d52.5168346!4d13.4074831" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51683/13.40676" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51683,13.40676?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Nikolaikirche/@52.517178,13.4069868,18z/data=!4m5!3m4!1s0x47a84e20c6611801:0x54922f7cce9a1368!8m2!3d52.5168346!4d13.4074831"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51683/13.40676"  >OpenStreetMap</a> - <a href="geo:52.51683,13.40676?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Park am Gleisdreieck" link="park-am-gleisdreieck" >}}
@@ -550,7 +550,7 @@ Ci si può fare un giro se si va al Deutsches Technikmuseum in quanto si trova p
 
 È un **parco costruito su una vecchia ferrovia**. Al centro c'è ancora il binario e ci si può fermare per farsi la classica foto sui binari, senza il rischio di essere travolti da un treno, noi l' abbiamo fatta!
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Park+at+Gleisdreieck/@52.4944847,13.3764311,17z/data=!4m5!3m4!1s0x47a850301366c17b:0x5c368c54cfd1eb6!8m2!3d52.4940268!4d13.3759081" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.49394/13.37526" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.49394,13.37526?z=17" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Park+at+Gleisdreieck/@52.4944847,13.3764311,17z/data=!4m5!3m4!1s0x47a850301366c17b:0x5c368c54cfd1eb6!8m2!3d52.4940268!4d13.3759081"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.49394/13.37526"  >OpenStreetMap</a> - <a href="geo:52.49394,13.37526?z=17"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Parochialkirche" link="parochialkirche" >}}
@@ -559,7 +559,7 @@ Ci si può fare un giro se si va al Deutsches Technikmuseum in quanto si trova p
 
 Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondiale**. Ora è in ricostruzione.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Parochialkirche/@52.5170001,13.4128609,19z/data=!4m5!3m4!1s0x47a84e21827e160d:0xff49535dc736d5b1!8m2!3d52.5170353!4d13.4128844" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51699/13.41265" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51699,13.41265?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Parochialkirche/@52.5170001,13.4128609,19z/data=!4m5!3m4!1s0x47a84e21827e160d:0xff49535dc736d5b1!8m2!3d52.5170353!4d13.4128844"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51699/13.41265"  >OpenStreetMap</a> - <a href="geo:52.51699,13.41265?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Porta di Brandeburgo" link="porta-di-brandeburgo" >}} 
@@ -582,7 +582,7 @@ Proprio davanti date un' occhiata alla lunga **linea di mattoni** perché sta ad
 
 Di notte è spettacolare.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Porta+di+Brandeburgo/@52.516344,13.3776837,19z/data=!4m5!3m4!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162747!4d13.3777039" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51622/13.37761" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51622,13.37761?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Porta+di+Brandeburgo/@52.516344,13.3776837,19z/data=!4m5!3m4!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162747!4d13.3777039"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51622/13.37761"  >OpenStreetMap</a> - <a href="geo:52.51622,13.37761?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Potsdamer Platz" link="Potsdamer Platz" >}} 
@@ -595,7 +595,7 @@ A parte il centro commerciale, a Potsdamer Platz è possibile vedere l' enorme *
 
 È molto bello seguire la lunga linea di mattoni sui marciapiedi (non sulla strada però mi raccomando) e vedere le **rimanenze del muro**. In questo modo ci si rende conto di come questa piazza fosse divisa da questa lunga barriera.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Potsdamer+Platz/@52.5094293,13.3753073,18z/data=!4m5!3m4!1s0x0:0x4ca1983c254de1aa!8m2!3d52.5096488!4d13.375944" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.50908/13.37478" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50908,13.37478?z=17" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Potsdamer+Platz/@52.5094293,13.3753073,18z/data=!4m5!3m4!1s0x0:0x4ca1983c254de1aa!8m2!3d52.5096488!4d13.375944"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.50908/13.37478"  >OpenStreetMap</a> - <a href="geo:52.50908,13.37478?z=17"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Reichstag" link="reichstag" >}} 
@@ -617,7 +617,7 @@ Durante la Seconda Guerra Mondiale fu vittima dei vari bombardamenti.
 
 Se siete interessati [qui trovate una guida su come prenotarsi](/berlino-reichstag-prenotazione-cupola)(_in arrivo_), per chi invece è ferrato con l' inglese vi lascio direttamente il link al [sito sul quale effettuare la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en).
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Palazzo+del+Reichstag/@52.518456,13.3756935,18z/data=!4m5!3m4!1s0x0:0x641b52d3abf17de5!8m2!3d52.5186202!4d13.3761871" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51859/13.37553" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51859,13.37553?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Palazzo+del+Reichstag/@52.518456,13.3756935,18z/data=!4m5!3m4!1s0x0:0x641b52d3abf17de5!8m2!3d52.5186202!4d13.3761871"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51859/13.37553"  >OpenStreetMap</a> - <a href="geo:52.51859,13.37553?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Siegessäule" link="siegessaule" >}}
@@ -626,7 +626,7 @@ La **colonna della vittoria** celebra i **trionfi militari** prussiani del 19esi
 
 La colonna era **originariamente piazzata vicino al Reichstag** (lo potrete vedere nel modellino della vecchia Berlino al Deutscher Dom), fu successivamente **spostata dai nazisti nel parco di Tiergarten** come conseguenza del nuovo piano urbanistico, così che la colonna potesse essere vista dalla Porta di Brandeburgo.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Colonna+della+Vittoria/@52.5144587,13.3502071,19z/data=!4m5!3m4!1s0x47a851af28d3f1c3:0x55627fdba380e5c9!8m2!3d52.5145433!4d13.3501187" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51439/13.34993" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51439,13.34993?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Colonna+della+Vittoria/@52.5144587,13.3502071,19z/data=!4m5!3m4!1s0x47a851af28d3f1c3:0x55627fdba380e5c9!8m2!3d52.5145433!4d13.3501187"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51439/13.34993"  >OpenStreetMap</a> - <a href="geo:52.51439,13.34993?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Sowjetisches Ehrenmal" link="sowjetisches-ehrenmal" >}} 
@@ -645,7 +645,7 @@ Di solito è poco affollato.
 
 Vecchie mura difensive cittadine della città di Berlino.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Alte+Berliner+Stadtmauer/@52.516814,13.4129869,18z/data=!4m5!3m4!1s0x47a84e23c6ffe913:0xd0af0b36494c0c9f!8m2!3d52.5167097!4d13.4141209" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51664/13.41428" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51664,13.41428?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Alte+Berliner+Stadtmauer/@52.516814,13.4129869,18z/data=!4m5!3m4!1s0x47a84e23c6ffe913:0xd0af0b36494c0c9f!8m2!3d52.5167097!4d13.4141209"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51664/13.41428"  >OpenStreetMap</a> - <a href="geo:52.51664,13.41428?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Tempelhofer Feld" link="tempelhofer-feld" >}}
@@ -664,7 +664,7 @@ Dopo l' apertura del Tegel del 1975 ci fu un grande declino che portarono alla *
 
 Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare, ma a causa della sua distanza e del poco tempo a nostra disposizione ci è stato impossibile. Se avete la possibilità vi consigliamo di andarci, per il suo valore storico merita assolutamente una visita, soprattutto se si è amanti del mondo dell' aviazione, come lo siamo noi.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Tempelhofer+Feld/@52.4742191,13.4002196,15z/data=!4m5!3m4!1s0x47a84fe8f7d899eb:0x88898e99acbb718b!8m2!3d52.4753833!4d13.4019041" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.4722/13.3980" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.4722,13.3980?z=15" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Tempelhofer+Feld/@52.4742191,13.4002196,15z/data=!4m5!3m4!1s0x47a84fe8f7d899eb:0x88898e99acbb718b!8m2!3d52.4753833!4d13.4019041"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.4722/13.3980"  >OpenStreetMap</a> - <a href="geo:52.4722,13.3980?z=15"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Tiergarten" link="tempelhofer-feld" >}}
@@ -675,7 +675,7 @@ Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare,
 Ogni parte contiene qualcosa da vedere, da statue a giardini come l' _Englisher Garten_, costruiti per commemorare il Ponte Aereo di Berlino.
 Se vi trovate da quelle parti potete farvi un giro, se passate per il marciapiede lungo la via che lo attraversa potrete vedere anche la Siegessäule e il Sowjetisches Ehrenmal.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5143313,13.3555659,15z target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.5136/13.3555" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.5136,13.3555?z=15" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/@52.5143313,13.3555659,15z  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.5136/13.3555"  >OpenStreetMap</a> - <a href="geo:52.5136,13.3555?z=15"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Topografia del Terrore" link="topografia-del-terrore" >}}
@@ -700,7 +700,7 @@ All' esterno è invece possibile notare un **pezzo originale del Muro di Berlino
 
 Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Topographie+des+Terrors/@52.5072009,13.3831069,17z/data=!4m5!3m4!1s0x47a851cc389778c7:0x374bd5cc05c96648!8m2!3d52.5066836!4d13.383702" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50680/13.38352" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50680,13.38352?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Topographie+des+Terrors/@52.5072009,13.3831069,17z/data=!4m5!3m4!1s0x47a851cc389778c7:0x374bd5cc05c96648!8m2!3d52.5066836!4d13.383702"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50680/13.38352"  >OpenStreetMap</a> - <a href="geo:52.50680,13.38352?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Torre di controllo in Erna-Berger-Straße" link="torre-di-controllo" >}}
@@ -713,7 +713,7 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
 
 Si trova **a pochi passi da Potsdamer Platz**, andando verso Checkpoint Charlie, quindi se vi trovate da quelle parti fateci contenti e date un' occhiata a questo pezzo di storia.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/DDR+Watch+Tower/@52.5084286,13.379797,19z/data=!4m5!3m4!1s0x47a851ce99f7ae91:0x87c8b6677d18734d!8m2!3d52.5085353!4d13.3796787" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50849/13.37923" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50849,13.37923?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/DDR+Watch+Tower/@52.5084286,13.379797,19z/data=!4m5!3m4!1s0x47a851ce99f7ae91:0x87c8b6677d18734d!8m2!3d52.5085353!4d13.3796787"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50849/13.37923"  >OpenStreetMap</a> - <a href="geo:52.50849,13.37923?z=19"  >Applicazione mappe</a>
   </div>
   
   
@@ -774,7 +774,7 @@ Le spiegazioni sono in tedesco ed in inglese.
 | -------- | -------- |
 | 10:00    | 18:00    |
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutsches+Historisches+Museum/@52.5178619,13.3966627,18z/data=!4m5!3m4!1s0x0:0xf9fb901171a947c3!8m2!3d52.5181519!4d13.3969497" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51808/13.39666" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51808,13.39666?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutsches+Historisches+Museum/@52.5178619,13.3966627,18z/data=!4m5!3m4!1s0x0:0xf9fb901171a947c3!8m2!3d52.5181519!4d13.3969497"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51808/13.39666"  >OpenStreetMap</a> - <a href="geo:52.51808,13.39666?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Museo della tecnologia (Deutsches Technikmuseum)" link="deutsches-technikmuseum" >}} 
@@ -829,7 +829,7 @@ Il nostro preferito insieme a quello dello spionaggio.
 
 Chiuso il lunedì. Chiuso il 24, 25 e 31 dicembre e l' 1 maggio.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutsches+Technikmuseum+Berlin/@52.499199,13.3771899,17z/data=!4m5!3m4!1s0x0:0x4435919b99126a78!8m2!3d52.4986979!4d13.3778849" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.49713/13.37578" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.49713,13.37578?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutsches+Technikmuseum+Berlin/@52.499199,13.3771899,17z/data=!4m5!3m4!1s0x0:0x4435919b99126a78!8m2!3d52.4986979!4d13.3778849"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.49713/13.37578"  >OpenStreetMap</a> - <a href="geo:52.49713,13.37578?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}} 
@@ -877,7 +877,7 @@ Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
 
 Chiuso il lunedì. 
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Museo del cinema (German Cinematheque - Museum of Film and Television)" link="german-cinematheque" >}}
@@ -909,7 +909,7 @@ Il **giovedì il museo è gratis dalle 16:00 alle 20:00**.
 
 Chiuso il martedì.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Film+and+Television+Academy+Berlin+GmbH/@52.509457,13.3739444,19z/data=!4m5!3m4!1s0x47a851c99b1ac3bb:0x900d321a3dad3e17!8m2!3d52.509558!4d13.3738972" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50954/13.37320" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50954,13.37320?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Film+and+Television+Academy+Berlin+GmbH/@52.509457,13.3739444,19z/data=!4m5!3m4!1s0x47a851c99b1ac3bb:0x900d321a3dad3e17!8m2!3d52.509558!4d13.3738972"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50954/13.37320"  >OpenStreetMap</a> - <a href="geo:52.50954,13.37320?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Altes Museum" link="altes-museum" >}} 
@@ -942,7 +942,7 @@ Si trova di fronte al Duomo di Berlino, è abbastanza appariscente. Da qui potet
 
 Chiuso il martedì.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Altes+Museum/@52.5194124,13.3989051,19z/data=!4m5!3m4!1s0x47a851dd6a1d6f33:0xb61e5106fd47fdbb!8m2!3d52.5194664!4d13.3987445" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51947/13.39851" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51947,13.39851?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Altes+Museum/@52.5194124,13.3989051,19z/data=!4m5!3m4!1s0x47a851dd6a1d6f33:0xb61e5106fd47fdbb!8m2!3d52.5194664!4d13.3987445"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51947/13.39851"  >OpenStreetMap</a> - <a href="geo:52.51947,13.39851?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Museo Ebraico" link="museo-ebraico" >}}
@@ -977,7 +977,7 @@ Bambini fino a 6 anni gratis.
 | -------- | -------- |
 | 9:00     | 20:00    |
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/J%C3%BCdisches+Museum/@52.5021919,13.3953538,19z/data=!4m5!3m4!1s0x0:0x4c2cd254ede6304f!8m2!3d52.5023115!4d13.3954469" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.50209/13.39534" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50209,13.39534?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/J%C3%BCdisches+Museum/@52.5021919,13.3953538,19z/data=!4m5!3m4!1s0x0:0x4c2cd254ede6304f!8m2!3d52.5023115!4d13.3954469"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.50209/13.39534"  >OpenStreetMap</a> - <a href="geo:52.50209,13.39534?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Accesso alla Fernsehturm (Torre della TV)" link="accesso-torre-della-televisione" >}}
@@ -1020,7 +1020,7 @@ Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sa
 | Marzo-Ottobre     | 9:00     | 00:00 (ultima salita alle 23:30) |
 | Novembre-Febbraio | 10:00    | 00:00 (ultima salita alle 23:30) |
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947"  >OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19"  >Applicazione mappe</a>
   </div>
 
 #### 👁️ Altri posti da visitare
@@ -1068,7 +1068,7 @@ Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potres
 
 Murale "particolare" di un giornale nei pressi di Checkpoin Charlie. Vi sconsiglio di cercarlo online in posti affollati.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50540/13.39190" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50540,13.39190?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50540/13.39190"  >OpenStreetMap</a> - <a href="geo:52.50540,13.39190?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Spreepark" link="spreepark" >}}
@@ -1076,7 +1076,7 @@ Murale "particolare" di un giornale nei pressi di Checkpoin Charlie. Vi sconsigl
 Vecchio parco abbandonato di Berlino. È necessaria la prenotazione online anticipata (vedere sopra). Si trova a qualche chilometro da East Side Gallery.
 **A PAGAMENTO (5€)**
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Spreepark/@52.4836351,13.4894014,16z/data=!4m5!3m4!1s0x0:0xcd9e29eb2b539c51!8m2!3d52.4835798!4d13.4916723" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.48546/13.48860" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.48546,13.48860?z=17" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Spreepark/@52.4836351,13.4894014,16z/data=!4m5!3m4!1s0x0:0xcd9e29eb2b539c51!8m2!3d52.4835798!4d13.4916723"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.48546/13.48860"  >OpenStreetMap</a> - <a href="geo:52.48546,13.48860?z=17"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Bunker di Hitler (Führerbunker)" link="bunker-hitler" >}}
@@ -1084,7 +1084,7 @@ Vecchio parco abbandonato di Berlino. È necessaria la prenotazione online antic
 Luogo nel quale era situato il bunker di Hitler. Oggi è un parcheggio, un cartello spiega come era strutturato.
 Si trova qualche metro dopo il Memoriale dell' Olocausto.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064"  >OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Statua gigante dell' omino del semaforo (Einheitsmännchen)" link="einheitsmännchen" >}}
@@ -1095,7 +1095,7 @@ Rimanenza di una vecchia installazione artistica per commemorare il 25° anniver
 Mostra una versione gigante e più dettagliata del famoso omino del semaforo (Ampelmann).
 Si trova a qualche chilometro dal memoriale dell' Olocausto, a Ministergärten. 
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745"  >OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="S-Bahn Nordbahnhof" link="nordbahnhof" >}} 
@@ -1108,7 +1108,7 @@ Le stazioni fantasma erano stazioni che si trovavano a Berlino Est e nelle quali
 
 Si trova proprio accanto al Memoriale del Muro di Berlino.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Berlin+Nordbahnhof/@52.5328051,13.3823947,16z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851edd7b49ad3:0x1b04b9848dea3418!8m2!3d52.5318833!4d13.3883831" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.53222/13.38688" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.53222,13.38688?z=18" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Berlin+Nordbahnhof/@52.5328051,13.3823947,16z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851edd7b49ad3:0x1b04b9848dea3418!8m2!3d52.5318833!4d13.3883831"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.53222/13.38688"  >OpenStreetMap</a> - <a href="geo:52.53222,13.38688?z=18"  >Applicazione mappe</a>
   </div>
 
 - - -

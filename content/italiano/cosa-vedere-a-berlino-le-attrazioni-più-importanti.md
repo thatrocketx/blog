@@ -56,16 +56,7 @@ Attenzione: quando fate i biglietti **state attenti a questo aspetto** perché *
 
 A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono prendere:
 
-1. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <metadata>
-   <rdf:RDF>
-   <cc:Work rdf:about="">
-   <dc:format>image/svg+xml</dc:format>
-   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   <dc:title/>
-   </cc:Work>
-   </rdf:RDF>
-   </metadata>
+1. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <g transform="translate(.023386 .023386)" stroke-width=".010348">
    <path d="m-0.01833 293.02v-3.9738h7.9476v7.9476h-7.9476z" fill="#fdfdfd"/>
@@ -81,16 +72,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </svg>
    **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai € 3 / 3.50**. C'è anche la possibilità di di **pagare € 1.70 se si fanno soltanto 3 fermate**. Le stazioni della U-BAHN sono contrassegnate da un quadrato blu con una U all' interno.
    
-2. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <metadata>
-   <rdf:RDF>
-   <cc:Work rdf:about="">
-   <dc:format>image/svg+xml</dc:format>
-   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   <dc:title/>
-   </cc:Work>
-   </rdf:RDF>
-   </metadata>
+2. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <path d="m4.7825 291.6 1.8124 0.3508-0.058465-1.6253-3.0168-0.6665-2.0229 0.80682-0.5028 2.2217 3.4144 1.6838s-0.28063 0.33909-0.43264 0.3274c-0.15201-0.0117-2.5725-1.1693-2.5725-1.1693l-0.21047 1.1576 0.70158 1.1225 2.362 0.60804 1.8592-0.76005 0.94714-2.9466z" fill="#fff"/>
    <g transform="translate(-.093544 -.035079)" stroke-width=".0081469">
@@ -105,16 +87,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </svg>
    **S-BAHN** è la **stazione dei treni**. Le stazioni della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
-3. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <metadata>
-   <rdf:RDF>
-   <cc:Work rdf:about="">
-   <dc:format>image/svg+xml</dc:format>
-   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   <dc:title/>
-   </cc:Work>
-   </rdf:RDF>
-   </metadata>
+3. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <g transform="translate(-4.733e-7 .033073)">
    <path d="m0.70122 292.94v-1.398h6.8725v2.7961h-6.8725z" fill="#fefdfe" stroke-width=".0087672"/>
@@ -129,16 +102,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </svg>
    **AUTOBUS**
-4. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <metadata>
-   <rdf:RDF>
-   <cc:Work rdf:about="">
-   <dc:format>image/svg+xml</dc:format>
-   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   <dc:title/>
-   </cc:Work>
-   </rdf:RDF>
-   </metadata>
+4. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <g transform="translate(.033073)" stroke-width=".010448">
    <path d="m-0.0059826 293.06v-4.012h8.024v8.024h-8.024z" fill="#fdfdfd"/>

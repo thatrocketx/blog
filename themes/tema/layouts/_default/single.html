@@ -53,7 +53,7 @@
     {{ range . }}
     <a href="{{ .URL }}"><div class="articoli incategoria">
       <div class="contenitore-immagine">
-     {{ if (isset .Params "immagine") }}<img src="/img/og/{{ .Params.immagine }}" class="immagine-lista" alt="{{ .Title }}">{{end}}
+     {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="{{ .Title }}">{{end}}
      </div>
      <div class="info lista">
       {{ if (isset .Params "categories") }}<span class="categoria">{{.Params.categories}}</span> {{ end }}

@@ -1125,15 +1125,15 @@ article p:last-child:after {
   padding: 5px;
 }
 
-.mappa-tasto .gmaps{
+.mappa-tasto.gmaps{
   background: #1EA362;
 }
 
-.mappa-tasto .osm {
+.mappa-tasto.osm {
   background: #7ebc6f;
 }
 
-.mappa-tasto .geo {
+.mappa-tasto.geo {
   background: #f57c00;
 }
 

@@ -1120,7 +1120,7 @@ Vecchio parco abbandonato di Berlino. È necessaria la prenotazione online antic
 Luogo nel quale era situato il bunker di Hitler. Oggi è un parcheggio, un cartello spiega come era strutturato.
 Si trova qualche metro dopo il Memoriale dell' Olocausto.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler"'s+Bunker+(F%C3%BChrerbunker)/@52.5125747,13.3806053,19z/data=!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366 target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366" target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Statua gigante dell' omino del semaforo (Einheitsmännchen)" link="einheitsmännchen" >}}

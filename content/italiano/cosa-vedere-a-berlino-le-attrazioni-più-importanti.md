@@ -87,6 +87,10 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
+   **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai € 3 / 3.50**. C'è anche la possibilità di di **pagare € 1.70 se si fanno soltanto 3 fermate**.
+   
+   Le fermate della U-BAHN sono contrassegnate da un quadrato blu con una U all' interno.
+   
 2. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <metadata>
    <rdf:RDF>
@@ -110,6 +114,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
+   **S-BAHN** è la **stazione dei treni**. Le fermate della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
 3. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <metadata>
    <rdf:RDF>
@@ -133,6 +138,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
+   **AUTOBUS**
 4. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <metadata>
    <rdf:RDF>
@@ -156,6 +162,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
+   **TRAM**, che troverete solo in alcune zone.
 
 Per maggiori informazioni sui treni del Tram, della U-BAHN e della S-BAHN e sui bus vi consiglio di visitare il [sito ufficiale delle ferrovie di Berlino](https://sbahn.berlin/en/), nel quale potrete trovare la stazione più vicina al vostro hotel e i vari treni necessari per arrivare alla vostra destinazione. [Qui invece trovate la mappa completa di metropolitana + treno](https://map.sbahn.berlin/pdf/S+U-Bahn_08_2019-Internetversion-BVG,%20Lizenz-Nummer%20701-1-19.1-1%20-%20aktualisiert%2012.07.2019.pdf), se preferite stampare la cartina e fare alla vecchia maniera 😉.
 

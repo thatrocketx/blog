@@ -63,7 +63,7 @@ function registerListener(event, func) {
         window.attachEvent('on' + event, func)
     }
 }
-	registerListener('load', lazyLoad);
+	registerListener('scroll', lazyLoad);
 </script>
 {{ if (isset .Params "js") }}<link rel="stylesheet" type="text/css" href="/css/animate.min.css" />
 <script async src="/js/wow.min.js"></script>

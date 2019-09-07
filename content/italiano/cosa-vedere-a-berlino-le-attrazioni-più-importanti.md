@@ -1,11 +1,11 @@
 ---
 draft: false
 date: '2019-09-06T18:35:39+00:00'
-title: 'Cosa vedere a Berlino: le attrazioni più importanti'
+title: 'Cosa vedere a Berlino: tutte le attrazioni più importanti'
 description: >-
   Le migliori attrazioni gratuite e i musei più importanti. Cosa vedere a
   Berlino senza spendere troppo. In questo articolo elenchiamo le migliori
-  attrazioni storiche e moderne da vedere a Berlino
+  attrazioni storiche, moderne e anche quelle più inusuali.
 autore: Mediterraneo
 immagine: /img/articoli/berlino-cosa-vedere-og.png
 categories:
@@ -54,14 +54,6 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 
 Attenzione: quando fate i biglietti **state attenti a questo aspetto** perché **in caso di problemi durante i controlli potreste ricevere una multa** da parte della BVG (l’ autorità ferroviaria tedesca).
 
-- - -
-
-**Atterri all' aeroporto Schönefeld?** [Qui trovi la nostra guida su come arrivare a Berlino Centro!](/schonefeld-berlino-centro/) 
-
-<small><a href="/schonefeld-berlino-centro/" target="_blank">(clicca qui per aprire in una nuova scheda per dopo)</a></small>
-
-- - -
-
 A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono prendere:
 
 1. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -87,9 +79,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
-   **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai € 3 / 3.50**. C'è anche la possibilità di di **pagare € 1.70 se si fanno soltanto 3 fermate**.
-   
-   Le fermate della U-BAHN sono contrassegnate da un quadrato blu con una U all' interno.
+   **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai € 3 / 3.50**. C'è anche la possibilità di di **pagare € 1.70 se si fanno soltanto 3 fermate**. Le stazioni della U-BAHN sono contrassegnate da un quadrato blu con una U all' interno.
    
 2. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <metadata>
@@ -114,7 +104,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
-   **S-BAHN** è la **stazione dei treni**. Le fermate della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
+   **S-BAHN** è la **stazione dei treni**. Le stazioni della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
 3. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <metadata>
    <rdf:RDF>
@@ -179,9 +169,9 @@ Potete trovare [maggiori informazioni o acquistare la card su GetYourGuide clicc
 
 Se atterrate invece al Tegel, allora qui trovate la [card valida solo per la zona AB](https://www.getyourguide.it/berlino-l17/-t284327/), che **costa di meno**. 
 
-**La card comprende** anche:
-✔️ **Trasporto pubblico per la città di Berlino**
-✔️ **Sconti sulle attrazioni** aderenti (tra cui la **Torre della TV**)
+**La card comprende** anche: <br>
+✔️ **Trasporto pubblico per la città di Berlino** <br>
+✔️ **Sconti sulle attrazioni** aderenti (tra cui la **Torre della TV**) <br>
 ✔️ **Mappa** e mini **guida**
 
 - - -
@@ -761,6 +751,9 @@ Si trova **a pochi passi da Potsdamer Platz**, andando verso Checkpoint Charlie,
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/DDR+Watch+Tower/@52.5084286,13.379797,19z/data=!4m5!3m4!1s0x47a851ce99f7ae91:0x87c8b6677d18734d!8m2!3d52.5085353!4d13.3796787 target="_blank" rel="noopener">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50849/13.37923" target="_blank" rel="noopener">OpenStreetMap</a> - <a href="geo:52.50849,13.37923?z=19" target="_blank" rel="noopener">Applicazione mappe</a>
   </div>
+  
+  
+  
 
 {{< titolo title="Cosa vedere solo su prenotazione" link="cosa-vedere-su-prenotazione" >}}
 
@@ -774,6 +767,9 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
   Vi consigliamo di **prenotare mesi prima**, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.
   Questo è link al [sito sul quale prenotare la visita guidata](https://gruen-berlin.de/en/spreepark/visitor-information-0). È disponibile sia in tedesco che in inglese.
   Il costo del biglietto è di **€ 5**.
+  
+  
+  
 
 {{< titolo title="Cosa vedere (a pagamento)" link="cosa-vedere-a-pagamento" >}}
 
@@ -801,7 +797,7 @@ Le spiegazioni sono in tedesco ed in inglese.
 | Intero (18+)                               | 8 €    |
 | Ridotto (studenti, persone con disabilità) | 4 €    |
 
-<div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
+<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 **ORARI DI APERTURA**
 
@@ -853,7 +849,7 @@ Il nostro preferito insieme a quello dello spionaggio.
 | Intero  | 8 €    |
 | Ridotto | 4 €    |
 
-<div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
+<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 **ORARI DI APERTURA**
 
@@ -902,7 +898,7 @@ Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
 | --------- | ------ |
 | Biglietto | 12 €   |
 
-<div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
+<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 **ORARI DI APERTURA**
 
@@ -933,7 +929,7 @@ Il **giovedì il museo è gratis dalle 16:00 alle 20:00**.
 | ------ | ------ |
 | Adulti | 8 €    |
 
-<div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
+<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 **ORARI DI APERTURA**
 
@@ -966,7 +962,7 @@ Si trova di fronte al Duomo di Berlino, è abbastanza appariscente. Da qui potet
 | Intero       | 10 €   |
 | Agevolazioni | 5 €    |
 
-<div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
+<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 **ORARI DI APERTURA**
 
@@ -1004,7 +1000,7 @@ L' intero museo **deve essere visto con occhio simbolico**, a questo proposito v
 Biglietto famiglia (2 adulti e fino a 4 bambini): 14 €
 Bambini fino a 6 anni gratis.
 
-<div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
+<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 **ORARI DI APERTURA**
 
@@ -1040,7 +1036,7 @@ Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sa
 | Adulti                   | 16.50 € |
 | Bambini (da 4 a 14 anni) | 9.50 €  |
 
-<div style="color: red; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid red">Il prezzo è scontato a 12,38 € con la Berlin Welcome Card</div>
+<br><div style="color: red; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid red">Il prezzo è scontato a 12,38 € con la Berlin Welcome Card</div>
 
 - - -
 
@@ -1152,3 +1148,10 @@ Queste erano le nostre scelte per la città di Berlino, speriamo di esservi stat
 **Fateci sapere se vi è stata utile qui sotto nei commenti**!
 
 Vi auguriamo un piacevole viaggio!
+
+- - -
+
+
+
+**Atterri all' aeroporto Schönefeld?** [Qui trovi la nostra guida su come arrivare a Berlino Centro!](/schonefeld-berlino-centro/) 
+

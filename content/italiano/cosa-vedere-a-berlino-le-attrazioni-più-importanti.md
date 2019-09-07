@@ -7,7 +7,7 @@ description: >-
   Berlino senza spendere troppo. In questo articolo elenchiamo le migliori
   attrazioni storiche e moderne da vedere a Berlino
 autore: Mediterraneo
-immagine: /img/articoli/og2.png
+immagine: /img/articoli/berlino-cosa-vedere-og.png
 categories:
   - Guide
 series:

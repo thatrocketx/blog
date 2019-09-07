@@ -176,7 +176,7 @@ Se atterrate invece al Tegel, allora qui trovate la [card valida solo per la zon
 
 - - -
 
-Se amate godervi la città a piedi, come noi, potete anche farne a meno (Berlino è facilmente percorribile a piedi), ma **se volete evitare tragitti lunghi** inutili (le varie parti del muro e alcuni ) e volete soltanto vedere i vari monumenti allora vi consiglio di darci un' occhiata.
+Se amate godervi la città a piedi, come noi, potete anche farne a meno (Berlino è facilmente percorribile a piedi), ma **se volete evitare tragitti lunghi** e volete soltanto vedere i vari monumenti allora vi consiglio di darci un' occhiata.
 
 {{< titolo title="Cosa vedere gratis a Berlino" link="cosa-visitare-gratis" >}}
 

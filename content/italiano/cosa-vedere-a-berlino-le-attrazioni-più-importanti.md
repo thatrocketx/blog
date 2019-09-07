@@ -742,7 +742,7 @@ In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono 
 
 ---
 
-Tenete presente che gran parte di queste attrazioni sono incluse nel **pass di 3 giorni per i musei**, che per soli 30 € vi da diritto ad entrare **in 30 musei a vostra scelta per 3 giorni**. Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/).
+🎟️ Tenete presente che gran parte di queste attrazioni sono incluse nel **pass di 3 giorni per i musei**, che per soli 30 € vi da diritto ad entrare **in 30 musei a vostra scelta per 3 giorni**. Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/).
 
 ---
 
@@ -855,7 +855,7 @@ Ci sono inoltre dei pannelli dedicati alle grandi menti, **gli inventori** delle
 * **Farvi una foto e stamparla**
 * e molto altro
 
-Durante la vostra visita s**cattatevi una foto e pubblicatela su Instagram o Twitter** con l' hashtag [\#spionagemuseum](https://www.instagram.com/explore/tags/spionagemuseum/) (potete anche collegarvi al wifi del museo per non consumare i dati), verso la fine troverete un **punto nel quale potrete stampare tutte le vostre foto** (anche in più copie per i gruppi). 
+Durante la vostra visita s**cattatevi una foto e pubblicatela su Instagram o Twitter** con l' hashtag [\#spionagemuseum](https://instagram.com/explore/tags/spionagemuseum/) (potete anche collegarvi al wifi del museo per non consumare i dati), verso la fine troverete un **punto nel quale potrete stampare tutte le vostre foto** (anche in più copie per i gruppi). 
 
 Questo museo piacerà anche ai non amanti dello spionaggio e vi farà imparare molte cose. Altamente consigliato anche questo.
 

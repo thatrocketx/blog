@@ -227,7 +227,7 @@ Situata a Bebelplatz, **è una vecchia biblioteca di Berlino**. **Venne fatta co
 </g>
 </svg>
 
-![Bebelplatz dalla via opposta](/img/articoli/bebel-platz_compressed.jpg)
+{{< img "Bebelplatz dalla via opposta" "/img/articoli/bebel-platz_compressed.jpg" >}}
 
 Piazza molto famosa di Berlino, è il **luogo nel quale si trovano l' Alte Bibliothek**, la Staatsoper Unter Den Linden (Opera di Stato) e la Cattedrale di Sant'Edvige. 
 
@@ -239,7 +239,7 @@ Originariamente si chiamava Opernplatz, venne rinominata Bebelplatz nel 1947 da 
 
 {{< titolo2 title="Berliner Philharmonie" link="philharmonie" >}}
 
-![Ingresso della Philharmonie](/img/articoli/phiharmonie_compressed.jpg)
+{{< img "Ingresso della Philharmonie" "/img/articoli/phiharmonie_compressed.jpg" >}}
 
 Sala da concerto. La sala venne costruita quando, all' innalzamento del Muro di Berlino nel 1961, Berlino Ovest si ritrovò senza una sala da concerto (la vecchia Philarmonie era andata **distrutta durante la Seconda Guerra Mondiale**). Fa parte del **complesso culturale del Kulturforum**.
 
@@ -260,7 +260,7 @@ Cattedrale posta sul retro dell' Opera di Stato, a Bebelplatz. **Venne commissio
 </g>
 </svg>
 
-![Checkpoint Charlie](/img/articoli/checkpoint-charlie_compressed.jpg)
+{{< img "Checkpoint Charlie" "/img/articoli/checkpoint-charlie_compressed.jpg" >}}
 
 **Era il principale passaggio tra Berlino Est e Berlino Ovest**.
 
@@ -287,7 +287,7 @@ Museo abbastanza lontano dal centro di Berlino.
 </g>
 </svg>
 
-![Deutscher Dom visto da Konzerthaus](/img/articoli/deutscher-dom_compressed.jpg)
+{{< img "Deutscher Dom visto da Konzerthaus" "/img/articoli/deutscher-dom_compressed.jpg" >}}
 
 Costruita come la Neue Kirche (nuova chiesa) tra il 1702 e 1708, è ora **una delle chiese più famose di Berlino**. Il duomo venne **costruito nel 1785**. È uno degli edifici che sorge a Gendarmenmarkt. 
 
@@ -295,7 +295,7 @@ Entrando all' interno **si può visitare una mostra**, davvero molto bella, **su
 
 Inoltre all' ultimo piano sono presenti anche dei **modelli della vecchia Berlino**, del parlamento tedesco **e della Volkshalle**, l' **enorme edificio che Hitler sognava di costruire** dopo la vittoria della Seconda Guerra Mondiale.
 
-![Ricostruzione di una sala governativa all' interno del Deutscher Dom](/img/articoli/museo-deutscher-dom_compressed.jpg)
+{{< img "Ricostruzione di una sala governativa all' interno del Deutscher Dom" "/img/articoli/museo-deutscher-dom_compressed.jpg" >}}
 
 Come detto prima, è davvero una bella mostra, assolutamente da non perdere e in più è **totalmente Gratis**!
 
@@ -312,7 +312,7 @@ Chiuso il lunedì.
 
 {{< titolo2 title="Duomo di Berlino" link="duomo-berlino" >}}
 
-![Duomo di Berlino visto dal ponte](/img/articoli/duomo-di-berlino_compressed.jpg)
+{{< img "Duomo di Berlino visto dal ponte" "/img/articoli/duomo-di-berlino_compressed.jpg" >}}
 
 **Vecchia chiesa di corte** in stile rinascimentale. 
 
@@ -335,7 +335,7 @@ Purtroppo, al momento della scrittura, l' intero complesso è in fase di restaur
 </g>
 </svg>
 
-![Vista laterale del murale My God, Help Me to Survive this Deadly Love](/img/articoli/east-side-gallery-berlino_compressed.jpg)
+{{< img "Vista laterale del murale My God, Help Me to Survive this Deadly Love" "/img/articoli/east-side-gallery-berlino_compressed.jpg" >}}
 
 Forse **il pezzo di Muro più famoso della città**. È abbastanza distante dal centro (mezz' ora a piedi da Alexanderplatz), ma vale assolutamente la pena visitarlo, soprattutto se si è **amanti dell' arte**.
 
@@ -352,7 +352,7 @@ La foto di fronte al quadro più famoso, _My God, Help Me to Survive this Deadly
 </g>
 </svg>
 
-![Entrata alla sala del Parlamento a 360°](/img/articoli/erlebnis-europa_compressed.jpg)
+{{< img "Entrata alla sala del Parlamento a 360°" "/img/articoli/erlebnis-europa_compressed.jpg" >}}
 
 **Mostra gratuita** sull' Unione Europea.
 
@@ -379,7 +379,7 @@ Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile 
 </g>
 </svg>
 
-![Torre della Televisione vista da lontano](/img/articoli/torre-della-tv_compressed.jpg)
+{{< img "Torre della Televisione vista da lontano" "/img/articoli/torre-della-tv_compressed.jpg" >}}
 
 Alta 368m, è la **struttura più alta della Germania**.
 
@@ -402,17 +402,17 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 </g>
 </svg>
 
-![Facciata principale della chiesa](/img/articoli/franziskaner-klosterkirche_compressed.jpg)
+{{< img "Facciata principale della chiesa" "/img/articoli/franziskaner-klosterkirche_compressed.jpg" >}}
 
 **Rovine di una chiesa** del 1250 distrutta durante la **Seconda Guerra Mondiale**.
 
-![Foto del crocifisso con Torre di Berlino sullo sfondo](/img/articoli/franziskaner-klosterkirche-con-torre-della-tv_compressed.jpg)
+{{< img "Foto del crocifisso con Torre di Berlino sullo sfondo" "/img/articoli/franziskaner-klosterkirche-con-torre-della-tv_compressed.jpg" >}}
 
 {{< apri-mappa "https://www.google.com/maps/place/Franziskaner-Klosterkirche/@52.5184153,13.4124623,20z/data=!4m5!3m4!1s0x47a84e219a90a47b:0x4c0f455432331894!8m2!3d52.51837!4d13.4123399" "https://www.openstreetmap.org/#map=19/52.51843/13.41261" "geo:52.51843,13.41261?z=19" >}}
 
 {{< titolo2 title="Französischer Dom" link="franzosischer-dom" >}}
 
-![Facciata principale vista da Konzerthaus](/img/articoli/französischer-dom_compressed.jpg)
+{{< img "Facciata principale vista da Konzerthaus" "/img/articoli/französischer-dom_compressed.jpg" >}}
 
 Si trova a Gendarmenmarkt al lato opposto del Deutscher Dom. **Venne costruita nel 1705 dai rifugiati Ugunotti** ed è formata da due strutture: la torre bombata, che venne aggiunta nel 1785 e la Französische Kirche (chiesa francese), una copia della chiesa originale di Charenton.
 
@@ -425,7 +425,7 @@ Si trova a Gendarmenmarkt al lato opposto del Deutscher Dom. **Venne costruita n
 </g>
 </svg>
 
-![Vista laterale dell' inizio del memoriale](/img/articoli/memoriale-muro-di-berlino_compressed.jpg)
+{{< img "Vista laterale dell' inizio del memoriale" "/img/articoli/memoriale-muro-di-berlino_compressed.jpg" >}}
 
 **Memoriale di 1.4km dedicato alle persone che sono morte per attraversare il Muro di Berlino**. Racconta la storia di come la barriera si perfezionò nel tempo per evitare che le persone fuggissero. 
 
@@ -433,7 +433,7 @@ Il memoriale si estende in via Bernauer, una delle strade fondamentali della Gue
 
 Ci sono **sezioni del muro originale**, tunnel, torri di controllo ed altri **elementi storici**. 
 
-![Torre di controllo nel memoriale del Muro di Berlino](/img/articoli/memoriale-muro-di-berlino-torre_compressed.jpg)
+{{< img "Torre di controllo nel memoriale del Muro di Berlino" "/img/articoli/memoriale-muro-di-berlino-torre_compressed.jpg" >}}
 
 Una delle parti più importanti è la finestra della rimembranza dove ci sono le foto delle persone che vennero uccise per attraversare il muro.
 
@@ -475,7 +475,7 @@ Purtroppo questo è uno dei posti che non siamo riusciti a visitare per il poco 
 </g>
 </svg>
 
-![Vista dal basso della chiesa](/img/articoli/img_2093_compressed.jpg)
+{{< img "Vista dal basso della chiesa" "/img/articoli/img_2093_compressed.jpg" >}}
 
 **Chiesa del 1890 danneggiata**.
 
@@ -490,7 +490,7 @@ Purtroppo l' intero monumento, nel momento in cui scriviamo, **è in fase di res
 
 {{< titolo2 title="Konzerthaus" link="konzerthaus" >}}
 
-![Facciata principale con statua di Schiller](/img/articoli/konzerthaus_compressed.jpg)
+{{< img "Facciata principale con statua di Schiller" "/img/articoli/konzerthaus_compressed.jpg" >}}
 
 Maestoso edificio del 1821 al centro di Gendarmenmarkt.
 
@@ -505,7 +505,7 @@ La scultura rappresenta [Fiedrich Schiller](https://it.wikipedia.org/wiki/Friedr
 </g>
 </svg>
 
-![Memoriale a Peter Fechter con fiori](/img/articoli/memoriale-peter-fechter.jpg)
+{{< img "Memoriale a Peter Fechter con fiori" "/img/articoli/memoriale-peter-fechter.jpg" >}}
 
 A pochi passi da Checkpoint Charlie.
 
@@ -528,7 +528,7 @@ L' iscrizione recita
 </g>
 </svg>
 
-![Entrata Memoriale Resistenza e Eroi Silenziosi](/img/articoli/img_2127_compressed.jpg)
+{{< img "Entrata Memoriale Resistenza e Eroi Silenziosi" "/img/articoli/img_2127_compressed.jpg" >}}
 
 In questo edificio vengono raccontate le **storie di chi ha lottato contro il nazismo**. Il memoriale consiste in **due piani**: il primo è dedicato alla **Resistenza Tedesca**, con le storie di chi ha **lottato contro il nazismo**, compresi i racconti dei vari **tentativi di assassinio** falliti **di Hitler** e della **storia delle persone** dietro di essi, di come hanno organizzato il loro piano e di come hanno reperito i materiali e di come hanno costruito gli ordigni necessari. Scoprirete anche quanto è stato fortunato Hitler durante questi attentati.
 
@@ -540,7 +540,7 @@ Per visitare la **mostra gratuita** basta entrare nel **primo edificio** sulla s
 
 All' esterno è presente una **statua in ricordo di chi ha lottato contro il nazismo**.
 
-![Statua dedicata alle persone che si opposero al nazismo](/img/articoli/museo-eroi-silenziosi-berlino-statua_compressed.jpg)
+{{< img "Statua dedicata alle persone che si opposero al nazismo" "/img/articoli/museo-eroi-silenziosi-berlino-statua_compressed.jpg" >}}
 
 **ORARI DI APERTURA**
 
@@ -562,7 +562,7 @@ Chiuso il 24, 25, 26 e 31 dicembre e l' 1 gennaio.
 </g>
 </svg>
 
-![Stele con Reichstag nello sfondo](/img/articoli/memoriale-olocausto-2.jpg)
+{{< img "Stele con Reichstag nello sfondo" "/img/articoli/memoriale-olocausto-2.jpg" >}}
 
 Molto probabilmente il memoriale più famoso di Berlino, questo memoriale si trova sul punto nel quale una volta vi era una striscia della morte del Muro di Berlino.
 
@@ -572,7 +572,7 @@ Per arrivarci basta passare la Porta di Brandeburgo e prendere, se venite dalla 
 
 Il memoriale è **composto da 2.711 stele** e, cosa che non sapevamo, sono disposte in modo tale che sembrino basse all' inizio, per poi, scendendo, diventare sempre più alte, tanto che quasi ci si perde tra questi blocchi enormi.
 
-![Stele alte, foto nel mezzo del memoriale](/img/articoli/memoriale-olocausto.jpg)
+{{< img "Stele alte, foto nel mezzo del memoriale" "/img/articoli/memoriale-olocausto.jpg" >}}
 
 Nella zona sud-est **è possibile scendere nei sotteranei** per visitare la **mostra gratuita sull' Olocausto**. L' ultimo ingresso si ha **45 min prima della chiusura**, vi consiglio di tenerlo presente perché noi per questo motivo non ci siamo andati (purtroppo bisogna aspettare un po' se si capita in orari affollati).
 
@@ -600,7 +600,7 @@ Si può entrare fino a 45 min prima dell' orario di chiusura.
 </g>
 </svg>
 
-![Pannello informativo](/img/articoli/aktion-t4-memoriale_compressed.jpg)
+{{< img "Pannello informativo" "/img/articoli/aktion-t4-memoriale_compressed.jpg" >}}
 
 Memoriale dedicato alle vittime del programma dell' [Aktion T4](https://it.wikipedia.org/wiki/Aktion_T4) nazista.
 
@@ -617,7 +617,7 @@ Da vedere se ci si trova nell' area della Philarmonie (il memoriale si trova a T
 </g>
 </svg>
 
-![Facciata esterna](/img/articoli/neue-wache_compressed.jpg)
+{{< img "Facciata esterna" "/img/articoli/neue-wache_compressed.jpg" >}}
 
 Questo monumento si trova proprio di fronte all' Opera di Stato (a Bebelplatz).
 
@@ -636,7 +636,7 @@ Entrando all' interno si trova un enorme spazio vuoto con al centro una statua c
 </g>
 </svg>
 
-![Nikolaiviertel vista da fuori](/img/articoli/nikolaikirche_compressed.jpg)
+{{< img "Nikolaiviertel vista da fuori" "/img/articoli/nikolaikirche_compressed.jpg" >}}
 
 Zona che **ricrea la città di Berlino così come era nell' era medioevale**.
 
@@ -644,13 +644,13 @@ Il centro storico di Berlino fu infatti **completamente distrutto durante la Sec
 
 È davvero una zona molto bella, entrandovici sembra di essere ritornati indietro nel tempo: si trovano **ristoranti tipici** (in uno di questi abbiamo mangiato l' Eisbein che trovate nella foto del [nostro articolo sul cibo](/mangiare-a-berlino/)), piccoli negozietti, statue e una **bella vista sul fiume**. Davvero un bellissimo posto, forse una delle cose più belle che abbiamo visto della città.
 
-![Statua dell' orso a Nikolaiviertel](/img/articoli/nikolaikirche-statua-orso_compressed.jpg)
+{{< img "Statua dell' orso a Nikolaiviertel" "/img/articoli/nikolaikirche-statua-orso_compressed.jpg" >}}
 
 {{< apri-mappa "https://www.google.com/maps/place/Nikolaikirche/@52.517178,13.4069868,18z/data=!4m5!3m4!1s0x47a84e20c6611801:0x54922f7cce9a1368!8m2!3d52.5168346!4d13.4074831" "https://www.openstreetmap.org/#map=19/52.51683/13.40676" "geo:52.51683,13.40676?z=19" >}}
 
 {{< titolo2 title="Park am Gleisdreieck" link="park-am-gleisdreieck" >}}
 
-![Binari abbandonati](/img/articoli/park-am-gleisdreieck_compressed.jpg)
+{{< img "Binari abbandonati" "/img/articoli/park-am-gleisdreieck_compressed.jpg" >}}
 
 Ci si può fare un giro se si va al Deutsches Technikmuseum in quanto si trova proprio di fronte.
 
@@ -660,7 +660,7 @@ Ci si può fare un giro se si va al Deutsches Technikmuseum in quanto si trova p
 
 {{< titolo2 title="Parochialkirche" link="parochialkirche" >}}
 
-![Interno della chiesa](/img/articoli/parochialkirche_compressed.jpg)
+{{< img "Interno della chiesa" "/img/articoli/parochialkirche_compressed.jpg" >}}
 
 Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondiale**. Ora è in ricostruzione.
 
@@ -673,7 +673,7 @@ Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondi
 </g>
 </svg>
 
-![Porta di Brandeburgo con turisti](/img/articoli/porta-di-brandeburgo-2_compressed.jpg)
+{{< img "Porta di Brandeburgo con turisti" "/img/articoli/porta-di-brandeburgo-2_compressed.jpg" >}}
 
 Che dire, questo è **uno dei monumenti più famosi della città**. È Il simbolo della Germania riunificata. 
 
@@ -717,7 +717,7 @@ A parte il centro commerciale, a Potsdamer Platz è possibile vedere l' enorme *
 </g>
 </svg>
 
-![Vista del Reichstag](/img/articoli/20190812_193550_compressed.jpg)
+{{< img "Vista del Reichstag" "/img/articoli/20190812_193550_compressed.jpg" >}}
 
 Il Reichstag è la sede del Bundestag, il parlamento tedesco ed è una delle costruzioni più iconiche di Berlino, con la sua **cupola di vetro** dalla quale si può avere **una splendida vista sulla città**.
 
@@ -751,7 +751,7 @@ La colonna era **originariamente piazzata vicino al Reichstag** (lo potrete vede
 </g>
 </svg>
 
-![Monumento principale senza carri](/img/articoli/sowjetisches-ehrenmal_compressed.jpg)
+{{< img "Monumento principale senza carri" "/img/articoli/sowjetisches-ehrenmal_compressed.jpg" >}}
 
 Memoriale russo **dedicato agli 80mila soldati sovietici** morti durante la Battaglia di Berlino.
 
@@ -761,7 +761,7 @@ Di solito è poco affollato.
 
 {{< titolo2 title="Stadtmauer" link="stadtmauer" >}}
 
-![Stadtmauer](/img/articoli/muro-antico-di-berlino_compressed.jpg)
+{{< img "Stadtmauer" "/img/articoli/muro-antico-di-berlino_compressed.jpg" >}}
 
 Vecchie mura difensive cittadine della città di Berlino.
 
@@ -787,7 +787,7 @@ Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare,
 
 {{< titolo2 title="Tiergarten" link="tempelhofer-feld" >}}
 
-![Squarcio sul parco di Tiergarten con un albero e un lago con un ponte nello sfondo](/img/articoli/tiergarten_compressed.jpg)
+{{< img "Squarcio sul parco di Tiergarten con un albero e un lago con un ponte nello sfondo" "/img/articoli/tiergarten_compressed.jpg" >}}
 
 **Parco enorme** a **pochi passi dalla Porta di Brandeburgo**.
 Ogni parte contiene qualcosa da vedere, da statue a giardini come l' _Englisher Garten_, costruiti per commemorare il Ponte Aereo di Berlino.
@@ -797,7 +797,7 @@ Se vi trovate da quelle parti potete farvi un giro, se passate per il marciapied
 
 {{< titolo2 title="Topografia del Terrore" link="topografia-del-terrore" >}}
 
-![Parte esterna della Topografia del Terrore con pezzo di muro](/img/articoli/topografia-del-terrore-berlino_compressed.jpg)
+{{< img "Parte esterna della Topografia del Terrore con pezzo di muro" "/img/articoli/topografia-del-terrore-berlino_compressed.jpg" >}}
 
 Se si è amanti del periodo della seconda guerra e del post-guerra, questo è un posto che accontenterà sicuramente.
 
@@ -821,7 +821,7 @@ Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
 
 {{< titolo2 title="Torre di controllo in Erna-Berger-Straße" link="torre-di-controllo" >}}
 
-![Torre di controllo vicino Potsdamer Platz](/img/articoli/torre-di-controllo-berlino-potsdamer-platz_compressed.jpg)
+{{< img "Torre di controllo vicino Potsdamer Platz" "/img/articoli/torre-di-controllo-berlino-potsdamer-platz_compressed.jpg" >}}
 
 **Una delle nove torri di controllo rimaste** su 300 che erano presenti a tenere sotto controllo la popolazione della Germania dell' Est ed evitare che le persone scappassero scavalcando il muro.
 
@@ -836,7 +836,7 @@ Si trova **a pochi passi da Potsdamer Platz**, andando verso Checkpoint Charlie,
 Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di essere prenotate, qui ve le elenchiamo.
 
 * **Salita sulla cupola del Reichstag**
-  La prenotazione è **completamente gratuita** e va fatta online preferibilmente in largo anticipo. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/berlino-reichstag-prenotazione-cupola), oppure se ve la cavate bene con l' inglese, questo è il link al [sito del Bundestag sul quale va effettuata la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).​
+  La prenotazione è **completamente gratuita** e va fatta online preferibilmente in largo anticipo. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/berlino-reichstag-prenotazione-cupola), oppure se ve la cavate bene con l' inglese, questo è il link al [sito del Bundestag sul quale va effettuata la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).
   Se volete potete anche prenotare una visita guidata all' interno del Reichstag stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene prenotare il prima possibile (almeno due mesi prima).
 * **Spreepark**
   Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo **parco abbandonato** della Germania dell' Est.
@@ -892,7 +892,7 @@ Le spiegazioni sono in tedesco ed in inglese.
 </g>
 </svg>
 
-![Prima vista del museo](/img/articoli/technikmuseum_compressed.jpg)
+{{< img "Prima vista del museo" "/img/articoli/technikmuseum_compressed.jpg" >}}
 
 **Museo sulla scienza e sulla tecnica**, e vi porterà in un tour completo **dal computer all' aereo**.
 
@@ -912,7 +912,7 @@ Si trova davvero di tutto:
 
 Si divide su più piani ed è veramente fantastico, vi consigliamo assolutamente la visita se siete appassionati di tecnologia, soprattutto se vi trovate vicino Potsdamer Platz, visto che è abbastanza vicino.
 
-![Treno in mostra nel museo](/img/articoli/technikmuseum-treni_compressed.jpg)
+{{< img "Treno in mostra nel museo" "/img/articoli/technikmuseum-treni_compressed.jpg" >}}
 
 Ci sono anche **giochi interattivi** per comprendere meglio il funzionamento delle varie tecnologie mostrate. Ad esempio nell' area dedicata ai computer potrete imparare **come si conta in binario** e come funzionano i boolean e le porte logiche utilizzando semplicemente dei bottoni e delle manovelle, oppure potrete imparare come funziona una macchina per cucire e molto altro.
 
@@ -951,7 +951,7 @@ Chiuso il lunedì. Chiuso il 24, 25 e 31 dicembre e l' 1 maggio.
 </g>
 </svg>
 
-![Parte della mostra](/img/articoli/img_2064_compressed.jpg)
+{{< img "Parte della mostra" "/img/articoli/img_2064_compressed.jpg" >}}
 
 Museo molto ben fatto sullo spionaggio.
 
@@ -1066,7 +1066,7 @@ Chiuso il martedì.
 
 {{< titolo2 title="Museo Ebraico" link="museo-ebraico" >}}
 
-![Edificio principale del museo](/img/articoli/museo-ebraico-berlino_compressed.jpg)
+{{< img "Edificio principale del museo" "/img/articoli/museo-ebraico-berlino_compressed.jpg" >}}
 
 Museo molto famoso. Purtroppo si può vedere ben poco perché una buona parte della struttura è in restaurazione.
 
@@ -1100,7 +1100,7 @@ Bambini fino a 6 anni gratis.
 
 {{< titolo2 title="Accesso alla Fernsehturm (Torre della TV)" link="accesso-torre-della-televisione" >}}
 
-![Vista dalla Torre della TV sul parco di Tiergarte, la Porta di Brandeburgo, Potsdamer Platz, Bebelplatz e il Duomo di Berlino](/img/articoli/vista-torre-della-tv-berlino_compressed.jpg)
+{{< img "Vista dalla Torre della TV sul parco di Tiergarte, la Porta di Brandeburgo, Potsdamer Platz, Bebelplatz e il Duomo di Berlino" "/img/articoli/vista-torre-della-tv-berlino_compressed.jpg" >}}
 
 Se si vuole avere **una vista totale sulla città di Berlino** è assolutamente necessario salire sulla Torre della TV.
 
@@ -1203,7 +1203,7 @@ Si trova qualche metro dopo il Memoriale dell' Olocausto.
 
 {{< titolo2 title="Statua gigante dell' omino del semaforo (Einheitsmännchen)" link="einheitsmännchen" >}}
 
-![Statua dell' ampelmann](/img/articoli/statua-gigante-omino-del-semaforo-ampelmann_compressed.jpg)
+{{< img "Statua dell' ampelmann" "/img/articoli/statua-gigante-omino-del-semaforo-ampelmann_compressed.jpg" >}}
 
 Rimanenza di una vecchia installazione artistica per commemorare il 25° anniversario dell' Unità della Germania.
 Mostra una versione gigante e più dettagliata del famoso omino del semaforo (Ampelmann).
@@ -1218,7 +1218,7 @@ Si trova a qualche chilometro dal memoriale dell' Olocausto, a Ministergärten.
 </g>
 </svg>
 
-![Facciata con nome della stazione](/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg)
+{{< img "Facciata con nome della stazione" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
 
 Una delle tante "_Stazioni Fantasma_", si differenzia dal fatto che al suo interno vi è un' esposizione di foto storiche. 
 Le stazioni fantasma erano stazioni che si trovavano a Berlino Est e nelle quali era consentito il passaggio ai treni provenienti da Berlino Ovest (tre linee di Berlino Ovest avevano delle stazioni in Berlino Est), ma nelle quali non ci si poteva fermare. Al loro interno vi erano guardie armate della Germania dell' Est che controllavano che i treni non si fermassero. 

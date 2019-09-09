@@ -403,7 +403,7 @@ Chiuso il lunedì. Chiuso il 24, 25, 26 dicembre, chiuso dalle 16:00 in poi il 3
 
 Si può entrare fino a 45 min prima dell' orario di chiusura.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Memoriale+per+gli+ebrei+assassinati+d"'Europa/@52.5139062,13.3780765,18z/data=!4m12!1m6!3m5!1s0x47a851b49ef5d5af:0x985de95bf31847cb!2sGerman+Resistance+Memorial+Center!8m2!3d52.5077126!4d13.3626739!3m4!1s0x0:0x1434a79012ee5bc8!8m2!3d52.5139471!4d13.3787137">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51390/13.37875"  >OpenStreetMap</a> - <a href="geo:52.51390,13.37875?z=18"  >Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Memoriale+per+gli+ebrei+assassinati+d'Europa/@52.5139474,13.376524,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851c607196a5b:0x1434a79012ee5bc8!8m2!3d52.5139474!4d13.3787127?hl=it">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51390/13.37875"  >OpenStreetMap</a> - <a href="geo:52.51390,13.37875?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Monumento commemorativo dedicato alle vittime del programma nazista di Eutanasia" link="memoriale-t4" >}} 

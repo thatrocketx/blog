@@ -905,6 +905,13 @@ Da lì potrete avere **una vista a 360° della città** con una mini guida posta
 
 Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sapere nei commenti qualsiasi alternativa.
 
+
+- - -
+
+🏃 **Se non volete aspettare** il vostro turno potete anche acquistare il [fast ticket online, che vi darà l' accesso prioritario alla torre, su GetYouGuide](https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/). Il prezzo in questo caso è maggiorato e costa € 21.50.
+
+- - -
+
 **PREZZI**
 
 |                          | PREZZO  |
@@ -913,12 +920,6 @@ Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sa
 | Bambini (da 4 a 14 anni) | 9.50 €  |
 
 <br><div style="color: red; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid red">Il prezzo è scontato a 12,38 € con la Berlin Welcome Card</div>
-
-- - -
-
-🏃 **Se non volete aspettare** il vostro turno potete anche acquistare il [fast ticket online, che vi darà l' accesso prioritario alla torre, su GetYouGuide](https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/). Il prezzo in questo caso è maggiorato e costa € 21.50.
-
-- - -
 
 **ORARI DI APERTURA**
 
@@ -969,11 +970,11 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
 
 {{< titolo title="🤨 EXTRA: Cose insolite da vedere a Berlino" link="cose-insolite-da-visitare" >}}
 
-Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potreste visitare.
+Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potreste visitare per curiosità o semplicemente per fare qualcosa di diverso.
 
 {{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
 
-Murale "particolare" di un giornale nei pressi di Checkpoin Charlie. Vi sconsiglio di cercarlo online in posti affollati.
+Murale "particolare" di un giornale nei pressi di Checkpoin Charlie. Vi consigliamo di cercarlo online in posti non affollati.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50540/13.39190"  >OpenStreetMap</a> - <a href="geo:52.50540,13.39190?z=19"  >Applicazione mappe</a>
   </div>

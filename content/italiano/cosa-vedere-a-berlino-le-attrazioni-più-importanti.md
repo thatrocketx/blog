@@ -141,7 +141,7 @@ Costruita come la Neue Kirche (nuova chiesa) tra il 1702 e 1708, è ora **una de
 
 Entrando all' interno **si può visitare una mostra**, davvero molto bella, **sul parlamento tedesco**, grazie alla quale si può avere una **panoramica generale di come funzioni il Parlamento**, come si divide la Germania, la storia e molto altro. È possibile anche portare con sè degli opuscoli per leggerli poi successivamente.
 
-Inoltre all' ultimo piano sono presenti anche dei **modelli della vecchia Berlino**, del parlamento tedesco **e della Volkshalle**, l' **enorme edificio che Hitler sognava di costruire** dopo la vittoria della Seconda Guerra Mondiale.
+Inoltre all' ultimo piano sono presenti anche dei **modelli della vecchia Berlino**, del parlamento tedesco **e della [Volkshalle](https://it.wikipedia.org/wiki/Gro%C3%9Fe_Halle)**, l' **enorme edificio che Hitler sognava di costruire** dopo la vittoria della Seconda Guerra Mondiale.
 
 {{< img "Ricostruzione di una sala governativa all' interno del Deutscher Dom" "/img/articoli/museo-deutscher-dom_compressed.jpg" >}}
 
@@ -412,7 +412,7 @@ Si può entrare fino a 45 min prima dell' orario di chiusura.
 
 Memoriale dedicato alle vittime del programma dell' [Aktion T4](https://it.wikipedia.org/wiki/Aktion_T4) nazista, che prevedeva la morte delle persone affette da malattie o problemi.
 
-Il memoriale è un **lungo pannello informativo con storia, video e foto** e un monumento in ricordo.
+Il memoriale è composto da un **lungo pannello informativo con storia, video e foto** e da un monumento in ricordo.
 
 Da vedere se ci si trova nell' area della Philarmonie  in quanto si trova proprio a lato, verso la strada (il memoriale si trova a Tiergartenstaße, 4, la via nella quale avveniva il programma, da qui il nome T4).
 
@@ -423,7 +423,7 @@ Da vedere se ci si trova nell' area della Philarmonie  in quanto si trova propri
 
 {{< img "Facciata esterna" "/img/articoli/neue-wache_compressed.jpg" >}}
 
-Questo monumento si trova proprio di fronte all' Opera di Stato (a Bebelplatz).
+Questo monumento si trova proprio di fronte all' Opera di Stato (a Bebelplatz), leggermente a destra.
 
 **Venne voluto da Federico Guglielmo III di Prussia**. Originariamente era un memoriale alle vittime delle guerre napoleoniche. Ora è il **memoriale delle vittime della guerra**. 
 
@@ -442,7 +442,7 @@ Zona che **ricrea la città di Berlino così come era nell' era medioevale**.
 
 Il centro storico di Berlino fu infatti **completamente distrutto durante la Seconda Guerra Mondiale**. Questa ricostruzione venne ultimata nel 1987 e venne **commissionata dal governo della Germania dell' Est** per celebrare il **750esimo compleanno della città**.
 
-È davvero una zona molto bella, entrandovici sembra di essere ritornati indietro nel tempo: si trovano **ristoranti tipici** (in uno di questi abbiamo mangiato l' Eisbein che trovate nella foto del [nostro articolo sul cibo](/mangiare-a-berlino/)), piccoli negozietti, statue e una **bella vista sul fiume**. Davvero un bellissimo posto, forse una delle cose più belle che abbiamo visto della città.
+È davvero una zona molto bella, entrandovici sembra di essere ritornati indietro nel tempo: si trovano **ristoranti tipici** (in uno di questi abbiamo mangiato l' Eisbein che trovate nella foto del [nostro articolo sul cibo](/mangiare-a-berlino/)), piccoli negozietti, statue e una **bella vista sul fiume Sprea**. Davvero un bellissimo posto, forse una delle cose più belle che abbiamo visto della città.
 
 {{< img "Statua dell' orso a Nikolaiviertel" "/img/articoli/nikolaikirche-statua-orso_compressed.jpg" >}}
 
@@ -498,7 +498,7 @@ Questa piazza ha per noi un valore più affettivo che di altre perché qui abbia
 
 Venne **costruita negli anni novanta**, dopo il crollo del muro, **come il nuovo centro di Berlino**.
 
-A parte il centro commerciale, a Potsdamer Platz è possibile vedere l' enorme **semaforo con l' orologio** che ricorda il fatto che in questa piazza venne installato il **primo semaforo della Germania**, e le **rimanenze del muro**.
+A parte il centro commerciale, a Potsdamer Platz è possibile vedere l' enorme **torre del semaforo con l' orologio** che ricorda il fatto che in questa piazza venne installato il **primo semaforo della Germania nel 1924**, e le **rimanenze del Muro di Berlino**.
 
 È molto bello seguire la lunga linea di mattoni sui marciapiedi (non sulla strada però mi raccomando) e vedere le **rimanenze del muro**. In questo modo ci si rende conto di come questa piazza fosse divisa da questa lunga barriera.
 
@@ -649,7 +649,7 @@ In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono 
 
 ---
 
-🎟️ Tenete presente che gran parte di queste attrazioni sono incluse nel **pass di 3 giorni per i musei**, che per soli 30 € vi da diritto ad entrare **in 30 musei a vostra scelta per 3 giorni**. Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/).
+🎟️ Tenete presente che gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che per soli 30 € vi da diritto ad entrare **in 30 musei a vostra scelta per 3 giorni**. Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/).
 
 ---
 

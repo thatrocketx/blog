@@ -43,11 +43,11 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 ## 👉 Indice
 
 
-* [Cosa visitare **gratis a Berlino**](#cosa-visitare-gratis)
-* [Posti **solo su prenotazione** a Berlino](#cosa-vedere-su-prenotazione)
-* [Cosa vedere a Berlino (_a pagamento_)](#cosa-vedere-a-pagamento)
-* [_EXTRA_: **Cose insolite da visitare** a Berlino](#cose-insolite-da-visitare)
-* [Come funzionano i **trasporti pubblici a Berlino**](#trasporti)
+* [Cosa visitare **gratis a Berlino** 🆓](#cosa-visitare-gratis)
+* [Posti **solo su prenotazione** a Berlino ✋](#cosa-vedere-su-prenotazione)
+* [Cosa vedere a Berlino (_musei e attrazioni a pagamento_) 💶](#cosa-vedere-a-pagamento)
+* [_EXTRA_: **Cose insolite da visitare** a Berlino 🤨](#cose-insolite-da-visitare)
+* [Spostarsi a Berlino: come funzionano i **trasporti pubblici a Berlino** 🚏](#trasporti)
 
 {{< titolo title="🆓 Cosa vedere gratis a Berlino" link="cosa-visitare-gratis" >}}
 

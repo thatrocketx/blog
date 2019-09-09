@@ -293,7 +293,7 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 
 Purtroppo questo è uno dei posti che non siamo riusciti a visitare per il poco tempo e di cui ci dispiace. Nel caso dovessimo riorganizzare qualcosa a Berlino questo sarebbe il primo posto in cui probabilmente andremmo.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5243706,13.4019238,18z  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.52462/13.40189"  >OpenStreetMap</a> - <a href="geo:52.52462,13.40189?z=18"  >Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/@52.5243706,13.4019238,18z"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.52462/13.40189"  >OpenStreetMap</a> - <a href="geo:52.52462,13.40189?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Kaiser-Wilhelm-Gedächtniskirche" link="kaiser-wilhelm-gedachtniskirche" >}} 
@@ -403,20 +403,20 @@ Chiuso il lunedì. Chiuso il 24, 25, 26 dicembre, chiuso dalle 16:00 in poi il 3
 
 Si può entrare fino a 45 min prima dell' orario di chiusura.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Memoriale+per+gli+ebrei+assassinati+d"'Europa/@52.5139062,13.3780765,18z/data=!4m12!1m6!3m5!1s0x47a851b49ef5d5af:0x985de95bf31847cb!2sGerman+Resistance+Memorial+Center!8m2!3d52.5077126!4d13.3626739!3m4!1s0x0:0x1434a79012ee5bc8!8m2!3d52.5139471!4d13.3787137  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51390/13.37875"  >OpenStreetMap</a> - <a href="geo:52.51390,13.37875?z=18"  >Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Memoriale+per+gli+ebrei+assassinati+d"'Europa/@52.5139062,13.3780765,18z/data=!4m12!1m6!3m5!1s0x47a851b49ef5d5af:0x985de95bf31847cb!2sGerman+Resistance+Memorial+Center!8m2!3d52.5077126!4d13.3626739!3m4!1s0x0:0x1434a79012ee5bc8!8m2!3d52.5139471!4d13.3787137">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51390/13.37875"  >OpenStreetMap</a> - <a href="geo:52.51390,13.37875?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Monumento commemorativo dedicato alle vittime del programma nazista di Eutanasia" link="memoriale-t4" >}} 
 
 {{< img "Pannello informativo" "/img/articoli/aktion-t4-memoriale_compressed.jpg" >}}
 
-Memoriale dedicato alle vittime del programma dell' [Aktion T4](https://it.wikipedia.org/wiki/Aktion_T4) nazista.
+Memoriale dedicato alle vittime del programma dell' [Aktion T4](https://it.wikipedia.org/wiki/Aktion_T4) nazista, che prevedeva la morte delle persone affette da malattie o problemi.
 
 Il memoriale è un **lungo pannello informativo con storia, video e foto** e un monumento in ricordo.
 
-Da vedere se ci si trova nell' area della Philarmonie (il memoriale si trova a Tiergartenstaße la nella quale avveniva il programma) in quanto si trova proprio a lato, verso la strada.
+Da vedere se ci si trova nell' area della Philarmonie  in quanto si trova proprio a lato, verso la strada (il memoriale si trova a Tiergartenstaße, 4, la via nella quale avveniva il programma, da qui il nome T4).
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5105831,13.3691635,20z  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51038/13.36866"  >OpenStreetMap</a> - <a href="geo:52.51038,13.36866?z=19"  >Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/@52.5105831,13.3691635,20z"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51038/13.36866"  >OpenStreetMap</a> - <a href="geo:52.51038,13.36866?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Neue Wache" link="neue-wache" >}} 
@@ -582,7 +582,7 @@ Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare,
 Ogni parte contiene qualcosa da vedere, da statue a giardini come l' _Englisher Garten_, costruiti per commemorare il Ponte Aereo di Berlino.
 Se vi trovate da quelle parti potete farvi un giro, se passate per il marciapiede lungo la via che lo attraversa potrete vedere anche la Siegessäule e il Sowjetisches Ehrenmal.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5143313,13.3555659,15z  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.5136/13.3555"  >OpenStreetMap</a> - <a href="geo:52.5136,13.3555?z=15"  >Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/@52.5143313,13.3555659,15z"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.5136/13.3555"  >OpenStreetMap</a> - <a href="geo:52.5136,13.3555?z=15"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Topografia del Terrore" link="topografia-del-terrore" >}}

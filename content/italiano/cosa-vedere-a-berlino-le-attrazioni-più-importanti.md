@@ -688,7 +688,7 @@ Le spiegazioni sono in tedesco ed in inglese.
 
 {{< img "Prima vista del museo" "/img/articoli/technikmuseum_compressed.jpg" >}}
 
-**Museo sulla scienza e sulla tecnica**, e vi porterà in un tour completo **dal computer all' aereo**.
+**Museo sulla scienza e sulla tecnica** che vi porterà in un tour completo nella storia delle moderne tecnologie: **dal computer, al telefono fino ad arrivare all' aereo**.
 
 È un **museo eccellente**. Vi avvisiamo che visitarlo **non sarà una cosa da mezz' ora**, è davvero **enorme**. Considerate che noi siamo entrati alle 9:30 e siamo usciti alle 12:30, quindi sceglietevi una giornata libera senza altri impegni (ad esempio non prenotate la salita sul Reichstag).
 

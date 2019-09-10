@@ -974,7 +974,7 @@ Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potres
 
 {{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
 
-Murale "particolare" di un giornale nei pressi di Checkpoin Charlie. Vi consigliamo di cercarlo online in posti non affollati.
+Murale "particolare" di un giornale nei pressi di Checkpoint Charlie. Vi consigliamo di non cercarlo online in posti non affollati.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50540/13.39190"  >OpenStreetMap</a> - <a href="geo:52.50540,13.39190?z=19"  >Applicazione mappe</a>
   </div>

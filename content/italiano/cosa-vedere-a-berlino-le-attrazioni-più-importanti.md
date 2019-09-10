@@ -250,6 +250,7 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 **Rovine di una chiesa** del 1250 distrutta durante la **Seconda Guerra Mondiale**.
 
 {{< img "Foto del crocifisso con Torre di Berlino sullo sfondo" "/img/articoli/franziskaner-klosterkirche-con-torre-della-tv_compressed.jpg" >}}
+<small>Foto di that Rocket X</small>
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Franziskaner-Klosterkirche/@52.5184153,13.4124623,20z/data=!4m5!3m4!1s0x47a84e219a90a47b:0x4c0f455432331894!8m2!3d52.51837!4d13.4123399"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51843/13.41261"  >OpenStreetMap</a> - <a href="geo:52.51843,13.41261?z=19"  >Applicazione mappe</a>
   </div>

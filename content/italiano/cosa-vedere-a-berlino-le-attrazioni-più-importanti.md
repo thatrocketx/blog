@@ -908,7 +908,8 @@ Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sa
 
 - - -
 
-🏃 <mark>**Se non volete aspettare**</mark> il vostro turno potete anche acquistare il [fast ticket online, che vi darà l' accesso prioritario alla torre, su GetYouGuide](https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/). Il prezzo in questo caso è maggiorato e costa € 21.50.
+🏃 <mark>**Se non volete aspettare**</mark> il vostro turno potete anche acquistare il [fast ticket online, che vi darà l' accesso prioritario alla torre, su GetYouGuide](https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/).
+Il prezzo in questo caso è maggiorato e costa € 21.50.
 
 - - -
 

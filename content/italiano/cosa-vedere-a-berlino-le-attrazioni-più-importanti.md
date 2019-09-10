@@ -227,7 +227,7 @@ Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile 
 {{< img "Torre della Televisione vista da lontano" "/img/articoli/torre-della-tv_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-Alta 368m, è la **struttura più alta della Germania**.
+Alta 368m, è la **quarta torre più alta in Europa**.
 
 Venne ordinata dal governatore della Germania dell' Est Walter Ulbricht nel 1950.
 

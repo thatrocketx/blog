@@ -1002,7 +1002,7 @@ Si trova qualche metro dopo il Memoriale dell' Olocausto.
 
 Rimanenza di una vecchia installazione artistica per commemorare il 25° anniversario dell' Unità della Germania.
 Mostra una versione gigante e più dettagliata del famoso omino del semaforo (Ampelmann).
-Si trova a qualche chilometro a sud del memoriale dell' Olocausto, a Ministergärten. 
+Si trova a qualche metro a sud del memoriale dell' Olocausto, a Ministergärten. 
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745"  >OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19"  >Applicazione mappe</a>
   </div>

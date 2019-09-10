@@ -762,7 +762,7 @@ Ci sono inoltre dei pannelli dedicati alle grandi menti, **gli inventori** delle
 * **Farvi una foto e stamparla**
 * e molto altro
 
-Durante la vostra visita **scattatevi una foto e pubblicatela su Instagram o su Twitter** con l' hashtag [\#spionagemuseum](https://instagram.com/explore/tags/spionagemuseum/) (potete anche collegarvi al wifi del museo per non consumare i dati), <mark>verso la fine troverete un **punto nel quale potrete stampare tutte le vostre foto**</mark> (anche in più copie per i gruppi). 
+Durante la vostra visita **scattatevi una foto e pubblicatela su Instagram o su Twitter** con l' hashtag [\#spionagemuseum](https://instagram.com/explore/tags/spionagemuseum/) (potete anche collegarvi al wifi del museo per non consumare i dati), verso la fine troverete un **punto nel quale potrete stampare tutte le vostre foto** (anche in più copie per i gruppi). 
 
 Questo museo piacerà anche ai non amanti dello spionaggio e vi farà imparare molte cose. Altamente consigliato anche questo.
 

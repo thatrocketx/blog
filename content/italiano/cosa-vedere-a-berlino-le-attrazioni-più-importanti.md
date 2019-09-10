@@ -975,14 +975,14 @@ Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potres
 
 {{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
 
-Murale "particolare" di un giornale nei pressi di Checkpoint Charlie. Vi consigliamo di non cercarlo online in posti non affollati.
+**Murale "particolare" di un giornale** nei pressi di Checkpoint Charlie. Vi consigliamo di non cercarlo online in posti non affollati.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50540/13.39190"  >OpenStreetMap</a> - <a href="geo:52.50540,13.39190?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Spreepark" link="spreepark" >}}
 
-Vecchio parco abbandonato di Berlino. È necessaria la prenotazione online anticipata (vedere sopra). Si trova a qualche chilometro da East Side Gallery.
+**Vecchio parco divertimenti abbandonato** di Berlino. È necessaria la prenotazione online anticipata (vedere sopra). Si trova a qualche chilometro da East Side Gallery.
 **A PAGAMENTO (5€)**
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Spreepark/@52.4836351,13.4894014,16z/data=!4m5!3m4!1s0x0:0xcd9e29eb2b539c51!8m2!3d52.4835798!4d13.4916723"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.48546/13.48860"  >OpenStreetMap</a> - <a href="geo:52.48546,13.48860?z=17"  >Applicazione mappe</a>
@@ -990,7 +990,7 @@ Vecchio parco abbandonato di Berlino. È necessaria la prenotazione online antic
 
 {{< titolo2 title="Bunker di Hitler (Führerbunker)" link="bunker-hitler" >}}
 
-Luogo nel quale era situato il bunker di Hitler. Oggi è un parcheggio, un cartello spiega come era strutturato.
+**Luogo nel quale era situato il bunker di Hitler**. Oggi è un parcheggio, un cartello spiega come era strutturato.
 Si trova qualche metro dopo il Memoriale dell' Olocausto.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064"  >OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19"  >Applicazione mappe</a>
@@ -1000,7 +1000,7 @@ Si trova qualche metro dopo il Memoriale dell' Olocausto.
 
 {{< img "Statua dell' ampelmann" "/img/articoli/statua-gigante-omino-del-semaforo-ampelmann_compressed.jpg" >}}
 
-Rimanenza di una vecchia installazione artistica per commemorare il 25° anniversario dell' Unità della Germania.
+Rimanenza di una **vecchia installazione artistica per commemorare il 25° anniversario dell' Unità della Germania**.
 Mostra una versione gigante e più dettagliata del famoso omino del semaforo (Ampelmann).
 Si trova a qualche metro a sud del memoriale dell' Olocausto, a Ministergärten. 
 
@@ -1009,11 +1009,11 @@ Si trova a qualche metro a sud del memoriale dell' Olocausto, a Ministergärten.
 
 {{< titolo2 title="S-Bahn Nordbahnhof" link="nordbahnhof" >}} 
 
-{{< img "Facciata con nome della stazione" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
+{{< img "Facciata con nome della stazione S-Bahn Nordbahnhof" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
 
-Una delle tante "_Stazioni Fantasma_", si differenzia dal fatto che al suo interno vi è un' esposizione di foto storiche. 
-Le stazioni fantasma erano stazioni che si trovavano a Berlino Est e nelle quali era consentito il passaggio ai treni provenienti da Berlino Ovest (tre linee di Berlino Ovest avevano delle stazioni in Berlino Est), ma nelle quali non ci si poteva fermare. Al loro interno vi erano guardie armate della Germania dell' Est che controllavano che i treni non si fermassero. 
-[Qui trovate un video dell' epoca sulle stazioni fantasma](https://youtube.com/watch?v=7QYpfwbZcgc).
+**Una delle tante "_Stazioni Fantasma_"**, si differenzia dal fatto che al suo interno vi è un' **esposizione di foto storiche**. 
+Le stazioni fantasma erano **stazioni che si trovavano a Berlino Est** e nelle quali era consentito il passaggio ai treni provenienti da Berlino Ovest (tre linee di Berlino Ovest avevano delle stazioni in Berlino Est), ma **nelle quali non ci si poteva fermare**. Al loro interno vi erano **guardie armate della Germania dell' Est che controllavano** che i treni non si fermassero. 
+[Qui trovate un **video dell' epoca sulle stazioni fantasma**](https://youtube.com/watch?v=7QYpfwbZcgc).
 
 Si trova proprio accanto al Memoriale del Muro di Berlino.
 

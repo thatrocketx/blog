@@ -649,7 +649,7 @@ In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono 
 
 ---
 
-🎟️ Tenete presente che gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che per soli 30 € vi da diritto ad <mark>entrare **in 30 musei per 3 giorni**</mark> (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/).
+🎟️ Tenete presente che gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che <mark>per soli 30 € vi da diritto ad entrare **in 30 musei per 3 giorni**</mark> (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/).
 
 ---
 

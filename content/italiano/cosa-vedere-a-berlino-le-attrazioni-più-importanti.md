@@ -149,6 +149,7 @@ Entrando all' interno **si può visitare una mostra**, davvero molto bella, **su
 Inoltre all' ultimo piano sono presenti anche dei **modelli della vecchia Berlino**, del parlamento tedesco **e della [Volkshalle](https://it.wikipedia.org/wiki/Gro%C3%9Fe_Halle)**, l' **enorme edificio che Hitler sognava di costruire** dopo la vittoria della Seconda Guerra Mondiale.
 
 {{< img "Ricostruzione di una sala governativa all' interno del Deutscher Dom" "/img/articoli/museo-deutscher-dom_compressed.jpg" >}}
+<small>Foto di that Rocket X</small>
 
 Come detto prima, è davvero una bella mostra, assolutamente da non perdere e in più è **totalmente Gratis**!
 

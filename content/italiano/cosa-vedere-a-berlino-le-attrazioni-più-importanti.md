@@ -3,8 +3,9 @@ draft: false
 date: '2019-09-06T18:35:39+00:00'
 title: 'Cosa vedere a Berlino: tutte le attrazioni più importanti'
 description: >-
-  Le migliori attrazioni gratis e i musei più importanti. In questo articolo elenchiamo le migliori
-  attrazioni storiche, moderne e anche quelle più inusuali.
+  Le migliori attrazioni gratis e i musei più importanti. In questo articolo
+  elenchiamo le migliori attrazioni storiche, moderne e anche quelle più
+  inusuali.
 autore: Mediterraneo
 immagine: /img/articoli/cosa-vedere-a-berlino-og.png
 categories:

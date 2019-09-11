@@ -1,34 +1,20 @@
 <!-- Open Graph / Facebook (SPECIAL THANKS GO TO Hash_Borgir, THANK YOU!) -->
+{{ if .IsPage }}<meta property="og:type" content="article" />{{ else }}<meta property="og:type" content="blog" />{{end}}
 <meta property="og:title" content="{{ if (isset .Params "titoloseo") }}{{ .Params.titoloSEO }}{{ else }}{{ .Title }}{{ end }}" />
 <meta property="og:description" content="{{ .Params.description }}" />
 {{ if (isset .Params "videoseo") }}<meta property="og:video" content="{{ .Params.videoseo }}" />  {{ end }}
 <meta property="og:image" content="https://www.thatrocketx.com{{ if (isset .Params "immagine") }}{{ .Params.immagine }}{{else}}/img/og/og-home-v2.jpg{{end}}" />
+<meta property="og:image:secure_url" content="https://www.thatrocketx.com{{ if (isset .Params "immagine") }}{{ .Params.immagine }}{{else}}/img/og/og-home-v2.jpg{{end}}" />
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">
 <meta property="og:site_name" content="that Rocket X" />
 {{ if (isset .Params "autore") }}<meta property="article:author" content="{{ .Params.autore }}" />{{end}}
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-{{ if .IsPage }}
-<!-- Serie -->
-{{ $permalink := .Permalink }}
-{{ $siteSeries := .Site.Taxonomies.series }}
-{{ with .Params.series }}
-{{ range $name := . }}
-{{ $series := index $siteSeries $name }}
-{{ range $page := first 6 $series.Pages }}
-{{ if ne $page.Permalink $permalink }}
-<meta property="og:see_also" content="{{ $page.Permalink }}" />
-{{ end }}
-{{ end }}
-{{ end }}
-{{ end }}
-{{ range .Params.tags }}
-<meta property="article:tag" content="{{ . }}" />
-{{ end }}
-<meta property="og:type" content="article" />
-{{ else }}
-<meta property="og:type" content="blog" />
-{{ end }}
+{{ if (isset .Params "categories") }}<meta property="article:section" content="{{ .Params.categories }}" />{{ end }}
+{{ if .IsPage }}<!-- Serie -->{{ $permalink := .Permalink }}{{ $siteSeries := .Site.Taxonomies.series }}{{ with .Params.series }}{{ range $name := . }}{{ $series := index $siteSeries $name }}{{ range $page := first 6 $series.Pages }}{{ if ne $page.Permalink $permalink }}
+<meta property="og:see_also" content="{{ $page.Permalink }}" />{{ end }}{{ end }}{{ end }}{{ end }}
+{{ range .Params.tags }}<meta property="article:tag" content="{{ . }}" />
+{{ end }}{{ end }}
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ if (isset .Params "titoloseo") }}{{ .Params.titoloSEO }}{{ else }}{{ .Title }}{{ end }}" />

@@ -10,7 +10,8 @@
 {{ if (isset .Params "autore") }}<meta property="article:author" content="{{ .Params.autore }}" />{{end}}
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-{{ if (isset .Params "categories") }}<meta property="article:section" content="{{ .Params.categories }}" />{{ end }}
+{{ if (isset .Params "categories") }}{{range .Params.categories}}<meta property="article:section" content="{{ .Params.categories }}" />
+{{ end }}{{ end }}
 {{ if .IsPage }}<!-- Serie -->{{ $permalink := .Permalink }}{{ $siteSeries := .Site.Taxonomies.series }}{{ with .Params.series }}{{ range $name := . }}{{ $series := index $siteSeries $name }}{{ range $page := first 6 $series.Pages }}{{ if ne $page.Permalink $permalink }}
 <meta property="og:see_also" content="{{ $page.Permalink }}" />{{ end }}{{ end }}{{ end }}{{ end }}
 {{ range .Params.tags }}<meta property="article:tag" content="{{ . }}" />

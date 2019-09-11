@@ -6,7 +6,7 @@ description: >-
   Le migliori attrazioni gratis e i musei più importanti. In questo articolo elenchiamo le migliori
   attrazioni storiche, moderne e anche quelle più inusuali.
 autore: Mediterraneo
-immagine: /img/articoli/cosa-vedere-a-berlino-og_compressed.jpg
+immagine: /img/articoli/cosa-vedere-a-berlino-og.png
 categories:
   - Guide
 series:

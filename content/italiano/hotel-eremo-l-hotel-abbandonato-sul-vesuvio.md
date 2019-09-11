@@ -31,7 +31,7 @@ sottotitolo: >-
 slug: hotel-eremo-vesuvio
 immagineprincipale: /img/articoli/hotel-eremo-vista-aerea.jpg
 descrizioneimg: Vista aerea dell' Hotel Eremo sul Vesuvio. Foto di that Rocket X.
-videoSEO: 'https://www.thatrocketx.com/video/hotel-eremo-articolo-og.mp4'
+videoSEO: 'https://www.thatrocketx.com/video/hotel-eremo-articolo-og-v2.mp4'
 videoself: true
 fontawesome: false
 js: false

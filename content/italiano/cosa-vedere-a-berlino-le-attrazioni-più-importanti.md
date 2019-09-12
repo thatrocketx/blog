@@ -34,7 +34,7 @@ fontawesome: false
 js: false
 publishdate: '2019-09-06T18:35:39+00:00'
 expirydate: ' '
-lastmod: '2019-09-06T18:35:39+00:00'
+lastmod: '2019-09-12T19:48:39+00:00'
 ---
 Berlino è una città molto moderna, ma dalla quale è possibile ricavare la sua storia: **dal medioevo alla Seconda Guerra Mondiale**, fino ad arrivare alla più recente **Guerra Fredda**. Non è difficile imbattarsi in **pezzi del muro**, **monumenti sovietici**, **luoghi abbandonati** o statue moderne nascoste. Ciò che piace di Berlino è proprio questa sua **varietà di strutture** presenti, influenzate dalla sua recente storia.
 
@@ -42,13 +42,13 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 
 ## 👉 Indice
 
-* [Cosa visitare **gratis a Berlino** 🆓](#cosa-visitare-gratis)
+* [Cosa vedere **gratis a Berlino** 🆓](#cosa-vedere-gratis)
 * [Posti **solo su prenotazione** a Berlino ✋](#cosa-vedere-su-prenotazione)
-* [Cosa vedere a Berlino (_musei e attrazioni a pagamento_) 💶](#cosa-vedere-a-pagamento)
-* [_EXTRA_: **Cose insolite da visitare** a Berlino 🤨](#cose-insolite-da-visitare)
+* [Cosa visitare a Berlino (_musei e attrazioni a pagamento_) 💶](#cosa-visitare-a-pagamento)
+* [_EXTRA_: **Cose insolite da vedere** a Berlino 🤨](#cose-insolite-da-vedere)
 * [Spostarsi a Berlino: come funzionano i **trasporti pubblici a Berlino** 🚏](#trasporti)
 
-{{< titolo title="🆓 Cosa vedere gratis a Berlino" link="cosa-visitare-gratis" >}}
+{{< titolo title="🆓 Cosa vedere gratis a Berlino" link="cosa-vedere-gratis" >}}
 
 **Berlino è piena di luoghi e musei gratuiti**, in questa sezione vi elencheremo **i luoghi che abbiamo visto e quelli che avremmo voluto vedere**; Berlino è una città ricca di cose da vedere e per questo non ci è stato possibile visitarli tutti, ma siamo riusciti almeno a vederne la maggior parte.
 
@@ -683,7 +683,7 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 
 - - -
 
-{{< titolo title="💶 Cosa vedere (a pagamento)" link="cosa-vedere-a-pagamento" >}}
+{{< titolo title="💶 Cosa visitare (musei e attrazioni a pagamento)" link="cosa-visitare-a-pagamento" >}}
 
 In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono piaciute di più. Abbiamo deciso di descrivere solo quelle in cui siamo andati perché non ci sentiamo di consigliare posti di cui non sappiamo nulla e farvi spendere dei soldi inutilmente, alla fine di questa sezione vi elencheremo il resto dei posti che potreste visitare in base a quelli che avevamo inizialmente deciso di vedere (ma che a causa del poco tempo e di qualche imprevisto non siamo riusciti a guardare).
 
@@ -1013,7 +1013,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
   Un parco abbandonato sulla riva del fiume.
   [Sito web](https://gruen-berlin.de/en/spreepark) (inglese).
 
-{{< titolo title="🤨 EXTRA: Cose insolite da vedere a Berlino" link="cose-insolite-da-visitare" >}}
+{{< titolo title="🤨 EXTRA: Cose insolite da vedere a Berlino" link="cose-insolite-da-vedere" >}}
 
 Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potreste visitare per curiosità o semplicemente per fare qualcosa di diverso.
 

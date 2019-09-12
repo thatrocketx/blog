@@ -529,7 +529,7 @@ input[class="navmobile"], label[for="menuapri"] {
   fill: #000
 }
 
-.rss-lista:hover {
+.rss-lista:hover, .rss-lista:focus {
   fill: #df642a
 }
 
@@ -600,8 +600,8 @@ input[class="navmobile"], label[for="menuapri"] {
 }
 
 .articoli.lista:hover, .articoli.lista:focus {
-  -webkit-box-shadow: 0 0 5px 2px #e1d4db;
-  box-shadow: 0 0 5px 2px #e1d4db;
+  -webkit-box-shadow: 0 10px 15px 5px #e1d4db;
+  box-shadow: 0 10px 15px 5px #e1d4db;
   -webkit-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
 }
@@ -900,7 +900,7 @@ article .testo {
    content: '#';
 }
 
-article h2 a:hover {
+article h2 a:hover, article h2 a:focus {
    color: #dd3d57;
    background-color: none;
 }
@@ -937,7 +937,7 @@ article a:not(.noext) {
   padding: 0 3px 0 3px;
 }
 
-article a:not(.noext):hover {
+article a:not(.noext):hover, article a:not(.noext):focus {
   color: #dd3d57;
   -webkit-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
@@ -1158,7 +1158,7 @@ article p:last-child:after {
   transition: all .5s ease-in-out;
 }
 
-.compra:hover {
+.compra:hover, .compra:focus {
   -webkit-box-shadow: 0 5px 10px 1px rgba(189, 189, 189, 0.37);
   box-shadow: 0 5px 10px 1px rgba(189, 189, 189, 0.37);
   -webkit-transition: all .5s ease-in-out;
@@ -1903,9 +1903,9 @@ footer a {
     fill: #FFF
   }
 
-  .articoli.lista:hover {
-    -webkit-box-shadow: 0 0 5px 2px #000000;
-    box-shadow: 0 0 5px 2px #000000;
+  .articoli.lista:hover, .articoli.lista:focus {
+    -webkit-box-shadow: 10px 15px 5px #000000;
+    box-shadow: 10px 15px 5px #000000;
     -webkit-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
   }

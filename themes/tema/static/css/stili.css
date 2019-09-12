@@ -821,8 +821,13 @@ article figure {
 }
 
 article figcaption {
-  color: #767676;
-  font-size: .9em
+  color: #534f4f;
+  font-size: .9em;
+  margin-top: 3px;
+}
+
+article iframe {
+   margin: auto;
 }
 
 .titolo {
@@ -1140,7 +1145,7 @@ article p:last-child:after {
 }
 
 .ultimamodifica {
-  color: #d4d3d3;
+  color: #534f4f;
   font-size: .9em
 }
 

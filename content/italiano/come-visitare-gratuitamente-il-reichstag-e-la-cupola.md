@@ -149,7 +149,7 @@ Vi troverete davanti **tre opzioni**:
 
 ### Passo 6 - Selezione del numero di persone
 
-{{< img Numero di persone. Nell' esempio sono inserite due persone. Pulsante Next evidenziato.""/img/articoli/7-reichstag-cupola-web-numero-persone.png" >}}
+{{< img "Numero di persone. Nell' esempio sono inserite due persone. Pulsante Next evidenziato.""/img/articoli/7-reichstag-cupola-web-numero-persone.png" >}}
 
 Qui dovrete **inserire il numero delle persone da prenotare e cliccare su _Next_**.
 

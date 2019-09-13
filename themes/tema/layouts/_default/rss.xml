@@ -27,8 +27,8 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description><img src="{{ .Site.BaseURL }}{{.Params.immagine}}" alt="" /><br/>{{ .Content | html }}<br /><h2><a href="{{ .Permalink }}#c">{{ T "vaiaicommenti"}}</a></h2></description>
-      <webfeeds:cover image="{{ .Site.BaseURL }}{{.Params.immagine}}" />
+      <description><img src="https://www.thatrocketx.com{{.Params.immagine}}" alt="" /><br/>{{ .Content | html }}<br /><h2><a href="{{ .Permalink }}#c">{{ T "vaiaicommenti"}}</a></h2></description>
+      <webfeeds:cover image="https://www.thatrocketx.com{{.Params.immagine}}" />
       <enclosure url="{{ .Site.BaseURL }}{{.Params.immagine}}" type="image/jpg" />
       <category> {{ if (isset .Params "categories") }}{{range first 1 .Params.categories}}{{ . }}{{end}}{{ end }} </category>
       <comments>{{ .Permalink }}#c</comments> 

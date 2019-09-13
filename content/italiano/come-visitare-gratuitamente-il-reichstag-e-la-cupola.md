@@ -271,7 +271,7 @@ Se non lo avete ancora fatto, **vi invitiamo a leggere la** [**nostra guida a Be
 
 Grazie per la lettura. **Buon viaggio**!
 
-<a href="/cosa-vedere-a-berlino">{{< img "Leggi la nostra guida per Berlino" "/img/articoli/guida-berlino-promo-2.jpg" >}}</a>
+<a href="/cosa-vedere-a-berlino">{{< img "Leggi la nostra guida per Berlino" "/img/articoli/guida-berlino-promo-3.jpg" >}}</a>
 
 ## Informazioni sul Reichstag
 

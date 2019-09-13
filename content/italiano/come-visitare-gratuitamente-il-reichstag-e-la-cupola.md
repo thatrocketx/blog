@@ -39,7 +39,7 @@ Uno dei monumenti più famosi della città di Berlino è sicuramente il Reichsta
 
 Non solo: è anche possibile accompagnarla con delle **visite guidate** all' interno del Palazzo stesso.
 
-**Se si prenota in tempo**, infatti, è possibile prendere l' **ascensore gratuita che porta fino al tetto della struttura** e da qui è possibile avere una **vista a 360° della città** e leggere la storia della sua costruzione. 
+**Se si prenota in tempo**, infatti, è possibile prendere l' **ascensore gratuito che porta fino al tetto della struttura** e da qui è possibile avere una **vista a 360° della città** e leggere la storia della sua costruzione. 
 
 In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo. Buona lettura!
 

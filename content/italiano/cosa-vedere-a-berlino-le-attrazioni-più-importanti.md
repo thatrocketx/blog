@@ -559,7 +559,7 @@ Durante la Seconda Guerra Mondiale fu vittima dei vari bombardamenti.
 
 <mark>È possibile **salire GRATUITAMENTE sulla cupola in vetro**</mark> attraverso l' ascensore per ammirare la città e per leggere la storia dell' edificio. <mark>Per fare ciò **è necessario PRENOTARE con largo anticipo**</mark>. 
 
-Se siete interessati [qui trovate una guida su come prenotarsi](/berlino-reichstag-prenotazione-cupola), per chi invece è ferrato con l' inglese vi lascio direttamente il link al [sito sul quale effettuare la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en).
+Se siete interessati [qui trovate una guida su come prenotarsi](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino), per chi invece è ferrato con l' inglese vi lascio direttamente il link al [sito sul quale effettuare la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en).
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Palazzo+del+Reichstag/@52.518456,13.3756935,18z/data=!4m5!3m4!1s0x0:0x641b52d3abf17de5!8m2!3d52.5186202!4d13.3761871"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51859/13.37553"  >OpenStreetMap</a> - <a href="geo:52.51859,13.37553?z=18"  >Applicazione mappe</a>
   </div>
@@ -673,7 +673,7 @@ Si trova **a pochi passi da Potsdamer Platz**, andando verso Checkpoint Charlie,
 Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di essere prenotate, qui ve le elenchiamo.
 
 * **Salita sulla cupola del Reichstag**
-  La prenotazione è **completamente gratuita** e va fatta **online** preferibilmente in **largo anticipo**. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/berlino-reichstag-prenotazione-cupola), oppure se ve la cavate bene con l' inglese, questo è il link al [**sito del Bundestag sul quale va effettuata la prenotazione**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).
+  La prenotazione è **completamente gratuita** e va fatta **online** preferibilmente in **largo anticipo**. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino), oppure se ve la cavate bene con l' inglese, questo è il link al [**sito del Bundestag sul quale va effettuata la prenotazione**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).
   Se volete potete anche prenotare una **visita guidata all' interno del Reichstag** stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene **prenotare il prima possibile** (almeno due mesi prima).
 * **Spreepark**
   Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo **parco abbandonato** della Germania dell' Est.

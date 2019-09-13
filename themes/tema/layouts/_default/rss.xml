@@ -29,7 +29,7 @@
       <guid>{{ .Permalink }}</guid>
       <description><img src="https://www.thatrocketx.com{{.Params.immagine}}" alt="" /><br/>{{ .Content | html }}<br /><h2><a href="{{ .Permalink }}#c">{{ T "vaiaicommenti"}}</a></h2></description>
       <webfeeds:cover image="https://www.thatrocketx.com{{.Params.immagine}}" />
-      <enclosure url="{{ .Site.BaseURL }}{{.Params.immagine}}" type="image/jpg" />
+      <enclosure url="https://www.thatrocketx.com{{.Params.immagine}}" type="image/jpg" />
       <category> {{ if (isset .Params "categories") }}{{range first 1 .Params.categories}}{{ . }}{{end}}{{ end }} </category>
       <comments>{{ .Permalink }}#c</comments> 
     </item>

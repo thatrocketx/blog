@@ -143,21 +143,31 @@ Vi troverete davanti **tre opzioni**:
   (_dalle 8:00 a mezzanotte (ultima visita alle 21.45); chiuso il 24 dicembre e il 31 dicembre dalle 16 in poi. Potrebbero esserci dei giorni di chiusura per effettuare la pulizia della struttura_).
   ![Visita alla cupola selezionata. Informazioni aggiuntive e pulsante Next selezionato.](/img/articoli/6-reichstag-cupola-web-continuo-scelta.png)
 
-![Visita alla cupola selezionata. Informazioni aggiuntive e pulsante Next selezionato.](/img/articoli/6-reichstag-cupola-web-continuo-scelta.png)
+
+
+![Visita alla cupola selezionata. Informazioni aggiuntive e pulsante Next evidenziato.](/img/articoli/6-reichstag-cupola-web-continuo-scelta.png)
 
 **Selezionate la vostra opzione e cliccate sul tasto _Next_**.
 
 ### Passo 6 - Selezione del numero di persone
 
+![Numero di persone. Nell' esempio sono inserite due persone. Pulsante Next evidenziato.](/img/articoli/7-reichstag-cupola-web-numero-persone.png)
+
 Qui dovrete **inserire il numero delle persone da prenotare e cliccare su _Next_**.
 
 ### Passo 7 - Selezione della data e degli orari
 
+![Calendario con il giorno 17 selezionato. Nella parte inferiore ci sono gli orari disponibili nel giorno selezionato.](/img/articoli/8-reichstag-cupola-web-data.png)
+
 Vi si aprirà **un calendario** nel quale dovrete **decidere il giorno della vostra visita**. Una volta scelto il giorno scorrete la pagina e **scegliete gli orari** nei quali vi recherete, **potete scegliere al massimo 3 orari diversi** (vi consigliamo di sceglierli abbastanza distanti, così se ne perdete uno per problemi di tempo, non perderete anche gli altri!).
+
+![Riepilogo degli orari. Pulsante Next evidenziato.](/img/articoli/9-reichstag-cupola-web-data-continuo.png)
 
 Una volta scelti gli orari **cliccate su _Next_**.
 
 ### Passo 8 - Informazioni di contatto
+
+![Form della persona da contattare con campi di esempio per nome, cognome e indirizzo email.](/img/articoli/10-reichstag-cupola-web-nome-cognome.png)
 
 In questa pagina dovete inserire le **informazioni sulla persona** responsabile **da contattare per l' invio dei biglietti** e in caso di eventuali problemi.
 
@@ -173,11 +183,15 @@ I campi sono:
 
 ### Passo 9 - Conferma informazioni di contatto
 
+![Riepilogo delle informazioni di contatto.](/img/articoli/11-reichstag-cupola-web-conferma-finale.png)
+
 In questa pagina troverete un **riepilogo delle informazioni** inserite fino ad ora.
 
 **Controllate** che sia tutto in ordine e **successivamente cliccate su _Save_**.
 
 ### Passo 10 - Conferma via email
+
+![Email inviata con i due link. Il link da usare è evidenziato.](/img/articoli/12-reichstag-cupola-web-email.png)
 
 **Riceverete una email** per confermare la vostra prenotazione.
 
@@ -193,11 +207,13 @@ Troverete due link.
 
 ### Passo 11 - Compilazione e invio della richiesta
 
+![Esempio compilazione della richiesta. Il pulsante da cliccare a destra è evidenziato.](/img/articoli/13-reichstag-cupola-web-fine.png)
+
 Questo è l' ultimo passaggio per la prenotazione.
 
 Una volta raggiunto il **sito della email**, dovrete **compilare i campi con il Nome, Cognome e Data di nascita di tutte le persone** che visiteranno il Reichstag.
 
-**Una volta compilati** tutti i campi per tutte le persone, **cliccate sul TASTO A SINISTRA**, quello con su scritto _**Submit your request**_.
+**Una volta compilati** tutti i campi per tutte le persone, **cliccate sul TASTO A SINISTRA**, quello con su scritto **_Submit your request_**.
 
 ### Passo 12 - La conferma
 
@@ -228,9 +244,7 @@ Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona dell
 <path d="m3.8466 297.01c0.077147-3e-3 0.1991-3e-3 0.271 3e-5 0.071903 3e-3 0.00878 5e-3 -0.14027 5e-3 -0.14905-1e-5 -0.20788-2e-3 -0.13073-5e-3zm-0.24389-0.0299c-0.81763-0.0977-1.4521-0.35267-2.0724-0.83281-0.17414-0.1348-0.52098-0.48164-0.65579-0.65578-0.36675-0.47377-0.61789-0.99512-0.74488-1.5463-0.036819-0.1598-0.080919-0.4324-0.084121-0.51999l-0.0022621-0.0619-0.010071 0.0638c-0.025576 0.16192-0.043949-0.42918-0.021554-0.69344 0.009881-0.1166 0.012887-0.12661 0.021554-0.0717l0.010071 0.0638 0.0022621-0.0599c0.010301-0.2727 0.12616-0.74938 0.26816-1.1033 0.19464-0.48509 0.48453-0.91927 0.87343-1.3082 0.3889-0.3889 0.82309-0.67879 1.3082-0.87343 0.3539-0.142 0.83058-0.25786 1.1033-0.26816l0.059884-2e-3 -0.063765-0.0101c-0.054871-9e-3 -0.044865-0.0117 0.071735-0.0216 0.074525-6e-3 0.21441-0.0115 0.31085-0.0115s0.23633 5e-3 0.31085 0.0115c0.1166 0.01 0.12661 0.0129 0.071735 0.0216l-0.063765 0.0101 0.061862 2e-3c0.087586 3e-3 0.36018 0.0473 0.51999 0.0841 0.55118 0.12699 1.0725 0.37814 1.5463 0.74489 0.17414 0.1348 0.52098 0.48164 0.65579 0.65578 0.3667 0.47371 0.61751 0.99431 0.74495 1.5463 0.075718 0.32797 0.089766 0.46893 0.089766 0.90068s-0.014048 0.57271-0.089766 0.90067c-0.22644 0.98082-0.85022 1.8656-1.7047 2.418-0.47241 0.30539-0.95022 0.48733-1.5452 0.5884-0.14559 0.0247-0.83493 0.0449-0.97241 0.0285zm0.80969-2.5494c0.28494-0.0572 0.51617-0.22159 0.63018-0.44799 0.11703-0.23239 0.1144-0.20252 0.1144-1.2968v-0.98038l-0.32242-4e-3 -0.32242-4e-3 -0.00839 0.0362c-0.00461 0.0199-0.010167 0.44867-0.012342 0.95281l-0.00395 0.91662-0.036476 0.0791c-0.071199 0.15444-0.14889 0.19915-0.34611 0.19915-0.1529 0-0.23845-0.033-0.30209-0.11641-0.092412-0.12115-0.093005-0.12768-0.1031-1.1343l-0.00928-0.92459h-0.63764l-0.0044 0.9485c-0.00384 0.8288-0.00112 0.96359 0.021615 1.0681 0.084228 0.3871 0.33309 0.63096 0.72405 0.70948 0.1468 0.0295 0.4695 0.029 0.61839-8.6e-4zm2.2778 8e-3c0.34651-0.0473 0.60318-0.19278 0.75923-0.43042 0.20681-0.31496 0.16735-0.79761-0.083681-1.0233-0.14754-0.13265-0.32179-0.20574-0.73143-0.30678-0.33083-0.0816-0.40127-0.12549-0.40127-0.25001 0-0.0871 0.073525-0.16504 0.18661-0.19791 0.10417-0.0303 0.32125-0.0333 0.43906-6e-3 0.11218 0.0259 0.35272 0.14033 0.44651 0.21247 0.081481 0.0627 0.1605 0.0774 0.17749 0.0331 0.00532-0.0139 0.00968-0.16132 0.00968-0.32767v-0.30246l-0.087318-0.04c-0.048025-0.022-0.17177-0.0623-0.27498-0.0896-0.17638-0.0466-0.2054-0.0497-0.48258-0.0508-0.26658-1e-3 -0.3064 2e-3 -0.41447 0.0361-0.51268 0.16008-0.76336 0.54897-0.66205 1.0271 0.07335 0.34614 0.31367 0.53313 0.85592 0.66595 0.30885 0.0756 0.36577 0.0984 0.4304 0.17201 0.042646 0.0486 0.047825 0.0644 0.040953 0.12541-0.0094 0.0834-0.039036 0.11948-0.13729 0.16726-0.063569 0.0309-0.099718 0.0359-0.26491 0.0363-0.15698 3.9e-4 -0.21274-6e-3 -0.31085-0.0369-0.16093-0.0503-0.32125-0.13196-0.44552-0.22686-0.10339-0.079-0.15358-0.0947-0.18894-0.0594-0.013586 0.0136-0.019129 0.11028-0.019129 0.33363 0 0.25811 0.00428 0.31878 0.023879 0.33838 0.031184 0.0312 0.25387 0.11668 0.40604 0.15589 0.22522 0.058 0.50475 0.0752 0.72865 0.0446zm-4.6354-0.0686c0.23339-0.0612 0.43994-0.21587 0.54042-0.40478 0.1207-0.22689 0.12805-0.5396 0.017776-0.75576-0.047878-0.0939-0.16771-0.20726-0.27388-0.2592l-0.091535-0.0448 0.069991-0.0616c0.14234-0.12529 0.2171-0.29765 0.2171-0.50048 0-0.33086-0.18511-0.55084-0.52397-0.62266-0.080361-0.017-0.25533-0.0225-0.72969-0.0227-0.55445-2.5e-4 -0.62506 3e-3 -0.63366 0.0249-0.005322 0.0139-0.009676 0.61501-0.009676 1.3359 0 1.0271 0.004311 1.315 0.019926 1.3309 0.015656 0.0159 0.1566 0.0188 0.65757 0.0136 0.53018-5e-3 0.65483-0.0111 0.73962-0.0333zm-0.74759-0.817v-0.29682l0.25107 7e-3c0.28124 8e-3 0.35075 0.0273 0.40394 0.1148 0.072749 0.11962 0.050648 0.31242-0.044837 0.39113-0.077855 0.0642-0.16108 0.0809-0.40203 0.0809h-0.20815zm0-1.0666v-0.25078l0.19528 0.0112c0.29391 0.0168 0.3551 0.0608 0.3515 0.25243-0.00337 0.17918-0.069673 0.2229-0.3515 0.23178l-0.19528 6e-3zm6.638 0.55835c-1.6e-5 -0.14905 0.00238-0.21217 0.00532-0.14027 0.00295 0.0719 0.00296 0.19385 3.19e-5 0.271-0.00293 0.0772-0.00534 0.0183-0.00536-0.13073z" fill="#a2007b" stroke-width=".015941"/>
 </g>
 </g>
-</svg> \*\*BUS\*\* - Reichstag / Bundestag
-
-
+</svg> \\*\\*BUS\\*\\* - Reichstag / Bundestag
 
 <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
 <g transform="translate(0 -289.06)">
@@ -245,7 +259,7 @@ Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona dell
 <path d="m-0.01833 293.02v-3.9738h7.9476v7.9476h-7.9476zm4.3618 3.3792c0.52176-0.0681 1.0067-0.24726 1.353-0.49973 0.19412-0.14152 0.43195-0.38277 0.54764-0.55551 0.080005-0.11945 0.20103-0.36427 0.25436-0.51455 0.052978-0.14929 0.10335-0.35015 0.1164-0.46415 0.015687-0.13703 0.034813-4.6864 0.019777-4.7045-0.00999-0.012-0.1413-0.0144-0.80774-0.0144h-0.79582l-0.010092 0.0265c-0.00643 0.0169-0.010221 0.76719-0.010446 2.0671-1.945e-4 1.1223-0.00467 2.1244-0.00996 2.2268-0.013425 0.26044-0.059925 0.45817-0.14845 0.63125-0.052495 0.10264-0.20398 0.26088-0.30662 0.32029-0.32088 0.18574-0.79766 0.19708-1.1436 0.0272-0.05705-0.028-0.13167-0.0736-0.16582-0.10121-0.14875-0.1204-0.2587-0.3272-0.32084-0.60348-0.027906-0.12406-0.034468-0.62245-0.035361-2.6857-6.278e-4 -1.4506-0.00367-1.8868-0.013233-1.8964-0.00944-9e-3 -0.20045-0.0124-0.79646-0.0124-0.76457 0-0.78431 4.9e-4 -0.79476 0.02-0.00726 0.0136-0.010582 0.56733-0.010308 1.7204 4.171e-4 1.7495 0.010726 2.7363 0.030576 2.9267 0.080917 0.77596 0.53176 1.4246 1.2394 1.7832 0.32065 0.16249 0.69761 0.27121 1.0633 0.30668 0.062565 6e-3 0.13238 0.0129 0.15515 0.0151 0.0878 9e-3 0.47157-4e-3 0.58986-0.0193z" fill="#0563aa"/>
 </g>
 </g>
-</svg> \*\*U-Bahn\*\* Bundestag
+</svg> \\*\\*U-Bahn\\*\\* Bundestag
 
 {{< titolo title="Il ristorante" link="il-ristorante"}}
 
@@ -267,7 +281,7 @@ Grazie per la lettura. **Buon viaggio**!
 
 {{< titolo title="Che significa Reichstag?" link="che-significa"}}
 
-**La traduzione del nome Reichstag** è letteralmente _**Dieta imperiale**_, esso era, infatti, il **vecchio organo legislativo** nel periodo del **Sacro Romano Impero**.
+**La traduzione del nome Reichstag** è letteralmente **_Dieta imperiale_**, esso era, infatti, il **vecchio organo legislativo** nel periodo del **Sacro Romano Impero**.
 
 Deriva dalle parole 
 

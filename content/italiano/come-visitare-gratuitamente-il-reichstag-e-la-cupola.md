@@ -257,7 +257,7 @@ Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona dell
 <path d="m-0.01833 293.02v-3.9738h7.9476v7.9476h-7.9476zm4.3618 3.3792c0.52176-0.0681 1.0067-0.24726 1.353-0.49973 0.19412-0.14152 0.43195-0.38277 0.54764-0.55551 0.080005-0.11945 0.20103-0.36427 0.25436-0.51455 0.052978-0.14929 0.10335-0.35015 0.1164-0.46415 0.015687-0.13703 0.034813-4.6864 0.019777-4.7045-0.00999-0.012-0.1413-0.0144-0.80774-0.0144h-0.79582l-0.010092 0.0265c-0.00643 0.0169-0.010221 0.76719-0.010446 2.0671-1.945e-4 1.1223-0.00467 2.1244-0.00996 2.2268-0.013425 0.26044-0.059925 0.45817-0.14845 0.63125-0.052495 0.10264-0.20398 0.26088-0.30662 0.32029-0.32088 0.18574-0.79766 0.19708-1.1436 0.0272-0.05705-0.028-0.13167-0.0736-0.16582-0.10121-0.14875-0.1204-0.2587-0.3272-0.32084-0.60348-0.027906-0.12406-0.034468-0.62245-0.035361-2.6857-6.278e-4 -1.4506-0.00367-1.8868-0.013233-1.8964-0.00944-9e-3 -0.20045-0.0124-0.79646-0.0124-0.76457 0-0.78431 4.9e-4 -0.79476 0.02-0.00726 0.0136-0.010582 0.56733-0.010308 1.7204 4.171e-4 1.7495 0.010726 2.7363 0.030576 2.9267 0.080917 0.77596 0.53176 1.4246 1.2394 1.7832 0.32065 0.16249 0.69761 0.27121 1.0633 0.30668 0.062565 6e-3 0.13238 0.0129 0.15515 0.0151 0.0878 9e-3 0.47157-4e-3 0.58986-0.0193z" fill="#0563aa"/>
 </g>
 </g>
-</svg> **U-Bahn** Bundestag
+</svg> **U-Bahn** - Bundestag
 
 {{< titolo title="Il ristorante" link="il-ristorante" >}}
 
@@ -270,8 +270,6 @@ Questo è tutto ciò che c'è da sapere su come prenotare per la visita al Reich
 Se non lo avete ancora fatto, **vi invitiamo a leggere la** [**nostra guida a Berlino**, con **consigli e informazioni** sulle attrazioni turistiche principali della città](/cosa-vedere-a-berlino/) e sui luoghi meno conosciuti, ma che vale la pena vedere. 
 
 Grazie per la lettura. **Buon viaggio**!
-
-<a href="/cosa-vedere-a-berlino">{{< img "Leggi la nostra guida per Berlino" "/img/articoli/guida-berlino-promo-3.jpg" >}}</a>
 
 ## Informazioni sul Reichstag
 

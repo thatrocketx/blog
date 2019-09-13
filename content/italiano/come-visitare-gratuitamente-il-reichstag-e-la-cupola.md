@@ -61,13 +61,13 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 
 ## Prenotare la visita al Reichstag
 
-{{< titolo title="Qual è il costo dei biglietti?" link="costo-del-biglietto"}}
+{{< titolo title="Qual è il costo dei biglietti?" link="costo-del-biglietto" >}}
 
 <mark>**I biglietti** per visitare il Reichstag **sono gratuiti**</mark>, quindi il prezzo del biglietto è 0. 
 
 **Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono il ristorante e i souvenir** alla fine della visita.
 
-{{< titolo title="Come prenotare la visita alla Cupola del Reichstag e all' interno del Palazzo" link="come-prenotare"}}
+{{< titolo title="Come prenotare la visita alla Cupola del Reichstag e all' interno del Palazzo" link="come-prenotare" >}}
 
 **La prenotazione della visita al Reichstag va fatta online**, sul sito ufficiale del Bundestag. Qui trovate la **guida su come prenotare i vostri biglietti**.
 
@@ -217,7 +217,7 @@ Una volta raggiunto il **sito della email**, dovrete **compilare i campi con il 
 
 Ora riceverete una **lettera di conferma** effettiva dell' avvenuta registrazione sulla vostra email. **Se volete potete anche stamparla per sicurezza** (_consigliato_).
 
-{{< titolo title="Il giorno della visita: informazioni e consigli" link="informazioni visita"}}
+{{< titolo title="Il giorno della visita: informazioni e consigli" link="informazioni visita" >}}
 
 Nel giorno della dovrete innanzitutto assicurarvi di <mark>**portare con voi i documenti**</mark> necessari (la carta d' identità) e presentarvi nel punto di ingresso sulla destra del Reichstag **almeno** <mark>**15 minuti prima**</mark> **dell' orario che avete prenotato.**
 
@@ -225,7 +225,7 @@ Questo perchè dovrete prima superare i vari **controlli di sicurezza** (control
 
 Per la visita sulla cupola prenderete **un' ascensore che vi porterà fino alla terrazza** sul tetto, sulla quale potrete prendere dei fogli informativi e l' **audioguida gratuita** (la dovete chiedere esplicitamente al banco informazioni).
 
-{{< titolo title="Come arrivare al Reichstag" link="arrivare-al-reichstag"}}
+{{< titolo title="Come arrivare al Reichstag" link="arrivare-al-reichstag" >}}
 
 Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una [Berlin Welcome Card](https://www.getyourguide.it/berlino-l17/-t284327/) oppure volete prendere i **mezzi pubblici**, potete scendere in queste stazioni:
 
@@ -259,7 +259,7 @@ Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona dell
 </g>
 </svg> **U-Bahn** Bundestag
 
-{{< titolo title="Il ristorante" link="il-ristorante"}}
+{{< titolo title="Il ristorante" link="il-ristorante" >}}
 
 Sulla terrazza del Reichstag è disponibile un ristorante panoramico (il Käfer) nel quale è possibile effettuare una sosta. I prezzi sono abbastanza alti (_come ci si può aspettare_), e si può [prenotare un posto per la pausa caffè](https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/) con una fetta di torta e tè/caffè. Anche qui il prezzo è altino, circa 20 €. 
 
@@ -273,11 +273,11 @@ Grazie per la lettura. **Buon viaggio**!
 
 ## Informazioni sul Reichstag
 
-{{< titolo title="Cos' è il Palazzo del Reichstag?" link="informazioni"}}
+{{< titolo title="Cos' è il Palazzo del Reichstag?" link="informazioni" >}}
 
 **Il Reichstag è la sede del _Bundestag_**, l' attuale **parlamento tedesco**. Oggi, infatti, con il termine Reichstag si intende soltanto il nome dell' edificio nel quale è ospitato.
 
-{{< titolo title="Che significa Reichstag?" link="che-significa"}}
+{{< titolo title="Che significa Reichstag?" link="che-significa" >}}
 
 **La traduzione del nome Reichstag** è letteralmente **_Dieta imperiale_**, esso era, infatti, il **vecchio organo legislativo** nel periodo del **Sacro Romano Impero**.
 
@@ -289,7 +289,7 @@ Deriva dalle parole
 
 **tag** = _giorno, dieta_
 
-{{< titolo title="Cenni storici - breve storia del Palazzo del Reichstag" link="storia"}}
+{{< titolo title="Cenni storici - breve storia del Palazzo del Reichstag" link="storia" >}}
 
 **La costruzione** del Reichstag **iniziò nel 1884** con Guglielmo Ⅰ e finì dieci anni dopo, nel 1894.
 

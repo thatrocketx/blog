@@ -92,7 +92,7 @@ Se siete interessati, qui sotto **vi abbiamo tradotto velocemente tutto il testo
 > * Quando **ti registri online per la visita**, puoi solo inviare **richieste** per i vari servizi offerti dal Servizio Visitatori; la tua visita **non** sarà prenotata fino a quando non riceverai una **conferma** della prenotazione dal Servizio Visitatori via email, fax o posta.
 > * Assicurati - **prima**  di iniziare a prenotarti per uno dei servizi offerti ai visitatori - che hai il **cognome, nome e data di nascita di ogni visitatore** pronti perché dovrai creare una lista dei visitatori e dare queste informazioni. Solo dopo aver inviato queste informazioni la tua richiesta sarà processata e confermata.
 > * Le richieste per i **tour guidati** posso essere inviate solo per il mese in corso e i prossimi due mesi.
-> * Le richieste per visitare il **duomo** possono essere inviate soltanto per il mese in corso e quello successivo. **Gli affari parlamentari, il tempo** e la **situazione di sicurezza** hanno effetti su quando è possibile **visitare il duomo o la terrazza**. Quindi **non possiamo garantire** la possibilità a visitare il duomo. Alcune volte è necessario **annullare** una visita al duomo all' **ultimo momento**, anche se la visita è stata **precedentemente confermata. Purtroppo, non è ci è possibile avvisarti** degli annullamenti all' ultimo momento via email, telefono o fax.
+> * Le richieste per visitare la **cupola** possono essere inviate soltanto per il mese in corso e quello successivo. **Gli affari parlamentari, il meteo** e la **situazione di sicurezza** hanno effetti su quando è possibile **visitare la cupola o la terrazza**. Quindi **non possiamo garantire** la possibilità di visitare la cuola. Alcune volte è necessario **annullare** una visita alla cupola all' **ultimo momento**, anche se la visita è stata **precedentemente confermata. Purtroppo, non è ci è possibile avvisarti** degli annullamenti all' ultimo momento via email, telefono o fax.
 > * **Le agenzie turistiche** devono registrarsi come **commercial agencies**. Se si invia una richiesta come individual/private group (individuo/gruppo privato) o come organisation/company (azienda) questa verrà **immediatamente annullata**.
 > * Durante le **sedute plenarie, non vi è alcuna interpretazione in lingua straniera** per i visitatori.
 
@@ -101,7 +101,7 @@ Se siete interessati, qui sotto **vi abbiamo tradotto velocemente tutto il testo
 1. ❌ **Se non ricevete una conferma** per email, **non siete stati prenotati**
 2. 👥 **Se dovete prenotare per più persone** fatevi dare le **carte di identità** perché vi servono **nome, cognome e data di nascita** di ogni persona.
 3. 📅 **Il tour guidato nel Palazzo può essere prenotato per 3 mesi, la visita alla cupola per 2 mesi**.
-4. 😲 Se ci sono **problemi di tempo o di sicurezza**, la **visita al duomo sarà annullata** anche all' ultimo minuto e **non sarete avvisati**.
+4. 😲 Se ci sono **problemi di meteo o di sicurezza**, la **visita alla cupola sarà annullata** anche all' ultimo minuto e **non sarete avvisati**.
 
 {{< img "Testo, casella spuntata e pulsante Next evidenziato.""/img/articoli/2-reichstag-cupola-web-conferma-e-avanti.png" >}}
 

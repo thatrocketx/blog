@@ -693,7 +693,8 @@ In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono 
 
 - - -
 
-{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-iata=\"SXF\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-guida-completa-prima\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-top\"></div>" >}}
+{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script>" >}}
+{{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-iata=\"SXF\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-guida-completa-prima\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-top\"></div>" >}}
 
 {{< titolo2 title="Museo della storia tedesco (Deutsches Historisches Museum)" link="deutsches-historisches-museum" >}} 
 

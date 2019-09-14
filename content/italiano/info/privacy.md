@@ -43,7 +43,8 @@ Non condividiamo alcuna informazione ricavata dalle nostre analisi con terzi. In
 **Utilizziamo un servizio di terze parti per i commenti: Disqus**, **il quale potrebbe tracciare i tuoi movimenti su internet**. Per maggiori informazioni **consulta la loro Privacy Policy** o utilizza estensioni (ad esempio uBlock Origin) per limitarne la raccolta dati.
 
 {{< titolo title="Come guadagnamo: codici referral e privacy" link="referral" >}}
-Per mantenere il sito con i suoi costi utilizziamo *in alcuni post* dei link di referral marketing, ovvero **otteniamo una percentuale sull' acquisto effettuato tramite il link sul nostro sito**, questi link sono sempre accompagnati dalla scritta *Referral* o *Amazon Associates Program* (per alcuni link Amazon). Quando utilizzi questi servizi esterni, sei soggetto alle **loro politiche sulla privacy**, in alcuni casi **otteniamo dei dati statistici** sull' andamento del link da queste terze parti, ma sono spesso completamente **anonimizzati**. In ogni caso, per saperne di più, **dai un' occhiata ai loro termini**.
+Per mantenere il sito con i suoi costi utilizziamo *in alcuni post* dei link di referral marketing, ovvero **otteniamo una percentuale sull' acquisto effettuato tramite il link sul nostro sito**, questi link sono sempre accompagnati dalla scritta *Affiliate* o *Amazon Associates Program* (per alcuni link Amazon). Quando utilizzi questi servizi esterni, sei soggetto alle **loro politiche sulla privacy**, in alcuni casi **otteniamo dei dati statistici** sull' andamento del link da queste terze parti, ma sono spesso completamente **anonimizzati**. In ogni caso, per saperne di più, **dai un' occhiata ai loro termini**.
+I nostri partner: GatYourGuide
 
 {{<titolo title="Utilizziamo cookie?" link="cookie">}}
 Si, per maggiori informazioni consulta la nostra [Cookie Policy](/info/cookie).

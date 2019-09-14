@@ -689,7 +689,7 @@ In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono 
 
 - - -
 
-🎟️ Tenete presente che gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che <mark>per soli 30 € vi da diritto ad entrare **in 30 musei per 3 giorni**</mark> (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/).
+🎟️ Tenete presente che gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che <mark>per soli 30 € vi da diritto ad entrare **in più di 30 musei per 3 giorni**</mark> (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. [Lo potete acquistare qui](https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa). <small>Affiliate</small>
 
 - - -
 
@@ -830,6 +830,8 @@ Chiuso il lunedì.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
   </div>
 
+{{< affiliato "gyg" "Pass 3 giorni per 30+ musei di Berlino" "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "/img/articoli/pass-musei-3gg-berlino.jpg" "Vedi su GetYourGuide" >}}
+
 {{< titolo2 title="Museo del cinema (German Cinematheque - Museum of Film and Television)" link="german-cinematheque" >}}
 
 Museo sul cinema e sulla televisione. 
@@ -952,7 +954,7 @@ Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sa
 
 - - -
 
-🏃 <mark>**Se non volete aspettare**</mark> il vostro turno potete anche acquistare il [fast ticket online, che vi darà l' accesso prioritario alla torre, su GetYouGuide](https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/).
+🏃 <mark>**Se non volete aspettare**</mark> il vostro turno potete anche acquistare il [fast ticket online, che vi darà l' accesso prioritario alla torre, su GetYouGuide](https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa). <small>Affiliate</small>
 Il prezzo in questo caso è maggiorato e costa € 21.50.
 
 - - -
@@ -1148,7 +1150,7 @@ Se volete potete anche acquistare una <mark>***Berlin Welcome Card*** per utiliz
 
 Sono disponibili biglietti per 2, 3, 4, 5 e 6 giorni.
 
-Potete trovare [maggiori informazioni o acquistare la card su GetYourGuide cliccando qui (per la zona ABC)](https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/) se atterrate all' aeroporto Schönefeld. 
+Potete trovare [maggiori informazioni o acquistare la card su GetYourGuide cliccando qui (per la zona ABC)](https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa) se atterrate all' aeroporto Schönefeld. <small>Affiliate</small>
 
 Se atterrate invece al Tegel, allora qui trovate la [card valida solo per la zona AB](https://www.getyourguide.it/berlino-l17/-t284327/), che **costa di meno**. 
 

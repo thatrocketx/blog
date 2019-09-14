@@ -1,1 +1,2 @@
-{{ printf "{{ .Get 0 }}" | safeHTML }}
+{{ $codice := .Get 0 }}
+{{ printf "%s", $codice | safeHTML }}

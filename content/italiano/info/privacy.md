@@ -44,7 +44,7 @@ Non condividiamo alcuna informazione ricavata dalle nostre analisi con terzi. In
 
 {{< titolo title="Come guadagnamo: codici referral e privacy" link="referral" >}}
 Per mantenere il sito con i suoi costi utilizziamo *in alcuni post* dei link di referral marketing, ovvero **otteniamo una percentuale sull' acquisto effettuato tramite il link sul nostro sito**, questi link sono sempre accompagnati dalla scritta *Affiliate* o *Amazon Associates Program* (per alcuni link Amazon). Quando utilizzi questi servizi esterni, sei soggetto alle **loro politiche sulla privacy**, in alcuni casi **otteniamo dei dati statistici** sull' andamento del link da queste terze parti, ma sono spesso completamente **anonimizzati**. In ogni caso, per saperne di più, **dai un' occhiata ai loro termini**.
-I nostri partner: GatYourGuide
+I nostri partner: GetYourGuide
 
 {{<titolo title="Utilizziamo cookie?" link="cookie">}}
 Si, per maggiori informazioni consulta la nostra [Cookie Policy](/info/cookie).
@@ -53,9 +53,9 @@ Si, per maggiori informazioni consulta la nostra [Cookie Policy](/info/cookie).
 **Utilizzando questo sito acconsenti** al trattamento dei dati.
 
 {{<titolo title="Modifiche alla Policy" link="modifiche">}}
-Potremmo modificare questa ed atre policy del nostro sito. **Informeremo sempre i nostri utenti sui nostri canali social e/o esponendo un banner di avviso sul sito**. Puoi controllare l' aggiornamento della policy dando un' occhiata alla data di ultimo aggiornamento qui sotto.
+Potremmo modificare questa ed atre policy del nostro sito. **Informeremo sempre i nostri utenti sui nostri canali social e/o esponendo un banner di avviso sul sito** su modiche importanti. Puoi controllare l' aggiornamento della policy dando un' occhiata alla data di ultimo aggiornamento qui sotto.
 
 {{<titolo title="Contatti" link="contatti">}}
 Puoi contattarci in ogni momento via mail all' indirizzo <a href="mailto:mailto:%74%68%61%74%72%6f%63%6b%65%74%78%2b%70%72%69%76%61%63%79%70%6f%6c%69%63%79%40%70%72%6f%74%6f%6e%6d%61%69%6c%2e%63%6f%6d">thatrocketx<!-- >@. -->@<!-- >@. -->protonmail<!-- >@. -->.<!-- >@. -->com</a> oppure su Twitter [@thatrocketx](https://twitter.com/thatrocketx).
 
-Ultimo aggiornamento della policy: 27/08/2019
+Ultimo aggiornamento della policy: 14/09/2019

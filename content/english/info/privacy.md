@@ -51,9 +51,9 @@ Yes, for more information read our [Cookie Policy](/en/info/cookie).
 **By using our website you consent** to process your data.
 
 {{<titolo title="Updates of this Policy" link="modifications">}}
-We might change this policy in the future. **We will inform you on our social channels and/or by putting a notice on our website**. You can check out our last update of the policy by looking at the date at the end of this policy.
+We might change this policy in the future. **We will inform you on our social channels and/or by putting a notice on our website** for important changes. You can check out our last update of the policy by looking at the date at the end of this policy.
 
 {{<titolo title="Contacts" link="contacts">}}
 You can get in touch with us by emailing us at <a href="mailto:mailto:%74%68%61%74%72%6f%63%6b%65%74%78%2b%70%72%69%76%61%63%79%70%6f%6c%69%63%79%40%70%72%6f%74%6f%6e%6d%61%69%6c%2e%63%6f%6d">thatrocketx<!-- >@. -->@<!-- >@. -->protonmail<!-- >@. -->.<!-- >@. -->com</a> or DMing us on Twitter [@thatrocketx](https://twitter.com/thatrocketx).
   
- Last update of this policy: 27/08/2019
+ Last update of this policy: 14/09/2019

@@ -50,7 +50,7 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 
 {{< titolo title="🆓 Cosa vedere gratis a Berlino" link="cosa-vedere-gratis" >}}
 
-**Berlino è piena di luoghi e musei gratuiti**, in questa sezione vi elencheremo **i luoghi che abbiamo visto e quelli che avremmo voluto vedere**; Berlino è una città ricca di cose da vedere e per questo non ci è stato possibile visitarli tutti, ma siamo riusciti almeno a vederne la maggior parte.
+**Berlino è piena di luoghi e musei gratuiti**, in questa sezione trovate la nostra lista **dei luoghi gratuiti che abbiamo visto e quelli che avremmo voluto vedere**; Berlino è una città ricca di cose da vedere e per questo non ci è stato possibile visitarli tutti, ma siamo riusciti almeno a vederne la maggior parte.
 
 {{< titolo2 title="Alexanderplatz" link="alexanderplatz" >}} 
 
@@ -749,7 +749,7 @@ Si divide su più piani ed è veramente fantastico, vi consigliamo assolutamente
 {{< img "Treno in mostra nel museo" "/img/articoli/technikmuseum-treni_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-Ci sono anche **giochi interattivi** per comprendere meglio il funzionamento delle varie tecnologie mostrate. Ad esempio nell' area dedicata ai computer potrete imparare **come si conta in binario** e come funzionano i boolean e le porte logiche utilizzando semplicemente dei bottoni e delle manovelle, oppure potrete imparare come funziona una macchina per cucire e molto altro.
+Ci sono anche **giochi interattivi** per comprendere meglio il funzionamento delle varie tecnologie mostrate. Ad esempio nell' area dedicata ai computer potrete imparare **come si conta in binario** e come funzionano i boolean e le porte logiche utilizzando semplicemente dei bottoni e delle manovelle, oppure potrete imparare come funziona una macchina per cucire e molto altro. Molto bello da vedere, sia per gli adulti che per i bambini o i ragazzi.
 
 Il nostro preferito insieme a quello dello spionaggio.
 
@@ -806,7 +806,7 @@ Ci sono inoltre dei pannelli dedicati alle grandi menti, **gli inventori** delle
 
 Durante la vostra visita **scattatevi una foto e pubblicatela su Instagram o su Twitter** con l' hashtag [\#spionagemuseum](https://instagram.com/explore/tags/spionagemuseum/) (potete anche collegarvi al wifi del museo per non consumare i dati), verso la fine troverete un **punto nel quale potrete stampare tutte le vostre foto** (anche in più copie per i gruppi). 
 
-Questo museo piacerà anche ai non amanti dello spionaggio e vi farà imparare molte cose. Altamente consigliato anche questo.
+Questo museo piacerà anche ai non amanti dello spionaggio e vi farà imparare molte cose. Inoltre con i suoi spazi interattivi e i giochi è adatto anche a bambini e ragazzi. Altamente consigliato anche questo.
 
 Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
 
@@ -1015,7 +1015,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
 
 {{< titolo title="🤨 EXTRA: Cose insolite da vedere a Berlino" link="cose-insolite-da-vedere" >}}
 
-Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potreste visitare per curiosità o semplicemente per fare qualcosa di diverso.
+Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potreste visitare per curiosità o semplicemente per fare qualcosa di alternativo.
 
 {{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
 

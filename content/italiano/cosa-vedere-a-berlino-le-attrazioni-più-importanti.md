@@ -1148,7 +1148,7 @@ Se volete potete anche acquistare una ***Berlin Welcome Card*** per utilizzare *
 
 Sono disponibili biglietti per 2, 3, 4, 5 e 6 giorni.
 
-Ci sono due tipi di card per i trasporti (ce n'è anche una con alcune attrazioni incluse): <a href="https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" rel="nofollow">quella per la zona ABC</a> che potrebbe esservi utile se atterrate all' aeroporto Schönefeld e state in città pochi giorni, così risparmiate i biglietti di andata e ritorno. <small>Affiliate</small>
+Ci sono due tipi di card per i trasporti (ce n'è anche una con alcune attrazioni incluse): <a href="https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" rel="nofollow">quella per la zona ABC</a> che potrebbe esservi utile se atterrate all' aeroporto Schönefeld e state in città per pochi giorni, così risparmiate i biglietti di andata e ritorno. <small>Affiliate</small>
 
 Se atterrate invece al Tegel oppure state a Berlino per una settiama, allora vi conviene la <a href="https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" rel="nofollow">card valida solo per la zona AB</a>, che **costa meno**. <small>Affiliate</small>
 

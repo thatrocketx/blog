@@ -50,7 +50,7 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 * [Costo dei biglietti (_SPOILER: sono gratis_)](#costo-del-biglietto)
 * [Come prenotare la visita (passo per passo)](#come-prenotare)
 * [Informazioni e consigli per il giorno della visita](#informazioni-visita)
-* [Come raggiungere il Reichstag](raggiungere-il-reichstag)
+* [Come raggiungere il Reichstag](#raggiungere-il-reichstag)
 * [Il ristorante](#il-ristorante)
 
 #### Informazioni sul Reichstag
@@ -217,7 +217,7 @@ Una volta raggiunto il **sito della email**, dovrete **compilare i campi con il 
 
 Ora riceverete una **lettera di conferma** effettiva dell' avvenuta registrazione sulla vostra email. **Se volete potete anche stamparla per sicurezza** (_consigliato_).
 
-{{< titolo title="Il giorno della visita: informazioni e consigli" link="informazioni visita" >}}
+{{< titolo title="Il giorno della visita: informazioni e consigli" link="informazioni-visita" >}}
 
 Nel giorno della dovrete innanzitutto assicurarvi di <mark>**portare con voi i documenti**</mark> necessari (la carta d' identità) e presentarvi nel punto di ingresso sulla destra del Reichstag **almeno** <mark>**15 minuti prima**</mark> **dell' orario che avete prenotato.**
 
@@ -225,7 +225,7 @@ Questo perchè dovrete prima superare i vari **controlli di sicurezza** (control
 
 Per la visita sulla cupola prenderete **un' ascensore che vi porterà fino alla terrazza** sul tetto, sulla quale potrete prendere dei fogli informativi e l' **audioguida gratuita** (la dovete chiedere esplicitamente al banco informazioni).
 
-{{< titolo title="Come arrivare al Reichstag" link="arrivare-al-reichstag" >}}
+{{< titolo title="Come arrivare al Reichstag" link="raggiungere-il-reichstag" >}}
 
 Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una <a href="https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" rel="nofollow">Berlin Welcome Card</a> <small>Affiliate</small> oppure volete prendere i **mezzi pubblici**, potete scendere in queste stazioni:
 

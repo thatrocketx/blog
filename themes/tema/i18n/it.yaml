@@ -5,7 +5,7 @@
 - id: no_amp
   translation: "Passa alla versione non accelerata"
 - id: cookie
-  translation: "🍪 Utilizziamo cookie di terze parti per offrire il servizio commenti."
+  translation: "🍪 Utilizziamo cookie di terze parti per offrire il servizio commenti e per analisi."
 - id: leggi-cookie
   translation: "Leggi la policy sui cookie."
 - id: ok-cookie

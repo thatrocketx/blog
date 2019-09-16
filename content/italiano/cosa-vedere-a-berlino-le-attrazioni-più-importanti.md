@@ -1,11 +1,11 @@
 ---
 draft: false
 date: '2019-09-06T18:35:39+00:00'
-title: 'Cosa vedere a Berlino: tutte le attrazioni più importanti'
+title: 'Cosa vedere a Berlino: le attrazioni e i musei più importanti'
 description: >-
-  Le migliori attrazioni gratis e i musei più importanti. In questo articolo
-  elenchiamo le migliori attrazioni storiche, moderne e anche quelle più
-  inusuali.
+  Le migliori attrazioni gratis, i musei più importanti e le cose più inusuali
+  da vedere a Berlino. Più di 50 consigli sui luoghi da vedere assolutamente con
+  informazioni e curiosità interessanti.
 autore: Mediterraneo
 immagine: /img/articoli/cosa-vedere-a-berlino-og.png
 categories:
@@ -34,7 +34,7 @@ fontawesome: false
 js: false
 publishdate: '2019-09-06T18:35:39+00:00'
 expirydate: ' '
-lastmod: '2019-09-16T17:46:32+00:00'
+lastmod: '2019-09-16T18:02:32+00:00'
 ---
 Berlino è una città molto moderna, ma dalla quale è possibile ricavare la sua storia: **dal medioevo alla Seconda Guerra Mondiale**, fino ad arrivare alla più recente **Guerra Fredda**. Non è difficile imbattarsi in **pezzi del muro**, **monumenti sovietici**, **luoghi abbandonati** o statue moderne nascoste. Ciò che piace di Berlino è proprio questa sua **varietà di strutture** presenti, influenzate dalla sua recente storia.
 
@@ -91,7 +91,7 @@ Piazza molto famosa di Berlino, è il **luogo nel quale si trovano l' Alte Bibli
 
 In questa piazza, il **10 maggio del 1933** vi fu il famoso **primo rogo dei libri da parte dei nazisti**. Vi è un **memoriale** a ricordare l' evento. 
 
-Originariamente si chiamava Opernplatz, venne rinominata Bebelplatz nel 1947 da August Bebel, co-fondatore del Parito Social Democratico Tedesco. 
+Originariamente si chiamava Opernplatz, venne rinominata Bebelplatz nel 1947 in onore di August Bebel, politico e scrittore co-fondatore del Parito Socialdemocratico di Germania, uno dei partiti politici più vecchi al mondo. 
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Bebelplatz/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x47a84e207787e7a3:0xa87068b4927a3de0!8m2!3d52.5166162!4d13.394147"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51653/13.39383"  >OpenStreetMap</a> - <a href="geo:52.51653,13.39383?z=18"  >Applicazione mappe</a>
   </div>

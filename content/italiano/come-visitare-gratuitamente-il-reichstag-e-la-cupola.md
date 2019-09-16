@@ -24,6 +24,7 @@ news_keywords:
   - come prenotare berlino
   - reichstag visitare
 countries: Germania
+cities: Berlino
 titoloSEO: Visitare gratuitamente il Reichstag di Berlino
 sottotitolo: guida alla prenotazione della visita
 slug: prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino

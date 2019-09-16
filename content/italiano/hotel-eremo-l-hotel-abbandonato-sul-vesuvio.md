@@ -24,6 +24,7 @@ news_keywords:
   - hotel abbandonato
   - ercolano
 countries: Italia
+cities: Napoli
 titoloSEO: L' hotel abbandonato sul Vesuvio
 sottotitolo: >-
   La storia e la nostra esperienza presso uno dei luoghi più affascinanti del

@@ -34,7 +34,7 @@ fontawesome: false
 js: false
 publishdate: '2019-09-06T18:35:39+00:00'
 expirydate: ' '
-lastmod: '2019-09-12T19:48:39+00:00'
+lastmod: '2019-09-16T17:46:32+00:00'
 ---
 Berlino è una città molto moderna, ma dalla quale è possibile ricavare la sua storia: **dal medioevo alla Seconda Guerra Mondiale**, fino ad arrivare alla più recente **Guerra Fredda**. Non è difficile imbattarsi in **pezzi del muro**, **monumenti sovietici**, **luoghi abbandonati** o statue moderne nascoste. Ciò che piace di Berlino è proprio questa sua **varietà di strutture** presenti, influenzate dalla sua recente storia.
 

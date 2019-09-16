@@ -34,7 +34,8 @@ collections:
       - {label: "Abilita Animazioni Javascript", name: "js", widget: "boolean", default: false, required: false, hint: "Abilita il supporto alle animazioni su scorrimento tramite Javascript"}
       - {label: "Testo", name: "body", widget: "markdown", required: true, hint: "Qui va inserito il testo dell' articolo"}
       - {label: "Data nella quale pubblicare l' articolo", name: "publishdate", widget: "datetime", required: true, hint: "Inserire la data nella quale si vuole pubblicare l' articolo"}
-      - {label: "Data di scadenza articolo", name: "expirydate", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo", default: " "}
+      - {label: "Data di scadenza articolo (rimozione automatica)", name: "expirydate", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo", default: " "}
+      - {label: "Data di scadenza (offerta, ecc...)", name: "scadenza", widget: "datetime", required: false, hint: "Data nella scade qualcosa", default: " "}
       - {label: "Mostra scadenza", name: "mostrascadenza", widget: "boolean", required: false, hint: "Mostra la scadenza nell' anteprima dell' articolo"}
       - {label: "Data ultima modifica", name: "lastmod", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo"}
       

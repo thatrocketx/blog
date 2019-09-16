@@ -25,6 +25,7 @@ news_keywords:
   - germania
   - turismo berlino
 countries: Germania
+cities: Berlino
 titoloSEO: 'Viaggio a Berlino: cosa vedere?'
 sottotitolo: Le nostre attrazioni preferite per la capitale tedesca.
 slug: cosa-vedere-a-berlino

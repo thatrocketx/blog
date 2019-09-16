@@ -7,7 +7,7 @@
 - id: no_amp
   translation: "Go to no-AMP version"
 - id: cookie
-  translation: "🍪 We use third party cookies to offer comments."
+  translation: "🍪 We use third party cookies to offer comments and to get analytics."
 - id: leggi-cookie
   translation: "Read our cookie policy"
 - id: ok-cookie

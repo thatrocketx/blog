@@ -18,6 +18,7 @@ news_keywords:
   - street food
   - piatti tipici
 countries: Germania
+cities: Berlino
 titoloSEO: Quali sono le pietanze di Berlino ?
 slug: mangiare-a-berlino
 immagineprincipale: /img/articoli/20190812_193550_compressed.jpg

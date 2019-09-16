@@ -23,6 +23,7 @@ news_keywords:
   - schonefeld
   - sxf
 countries: Germania
+cities: Berlino
 titoloSEO: Come arrivare nel Centro di Berlino dall' aeroporto Schönefeld
 sottotitolo: >-
   Una lista dei mezzi di trasporto che si possono utilizzare e dove è possibile

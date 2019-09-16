@@ -14,7 +14,7 @@ Rispettiamo la privacy dei nostri utenti e per questo utilizziamo il minor numer
 In alcuni casi, però, siamo costretti ad utilizzare dei cookie per offrire servizi e analizzare il traffico al sito.
 Ecco i cookie che utilizziamo su questo sito:
 
-<!--## Cookie di that Rocket X-->
+## Cookie di that Rocket X
 
 <!-- ### Da Matomo (analisi traffico, solo su questo sito web) [info](https://matomo.org/faq/general/faq_146/)) -->
 
@@ -22,7 +22,7 @@ Ecco i cookie che utilizziamo su questo sito:
 <!---   \_pk_ref - 6 mesi)-->
 <!---   \_pk_ses, \_pk_cvar, \_pk_hsr - 30 minuti)-->
 
-### Da Cookie Consent
+### Cookie Consent
 
 -   cookieconsent_status - determina se è stato accettato il banner sui cookie
 
@@ -35,5 +35,8 @@ Ecco i cookie che utilizziamo su questo sito:
 -   UIDR (Domain: .scorecardresearch.com)
 -   disqus_unique (Domain: .disqus.com) - Analisi interna
 -   testCookie (Domain: mediacdn.disqus.com) - Controllo cookie
+
+### Da GetYourGuide [info](https://partner.getyourguide.com/en-us/c/frequently-asked-questions/how-does-the-tracking-work)
+- Partner ID - cookie necessario per collegare l' ID partner al sito di GetYourGuide - 90 giorni
 
 Per ora non disponiamo di opt-out, ma in futuro molto probabilmente vi sarà un aggiornamento per escludersi dal tracciamento dei cookie interni al sito.

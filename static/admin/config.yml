@@ -23,6 +23,7 @@ collections:
       - {label: "Parole chiave", name: "tags", widget: "list", hint: "Inserire le parole chiave dell' articolo, NON ESAGERARE", required: false}
       - {label: "Parole chiave Google News", name: "news_keywords", widget: "list", hint: "Inserire le parole chiave per Google News", required: false}
       - {label: "Paese sul quale si basa l' articolo", name: "countries", widget: "string", hint: "Inserire il paese di cui parla l' articolo", required: false}
+      - {label: "Città sulla quale si basa l' articolo", name: "cities", widget: "string", required: false}
       - {label: "Titolo SEO", name: "titoloSEO", widget: "string", required: false}
       - {label: "Sottotitolo", name: "sottotitolo", widget: "string", required: false, hint: "Da aggiungere SOLO se la descrizione dell' articolo è troppo lunga. Compare sotto al titolo dell' articolo"}
       - {label: "URL Personalizzato", name: "slug", widget: "string", required: false, hint: "Serve a dare un nome più carino al link dell' articolo, utile per avere più ricerche"}

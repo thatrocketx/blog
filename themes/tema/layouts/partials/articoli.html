@@ -16,7 +16,7 @@
  <div class="pubblicato-lista">{{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "2/1/2006" -}}</time> -
  <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="nascosto">{{ T "tempo_lettura"}}:</span></span>
   {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}} {{end}}</div>
- {{ if (isset .Params "mostrascadenza") }}<div class="scadenza">{{ T "scadenza" }}: <time datetime="{{ .ExpiryDate.Format "2006-01-02T15:04:05Z07:00" }}">{{- .ExpiryDate.Format "2/1/2006" -}}</time></div>{{end}}
+ {{ if (isset .Params "mostrascadenza") }}<div class="scadenza">{{ T "scadenza" }}: <time datetime="{{ .scadenza.Format "2006-01-02T15:04:05Z07:00" }}">{{- .scadenza.Format "2/1/2006" -}}</time></div>{{end}}
  <div id="sommario" class="sommario">{{ if (isset .Params "sottotitolo")}} {{ .Params.description }} {{ else }} {{ .Summary | plainify | safeHTML }}{{if .Truncated }}<span class="leggi-altro"> {{ T "leggi-altro"}}</span>{{end}}{{ end }}</div>
 </div>
 </a>

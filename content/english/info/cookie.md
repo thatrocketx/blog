@@ -22,7 +22,7 @@ These are the cookies we use on this website:
 [//] # (-   \_pk_ref - 6 months)
 [//] # (-   \_pk_ses, \_pk_cvar, \_pk_hsr - 30 minutes)
 
-### By Cookie Consent
+### Cookie Consent
 
 -   cookieconsent_status - checks if the cookie banner has been accepted
 
@@ -36,5 +36,11 @@ These are the cookies we use on this website:
 -   UIDR (Domain: .scorecardresearch.com)
 -   disqus_unique (Domain: .disqus.com) - Internal analysis
 -   testCookie (Domain: mediacdn.disqus.com) - Cookie check
+
+### By GetYourGuide [info](https://partner.getyourguide.com/en-us/c/frequently-asked-questions/how-does-the-tracking-work)
+
+- Partner ID - cookie used to link our partner ID to GetYourGuide - 90 days
+
+
 
 We might update the website in the future for the opt-out.

@@ -35,7 +35,7 @@ fontawesome: false
 js: false
 publishdate: '2019-09-06T18:35:39+00:00'
 expirydate: ' '
-lastmod: '2019-09-17T15:24:00+00:00'
+lastmod: '2019-09-17T15:33:00+00:00'
 ---
 Berlino è una città molto moderna, ma dalla quale è possibile ricavare la sua storia: **dal medioevo alla Seconda Guerra Mondiale**, fino ad arrivare alla più recente **Guerra Fredda**. Non è difficile imbattarsi in **pezzi del muro**, **monumenti sovietici**, **luoghi abbandonati** o statue moderne nascoste. Ciò che piace di Berlino è proprio questa sua **varietà di strutture** presenti, influenzate dalla sua recente storia.
 
@@ -45,8 +45,8 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 
 * [Cosa vedere **gratis a Berlino** 🆓](#cosa-vedere-gratis)
 * [Posti **solo su prenotazione** a Berlino ✋](#cosa-vedere-su-prenotazione)
-* [Cosa visitare a Berlino (_musei e attrazioni a pagamento_) 💶](#cosa-visitare-a-pagamento)
-* [_EXTRA_: **Cose insolite da vedere** a Berlino 🤨](#cose-insolite-da-vedere)
+* [**Cosa visitare a Berlino** (_musei e attrazioni a pagamento_) 💶](#cosa-visitare-a-pagamento)
+* [**Cose insolite da vedere a Berlino** 🤨](#cose-insolite-da-vedere)
 * [Spostarsi a Berlino: come funzionano i **trasporti pubblici a Berlino** 🚏](#trasporti)
 
 - - -
@@ -971,7 +971,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
 
 - - -
 
-{{< titolo title="🤨 EXTRA: Cose insolite da vedere a Berlino" link="cose-insolite-da-vedere" >}}
+{{< titolo title="🤨 Cose insolite da vedere a Berlino" link="cose-insolite-da-vedere" >}}
 
 Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potreste visitare per curiosità o semplicemente per fare qualcosa di alternativo.
 

@@ -337,8 +337,7 @@
       </div>
       <div class="info articolo">
         {{ if (isset .Params "autore") }}<span itemprop="author" class="autore">{{ .Params.autore }}</span>
-        - {{end}}{{ if (isset .Params "date") }}<time class="data" itemprop="pubdate" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-          {{- .Date.Format "2/1/2006" -}}</time> {{ if (isset .Params "stelle") }} -{{end}} <span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> {{ end }}
+        - {{end}}{{ if (isset .Params "stelle") }} - <span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> {{ end }}
       </div>
     </header>
     <main class="info articolo">

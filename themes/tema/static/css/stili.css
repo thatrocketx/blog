@@ -613,7 +613,7 @@ input[class="navmobile"], label[for="menuapri"] {
 }
 
 .contenitore-ultimi-categoria {
-  height: 380px;
+  height: 260px;
   margin: auto;
   width: 630px;
   overflow-x: auto;
@@ -623,7 +623,7 @@ input[class="navmobile"], label[for="menuapri"] {
 .articoli.incategoria {
   display: inline-block;
   max-width: 300px;
-  height: 350px
+  height: 250px
 }
 
 .articoli.incategoria .titolo-lista {
@@ -827,7 +827,7 @@ article figcaption {
 }
 
 article iframe {
-   margin: auto;
+   margin: auto !important;
 }
 
 .titolo {
@@ -840,10 +840,9 @@ article iframe {
 }
 
 .descrizione {
-  font-family: Goudy Old Style;
+  font-family: Arial;
   color: #5d5d5d;
   font-size: 1.3em;
-  text-transform: lowercase;
   margin-top: 0;
   font-weight: 100;
   max-width: 580px;
@@ -886,23 +885,38 @@ header {
   margin-right: 3px;
 }
 
-article {
-  text-align: justify;
-}
-
 article .testo {
-  font-size: 1.1em;
+  font-size: 1em;
   font-weight: normal;
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   line-height: 1.4;
-  text-justify: distribute;
 }
 
 .titolo-href::before {
    content: '#';
+   opacity: 0;
+   z-index: -1;
+   left: -20px;
+   -webkit-transition: all .5s ease-out;
+   -moz-transition: all .5s ease-out;
+   -ms-transition: all .5s ease-out;
+   -o-transition: all .5s ease-out;
+   transition: all .5s ease-out; 
+}
+
+.titolo-href:hover ~ .titolo-href::before {
+   content: '#';
+   opacity: 1;
+   z-index: inherit;
+   left: 0;
+   -webkit-transition: all .5s ease-out;
+   -moz-transition: all .5s ease-out;
+   -ms-transition: all .5s ease-out;
+   -o-transition: all .5s ease-out;
+   transition: all .5s ease-out;
 }
 
 article h2 a:hover, article h2 a:focus {
@@ -914,13 +928,7 @@ article h2:target{
   color: #ca0909;
 }
 
-@media (pointer: coarse) {
-  article h2 {
-    line-height: 25pt;
-  }
-}
-
-article p:first-child:first-letter {
+article p:not(quote):first-child:first-letter {
   font-size: 3em;
   color: #f14360;
   float: left;
@@ -1064,7 +1072,7 @@ article td {
   padding: 5px;
 }
 
-article p:last-child:after {
+article p:not(quote):last-child:after {
   content: "■";
   display: inline;
   font-family: Georgia, "New Times Roman", serif;

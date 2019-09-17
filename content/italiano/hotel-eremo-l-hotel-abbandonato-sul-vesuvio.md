@@ -110,4 +110,6 @@ Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità
 
 Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** se non in alcune foto d' epoca che si trovano su delle vecchie cartoline in vendita su eBay per pochi euro, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
 
-{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script> <div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"hotel-eremo-visita\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-tour-ids=\"194996,113923,144159\"></div>" >}}
+- - -
+
+{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script> <div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"1\" data-gyg-cmp=\"hotel-eremo-visita\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-tour-ids=\"194996\"></div>" >}}

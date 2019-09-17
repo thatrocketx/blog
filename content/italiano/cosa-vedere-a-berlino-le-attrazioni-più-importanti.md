@@ -308,7 +308,7 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 
 {{< titolo2 title="Hackesche Höfe" link="hackesche-hofe" >}}
 
-**Vecchio quartiere ebraico**, notare i mattoncini in oro fuori le porte delle case con su scritti i nomi delle persone deportate. 
+**Vecchio quartiere ebraico**, notare i mattoncini dorati con su scritti i nomi delle persone deportate. 
 
 Purtroppo questo è uno dei posti che non siamo riusciti a visitare per il poco tempo e di cui ci dispiace. Nel caso dovessimo riorganizzare qualcosa a Berlino questo sarebbe il primo posto in cui probabilmente andremmo.
 
@@ -973,7 +973,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
 
 {{< titolo title="🤨 Cose insolite da vedere a Berlino" link="cose-insolite-da-vedere" >}}
 
-Qui vi elenchiamo le cose che di solito non vi visitano a Berlino, ma che potreste visitare per curiosità o semplicemente per fare qualcosa di alternativo.
+Qui vi elenchiamo le cose che di solito non si visitano a Berlino o che non vengono elencate su atri siti, ma che potreste visitare per curiosità o semplicemente per fare qualcosa di alternativo.
 
 {{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
 
@@ -1060,6 +1060,12 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Berlin+Nordbahnhof/@52.5328051,13.3823947,16z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851edd7b49ad3:0x1b04b9848dea3418!8m2!3d52.5318833!4d13.3883831"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.53222/13.38688"  >OpenStreetMap</a> - <a href="geo:52.53222,13.38688?z=18"  >Applicazione mappe</a>
   </div>
+  
+{{< titolo2 title="Schwerbelastungskörper" link="schwerbelastungskorper" >}}
+
+Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all' incirca **12 650 tonnellate**.
+**Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo [sopra nella sezione sul Deutscher Dom](#deutscher-dom)).
+Il costo dell' intero edificio fu di circa 400 000 Reichsmark. {{< nota "Fonte dei dati: Wikipedia / Schwerbelastungskörper" >}}
 
 - - -
 

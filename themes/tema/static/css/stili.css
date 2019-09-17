@@ -896,7 +896,7 @@ article .testo {
 }
 
 
-.titolo-href:hover ~ .titolo-href::before {
+.titolo-href::before {
    content: '#';
 }
 

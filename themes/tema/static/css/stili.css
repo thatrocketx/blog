@@ -895,28 +895,13 @@ article .testo {
   line-height: 1.4;
 }
 
-.titolo-href::before {
-   content: '#';
-   opacity: 0;
-   z-index: -1;
-   left: -20px;
-   -webkit-transition: all .5s ease-out;
-   -moz-transition: all .5s ease-out;
-   -ms-transition: all .5s ease-out;
-   -o-transition: all .5s ease-out;
-   transition: all .5s ease-out; 
-}
 
 .titolo-href:hover ~ .titolo-href::before {
    content: '#';
-   opacity: 1;
-   z-index: inherit;
-   left: 0;
-   -webkit-transition: all .5s ease-out;
-   -moz-transition: all .5s ease-out;
-   -ms-transition: all .5s ease-out;
-   -o-transition: all .5s ease-out;
-   transition: all .5s ease-out;
+}
+
+article h2 {
+   font-size: 1.4em;
 }
 
 article h2 a:hover, article h2 a:focus {
@@ -926,6 +911,10 @@ article h2 a:hover, article h2 a:focus {
 
 article h2:target{
   color: #ca0909;
+}
+
+article h3 {
+   font-size: 1.2em;
 }
 
 article p:not(quote):first-child:first-letter {

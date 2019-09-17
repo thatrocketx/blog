@@ -184,7 +184,7 @@ Venne **gravemente danneggiato durante la Seconda Guerra Mondiale**, ma venne re
 
 Purtroppo, al momento della scrittura, l' intero complesso è in fase di restaurazione e della chiesa si vede ben poco, ma si mostra essere comunque una bellissima struttura.
 
-**Si merita comunque una visita dall' esterno**. Attenzione ai bus che passano sulla strada fuori la chiesa, a volte sono abbastanza silenziosi.
+**Merita comunque una visita dall' esterno**. Attenzione ai bus che passano sulla strada fuori la chiesa, a volte sono abbastanza silenziosi.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Duomo+di+Berlino/@52.5190608,13.3988893,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851def3c2d14b:0x780e68d5b02f8afc!8m2!3d52.5190608!4d13.401078"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51891/13.40119"  >OpenStreetMap</a> - <a href="geo:52.51891,13.40119?z=18"  >Applicazione mappe</a>
   </div>
@@ -482,28 +482,6 @@ Il centro storico di Berlino fu infatti **completamente distrutto durante la Sec
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Nikolaikirche/@52.517178,13.4069868,18z/data=!4m5!3m4!1s0x47a84e20c6611801:0x54922f7cce9a1368!8m2!3d52.5168346!4d13.4074831"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51683/13.40676"  >OpenStreetMap</a> - <a href="geo:52.51683,13.40676?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Park am Gleisdreieck" link="park-am-gleisdreieck" >}}
-
-{{< img "Binari abbandonati" "/img/articoli/park-am-gleisdreieck_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
-
-Ci si può fare un giro se si va al Deutsches Technikmuseum in quanto si trova proprio di fronte.
-
-È un **parco costruito su una vecchia ferrovia**. Al centro c'è ancora il binario e ci si può fermare per farsi la classica foto sui binari, senza il rischio di essere travolti da un treno, noi l' abbiamo fatta!
-
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Park+at+Gleisdreieck/@52.4944847,13.3764311,17z/data=!4m5!3m4!1s0x47a850301366c17b:0x5c368c54cfd1eb6!8m2!3d52.4940268!4d13.3759081"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.49394/13.37526"  >OpenStreetMap</a> - <a href="geo:52.49394,13.37526?z=17"  >Applicazione mappe</a>
-  </div>
-
-{{< titolo2 title="Parochialkirche" link="parochialkirche" >}}
-
-{{< img "Interno della chiesa" "/img/articoli/parochialkirche_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
-
-Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondiale**. Ora è in ricostruzione.
-
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Parochialkirche/@52.5170001,13.4128609,19z/data=!4m5!3m4!1s0x47a84e21827e160d:0xff49535dc736d5b1!8m2!3d52.5170353!4d13.4128844"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51699/13.41265"  >OpenStreetMap</a> - <a href="geo:52.51699,13.41265?z=19"  >Applicazione mappe</a>
-  </div>
-
 {{< titolo2 title="Porta di Brandeburgo" link="porta-di-brandeburgo" >}} 
 
 {{< img "Porta di Brandeburgo con turisti" "/img/articoli/porta-di-brandeburgo-2_compressed.jpg" >}}
@@ -596,26 +574,7 @@ Vecchie mura difensive cittadine della città di Berlino.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Alte+Berliner+Stadtmauer/@52.516814,13.4129869,18z/data=!4m5!3m4!1s0x47a84e23c6ffe913:0xd0af0b36494c0c9f!8m2!3d52.5167097!4d13.4141209"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51664/13.41428"  >OpenStreetMap</a> - <a href="geo:52.51664,13.41428?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Tempelhofer Feld" link="tempelhofer-feld" >}}
-
-**Vecchio aeroporto abbandonato** di Berlino, che ora funge da parco pubblico.
-
-È un luogo storico di notevole importanza: vi fu la **prima dimostrazione di volo** di  Armand Zipfel e di Orville Wright. 
-
-Qui **venne fondata** nel 1926 **la Lufthansa**, compagnia aerea che molti di voi sicuramente conosceranno.
-
-Durante il periodo nazista ricevette un notevole ristrutturamento, che lo porto ad ingrandirsi tanto da diventare **il terzo edificio più grande del mondo**.
-
-Dopo la caduta del governo nazista l' aeroporto finì nelle mani delle truppe  sovietiche e poi statunitensi, che lo utilizzarono per il famoso [Ponte Aereo di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino).
-
-Dopo l' apertura del Tegel del 1975 ci fu un grande declino che portarono alla **chiusura dell' aeroporto nel 2008**.
-
-Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare, ma a causa della sua distanza e del poco tempo a nostra disposizione ci è stato impossibile. Se avete la possibilità vi consigliamo di andarci, per il suo valore storico merita assolutamente una visita, soprattutto se si è amanti del mondo dell' aviazione, come lo siamo noi.
-
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Tempelhofer+Feld/@52.4742191,13.4002196,15z/data=!4m5!3m4!1s0x47a84fe8f7d899eb:0x88898e99acbb718b!8m2!3d52.4753833!4d13.4019041"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.4722/13.3980"  >OpenStreetMap</a> - <a href="geo:52.4722,13.3980?z=15"  >Applicazione mappe</a>
-  </div>
-
-{{< titolo2 title="Tiergarten" link="tempelhofer-feld" >}}
+{{< titolo2 title="Parco di Tiergarten" link="tiergarten" >}}
 
 {{< img "Squarcio sul parco di Tiergarten con un albero e un lago con un ponte nello sfondo" "/img/articoli/tiergarten_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
@@ -1038,6 +997,27 @@ Si trova qualche metro dopo il Memoriale dell' Olocausto.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064"  >OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19"  >Applicazione mappe</a>
   </div>
+  
+{{< titolo2 title="Park am Gleisdreieck" link="park-am-gleisdreieck" >}}
+
+{{< img "Binari abbandonati" "/img/articoli/park-am-gleisdreieck_compressed.jpg" >}}
+<small>Foto di that Rocket X</small>
+
+Ci si può fare un giro se si va al Deutsches Technikmuseum in quanto si trova proprio di fronte.
+È un **parco costruito su una vecchia ferrovia**. Al centro c'è ancora il binario e ci si può fermare per farsi la classica foto sui binari, senza il rischio di essere travolti da un treno, noi l' abbiamo fatta!
+
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Park+at+Gleisdreieck/@52.4944847,13.3764311,17z/data=!4m5!3m4!1s0x47a850301366c17b:0x5c368c54cfd1eb6!8m2!3d52.4940268!4d13.3759081"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.49394/13.37526"  >OpenStreetMap</a> - <a href="geo:52.49394,13.37526?z=17"  >Applicazione mappe</a>
+  </div>
+
+{{< titolo2 title="Parochialkirche" link="parochialkirche" >}}
+
+{{< img "Interno della chiesa" "/img/articoli/parochialkirche_compressed.jpg" >}}
+<small>Foto di that Rocket X</small>
+
+Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondiale**. Ora è in ricostruzione.
+
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Parochialkirche/@52.5170001,13.4128609,19z/data=!4m5!3m4!1s0x47a84e21827e160d:0xff49535dc736d5b1!8m2!3d52.5170353!4d13.4128844"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51699/13.41265"  >OpenStreetMap</a> - <a href="geo:52.51699,13.41265?z=19"  >Applicazione mappe</a>
+  </div>
 
 {{< titolo2 title="Statua gigante dell' omino del semaforo (Einheitsmännchen)" link="einheitsmännchen" >}}
 
@@ -1050,7 +1030,23 @@ Si trova a qualche metro a sud del memoriale dell' Olocausto, a Ministergärten.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745"  >OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19"  >Applicazione mappe</a>
   </div>
+  
+{{< titolo2 title="Tempelhofer Feld" link="tempelhofer-feld" >}}
 
+**Vecchio aeroporto abbandonato** di Berlino, che ora funge da parco pubblico.
+
+È un luogo storico di notevole importanza: vi fu la **prima dimostrazione di volo** di  Armand Zipfel e di Orville Wright. 
+Qui **venne fondata** nel 1926 **la Lufthansa**, compagnia aerea che molti di voi sicuramente conosceranno.
+Durante il periodo nazista ricevette un notevole ristrutturamento, che lo porto ad ingrandirsi tanto da diventare **il terzo edificio più grande del mondo**.
+
+Dopo la caduta del governo nazista l' aeroporto finì nelle mani delle truppe  sovietiche e poi statunitensi, che lo utilizzarono per il famoso [Ponte Aereo di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino).
+Dopo l' apertura del Tegel del 1975 ci fu un grande declino che portarono alla **chiusura dell' aeroporto nel 2008**.
+
+Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare, ma a causa della sua distanza e del poco tempo a nostra disposizione ci è stato impossibile. Se avete la possibilità vi consigliamo di andarci, per **il suo valore storico merita assolutamente una visita**, soprattutto se si è amanti del mondo dell' aviazione, come lo siamo noi.
+
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Tempelhofer+Feld/@52.4742191,13.4002196,15z/data=!4m5!3m4!1s0x47a84fe8f7d899eb:0x88898e99acbb718b!8m2!3d52.4753833!4d13.4019041"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.4722/13.3980"  >OpenStreetMap</a> - <a href="geo:52.4722,13.3980?z=15"  >Applicazione mappe</a>
+  </div>
+  
 {{< titolo2 title="S-Bahn Nordbahnhof" link="nordbahnhof" >}} 
 
 {{< img "Facciata con nome della stazione S-Bahn Nordbahnhof" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}

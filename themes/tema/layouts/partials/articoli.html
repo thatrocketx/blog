@@ -11,7 +11,7 @@
 </div>
 <div class="info lista">
  {{ if (isset .Params "countries") }} <span class="paese" data-paese="{{ .Params.countries }}"> {{ .Params.countries }} </span> {{ end }}
- {{ if (isset .Params "categories") }}{{range .Params.categories}}<span class="categoria">{{ . }}</span> {{ end }}{{ if (isset .Params "cities") }}| {{ .Params.cities }}{{ end }}{{ end }}
+ {{ if (isset .Params "categories") }}{{range .Params.categories}}<span class="categoria">{{ . }}</span> {{ end }}{{ if (isset .Params "cities") }}<span class="pubblicato-lista">| {{ .Params.cities }}</span>{{ end }}{{ end }}
  <h1 class="titolo-lista">{{ .Title }}</h1>
  <div class="pubblicato-lista">{{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "2/1/2006" -}}</time> -
  <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="nascosto">{{ T "tempo_lettura"}}:</span></span>

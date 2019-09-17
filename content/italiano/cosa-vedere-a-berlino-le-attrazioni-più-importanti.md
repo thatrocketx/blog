@@ -1063,9 +1063,11 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
   
 {{< titolo2 title="Schwerbelastungskörper" link="schwerbelastungskorper" >}}
 
-Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all' incirca **12 650 tonnellate**.
+Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all' incirca **12 650 tonnellate**).
+
 **Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo [sopra nella sezione sul Deutscher Dom](#deutscher-dom)).
 Il costo dell' intero edificio fu di circa 400 000 Reichsmark. {{< nota "Fonte dei dati: Wikipedia / Schwerbelastungskörper" >}}
+
 Si trova a **poco più di un chilometro dal Tepelhof**, quindi se vi trovate lì (visto che è lontano dal centro) approfittatene.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Schwerbelastungsk%C3%B6rper/@52.4839316,13.3709698,18z/data=!4m5!3m4!1s0x47a8503d23a64435:0x726cb510e12b2f9!8m2!3d52.4840392!4d13.3716139">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.48398/13.37142"  >OpenStreetMap</a> - <a href="geo:52.48398,13.37142?z=19"  >Applicazione mappe</a>

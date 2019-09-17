@@ -337,7 +337,7 @@
       </div>
       <div class="info articolo">
         {{ if (isset .Params "autore") }}<span itemprop="author" class="autore">{{ .Params.autore }}</span>
-        - {{end}}{{ if (isset .Params "stelle") }} - <span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> {{ end }}
+        {{end}}{{ if (isset .Params "stelle") }} - <span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> {{ end }}
       </div>
     </header>
     <main class="info articolo">

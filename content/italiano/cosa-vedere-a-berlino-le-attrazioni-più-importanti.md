@@ -1147,7 +1147,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
 
 Per maggiori informazioni sui treni del Tram, della U-BAHN e della S-BAHN e sui bus vi consiglio di visitare il [sito ufficiale delle ferrovie di Berlino](https://sbahn.berlin/en/), nel quale potrete trovare la stazione più vicina al vostro hotel e i vari treni necessari per arrivare alla vostra destinazione. [Qui invece trovate la mappa completa di metropolitana + treno](https://map.sbahn.berlin/pdf/S+U-Bahn_08_2019-Internetversion-BVG,%20Lizenz-Nummer%20701-1-19.1-1%20-%20aktualisiert%2012.07.2019.pdf), se preferite stampare la cartina e fare alla vecchia maniera 😉.
 
-{{< img "\" style=\"display: inline-block" "/img/articoli/berlin-welcome-card-logo.svg" >}}
+{{< img "" "/img/articoli/berlin-welcome-card-logo.svg" >}}
 Se volete potete anche acquistare una ***Berlin Welcome Card*** per utilizzare **i mezzi di Berlino senza spendere soldi per i singoli biglietti** e senza dovervi preoccupare delle varie zone.
 
 Sono disponibili biglietti per 2, 3, 4, 5 e 6 giorni.

@@ -648,7 +648,7 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 
 In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono piaciute di più. Abbiamo deciso di descrivere solo quelle in cui siamo andati perché non ci sentiamo di consigliare posti di cui non sappiamo nulla e farvi spendere dei soldi inutilmente, alla fine di questa sezione vi elencheremo il resto dei posti che potreste visitare in base a quelli che avevamo inizialmente deciso di vedere (ma che a causa del poco tempo e di qualche imprevisto non siamo riusciti a guardare).
 
-Gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che per soli 30 € vi da diritto ad entrare **in più di 30 musei per 3 giorni** (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. Se vi interessa <a href="https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" rel="nofollow">lo potete acquistare qui</a>. La card si ritira all' aeroporto o nei punti informazione in città. <small>Affiliate</small>
+Gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che per soli 30 € vi da diritto ad entrare **in più di 30 musei per 3 giorni** (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. Se vi interessa {{< nofollow "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "lo potete acquistare qui" >}}. La card si ritira all' aeroporto o nei punti informazione in città. <small>Affiliate</small>
 
 {{< titolo2 title="Museo della storia tedesco (Deutsches Historisches Museum)" link="deutsches-historisches-museum" >}} 
 
@@ -908,7 +908,7 @@ Da lì potrete avere **una vista a 360° della città** con una mini guida posta
 [Scarica l' app su Google Play](https://play.google.com/store/apps/details?id=com.mcrumbs.fernsehturm)
 
 Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sapere nei commenti qualsiasi alternativa.
-**Se invece non volete aspettare** il vostro turno potete anche acquistare il <a href="https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" rel="nofollow">fast ticket</a> online, che vi darà l' accesso prioritario alla torre. <small>Affiliate</small>
+**Se invece non volete aspettare** il vostro turno potete anche acquistare il {{< nofollow "https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "fast ticket" >}} online, che vi darà l' accesso prioritario alla torre. <small>Affiliate</small>
 Il prezzo in questo caso è maggiorato e costa € 21.50.
 
 **PREZZI**
@@ -1154,9 +1154,9 @@ Se volete potete anche acquistare una ***Berlin Welcome Card*** per utilizzare *
 
 Sono disponibili biglietti per 2, 3, 4, 5 e 6 giorni.
 
-Ci sono due tipi di card per i trasporti (ce n'è anche una con alcune attrazioni incluse): <a href="https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" rel="nofollow">quella per la zona ABC</a> che potrebbe esservi utile se atterrate all' aeroporto Schönefeld e state in città per pochi giorni, così risparmiate i biglietti di andata e ritorno. <small>Affiliate</small>
+Ci sono due tipi di card per i trasporti (ce n'è anche una con alcune attrazioni incluse): {{< nofollow "https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "quella per la zona ABC" >}} che potrebbe esservi utile se atterrate all' aeroporto Schönefeld e state in città per pochi giorni, così risparmiate i biglietti di andata e ritorno. <small>Affiliate</small>
 
-Se atterrate invece al Tegel oppure state a Berlino per una settiama, allora vi conviene la <a href="https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" rel="nofollow">card valida solo per la zona AB</a>, che **costa meno**. <small>Affiliate</small>
+Se atterrate invece al Tegel oppure state a Berlino per una settiama, allora vi conviene la {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "card valida solo per la zona AB" >}}, che **costa meno**. <small>Affiliate</small>
 
 **La card comprende** anche: <br>
 ✔️ **Sconti sulle attrazioni** aderenti (tra cui la **Torre della TV**) <br>

@@ -228,7 +228,7 @@ Per la visita sulla cupola prenderete **un' ascensore che vi porterà fino alla 
 
 {{< titolo title="Come arrivare al Reichstag" link="raggiungere-il-reichstag" >}}
 
-Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una <a href="https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" rel="nofollow">Berlin Welcome Card</a> <small>Affiliate</small> oppure volete prendere i **mezzi pubblici**, potete scendere in queste stazioni:
+Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "Berlin Welcome Card" >}} <small>Affiliate</small> oppure volete prendere i **mezzi pubblici**, potete scendere in queste stazioni:
 
 <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
 <g transform="translate(0 -289.06)">
@@ -262,7 +262,7 @@ Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona dell
 
 {{< titolo title="Il ristorante" link="il-ristorante" >}}
 
-Sulla terrazza del Reichstag è disponibile un ristorante panoramico (il Käfer) nel quale è possibile effettuare una sosta. I prezzi sono abbastanza alti (_come ci si può aspettare_), e si può <a href="https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag! rel="nofollow">prenotare un posto per la pausa caffè</a> <small>Affiliate</small> con una fetta di torta e tè/caffè. Anche qui il prezzo è altino, circa 20 €.
+Sulla terrazza del Reichstag è disponibile un ristorante panoramico (il Käfer) nel quale è possibile effettuare una sosta. I prezzi sono abbastanza alti (_come ci si può aspettare_), e si può {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "prenotare un posto per la pausa caffè" >}} <small>Affiliate</small> con una fetta di torta e tè/caffè. Anche qui il prezzo è altino, circa 20 €.
 
 - - -
 

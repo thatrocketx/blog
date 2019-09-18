@@ -1113,7 +1113,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
-   \*\*S-BAHN\*\* è la \*\*stazione dei treni\*\*. Le stazioni della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
+   **S-BAHN** è la \*\*stazione dei treni\*\*. Le stazioni della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
 3. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <g transform="translate(-4.733e-7 .033073)">

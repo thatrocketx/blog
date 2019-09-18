@@ -150,7 +150,7 @@ Per acquistare i biglietti potete:
 3. 💻 **Acquistarli online sul sito della Deutsche Bahn**. Se volete potete anche acquistare i biglietti online sul [sito della DB](https://www.bahn.com/it/view/index.shtml) utilizzando la vostra carta di credito o PayPal.
 
 <hr>
-{{< inlineimg "" "/img/articoli/berlin-welcome-card-logo.svg" "30" >}}
+{{< noamp "<img src=\"/img/articoli/berlin-welcome-card-logo.svg\" alt=\"\" style=\"display: inline-block; float:left\" />" >}}
 Se soggiornerete a Berlino **per un lungo periodo di tempo**, potreste considerare anche l' idea di acquistare una {{< nofollow "https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=schonefeld-guida-welcome" "Berlin Welcome Card" >}} <small>Affiliate</small>, con la quale potrete spostarvi con **tutti i mezzi pubblici** a disposizione nelle **zone ABC di Berlino** con un **solo acquisto**. Sono disponibili biglietti di **2, 3, 4, 5 e 6 giorni**.
 
 🎟️ Una volta arrivati a Berlino dovrete semplicemente **ritirare la card** nel punto _Informazioni turistiche Berlino-Brandeburgo_ (quello nel quale vi dicevo di comprare i biglietti) e potrete stare tranquilli per tutto il periodo di tempo nel quale la card sarà valida. Riceverete inoltre degli **sconti e una mini guida** della città.

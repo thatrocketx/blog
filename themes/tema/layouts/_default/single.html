@@ -41,6 +41,9 @@
   <div class= "info articolo">
     {{ T "esortazionecommenti"}} <a href="#c">{{T "vaiaicommenti"}}</a>
     {{- partial "condividi.html" . -}}
+  <h2 id="c">{{ T "commenti"}}</h2><br>
+  {{ T "commentiinfo"}}
+  {{ template "_internal/disqus.html" . }}
   {{ $related := .Site.RegularPages.Related . | first 2 }}
   {{ with $related }}
   <h2> {{ T "vedi-anche"}} </h2>
@@ -61,9 +64,6 @@
     {{ end }}
     </div>
     </div>
-      <h2 id="c">{{ T "commenti"}}</h2><br>
-  {{ T "commentiinfo"}}
-  {{ template "_internal/disqus.html" . }}
     </div>
   {{ end }}
 </section>

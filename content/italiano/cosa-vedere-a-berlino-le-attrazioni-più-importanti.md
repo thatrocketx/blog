@@ -536,7 +536,7 @@ Nel 1933, infatti, i nazisti usarono proprio questo incendio come pretesto per o
 
 Durante la Seconda Guerra Mondiale fu vittima dei vari bombardamenti.
 
-<mark>È possibile **salire GRATUITAMENTE sulla cupola in vetro**</mark> attraverso l' ascensore per ammirare la città e per leggere la storia dell' edificio. <mark>Per fare ciò **è necessario PRENOTARE con largo anticipo**</mark>. 
+<mark>È possibile **salire GRATUITAMENTE sulla cupola in vetro**</mark> attraverso l' ascensore per ammirare la città e per leggere la storia dell' edificio. <mark>Per fare ciò **è necessario [PRENOTARE](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino/#come-prenotare) con largo anticipo**</mark>. 
 
 Se siete interessati [qui trovate una guida su come prenotarsi](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino), per chi invece è ferrato con l' inglese vi lascio direttamente il link al [sito sul quale effettuare la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en).
 

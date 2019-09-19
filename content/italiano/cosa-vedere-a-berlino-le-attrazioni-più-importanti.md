@@ -3,9 +3,9 @@ draft: false
 date: '2019-09-06T18:35:39+00:00'
 title: 'Cosa vedere a Berlino: le attrazioni e i musei più importanti'
 description: >-
-  Più di 50 consigli sui luoghi da vedere assolutamente con informazioni e
-  curiosità interessanti. Le migliori attrazioni gratis, i musei più importanti
-  e le cose più inusuali da vedere a Berlino.
+  Più di 30 consigli sui luoghi da vedere assolutamente con informazioni e
+  curiosità interessanti. Le migliori attrazioni gratis e i musei più importanti
+  della capitale.
 autore: Mediterraneo
 immagine: /img/articoli/cosa-vedere-a-berlino-og.png
 categories:
@@ -46,7 +46,6 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 * [Cosa vedere **gratis a Berlino** 🆓](#cosa-vedere-gratis)
 * [Posti **solo su prenotazione** a Berlino ✋](#cosa-vedere-su-prenotazione)
 * [**Cosa visitare a Berlino** (_musei e attrazioni a pagamento_) 💶](#cosa-visitare-a-pagamento)
-* [**Cose insolite da vedere a Berlino** 🤨](#cose-insolite-da-vedere)
 * [Spostarsi a Berlino: come funzionano i **trasporti pubblici a Berlino** 🚏](#trasporti)
 
 - - -

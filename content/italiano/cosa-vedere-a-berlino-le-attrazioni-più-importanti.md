@@ -619,7 +619,7 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 
 * **Salita sulla cupola del Reichstag**
   La prenotazione è **completamente gratuita** e va fatta **online** preferibilmente in **largo anticipo**. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino), oppure se ve la cavate bene con l' inglese, questo è il link al [**sito del Bundestag sul quale va effettuata la prenotazione**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).
-  Se volete potete anche prenotare una **visita guidata all' interno del Reichstag** stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene **prenotare il prima possibile** (almeno due mesi prima).
+  Se volete potete anche prenotare una **visita guidata all' interno del Reichstag** stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene **prenotare il prima possibile** (almeno un mese prima).<br><br>
 * [**Spreepark**](cosa-vedere-a-berlino-alternativo#spreepark)
   Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo **parco abbandonato** della Germania dell' Est.
   Vi consigliamo di **prenotare MESI PRIMA**, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.

@@ -37,7 +37,7 @@ expirydate: ' '
 scadenza: ' '
 lastmod: '2019-09-19T10:22:54+00:00'
 ---
-Quando si va in una città si ha sempre la voglia di trovare qualche luogo "strano" o comunque poco conosciuto. Berlino è una città piena di luoghi nascosti e cose di questo genere. In questa mini-guida, appendice della [nostra guida principale alla città](/cosa-vedere-berlino), vi elenchiamo i luoghi e le attività meno conosciute della capitale tedesca.
+Quando si va in una città si ha sempre la voglia di trovare qualche luogo "strano" o comunque poco conosciuto. Berlino è una città piena di luoghi nascosti e cose di questo genere. In questa mini-guida, appendice della [nostra guida principale alla città](/cosa-vedere-a-berlino), vi elenchiamo i luoghi e le attività meno conosciute della capitale tedesca.
 
 {{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
 
@@ -48,7 +48,7 @@ Quando si va in una città si ha sempre la voglia di trovare qualche luogo "stra
 
 {{< titolo2 title="Spreepark" link="spreepark" >}}
 
-**Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la prenotazione online anticipata ([vedere qui](/cosa-vedere-berlino#cosa-vedere-su-prenotazione)). Il parco fu, per un lungo periodo di tempo, l' unico parco di Berlino e il migliore di tutta la Germania dell' Est. Col passare del tempo, l' aumento dei prezzi portò ad un traffico sempre minore, fino a quando nel 2001, chiuse per i troppi debiti. Uno dei proprietari venne accusato, successivamente, di aver cercato di trasportare ben 180 kg di cocaina, nascondendola in una delle attrazioni. Nel 2014 venne acquistato dalla città di Berlino. Oggi il parco è visitabile soltanto con una guida turistica che si può prenotare online. Si trova a qualche chilometro da East Side Gallery.
+**Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la prenotazione online anticipata ([vedere qui](/cosa-vedere-a-berlino#cosa-vedere-su-prenotazione)). Il parco fu, per un lungo periodo di tempo, l' unico parco di Berlino e il migliore di tutta la Germania dell' Est. Col passare del tempo, l' aumento dei prezzi portò ad un traffico sempre minore, fino a quando nel 2001, chiuse per i troppi debiti. Uno dei proprietari venne accusato, successivamente, di aver cercato di trasportare ben 180 kg di cocaina, nascondendola in una delle attrazioni. Nel 2014 venne acquistato dalla città di Berlino. Oggi il parco è visitabile soltanto con una guida turistica che si può prenotare online. Si trova a qualche chilometro da East Side Gallery.
 **A PAGAMENTO (5€)**
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Spreepark/@52.4836351,13.4894014,16z/data=!4m5!3m4!1s0x0:0xcd9e29eb2b539c51!8m2!3d52.4835798!4d13.4916723"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.48546/13.48860"  >OpenStreetMap</a> - <a href="geo:52.48546,13.48860?z=17"  >Applicazione mappe</a>

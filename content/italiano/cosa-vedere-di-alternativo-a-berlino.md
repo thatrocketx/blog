@@ -165,6 +165,7 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
 Se volete fare qualcosa di diverso potete anche **uscire da Berlino** e dirigervi veso **Stettino**, in Polonia.
 Stettino è una città della Pomerania Occidentale ed era una, durante la Seconda Guerra Mondiale, la terza città più grande della Germania.
 Si può fare una visita di una giornata (non si può vedere molto, chiaramente) per fare qualcosa di diverso. È davvero una bella città ed è molto colorata e caratteristica. Potete [raggiungerla direttamente con il Flixbus](https://www.flixbus.it/autobus/stettino) per più o meno 20 € andata e ritorno. Il tempo di percorrenza è di circa due ore.
+In alternativa potete raggiungere anche Słubice che si trova al confine tra Germania e Polonia.
 
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Stettino,+Polonia/@53.4286014,14.5728424,13z/data=!4m5!3m4!1s0x47aa093800d3a759:0xa95adc4e5f8ac4f3!8m2!3d53.4285438!4d14.5528116"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=12/53.4330/14.5991"  >OpenStreetMap</a> - <a href="geo:53.4330,14.5991?z=12"  >Applicazione mappe</a>
@@ -175,7 +176,7 @@ Si può fare una visita di una giornata (non si può vedere molto, chiaramente) 
 
 {{< titolo2 title="Casa della Conferenza di Wannsee" link="casa-conferenza-wannsee" >}}
 
-Sempre lasciando Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale*, lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo. 
+Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale*, lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo. 
 Se possedete una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB" >}}, la carta per i trasporti di Berlino, la stazione di Wannsee è inclusa, quindi non serve fare altri biglietti.
 Se provenite dallo Schönefeld e avete la {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card per la zona ABC" >}}, allora potrete raggiungere anche la vicina città di Potsdam.
 <small>Affiliate</small>

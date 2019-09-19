@@ -145,7 +145,7 @@ Vi troverete davanti **tre opzioni**:
 
 {{< img "Visita alla cupola selezionata. Informazioni aggiuntive e pulsante Next evidenziato.""/img/articoli/6-reichstag-cupola-web-continuo-scelta.png" >}}
 
-
+*Come potete notare nella foto, nell' ultimo paragrafo vengono specificate le date nelle quali la cupola è chiusa per pulizia, assicuratevi di controllarle prima di continuare*.
 **Selezionate la vostra opzione e cliccate sul tasto _Next_**.
 
 ### Passo 6 - Selezione del numero di persone

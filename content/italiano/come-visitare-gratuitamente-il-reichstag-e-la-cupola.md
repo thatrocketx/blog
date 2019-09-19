@@ -44,9 +44,9 @@ Non solo: è anche possibile accompagnarla con delle **visite guidate** all' int
 
 In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo. Buona lettura!
 
-### Indice
+## Indice
 
-#### Prenotare la visita al Reichstag
+### Prenotare la visita al Reichstag
 
 * [Costo dei biglietti (_SPOILER: sono gratis_)](#costo-del-biglietto)
 * [Come prenotare la visita (passo per passo)](#come-prenotare)
@@ -54,7 +54,7 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 * [Come raggiungere il Reichstag](#raggiungere-il-reichstag)
 * [Il ristorante](#il-ristorante)
 
-#### Informazioni sul Reichstag
+### Informazioni sul Reichstag
 
 * [Cos' è il Reichstag?](#informazioni)
 * [Che significa Reichstag?](#che-significa)

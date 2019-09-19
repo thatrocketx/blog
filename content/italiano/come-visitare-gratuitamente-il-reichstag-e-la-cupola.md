@@ -141,7 +141,7 @@ Vi troverete davanti **tre opzioni**:
 * **Visita guidata e successiva visita alla cupola**. (anche **in italiano**)
   (_non disponibile durante le sedute del parlamento, [qui trovate le date](http://www.bundestag.de/en/parliament/plenary/calendar); chiuso Venerdì Santo, Pasqua, Giornate di lutto nazionale, 24-25-26 dicembre e 31 dicembre_).
 * **Visita alla cupola**.
-  (_dalle 8:00 a mezzanotte (ultima visita alle 21.45); chiuso il 24 dicembre e il 31 dicembre dalle 16 in poi. Potrebbero esserci dei giorni di chiusura per effettuare la pulizia della struttura_).
+  (_dalle 8:00 a mezzanotte (ultima visita alle 21.45); chiuso il 24 dicembre tutta la giornata e il 31 dicembre dalle 16 in poi. Potrebbero esserci dei giorni di chiusura per effettuare la pulizia della struttura_).
 
 {{< img "Visita alla cupola selezionata. Informazioni aggiuntive e pulsante Next evidenziato.""/img/articoli/6-reichstag-cupola-web-continuo-scelta.png" >}}
 

@@ -163,7 +163,7 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
 {{< img "Vista del centro città di Stettino. Il tram numero 171 viaggia in direzione Turkusowa. Sullo sfondo si vede la Cattedrale di Stettino." "/img/articoli/stettino-città-tram.jpg" >}}
 
 Se volete fare qualcosa di diverso potete anche **uscire da Berlino** e dirigervi veso **Stettino**, in **Polonia**.
-Stettino è una città della Pomerania Occidentale ed era una, durante la Seconda Guerra Mondiale, la **terza città più grande della Germania**.
+Stettino è una città della Pomerania Occidentale ed era una, durante la Seconda Guerra Mondiale, la **terza città più grande della Germania**. Tra le tante cose è possibile assaggiare un piatto tipico della città e visitare un bunker della Seconda Guerra Mondiale.
 Si può fare una visita di una giornata (non si può vedere molto, chiaramente) per fare qualcosa di diverso. È davvero una bella città ed è molto colorata e caratteristica. Potete [raggiungerla direttamente con il Flixbus](https://www.flixbus.it/autobus/stettino) per **più o meno 20 € andata e ritorno**. Il tempo di percorrenza è di circa due ore.
 In alternativa potete raggiungere anche Słubice che si trova al confine tra Germania e Polonia.
 

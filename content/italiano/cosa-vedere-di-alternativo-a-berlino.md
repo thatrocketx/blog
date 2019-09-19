@@ -187,4 +187,4 @@ Se provenite dallo Schönefeld e avete la **{{< nofollow "https://www.getyourgui
 {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-tour-ids=\",49759,,112600,,2385\"></div>" >}}
 
 Questi erano i nostri suggerimenti più insoliti per Berlino, in futuro, se dovessimo ritornarci, aggiorneremo questo post con le foto e i posti ancora più alternativi che abbiamo trovato. Nei commenti fateci sapere se conoscete dei posti strani anche voi o consigliateci altre città da visitare.<br> 
-Grazie per la lettura e **buona viaggio**!
+Grazie per la lettura e **buon viaggio**!

@@ -509,7 +509,7 @@ Di notte è spettacolare.
 
 {{< img "Parte di Potsdamer Platz di notte. Sullo sfondo è presente la famosa torre del semaforo." "/img/articoli/potsdamer-platz.jpg" >}}
 
-Questa piazza ha per noi un valore più affettivo che di altre perché qui abbiamo passato gran parte del nostro tempo tra musei e centri commerciali.
+Questa piazza ha per noi un valore più affettivo rispetto alle altre perché qui abbiamo passato gran parte del nostro tempo tra musei e centri commerciali.
 
 Venne **costruita negli anni novanta**, dopo il crollo del muro, **come il nuovo centro di Berlino**.
 

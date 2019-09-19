@@ -48,17 +48,17 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 
 ### Prenotare la visita al Reichstag
 
-* [Costo dei biglietti (_SPOILER: sono gratis_)](#costo-del-biglietto)
-* [Come prenotare la visita (passo per passo)](#come-prenotare)
-* [Informazioni e consigli per il giorno della visita](#informazioni-visita)
-* [Come raggiungere il Reichstag](#raggiungere-il-reichstag)
-* [Il ristorante](#il-ristorante)
+* [**Costo** dei biglietti (_SPOILER: sono gratis_)](#costo-del-biglietto)
+* [**Come prenotare la visita** (passo per passo)](#come-prenotare)
+* [Informazioni e **consigli per il giorno della visita**](#informazioni-visita)
+* [Come **raggiungere il Reichstag**](#raggiungere-il-reichstag)
+* [**Il ristorante**](#il-ristorante)
 
 ### Informazioni sul Reichstag
 
-* [Cos' è il Reichstag?](#informazioni)
-* [Che significa Reichstag?](#che-significa)
-* [Breve storia del Reichstag](#storia)
+* [**Cos' è il Reichstag**?](#informazioni)
+* [**Che significa Reichstag**?](#che-significa)
+* [Breve **storia del Reichstag**](#storia)
 
 ## Prenotare la visita al Reichstag
 

@@ -48,7 +48,7 @@ Quando si va in una città si ha sempre la voglia di trovare qualche luogo "stra
 
 {{< titolo2 title="Spreepark" link="spreepark" >}}
 
-**Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la prenotazione online anticipata ([vedere qui](/cosa-vedere-a-berlino#cosa-vedere-su-prenotazione)). Il parco fu, per un lungo periodo di tempo, l' unico parco di Berlino e il migliore di tutta la Germania dell' Est. Col passare del tempo, l' aumento dei prezzi portò ad un traffico sempre minore, fino a quando nel 2001, chiuse per i troppi debiti. Uno dei proprietari venne accusato, successivamente, di aver cercato di trasportare ben 180 kg di cocaina, nascondendola in una delle attrazioni. Nel 2014 venne acquistato dalla città di Berlino. Oggi il parco è visitabile soltanto con una guida turistica che si può prenotare online. Si trova a qualche chilometro da East Side Gallery.
+**Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la **prenotazione online anticipata** ([vedere qui](/cosa-vedere-a-berlino#cosa-vedere-su-prenotazione)). Il parco **fu, per un lungo periodo di tempo, l' unico parco divertimenti di Berlino** e il migliore di tutta la Germania dell' Est. Col passare del tempo, **l' aumento dei prezzi portò ad un traffico sempre minore**, fino a quando nel 2001, **chiuse per i troppi debiti**. Uno dei proprietari venne accusato, successivamente, di aver cercato di trasportare ben **180 kg di cocaina**, nascondendola in una delle attrazioni. Nel 2014 venne acquistato dalla città di Berlino. Oggi **il parco è visitabile soltanto con una guida turistica** che si può prenotare online. Si trova a qualche chilometro da East Side Gallery.
 **A PAGAMENTO (5€)**
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Spreepark/@52.4836351,13.4894014,16z/data=!4m5!3m4!1s0x0:0xcd9e29eb2b539c51!8m2!3d52.4835798!4d13.4916723"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.48546/13.48860"  >OpenStreetMap</a> - <a href="geo:52.48546,13.48860?z=17"  >Applicazione mappe</a>
@@ -61,7 +61,7 @@ Quando si va in una città si ha sempre la voglia di trovare qualche luogo "stra
 
 Ci si può fare un giro se si va al [Deutsches Technikmuseum](/cosa-vedere-a-berlino/#deutsches-technikmuseum) in quanto si trova proprio di fronte.
 
-È un **parco costruito su una vecchia ferrovia**. Al centro c'è ancora il binario e ci si può fermare per farsi la classica foto sui binari, senza il rischio di essere travolti da un treno, noi l' abbiamo fatta!
+È un **parco costruito su una vecchia ferrovia**. Al centro **c'è ancora il binario** e ci si può fermare per farsi la classica foto sui binari, senza il rischio di essere travolti da un treno, noi l' abbiamo fatta!
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Park+at+Gleisdreieck/@52.4944847,13.3764311,17z/data=!4m5!3m4!1s0x47a850301366c17b:0x5c368c54cfd1eb6!8m2!3d52.4940268!4d13.3759081"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.49394/13.37526"  >OpenStreetMap</a> - <a href="geo:52.49394,13.37526?z=17"  >Applicazione mappe</a>
   </div>
@@ -78,8 +78,8 @@ Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondi
 
 {{< titolo2 title="Bunker di Hitler (Führerbunker)" link="bunker-hitler" >}}
 
-**Luogo nel quale era situato il bunker di Hitler**. Oggi è un parcheggio, un cartello spiega come era strutturato.
-Si trova qualche metro dopo il Memoriale dell' Olocausto.
+**Luogo nel quale era situato il bunker di Hitler**. Oggi è un **parcheggio**, un cartello spiega come era strutturato.
+Si trova **qualche metro dopo il Memoriale dell' Olocausto**.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064"  >OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19"  >Applicazione mappe</a>
   </div>
@@ -91,7 +91,7 @@ Si trova qualche metro dopo il Memoriale dell' Olocausto.
 
 Rimanenza di una **[vecchia installazione artistica](https://www.ottmar-hoerl.de/en/projects/2015/2015_einheitsmaennchen.php) per commemorare il 25° anniversario dell' Unità della Germania**.
 Mostra una versione gigante e più dettagliata del famoso omino del semaforo (Ampelmann).
-Si trova a qualche metro a sud del memoriale dell' Olocausto, a Ministergärten. 
+Si trova a qualche metro a sud del memoriale dell' Olocausto, a **Ministergärten**. 
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745"  >OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19"  >Applicazione mappe</a>
   </div>
@@ -104,9 +104,9 @@ Si trova a qualche metro a sud del memoriale dell' Olocausto, a Ministergärten.
 Qui **venne fondata** nel 1926 **la Lufthansa**, compagnia aerea che molti di voi sicuramente conosceranno.
 Durante il periodo nazista ricevette un notevole ristrutturamento, che lo porto ad ingrandirsi tanto da diventare **il terzo edificio più grande del mondo**.
 
-Dopo la caduta del governo nazista l' aeroporto finì nelle mani delle truppe  sovietiche e poi statunitensi, che lo utilizzarono per il famoso [Ponte Aereo di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino).
+Dopo la caduta del governo nazista l' aeroporto finì nelle mani delle truppe  sovietiche e poi statunitensi, che lo utilizzarono per il famoso [**Ponte Aereo** di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino).
 
-Dopo l' apertura del Tegel del 1975 ci fu un grande declino che portarono alla **chiusura dell' aeroporto nel 2008**.
+Dopo l' apertura del Tegel del **1975** ci fu un grande declino che portarono alla **chiusura dell' aeroporto nel 2008**.
 
 Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare, ma a causa della sua distanza e del poco tempo a nostra disposizione ci è stato impossibile. Se avete la possibilità vi consigliamo di andarci, per **il suo valore storico merita assolutamente una visita**, soprattutto se si è amanti del mondo dell' aviazione, come lo siamo noi.
 
@@ -138,9 +138,9 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
 
 Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all' incirca **12 650 tonnellate**).
 
-**Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo [sopra nella sezione sul Deutscher Dom](#deutscher-dom)).
+**Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo [nella guida, nella sezione sul Deutscher Dom](/cosa-vedere-a-berlino#deutscher-dom)).
 Il costo dell' intero edificio fu di circa 400 000 Reichsmark. {{< nota "Fonte dei dati: Wikipedia / Schwerbelastungskörper" >}}
-Si trova a **poco più di un chilometro dal Tepelhof**, quindi se vi trovate lì (visto che è lontano dal centro) approfittatene.
+Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate lì (visto che è lontano dal centro) approfittatene**.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Schwerbelastungsk%C3%B6rper/@52.4839316,13.3709698,18z/data=!4m5!3m4!1s0x47a8503d23a64435:0x726cb510e12b2f9!8m2!3d52.4840392!4d13.3716139">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.48398/13.37142"  >OpenStreetMap</a> - <a href="geo:52.48398,13.37142?z=19"  >Applicazione mappe</a>
   </div>
@@ -150,7 +150,7 @@ Si trova a **poco più di un chilometro dal Tepelhof**, quindi se vi trovate lì
 {{< img "Torre di controllo vicino Potsdamer Platz" "/img/articoli/torre-di-controllo-berlino-potsdamer-platz_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-**Una delle nove torri di controllo rimaste** su 300 che erano presenti a tenere sotto controllo la popolazione della Germania dell' Est ed evitare che le persone scappassero scavalcando il muro.
+**Una delle nove torri di controllo rimaste** su 300 che erano presenti a tenere **sotto controllo la popolazione della Germania dell' Est** ed evitare che le persone scappassero scavalcando il muro.
 
 Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici turisti presenti). Si trova **a pochi passi da Potsdamer Platz**, andando verso Checkpoint Charlie, quindi se vi trovate da quelle parti fateci contenti e date un' occhiata a questo pezzo di storia.
 
@@ -163,7 +163,7 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
 {{< img "Vista del centro città di Stettino. Il tram numero 171 viaggia in direzione Turkusowa. Sullo sfondo si vede la Cattedrale di Stettino." "/img/articoli/stettino-città-tram.jpg" >}}
 
 Se volete fare qualcosa di diverso potete anche **uscire da Berlino** e dirigervi veso **Stettino**, in **Polonia**.
-Stettino è una città della Pomerania Occidentale ed era, durante la Seconda Guerra Mondiale, la **terza città più grande della Germania**. Tra le tante cose è possibile assaggiare un [piatto tipico della città](https://en.wikipedia.org/wiki/Pasztecik_szczeci%C5%84ski) e visitare un bunker della Seconda Guerra Mondiale.
+Stettino è una città della Pomerania Occidentale ed era, durante la Seconda Guerra Mondiale, la **terza città più grande della Germania**. Tra le tante cose è possibile assaggiare un [**piatto tipico della città**](https://en.wikipedia.org/wiki/Pasztecik_szczeci%C5%84ski) e visitare un **bunker della Seconda Guerra Mondiale e della Guerra Fredda**.
 Si può fare una visita di una giornata (non si può vedere molto, chiaramente) per fare qualcosa di diverso. È davvero una bella città ed è molto colorata e caratteristica. Potete [raggiungerla direttamente con il Flixbus](https://www.flixbus.it/autobus/stettino) per **più o meno 20 € andata e ritorno**. Il tempo di percorrenza è di circa due ore.
 In alternativa potete raggiungere anche Słubice che si trova al confine tra Germania e Polonia.
 

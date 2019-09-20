@@ -72,13 +72,13 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 
 **La prenotazione della visita al Reichstag va fatta online**, sul sito ufficiale del Bundestag. Qui trovate la **guida su come prenotare i vostri biglietti**.
 
-### Passo 1 - Il sito
+### 🖥️ Passo 1 - Il sito
 
 **Collegarsi al sito** ufficiale del Bundestag **per effettuare la prenotazione**.
 
 [**CLICCARE QUI PER ANDARE AL SITO UFFICIALE SUL QUALE EFFETTUARE LA PRENOTAZIONE**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en)
 
-### Passo 2 - Accettazione delle regole
+### ✅ Passo 2 - Accettazione delle regole
 
 {{< img "Prima apertura della pagina""/img/articoli/1-reichstag-cupola-web-pagina-principale.png" >}}
 
@@ -112,7 +112,7 @@ Considerato questo, **scorrete alla fine della pagina**, **spuntate la casella**
 
 E poi **cliccate sul pulsante _Next_**
 
-### Passo 3 - Accettazione della privacy policy
+### 🔐 Passo 3 - Accettazione della privacy policy
 
 {{< img "Privacy Policy con casella spuntata e pulsante Next evidenziato.""/img/articoli/3-reichstag-cupola-web-conferma-privacy-policy.png" >}}
 
@@ -120,7 +120,7 @@ Il prossimo passo vi chiederà, come da prassi, di **leggere ed accettare la [pr
 
 Una volta letta la policy _(sicuramente...)_ **spuntate la casella e cliccate sul pulsante  _Next_**
 
-### Passo 4 - Controllo Captcha
+### 🤖 Passo 4 - Controllo Captcha
 
 {{< img "Captcha risolto con pulsante Next evidenziato.""/img/articoli/4-reichstag-cupola-web-captcha.png" >}}
 
@@ -128,7 +128,7 @@ Ora è il turno del **controllo Captcha**, questo controllo serve al sito per es
 
 **Scrivete il testo che vedete** oppure trascrivete l' audio **e cliccate sul pulsante _Next_**.
 
-### Passo 5 - Scelta dell' attività
+### 🔘 Passo 5 - Scelta dell' attività
 
 {{< img "Pagina della prenotazione con le tre scelte. Nessuna scelta evidenziata.""/img/articoli/5-reichstag-cupola-web-scelta.png" >}}
 
@@ -148,13 +148,13 @@ Vi troverete davanti **tre opzioni**:
 *Come potete notare nella foto, nell' ultimo paragrafo vengono specificate le date nelle quali la cupola è chiusa per pulizia, assicuratevi di controllarle prima di continuare*.
 **Selezionate la vostra opzione e cliccate sul tasto _Next_**.
 
-### Passo 6 - Selezione del numero di persone
+### 🔢 Passo 6 - Selezione del numero di persone
 
 {{< img "Numero di persone. Nell' esempio sono inserite due persone. Pulsante Next evidenziato.""/img/articoli/7-reichstag-cupola-web-numero-persone.png" >}}
 
 Qui dovrete **inserire il numero delle persone da prenotare e cliccare su _Next_**.
 
-### Passo 7 - Selezione della data e degli orari
+### 📅 Passo 7 - Selezione della data e degli orari
 
 {{< img "Calendario con il giorno 17 selezionato. Nella parte inferiore ci sono gli orari disponibili nel giorno selezionato.""/img/articoli/8-reichstag-cupola-web-data.png" >}}
 
@@ -164,7 +164,7 @@ Vi si aprirà **un calendario** nel quale dovrete **decidere il giorno della vos
 
 Una volta scelti gli orari **cliccate su _Next_**.
 
-### Passo 8 - Informazioni di contatto
+### 📞 Passo 8 - Informazioni di contatto
 
 {{< img "Form della persona da contattare con campi di esempio per nome, cognome e indirizzo email.""/img/articoli/10-reichstag-cupola-web-nome-cognome.png" >}}
 
@@ -180,7 +180,7 @@ I campi sono:
 
 **Compilate e cliccate _Next_**.
 
-### Passo 9 - Conferma informazioni di contatto
+### ✅ Passo 9 - Conferma informazioni di contatto
 
 {{< img "Riepilogo delle informazioni di contatto.""/img/articoli/11-reichstag-cupola-web-conferma-finale.png" >}}
 
@@ -188,7 +188,7 @@ In questa pagina troverete un **riepilogo delle informazioni** inserite fino ad 
 
 **Controllate** che sia tutto in ordine e **successivamente cliccate su _Save_**.
 
-### Passo 10 - Conferma via email
+### 📧 Passo 10 - Conferma via email
 
 {{< img "Email inviata con i due link. Il link da usare è evidenziato.""/img/articoli/12-reichstag-cupola-web-email.png" >}}
 
@@ -204,7 +204,7 @@ Troverete due link.
 
 **NON aprite il secondo link** perché quello è per l' **annullamento della prenotazione**.
 
-### Passo 11 - Compilazione e invio della richiesta
+### 📝 Passo 11 - Compilazione e invio della richiesta
 
 {{< img "Esempio compilazione della richiesta. Il pulsante da cliccare a destra è evidenziato.""/img/articoli/13-reichstag-cupola-web-fine.png" >}}
 
@@ -214,7 +214,7 @@ Una volta raggiunto il **sito della email**, dovrete **compilare i campi con il 
 
 **Una volta compilati** tutti i campi per tutte le persone, **cliccate sul TASTO A SINISTRA**, quello con su scritto **_Submit your request_**.
 
-### Passo 12 - La conferma
+### 🎟️ Passo 12 - La conferma
 
 Ora riceverete una **lettera di conferma** effettiva dell' avvenuta registrazione sulla vostra email. **Se volete potete anche stamparla per sicurezza** (_consigliato_).
 

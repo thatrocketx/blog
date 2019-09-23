@@ -29,7 +29,7 @@ titoloSEO: Cose insolite da vedere a Berlino
 sottotitolo: Cose alternative da vedere nella città
 slug: cosa-vedere-a-berlino-alternativo
 immagineprincipale: /img/articoli/berlino-torre-di-controllo-3.jpg
-descrizioneimg: 'Torre di controllo in Erna-Berger-Straße, vicino Potsdamerplatz'
+descrizioneimg: 'Torre di controllo in Erna-Berger-Straße, vicino Potsdamerplatz. Foto di that Rocket X'
 fontawesome: false
 js: false
 publishdate: '2019-09-19T06:22:54+00:00'

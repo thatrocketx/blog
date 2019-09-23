@@ -38,7 +38,7 @@ fontawesome: false
 js: false
 publishdate: '2019-08-28T09:00:15+00:00'
 expirydate: ' '
-lastmod: '2019-09-17T15:51:00+00:00'
+lastmod: '2019-09-23T19:10:00+00:00'
 ---
 Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
 

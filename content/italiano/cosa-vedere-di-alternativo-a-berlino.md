@@ -90,7 +90,7 @@ Si trova **qualche metro dopo il Memoriale dell' Olocausto**.
 <small>Foto di that Rocket X</small>
 
 Rimanenza di una **[vecchia installazione artistica](https://www.ottmar-hoerl.de/en/projects/2015/2015_einheitsmaennchen.php) del 2015 per commemorare il 25° anniversario della Riunificazione della Germania**.
-Mostra una versione più dettagliata del famoso omino del semaforo (Ampelmann), che per l' occasione prende il nome di Einheitsmännchen ovvero **Omino dell' Unità**. L' opera artistica fu elaborata dal Prof. Ottmar Hörl su commissione dello Stato Federale dell' Hesse. Lo stesso tipo di istallazione fu posta anche in altri luoghi della Germania come Stoccarda e Francoforte sul Meno.
+Mostra una versione più dettagliata del famoso omino del semaforo (Ampelmann), che per l' occasione prende il nome di Einheitsmännchen ovvero **Omino dell' Unità**. L' opera artistica fu elaborata dal Prof. Ottmar Hörl su commissione dello Stato Federale dell' Hesse. Lo stesso tipo di installazione fu posta anche in altri luoghi della Germania come Stoccarda e Francoforte sul Meno.
 Si trova a qualche metro a sud del memoriale dell' Olocausto, a **Ministergärten**. 
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745"  >OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19"  >Applicazione mappe</a>

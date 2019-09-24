@@ -105,9 +105,9 @@ Nato come Aeroporto di Berlino Tempelhof nel 1923, è un luogo storico di notevo
 Qui **venne fondata**, nel 1926, **la Lufthansa**, la compagnia aerea che precedeva la *nuova Lufthansa*, che ancora oggi effettua voli da e per la Germania.
 Durante il periodo nazista ricevette un notevole ristrutturamento, che lo portò ad ingrandirsi tanto da diventare **il terzo edificio più grande del mondo**.
 
-Dopo la caduta del governo nazista, l' aeroporto finì prima nelle mani delle truppe  sovietiche e successivamente venne in quelle delle truppe statunitensi, che lo utilizzarono per il famoso [**Ponte Aereo** di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino).
+Dopo la caduta del governo nazista, l' aeroporto finì prima nelle mani delle truppe  sovietiche e successivamente venne in quelle delle truppe statunitensi, che lo utilizzarono, in occasione della Guerra Fredda, per il famoso [**Ponte Aereo** di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino).
 
-Dopo l' apertura del Tegel del **1975**, l' aeroporto subì un grave declino di traffico, che lo portò alla **chiusura nel 2008**.
+Con l' apertura del Tegel nel **1975**, l' aeroporto subì un grave declino di traffico, che lo portò alla **chiusura nel 2008**.
 
 Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare, ma a causa della sua distanza e del poco tempo a nostra disposizione ci è stato impossibile. Se avete la possibilità vi consigliamo di andarci, per **il suo valore storico merita assolutamente una visita**, soprattutto se si è amanti del mondo dell' aviazione, come lo siamo noi.
 

@@ -26,7 +26,7 @@ news_keywords:
 countries: Germania
 cities: Berlino
 titoloSEO: Visitare gratuitamente il Reichstag di Berlino
-sottotitolo: guida alla prenotazione della visita
+sottotitolo: Guida alla prenotazione della visita
 slug: prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino
 immagineprincipale: /img/articoli/cupola-reichstag.jpg
 descrizioneimg: La cupola del Reichstag vista da vicino dalla terrazza del Reichstag

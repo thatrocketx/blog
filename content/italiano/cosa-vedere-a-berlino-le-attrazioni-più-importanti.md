@@ -304,6 +304,8 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Gendarmenmarkt/@52.5140099,13.3930886,17z/data=!4m5!3m4!1s0x47a851da6e329be1:0x69ed42f426573790!8m2!3d52.5137235!4d13.3926719"  >Google Maps</a> - <a href="https://www.openstreetmap.org/search?query=We%20love%20that%20Rocket%20X#map=17/52.51343/13.39310"  >OpenStreetMap</a> - <a href="geo:52.51343,13.39310?z=17"  >Applicazione mappe</a>
   </div>
+  
+{{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino-gratis\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",49759,,22003,,284327\"></div>" >}}
 
 {{< titolo2 title="Hackesche Höfe" link="hackesche-hofe" >}}
 
@@ -361,7 +363,7 @@ Il suo corpo venne lasciato sanguinante in mezzo alla strada in attesa della sua
 
 L' iscrizione recita
 
-> egli voleva soltanto la libertà.
+> Egli voleva soltanto la libertà.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Peter+Fechter+-+Monument/@52.5078512,13.3929988,21z/data=!4m5!3m4!1s0x47a851d6c9f5ad1b:0xb4fd2cbf111e491c!8m2!3d52.5078374!4d13.3930749"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50677/13.39338"  >OpenStreetMap</a> - <a href="geo:52.50677,13.39338?z=19"  >Applicazione mappe</a>
   </div>
@@ -770,8 +772,10 @@ Chiuso il lunedì.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
   </div>
-
+  
+<br>
 {{< affiliato "gyg" "Pass 3 giorni per 30+ musei di Berlino" "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "/img/articoli/pass-musei-3gg-berlino.png" "Vedi su GetYourGuide" >}}
+<br>
 
 {{< titolo2 title="Museo del cinema (German Cinematheque - Museum of Film and Television)" link="german-cinematheque" >}}
 

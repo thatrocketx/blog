@@ -102,7 +102,7 @@ Si trova a qualche metro a sud del memoriale dell' Olocausto, a **Ministergärte
 
 Nato come Aeroporto di Berlino Tempelhof nel 1923, è un luogo storico di notevole importanza: qui vi fu la **prima dimostrazione di volo** di  Armand Zipfel e di Orville Wright nel 1909 (prima che lo spazio diventasse effettivamente un aeroporto). 
 Qui **venne fondata**, nel 1926, **la Lufthansa**, la compagnia aerea che precedeva la *nuova Lufthansa*, che ancora oggi effettua voli da e per la Germania.
-Durante il periodo nazista ricevette un notevole ristrutturamento, che lo porto ad ingrandirsi tanto da diventare **il terzo edificio più grande del mondo**.
+Durante il periodo nazista ricevette un notevole ristrutturamento, che lo portò ad ingrandirsi tanto da diventare **il terzo edificio più grande del mondo**.
 
 Dopo la caduta del governo nazista l' aeroporto finì prima nelle mani delle truppe  sovietiche e successivamente venne in quelle delle truppe statunitensi, che lo utilizzarono per il famoso [**Ponte Aereo** di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino).
 

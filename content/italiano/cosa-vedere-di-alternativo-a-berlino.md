@@ -131,7 +131,7 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
   </div>
   
 ---
-{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",203206,,43642,,165107\"></div>" >}}
+{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",170637,,37028,,43642\"></div>" >}}
 
 ---
   

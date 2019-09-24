@@ -613,7 +613,7 @@ Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Topographie+des+Terrors/@52.5072009,13.3831069,17z/data=!4m5!3m4!1s0x47a851cc389778c7:0x374bd5cc05c96648!8m2!3d52.5066836!4d13.383702"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50680/13.38352"  >OpenStreetMap</a> - <a href="geo:52.50680,13.38352?z=19"  >Applicazione mappe</a>
   </div>  
   
- {{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-a-berlino_368326?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false#14/52.5164/13.4007\"></iframe><p><a href=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-a-berlino_368326\">Visualizza a schermo intero</a></p>" >}}
+ {{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-a-berlino_368326?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false#14/52.5164/13.4007\"></iframe>" >}}
   
 ---
 

@@ -76,7 +76,9 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 
 **Collegatevi al sito** ufficiale del Bundestag **per effettuare la prenotazione dei biglietti**.
 
-[**CLICCARE QUI PER ANDARE AL SITO UFFICIALE SUL QUALE EFFETTUARE LA PRENOTAZIONE**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en)
+[**SITO UFFICIALE**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en)
+
+{{< noamp "<br>(<a href=\"https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en\" target=\"_blank\">Clicca qui per aprire la pagina in una nuova scheda</a>)" >}}
 
 ### ✅ Passo 2 - Accettazione delle regole
 

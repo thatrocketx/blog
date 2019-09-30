@@ -8,7 +8,7 @@ description: >-
   Codice sconto Italo per viaggiare in Smart o Comfort con uno sconto dal 30% al
   40%
 autore: Staff
-immagine: /img/articoli/italo-2019-09-27.png
+immagine: /img/articoli/offerta-scaduta.png
 categories:
   - Offerte Viaggi
 tags:
@@ -22,12 +22,12 @@ news_keywords:
   - italo offerte
 titoloSEO: Codice sconto Italo valido fino al 30 settembre 2019
 slug: codice-sconto-italo-fino-al-30-settembre-2019
-immagineprincipale: /img/articoli/italo-2019-09-27.png
+immagineprincipale: /img/articoli/offerta-scaduta.png
 descrizioneimg: Logo di Italo con lo sconto in basso.
 fontawesome: false
 js: false
 publishdate: '2019-09-27T11:23:54+00:00'
-expirydate: '2019-09-30T16:00:00+00:00'
+expirydate: '2019-10-01T08:00:00+00:00'
 scadenza: '2019-09-30T15:00:00+00:00'
 mostrascadenza: true
 lastmod: '2019-09-27T11:23:54+00:00'

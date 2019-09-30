@@ -41,7 +41,11 @@ Quando si va in una città si ha sempre la voglia di trovare qualche luogo "stra
 
 {{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
 
-È un **murale "particolare"** sulla sede di un giornale tedesco molto famoso, il Taz, nei pressi di Checkpoint Charlie. Il murale è satirico e si riferisce al direttore di un altro giornale, il Bild, che si dicesse avesse provato ad allungarsi tal senso. Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza innocuo.
+È un **murale "particolare"** che si trova sulla sede di uno dei giornali più famosi della Germania, il Taz, vicinissimo a Checkpoint Charlie.
+L' opera è puramente **satirica** e fu **dedicata all' ex direttore di un altro giornale** famoso, il Bild. Si diceva, infatti, che il direttore si fosse **sottoposto ad un intervento** per allungarsi in quel senso. 
+Il nome dell' opera significa letteralmente **"La pace sia con te"**, ma il nome originale nasconde dei giochi di parola al suo interno. 
+
+Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza innocuo.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50540/13.39190"  >OpenStreetMap</a> - <a href="geo:52.50540,13.39190?z=19"  >Applicazione mappe</a>
   </div>

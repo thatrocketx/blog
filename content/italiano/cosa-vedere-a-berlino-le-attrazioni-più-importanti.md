@@ -781,7 +781,7 @@ Chiuso il lunedì.
   </div>
   
 <br>
-{{< affiliato "gyg" "Pass 3 giorni per 30+ musei di Berlino" "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "/img/articoli/pass-musei-3gg-berlino.png" "Vedi su GetYourGuide" >}}
+{{< affiliato "gyg" "Pass di 3 giorni per più di 30 musei di Berlino - Museum Pass Berlin" "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "/img/articoli/pass-musei-3gg-berlino.png" "Vedi su GetYourGuide" >}}
 <br>
 
 {{< titolo2 title="Museo del cinema (German Cinematheque - Museum of Film and Television)" link="german-cinematheque" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>

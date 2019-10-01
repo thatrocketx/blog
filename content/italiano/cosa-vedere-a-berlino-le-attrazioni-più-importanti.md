@@ -130,6 +130,10 @@ State molto attenti alle truffe che avvengono qualche volta davanti a questo mon
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Checkpoint+Charlie/@52.5074534,13.3902253,20z/data=!4m5!3m4!1s0x47a851d15c26d8cd:0x23a50042477d89c8!8m2!3d52.5074434!4d13.3903913"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50751/13.39037"  >OpenStreetMap</a> - <a href="geo:52.50751,13.39037?z=19"  >Applicazione mappe</a>
   </div>
+  
+ {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",158612,,6045,,791\"></div>" >}}
+ 
+ 
 
 {{< titolo2 title="Deutsch-Russisches Museum Berlin-Karlshorst" link="museo-russia-germania" >}}
 

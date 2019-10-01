@@ -648,7 +648,7 @@ In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono 
 
 Gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che per soli 30 € vi da diritto ad entrare **in più di 30 musei per 3 giorni** (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. Se vi interessa {{< nofollow "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "lo potete acquistare qui" >}}. La card si ritira all' aeroporto o nei punti informazione in città. <small>Affiliate</small>
 
-{{< titolo2 title="Museo della storia tedesco (Deutsches Historisches Museum)" link="deutsches-historisches-museum" >}} 
+{{< titolo2 title="Museo della storia tedesco (Deutsches Historisches Museum)" link="deutsches-historisches-museum" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 Questo è il primo museo che abbiamo visitato.
 
@@ -668,7 +668,6 @@ Le spiegazioni sono in tedesco ed in inglese.
 | Intero (18+)                               | 8 €    |
 | Ridotto (studenti, persone con disabilità) | 4 €    |
 
-<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 **ORARI DI APERTURA**
 
@@ -679,7 +678,7 @@ Le spiegazioni sono in tedesco ed in inglese.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Deutsches+Historisches+Museum/@52.5178619,13.3966627,18z/data=!4m5!3m4!1s0x0:0xf9fb901171a947c3!8m2!3d52.5181519!4d13.3969497"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51808/13.39666"  >OpenStreetMap</a> - <a href="geo:52.51808,13.39666?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Museo della tecnologia (Deutsches Technikmuseum)" link="deutsches-technikmuseum" >}} 
+{{< titolo2 title="Museo della tecnologia (Deutsches Technikmuseum)" link="deutsches-technikmuseum" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 {{< img "Prima vista del museo" "/img/articoli/technikmuseum_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
@@ -722,8 +721,6 @@ Il nostro preferito insieme a quello dello spionaggio.
 | Intero  | 8 €    |
 | Ridotto | 4 €    |
 
-<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
-
 **ORARI DI APERTURA**
 
 |         | APERTURA | CHIUSURA |
@@ -736,7 +733,7 @@ Chiuso il lunedì. Chiuso il 24, 25 e 31 dicembre e l' 1 maggio.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Deutsches+Technikmuseum+Berlin/@52.499199,13.3771899,17z/data=!4m5!3m4!1s0x0:0x4435919b99126a78!8m2!3d52.4986979!4d13.3778849"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.49713/13.37578"  >OpenStreetMap</a> - <a href="geo:52.49713,13.37578?z=18"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}} 
+{{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 {{< img "Parte della mostra" "/img/articoli/img_2064_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
@@ -772,8 +769,6 @@ Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
 | --------- | ------ |
 | Biglietto | 12 €   |
 
-<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
-
 **ORARI DI APERTURA**
 
 | APERTURA | CHIUSURA |
@@ -789,7 +784,7 @@ Chiuso il lunedì.
 {{< affiliato "gyg" "Pass 3 giorni per 30+ musei di Berlino" "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "/img/articoli/pass-musei-3gg-berlino.png" "Vedi su GetYourGuide" >}}
 <br>
 
-{{< titolo2 title="Museo del cinema (German Cinematheque - Museum of Film and Television)" link="german-cinematheque" >}}
+{{< titolo2 title="Museo del cinema (German Cinematheque - Museum of Film and Television)" link="german-cinematheque" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 Museo sul cinema e sulla televisione. 
 
@@ -807,8 +802,6 @@ Infatti **il museo si divide su più piani** e, a partire dal basso, si possono 
 | ------ | ------ |
 | Adulti | 8 €    |
 
-<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
-
 **ORARI DI APERTURA**
 
 |                         | APERTURA | CHIUSURA                              |
@@ -821,7 +814,7 @@ Chiuso il martedì.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/German+Film+and+Television+Academy+Berlin+GmbH/@52.509457,13.3739444,19z/data=!4m5!3m4!1s0x47a851c99b1ac3bb:0x900d321a3dad3e17!8m2!3d52.509558!4d13.3738972"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50954/13.37320"  >OpenStreetMap</a> - <a href="geo:52.50954,13.37320?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Altes Museum" link="altes-museum" >}} 
+{{< titolo2 title="Altes Museum" link="altes-museum" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 Museo di archeologia.
 
@@ -840,8 +833,6 @@ Si trova di fronte al Duomo di Berlino, è abbastanza appariscente. Da qui potet
 | Intero       | 10 €   |
 | Agevolazioni | 5 €    |
 
-<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
-
 **ORARI DI APERTURA**
 
 |                         | APERTURA | CHIUSURA |
@@ -854,7 +845,7 @@ Chiuso il martedì.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Altes+Museum/@52.5194124,13.3989051,19z/data=!4m5!3m4!1s0x47a851dd6a1d6f33:0xb61e5106fd47fdbb!8m2!3d52.5194664!4d13.3987445"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51947/13.39851"  >OpenStreetMap</a> - <a href="geo:52.51947,13.39851?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Museo Ebraico" link="museo-ebraico" >}}
+{{< titolo2 title="Museo Ebraico" link="museo-ebraico" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 {{< img "Edificio principale del museo" "/img/articoli/museo-ebraico-berlino_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
@@ -878,8 +869,6 @@ L' intero museo **deve essere visto con occhio simbolico**, a questo proposito v
 
 Biglietto famiglia (2 adulti e fino a 4 bambini): 14 €
 Bambini fino a 6 anni gratis.
-
-<br><div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 
 **ORARI DI APERTURA**
 
@@ -908,7 +897,9 @@ Da lì potrete avere **una vista a 360° della città** con una mini guida posta
 [Scarica l' app su Google Play](https://play.google.com/store/apps/details?id=com.mcrumbs.fernsehturm)
 
 Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sapere nei commenti qualsiasi alternativa.
-**Se invece non volete aspettare** il vostro turno potete anche acquistare il {{< nofollow "https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "fast ticket" >}} online, che vi darà l' accesso prioritario alla torre. <small>Affiliate</small>
+
+
+**Se invece non volete aspettare** il vostro turno potete anche acquistare il **{{< nofollow "https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "fast ticket" >}}** online, che vi darà l' accesso prioritario alla torre. <small>Affiliate</small>
 Il prezzo in questo caso è maggiorato e costa € 21.50.
 
 **PREZZI**

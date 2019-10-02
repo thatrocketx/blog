@@ -141,7 +141,7 @@ Una volta usciti dall' aeroporto percorrente la lunga pensilina bianca alla vost
 
 <small> Foto di that Rocket X.</small>
 
-{{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/come-arrivare-a-berlino-centro-dall-aeroporto-scho_371192?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#16/52.3904/13.5174\"></iframe>" >}}
+{{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/come-arrivare-a-berlino-centro-dall-aeroporto-scho_371192?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false\"></iframe>" >}}
 
 
 {{< titolo title="🎫 Dove acquistare i biglietti dei treni" link="biglietti" >}}

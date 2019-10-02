@@ -559,24 +559,6 @@ La colonna era **originariamente piazzata vicino al Reichstag** (lo potrete vede
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Colonna+della+Vittoria/@52.5144587,13.3502071,19z/data=!4m5!3m4!1s0x47a851af28d3f1c3:0x55627fdba380e5c9!8m2!3d52.5145433!4d13.3501187"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51439/13.34993"  >OpenStreetMap</a> - <a href="geo:52.51439,13.34993?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Sowjetisches Ehrenmal" link="sowjetisches-ehrenmal" >}} 
-
-{{< img "Monumento principale senza carri" "/img/articoli/sowjetisches-ehrenmal_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
-
-Memoriale russo **dedicato agli 80mila soldati sovietici** morti durante la Battaglia di Berlino.
-
-Si trova nei pressi di Tiergarten, sulla strada che va dalla Porta di Brandeburgo alla Siegessäule, non potrete non vederlo, è davvero enorme. 
-
-Di solito è poco affollato.
-
-{{< titolo2 title="Stadtmauer" link="stadtmauer" >}}
-
-{{< img "Stadtmauer" "/img/articoli/muro-antico-di-berlino_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
-
-Vecchie mura difensive cittadine della città di Berlino.
-
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Alte+Berliner+Stadtmauer/@52.516814,13.4129869,18z/data=!4m5!3m4!1s0x47a84e23c6ffe913:0xd0af0b36494c0c9f!8m2!3d52.5167097!4d13.4141209"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51664/13.41428"  >OpenStreetMap</a> - <a href="geo:52.51664,13.41428?z=19"  >Applicazione mappe</a>
   </div>
 

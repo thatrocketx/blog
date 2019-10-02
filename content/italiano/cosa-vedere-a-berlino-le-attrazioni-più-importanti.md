@@ -325,9 +325,9 @@ Purtroppo questo è uno dei posti che non siamo riusciti a visitare per il poco 
 {{< img "Vista dal basso della chiesa" "/img/articoli/img_2093_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-**Chiesa del 1890 danneggiata**.
+**Chiesa del 1890 danneggiata da un bombardamento** durante la Seconda Guerra Mondiale.
 
-La chiesa **venne danneggiata da un bombardamento degli Alleati** del 23 novembre 1943 che lasciò soltanto la torre ovest.
+Il 23 novembre 1943, un bombardamento degli alleati distrusse gran parte della chiesa, lasciando solo la torre ovest intatta. In ricordo della parte est della chiesa, oggi è presente una torre. La parte originale, invece, funge da **memoriale** della chiesa, con foto d' epoca, ricostruzioni plastiche e informazioni sulla struttura originale.
 
 Il monumento si trova **abbastanza lontano dal centro**, tanto è vero che abbiamo percorso gran parte del parco di Tiergarten per arrivarci.
 
@@ -377,11 +377,12 @@ L' iscrizione recita
 {{< img "Entrata Memoriale Resistenza e Eroi Silenziosi" "/img/articoli/img_2127_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-In questo edificio vengono raccontate le **storie di chi ha lottato contro il nazismo**. Il memoriale consiste in **due piani**: il primo è dedicato alla **Resistenza Tedesca**, con le storie di chi ha **lottato contro il nazismo**, compresi i racconti dei vari **tentativi di assassinio** falliti **di Hitler** e della **storia delle persone** dietro di essi, di come hanno organizzato il loro piano e di come hanno reperito i materiali e di come hanno costruito gli ordigni necessari. Scoprirete anche quanto è stato fortunato Hitler durante questi attentati.
+In questo edificio, dove una volta sorgeva l' Alto Comando dell' armata nazista, vengono raccontate le **storie di chi ha lottato contro il nazismo**. Il memoriale consiste in **due piani**: il primo è dedicato alla **Resistenza Tedesca**, con le storie di chi ha **lottato contro il nazismo**, compresi i racconti dei vari **tentativi di assassinio** falliti **di Hitler** e della **storia delle persone** dietro di essi, di come hanno organizzato il loro piano e di come hanno reperito i materiali e di come hanno costruito gli ordigni necessari.
+Tra questi vi è anche la storia di uno dei **[piani di assassinio più famosi](https://it.wikipedia.org/wiki/Attentato_a_Hitler_del_20_luglio_1944)**, organizzato dai membri dell' esercito Friedrich Olbricht, Henning von Tresckow e Claus von Stauffenberg, inizialmente **proprio all' interno di questo palazzo** e che prevedeva l' uccisione di Hitler all' interno della sua *Tana del Lupo*. Questo, come tutti gli altri tentativi (che troverete ben spiegati), fallì **soltanto per pura fortuna di Hitler**.
 
-È una mostra davvero ben fatta, soprattutto se si è **appassionati di Seconda Guerra Mondiale**. È molto toccante leggere le vite di queste persone che hanno talvolta sacrificato la propria vita per lottare contro il nazismo. 
+È una mostra davvero ben fatta, soprattutto se si è **appassionati di Seconda Guerra Mondiale**. È molto toccante leggere le vite di queste persone che hanno molto spesso sacrificato la propria vita e che comunque hanno rischiato molto per lottare contro il nazismo.
 
-Al **piano superiore** vi è la **mostra sugli eroi silenziosi**, ovvero viene ricordata la vita di quelle persone che hanno aiutato gli ebrei a nascondersi o gli **hanno salvato in qualche modo la vita**, mostrando anche oggetti originali dell' epoca.
+Al **piano superiore** vi è la **mostra sugli eroi silenziosi**, ovvero una mostra con la quale viene ricordata la vita di quelle persone che hanno aiutato gli ebrei a nascondersi o gli **hanno salvato in qualche modo la vita**, mostrando anche oggetti originali dell' epoca. Tra le varie cose vi sono anche alcune pagine della famosa **[Lista di Schindler](https://it.wikipedia.org/wiki/Lista_di_Schindler)**.
 
 Per visitare la **mostra gratuita** basta entrare nel **primo edificio** sulla sinistra (una volta entrati nel palazzo) e salire le scale. **La mostra inizia nella prima stanza, dalla sinistra**.
 

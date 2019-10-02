@@ -47,7 +47,7 @@ Il nome dell' opera significa letteralmente **"La pace sia con te"**, ma il nome
 
 Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza innocuo.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50540/13.39190"  >OpenStreetMap</a> - <a href="geo:52.50540,13.39190?z=19"  >Applicazione mappe</a>
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784"  >Google Maps</a> - <a href="https://www.openstreetmap.org/?mlat=52.50665&mlon=13.39175#map=19/52.50665/13.39175"  >OpenStreetMap</a> - <a href="geo:52.50665,13.39175?z=19"  >Applicazione mappe</a>
   </div>
 
 {{< titolo2 title="Spreepark" link="spreepark" >}}
@@ -189,7 +189,9 @@ Se provenite dallo Schönefeld e avete la **{{< nofollow "https://www.getyourgui
 <div style="text-align: center"><a href="https://www.google.com/maps/place/House+of+the+Wannsee+Conference/@52.4332375,13.1624479,16z/data=!4m13!1m7!3m6!1s0x47a858be4d35e285:0x52120465b5face0!2sWannsee,+14109+Berlino,+Germania!3b1!8m2!3d52.415113!4d13.1468678!3m4!1s0x47a858fa53c728e1:0x40087ca9f52dd011!8m2!3d52.4329117!4d13.1655264"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.43275/13.16474"  >OpenStreetMap</a> - <a href="geo:52.43275,13.16474?z=18"  >Applicazione mappe</a>
   </div>
 
-{{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-tour-ids=\",49759,,112600,,2385\"></div>" >}}
+{{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-di-alternativo-a-berlino_371321?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#14/52.5199/13.3994\"></iframe>
+<br>
+<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-tour-ids=\",49759,,112600,,2385\"></div>" >}}
 
 Questi erano i nostri suggerimenti più insoliti per Berlino, in futuro, se dovessimo ritornarci, aggiorneremo questo post con le foto e i posti ancora più alternativi che abbiamo trovato. Nei commenti fateci sapere se conoscete dei posti strani anche voi o consigliateci altre città da visitare.<br> 
 Grazie per la lettura e **buon viaggio**!

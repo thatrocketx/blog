@@ -143,6 +143,7 @@ Una volta usciti dall' aeroporto percorrente la lunga pensilina bianca alla vost
 
 {{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/mappa-senza-nome_371192?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#17/52.39002/13.51246\"></iframe>" >}}
 
+
 {{< titolo title="🎫 Dove acquistare i biglietti dei treni" link="biglietti" >}}
 
 Per acquistare i biglietti potete:

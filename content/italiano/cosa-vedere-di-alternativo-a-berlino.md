@@ -149,6 +149,31 @@ Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate l
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Schwerbelastungsk%C3%B6rper/@52.4839316,13.3709698,18z/data=!4m5!3m4!1s0x47a8503d23a64435:0x726cb510e12b2f9!8m2!3d52.4840392!4d13.3716139">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.48398/13.37142"  >OpenStreetMap</a> - <a href="geo:52.48398,13.37142?z=19"  >Applicazione mappe</a>
   </div>
+  
+{{< titolo2 title="Sowjetisches Ehrenmal Tiergarten" link="sowjetisches-ehrenmal-tiergarten" >}} 
+
+{{< img "Monumento principale senza carri" "/img/articoli/sowjetisches-ehrenmal_compressed.jpg" >}}
+
+<small>Foto di that Rocket X</small>
+
+Memoriale russo **dedicato agli 80mila soldati sovietici** morti durante la Battaglia di Berlino.
+
+Si trova nei pressi di Tiergarten, sulla strada che va dalla Porta di Brandeburgo alla Siegessäule, non potrete non vederlo, è davvero enorme. 
+
+Di solito è poco affollato.
+
+{{< titolo2 title="Stadtmauer" link="stadtmauer" >}}
+
+{{< img "Stadtmauer" "/img/articoli/muro-antico-di-berlino_compressed.jpg" >}}
+
+<small>Foto di that Rocket X</small>
+
+Vecchie mura della città di Berlino. 
+
+Con la Seconda Guerra Mondiale, gran parte della vecchia città storica di Berlino venne distrutta. Questi pochi metri di muro è ciò che è rimasto delle vecchie mura difensive della città antica medioevale che sorgeva nei pressi di Alexandeplatz.
+
+Negli anni della Guerra Fredda, venne costruita, dal governo della Germania dell' Est, [Nikolaiviertel](/cosa-vedere-a-berlino#nikolaiviertel): una serie di strutture nel vecchio quartiere di Berlino omonimo, che riprende lo stile della città antica.
+
 
 {{< titolo2 title="Torre di controllo in Erna-Berger-Straße" link="torre-di-controllo" >}}
 

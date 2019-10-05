@@ -24,11 +24,11 @@ immagineprincipale: /img/articoli/italo-2019-10-05.png
 descrizioneimg: Logo di Italo con lo sconto in basso.
 fontawesome: false
 js: false
-publishdate: '2019-10-05T11:23:54+00:00'
+publishdate: '2019-10-04T11:23:54+00:00'
 expirydate: '2019-10-08T08:00:00+00:00'
 scadenza: '2019-10-07T15:00:00+00:00'
 mostrascadenza: true
-lastmod: '2019-10-05T11:23:54+00:00'
+lastmod: '2019-10-04T11:23:54+00:00'
 ---
 Nuovo codice Italo per viaggiare con uno sconto del 40% in ambiente Low Cost, con classe **Smart o Comfort** **dal 22 ottobre**.
 

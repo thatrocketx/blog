@@ -4,7 +4,7 @@ date: '2019-10-04T11:23:54+00:00'
 title: Codice Sconto Italo per viaggiare al -40% dal 22 ottobre
 description: Codice sconto Italo per viaggiare in Smart o Comfort con uno sconto del 40%
 autore: Staff
-immagine: /img/articoli/italo-2019-10-05.png
+immagine: /img/articoli/offerta-scaduta.png
 categories:
   - Offerte Viaggi
 tags:
@@ -18,7 +18,7 @@ news_keywords:
   - italo offerte
 titoloSEO: Nuovo codice sconto Italo valido fino al 7 ottobre 2019
 slug: codice-sconto-italo-fino-al-7-ottobre-2019
-immagineprincipale: /img/articoli/italo-2019-10-05.png
+immagineprincipale: /img/articoli/offerta-scaduta.png
 descrizioneimg: Logo di Italo con lo sconto in basso.
 fontawesome: false
 js: false

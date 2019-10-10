@@ -121,7 +121,7 @@ Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare,
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Tempelhofer+Feld/@52.4742191,13.4002196,15z/data=!4m5!3m4!1s0x47a84fe8f7d899eb:0x88898e99acbb718b!8m2!3d52.4753833!4d13.4019041"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.4722/13.3980"  >OpenStreetMap</a> - <a href="geo:52.4722,13.3980?z=15"  >Applicazione mappe</a>
   </div>
   
-  {{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
+  {{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}} 
 
 {{< img "Parte della mostra" "/img/articoli/img_2064_compressed.jpg" >}}
 

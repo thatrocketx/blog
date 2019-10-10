@@ -1,7 +1,7 @@
 ---
 draft: false
 date: '2019-09-06T18:35:39+00:00'
-title: 'Cosa vedere a Berlino: le attrazioni e i musei più importanti'
+title: 'Cosa vedere a Berlino: 30+ attrazioni e musei da visitare'
 description: >-
   Più di 30 consigli sui luoghi da vedere assolutamente con informazioni e
   curiosità interessanti. Le migliori attrazioni gratis e i musei più importanti
@@ -64,7 +64,7 @@ Qui avvengono **gran parte degli scambi per la metropolitana** e **partono i bus
 
 Si trova proprio **dietro la Torre della TV** ed è il posto nel quale si trovano **quasi tutte le catene più famose** e i negozi.
 
-Simbolo della piazza è l' **Urania Weltzeituhr**, un orologio universale del 1969.
+🕰️ Simbolo della piazza è l' **Urania Weltzeituhr**, un orologio universale costruito nel 1969.
 
 State solo attenti ai tram che percorrono le vie intorno la piazza. 
 Da qui **potere facilmente raggiungere altri posti** famosi come la **Torre della TV** (si trova proprio davanti), **Nikolaiviertel** ed **East Side Gallery**.
@@ -77,7 +77,9 @@ Da qui **potere facilmente raggiungere altri posti** famosi come la **Torre dell
 {{<img "Alte Bibliothek" "/img/articoli/alte-bibliothek_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-Situata a Bebelplatz, **è una vecchia biblioteca di Berlino**. **Venne fatta costruire da Federico il Grande nel 1775** per ospitare la **Biblioteca Reale** e rendere i libri accessibili alla borghesia. Venne fortemente **ispirata dal palazzo reale di Vienna**. **Oggi è la sede della facoltà di legge dell' Università Humboldt** di Berlino (la **più antica università** della città).
+Situata a Bebelplatz, **è una vecchia biblioteca di Berlino**. 
+
+**Venne fatta costruire da Federico il Grande nel 1775** per ospitare la **Biblioteca Reale** e rendere i libri accessibili alla borghesia. Venne fortemente **ispirata dal palazzo reale di Vienna**. **Oggi è la sede della facoltà di legge dell' Università Humboldt** di Berlino (la **più antica università** della città).
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Universit%C3%A4tsbibliothek+Humboldt-Universit%C3%A4t+zu+Berlin,+ZwB+Rechtswissenschaften/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x0:0x6afecf18e757f4b9!8m2!3d52.516408!4d13.393313"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51644/13.39316"  >OpenStreetMap</a> - <a href="geo:52.51644,13.39316?z=19"  >Applicazione mappe</a>
   </div>
@@ -89,7 +91,7 @@ Situata a Bebelplatz, **è una vecchia biblioteca di Berlino**. **Venne fatta co
 
 Piazza molto famosa di Berlino, è il **luogo nel quale si trovano l' Alte Bibliothek**, la Staatsoper Unter Den Linden (Opera di Stato) e la Cattedrale di Sant'Edvige. 
 
-In questa piazza, il **10 maggio del 1933** vi fu il famoso **primo rogo dei libri da parte dei nazisti**. Vi è un **memoriale** a ricordare l' evento. 
+🕯️ In questa piazza, il **10 maggio del 1933** vi fu il famigerato **primo rogo dei libri da parte dei nazisti**, nel quale vennero distrutte moltissime opere considerate non conformi alle idee del partito. Vi è un **memoriale** a ricordare l' evento. 
 
 Originariamente si chiamava Opernplatz, venne rinominata Bebelplatz nel 1947 in onore di August Bebel, politico e scrittore co-fondatore del Parito Socialdemocratico di Germania, uno dei partiti politici più vecchi al mondo. 
 
@@ -122,7 +124,7 @@ Cattedrale posta sul retro dell' Opera di Stato, a Bebelplatz. **Venne commissio
 
 **Era il principale passaggio tra Berlino Est e Berlino Ovest**.
 
-Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontiera** ( C è la terza lettera dell' alfabeto  e nell' alfabeto NATO C è Charlie). Quando fu alzato il muro in questo punto ci fu il **confronto tra USA e Unione Sovietica**, uno dei momenti più vicini ad una **Terza Guerra Mondiale**. Una placca su una pila di sabbia **ricorda questo evento**.
+🔤 Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontiera** ( C è la terza lettera dell' alfabeto  e nell' alfabeto NATO C è Charlie). Quando fu alzato il muro in questo punto ci fu il **confronto tra USA e Unione Sovietica**, uno dei momenti più vicini ad una **Terza Guerra Mondiale**. Una placca su una pila di sabbia **ricorda questo evento**.
 
 **Vi conviene andarci il prima possibile** di mattina perché **si affolla** di turisti abbastanza velocemente (già alle 9 di mattina) e spesso vi si piazzano anche dei personaggi vestiti da soldati tedeschi e russi che potrebbero rovinare eventuali fotografie.
 
@@ -135,7 +137,7 @@ State molto attenti alle truffe che avvengono qualche volta davanti a questo mon
   ---
   
   
- {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",158612,,6045,,791\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">Berlin Welcome Card: pass per i trasporti di Berlino. Acquista i biglietti su GetYourGuide (zona ABC).</a></center></noscript> <br><small>Affiliate</small>" >}}
+ {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",158612,,6045,,791\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">🚍 Berlin Welcome Card: pass per i trasporti di Berlino. Acquista i biglietti su GetYourGuide (zona ABC).</a></center></noscript> <br><small>Affiliate</small>" >}}
  
  ---
 
@@ -203,7 +205,7 @@ Purtroppo, al momento della scrittura, l' intero complesso è in fase di restaur
 
 Forse **il pezzo di Muro più famoso della città**. È abbastanza distante dal centro (mezz' ora a piedi da Alexanderplatz), ma vale assolutamente la pena visitarlo, soprattutto se si è **amanti dell' arte**.
 
-È la **sezione del Muro di Berlino più lunga**. Nel 1989, dopo la caduta, questa parte del muro è diventata **la più grande collezione di murali all' aria aperta del mondo**. Ci sono più di 100 dipinti di 129 artisti da 20 paesi diversi. Purtroppo parte del muro, sempre al momento della scrittura, è coperta da una lunga galleria per dei lavori in corso (si riesce comunque a vedere abbastanza bene qualche dipinto).
+🎨 È la **sezione del Muro di Berlino più lunga**. Nel 1989, dopo la caduta, questa parte del muro è diventata **la più grande collezione di murali all' aria aperta del mondo**. Ci sono più di 100 dipinti di 129 artisti da 20 paesi diversi. Purtroppo parte del muro, sempre al momento della scrittura, è coperta da una lunga galleria per dei lavori in corso (si riesce comunque a vedere abbastanza bene qualche dipinto).
 
 La foto di fronte al quadro più famoso, _My God, Help Me to Survive this Deadly Love_, sarà abbastanza ardua in alcune ore, in quanto si forma una fila di gente abbastanza lunga, però si risolve tutto abbastanza velocemente.
 
@@ -223,7 +225,7 @@ La parte più bella è assolutamente la ricostruzione della Sala del Parlamento 
 
 Alla fine vi è l' **area foto** nella quale, inserendo una vostra email, dovrebbero **inviarvi la foto scattata sul green screen** con lo sfondo scelto. Dico dovrebbero perché noi abbiamo fatto ben 4 tentativi (4 fotografie) e fin' ora non abbiamo visto nemmeno un pixel della foto. Presumiamo che il sistema **sia guasto**...
 
-Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile prendere, **sempre gratuitamente**, **un opuscolo o un libro a scelta** dall' enorme bancone presente sulla sinistra.
+Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile prendere, **sempre gratuitamente**, **un opuscolo o un libro a scelta** dall' enorme bancone presente sulla sinistra. 🇪🇺
 
 **ORARI DI APERTURA**
 
@@ -315,7 +317,7 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
   
   ---
   
-{{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino-gratis\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",49759,,22003,,171918\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietto-per-il-museo-haus-am-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">Museo Checkpoint Charlie: acquista i biglietti su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>" >}}
+{{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino-gratis\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",49759,,22003,,171918\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietto-per-il-museo-haus-am-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">🧱 Museo Checkpoint Charlie: acquista i biglietti su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>" >}}
 
 ---
 
@@ -353,9 +355,9 @@ Purtroppo l' intero monumento, nel momento in cui scriviamo, **è in fase di res
 {{< img "Facciata principale con statua di Schiller" "/img/articoli/konzerthaus_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-Maestoso edificio del 1821 al centro di Gendarmenmarkt.
+Maestosa sala da concerto del 1821 al centro di Gendarmenmarkt.
 
-La scultura rappresenta [Fiedrich Schiller](https://it.wikipedia.org/wiki/Friedrich_Schiller), lo scrittore dell' Inno alla gioia musicato da Beethoven.
+La statua davanti rappresenta il poeta [Fiedrich Schiller](https://it.wikipedia.org/wiki/Friedrich_Schiller), lo scrittore dell' Inno alla gioia musicato da Beethoven.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Konzerthaus+Berlin/@52.5135747,13.3917331,19z/data=!4m5!3m4!1s0x47a851da5ed87d97:0xc85b1ffb144309e5!8m2!3d52.5136439!4d13.3917895"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51358/13.39202"  >OpenStreetMap</a> - <a href="geo:52.51358,13.39202?z=19"  >Applicazione mappe</a>
   </div>
@@ -484,7 +486,7 @@ Entrando all' interno si trova un enorme spazio vuoto con al centro una statua c
 {{< img "Nikolaiviertel vista da fuori" "/img/articoli/nikolaikirche_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-Zona che **ricrea la città di Berlino così come era nell' era medioevale**.
+📜 Zona che **ricrea la città di Berlino così come era nell' era medioevale**.
 
 Il centro storico di Berlino fu infatti **completamente distrutto durante la Seconda Guerra Mondiale**. Questa ricostruzione venne ultimata nel 1987 e venne **commissionata dal governo della Germania dell' Est** per celebrare il **750esimo compleanno della città**.
 
@@ -513,7 +515,7 @@ Sulla punta, **la Quadriga rappresenta una dea alata che conduce quattro cavalli
 
  Venne **fortemente danneggiata durante la Seconda Guerra Mondiale**, ma venne restaurata grazie agli stampi originali ancora custoditi.
 
-Proprio davanti date un' occhiata alla lunga **linea di mattoni** perché sta ad indicare il confine del muro di Berlino, la troverete in molte parti della città.
+🧱 Proprio davanti date un' occhiata alla lunga **linea di mattoni** perché sta ad indicare il confine del muro di Berlino, la troverete in molte parti della città.
 
 Di notte è spettacolare.
 
@@ -528,7 +530,7 @@ Questa piazza ha per noi un valore più affettivo rispetto alle altre perché qu
 
 Venne **costruita negli anni novanta**, dopo il crollo del muro, **come il nuovo centro di Berlino**.
 
-A parte il centro commerciale, a Potsdamer Platz è possibile vedere l' enorme **torre del semaforo con l' orologio** che ricorda il fatto che in questa piazza venne installato il **primo semaforo della Germania nel 1924**, e le **rimanenze del Muro di Berlino**.
+🚦 A parte il centro commerciale, a Potsdamer Platz è possibile vedere l' enorme **torre del semaforo con l' orologio** che ricorda il fatto che in questa piazza venne installato il **primo semaforo della Germania nel 1924**, e le **rimanenze del Muro di Berlino**.
 
 È molto bello seguire la lunga linea di mattoni sui marciapiedi (non sulla strada però mi raccomando) e vedere le **rimanenze del muro**. In questo modo ci si rende conto di come questa piazza fosse divisa da questa lunga barriera.
 
@@ -540,7 +542,7 @@ A parte il centro commerciale, a Potsdamer Platz è possibile vedere l' enorme *
 {{< img "Vista del Reichstag" "/img/articoli/20190812_193550_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-Il Reichstag è la sede del Bundestag, il parlamento tedesco ed è una delle costruzioni più iconiche di Berlino, con la sua **cupola di vetro** dalla quale si può avere **una splendida vista sulla città**.
+Il Reichstag è la sede del Bundestag, il parlamento tedesco ed è una delle costruzioni più iconiche di Berlino, con la sua **cupola di vetro** dalla quale si può avere **una splendida vista sulla città**. 🇩🇪
 
 Venne **costruito a partire dal 1884**.
 Venne completata nel 1894, durante il Dutsches Reich (Impero Tedesco), da cui deriva il nome. 
@@ -575,7 +577,7 @@ La colonna era **originariamente piazzata vicino al Reichstag** (lo potrete vede
 {{< img "Squarcio sul parco di Tiergarten con un albero e un lago con un ponte nello sfondo" "/img/articoli/tiergarten_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-**Parco enorme** a **pochi passi dalla Porta di Brandeburgo**.
+**Parco enorme** a **pochi passi dalla Porta di Brandeburgo**. 🌲
 Ogni parte contiene qualcosa da vedere, da statue a giardini come l' _Englisher Garten_, costruiti per commemorare il Ponte Aereo di Berlino.
 Se vi trovate da quelle parti potete farvi un giro, se passate per il marciapiede lungo la via che lo attraversa potrete vedere anche la Siegessäule e il Sowjetisches Ehrenmal.
 
@@ -624,12 +626,12 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 
 * **Salita sulla cupola del Reichstag**
   La prenotazione è **completamente gratuita** e va fatta **online** preferibilmente in **largo anticipo**. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino), oppure se ve la cavate bene con l' inglese, questo è il link al [**sito del Bundestag sul quale va effettuata la prenotazione**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).
-  Se volete potete anche prenotare una **visita guidata all' interno del Reichstag** stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene **prenotare il prima possibile** (almeno un mese prima).<br><br>
+  Se volete potete anche prenotare una **visita guidata all' interno del Reichstag** stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene **prenotare il prima possibile** (almeno un mese prima). 🇩🇪<br><br>
 * [**Spreepark**](/cosa-vedere-a-berlino-alternativo#spreepark)
   Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo **parco abbandonato** della Germania dell' Est.
   Vi consigliamo di **prenotare MESI PRIMA**, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.
   Questo è link al [sito sul quale prenotare la visita guidata](https://gruen-berlin.de/en/spreepark/visitor-information-0). È disponibile sia in tedesco che in inglese.
-  Il costo del biglietto è di **€ 5**.
+  Il costo del biglietto è di **€ 5**. 👻
 
 - - -
 
@@ -643,7 +645,7 @@ Gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i 
 
 Questo è il primo museo che abbiamo visitato.
 
-Il museo **ripercorre gran parte della storia della Germania** a partire dal Sacro Romano Impero fino alla recente divisione della Germania.
+⚔️ Il museo **ripercorre gran parte della storia della Germania** a partire dal Sacro Romano Impero fino alla recente divisione della Germania.
 
 È **davvero ben fatto** e si divide su due piani: al piano superiore vi è la storia diciamo più antica: inizia con una breve introduzione al concetto di confine nel corso dei secoli e prosegue con una spiegazione della nascita della lingua tedesca, poi inizia la vera mostra di oggetti, documenti e quadri divisi per epoca. Ce ne sono tantissimi e molti sono anche abbastanza famosi. 
 
@@ -680,14 +682,14 @@ Le spiegazioni sono in tedesco ed in inglese.
 
 Si trova davvero di tutto:
 
-* Il primo computer, con una mostra che ripercorre tutta la cronologia delle componenti di un computer, con pezzi originali
-* Macchine tessili
-* **Fotocamere**, videocamere
-* Automobili
-* **Treni**
-* **Aerei**
-* Barche
-* Telefoni
+* 🖥️ Il primo computer, con una mostra che ripercorre tutta la cronologia delle componenti di un computer, con pezzi originali
+* 👗 Macchine tessili
+* 📷 **Fotocamere**, videocamere
+* 🚗 Automobili
+* 🚂 **Treni**
+* ✈️ **Aerei**
+* ⛵ Barche
+* ☎️ Telefoni
 * e altro
 
 Si divide su più piani ed è veramente fantastico, vi consigliamo assolutamente la visita se siete appassionati di tecnologia, soprattutto se vi trovate vicino Potsdamer Platz, visto che è abbastanza vicino.
@@ -697,7 +699,7 @@ Si divide su più piani ed è veramente fantastico, vi consigliamo assolutamente
 
 Ci sono anche **giochi interattivi** per comprendere meglio il funzionamento delle varie tecnologie mostrate. Ad esempio nell' area dedicata ai computer potrete imparare **come si conta in binario** e come funzionano i boolean e le porte logiche utilizzando semplicemente dei bottoni e delle manovelle, oppure potrete imparare come funziona una macchina per cucire e molto altro. Molto bello da vedere, sia per gli adulti che per i bambini o i ragazzi.
 
-Il nostro preferito insieme a quello dello spionaggio.
+Il nostro preferito insieme a quello dello spionaggio. ❤️
 
 **CONSIGLIO:** Potete scaricare l' **audioguida gratuita** per il museo **su Google Play o App Store**. Vi lascio qui sotto i link!
 
@@ -750,7 +752,7 @@ Ci sono inoltre dei pannelli dedicati alle grandi menti, **gli inventori** delle
 
 Durante la vostra visita **scattatevi una foto e pubblicatela su Instagram o su Twitter** con l' hashtag [\#spionagemuseum](https://instagram.com/explore/tags/spionagemuseum/) (potete anche collegarvi al wifi del museo per non consumare i dati), verso la fine troverete un **punto nel quale potrete stampare tutte le vostre foto** (anche in più copie per i gruppi). 
 
-Questo museo piacerà anche ai non amanti dello spionaggio e vi farà imparare molte cose. Inoltre con i suoi spazi interattivi e i giochi è adatto anche a bambini e ragazzi. Altamente consigliato anche questo.
+Questo museo piacerà anche ai non amanti dello spionaggio e vi farà imparare molte cose. Inoltre con i suoi spazi interattivi e i giochi è adatto anche a bambini e ragazzi. Altamente consigliato anche questo. 👌
 
 Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
 
@@ -949,7 +951,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
   Un parco abbandonato sulla riva del fiume.
   [Sito web](https://gruen-berlin.de/en/spreepark) (inglese).
 
-{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-tour-ids=\"141648,21231,68464\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa-nojs\">Museum Pass Berlin: pass per più di 30 musei di Berlino valido per 3 giorni. Acquista su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>" >}}
+{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-tour-ids=\"141648,21231,68464\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa-nojs\">🎟️ Museum Pass Berlin: pass per più di 30 musei di Berlino valido per 3 giorni. Acquista su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>" >}}
 
 - - -
 

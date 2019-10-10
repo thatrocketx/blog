@@ -486,7 +486,7 @@ Entrando all' interno si trova un enorme spazio vuoto con al centro una statua c
 {{< img "Nikolaiviertel vista da fuori" "/img/articoli/nikolaikirche_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-📜 Zona che **ricrea la città di Berlino così come era nell' era medioevale**.
+📜 Zona che **ricrea la città di Berlino così come era in età medioevale**.
 
 Il centro storico di Berlino fu infatti **completamente distrutto durante la Seconda Guerra Mondiale**. Questa ricostruzione venne ultimata nel 1987 e venne **commissionata dal governo della Germania dell' Est** per celebrare il **750esimo compleanno della città**.
 

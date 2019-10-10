@@ -135,7 +135,7 @@ State molto attenti alle truffe che avvengono qualche volta davanti a questo mon
   ---
   
   
- {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",158612,,6045,,791\"></div> <noscript><center><h4><a rel="nofollow" href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">Berlin Welcome Card: pass per i trasporti di Berlino. Acquista i biglietti su GetYourGuide (zona ABC).</a></h4></center></noscript>" >}}
+ {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",158612,,6045,,791\"></div> <noscript><center><h4><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">Berlin Welcome Card: pass per i trasporti di Berlino. Acquista i biglietti su GetYourGuide (zona ABC).</a></h4></center></noscript> <br><small>Affiliate</small>" >}}
  
  ---
 
@@ -315,7 +315,7 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
   
   ---
   
-{{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino-gratis\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",49759,,22003,,171918\"></div> <noscript><center><h4><a rel="nofollow" href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietto-per-il-museo-haus-am-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">Museo Checkpoint Charlie: acquista i biglietti su GetYourGuide.</a></h4></center></noscript>" >}}
+{{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino-gratis\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",49759,,22003,,171918\"></div> <noscript><center><h4><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietto-per-il-museo-haus-am-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">Museo Checkpoint Charlie: acquista i biglietti su GetYourGuide.</a></h4></center></noscript> <br><small>Affiliate</small>" >}}
 
 ---
 
@@ -949,7 +949,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
   Un parco abbandonato sulla riva del fiume.
   [Sito web](https://gruen-berlin.de/en/spreepark) (inglese).
 
-{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-tour-ids=\"141648,21231,68464\"></div>" >}}
+{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-tour-ids=\"141648,21231,68464\"></div> <br><small>Affiliate</small>" >}}
 
 - - -
 

@@ -83,6 +83,7 @@ Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondi
 {{< titolo2 title="Bunker di Hitler (Führerbunker)" link="bunker-hitler" >}}
 
 **Luogo nel quale era situato il bunker di Hitler**. Oggi è un **parcheggio**, un cartello spiega come era strutturato.
+
 Si trova **qualche metro dopo il Memoriale dell' Olocausto**.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064"  >OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19"  >Applicazione mappe</a>
@@ -94,7 +95,9 @@ Si trova **qualche metro dopo il Memoriale dell' Olocausto**.
 <small>Foto di that Rocket X</small>
 
 Rimanenza di una **[vecchia installazione artistica](https://www.ottmar-hoerl.de/en/projects/2015/2015_einheitsmaennchen.php) del 2015 per commemorare il 25° anniversario della Riunificazione della Germania**.
+
 Mostra una versione più dettagliata del famoso omino del semaforo (Ampelmann), che per l' occasione prende il nome di Einheitsmännchen ovvero **Omino dell' Unità**. L' opera artistica fu elaborata dal Prof. Ottmar Hörl su commissione dello Stato Federale dell' Hesse. Lo stesso tipo di installazione fu posta anche in altri luoghi della Germania come Stoccarda e Francoforte sul Meno.
+
 Si trova a qualche metro a sud del memoriale dell' Olocausto, a **Ministergärten**. 
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745"  >OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19"  >Applicazione mappe</a>
@@ -118,6 +121,30 @@ Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare,
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Tempelhofer+Feld/@52.4742191,13.4002196,15z/data=!4m5!3m4!1s0x47a84fe8f7d899eb:0x88898e99acbb718b!8m2!3d52.4753833!4d13.4019041"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.4722/13.3980"  >OpenStreetMap</a> - <a href="geo:52.4722,13.3980?z=15"  >Applicazione mappe</a>
   </div>
   
+  {{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
+
+{{< img "Parte della mostra" "/img/articoli/img_2064_compressed.jpg" >}}
+
+<small>Foto di that Rocket X</small>
+
+Museo davvero ben fatto sullo spionaggio e sulle tecniche di crittografia. Ciò che rende bello questo museo sono soprattutto gli spazi interattivi nei quali si può:
+
+* Giocare a **cifrare e decifrare un messaggio** inviato dagli altri visitatori
+* Stampare **un messaggio in codice morse** su un foglio di carta, da tenere come souvenir
+* **Fare una foto di gruppo nel museo e stamparla** gratuitamente nel museo stesso
+* **Giocare ad un gioco laser**, a chi fa più punti, passando attraverso una stanza con sensori laser senza toccarli, nel minor tempo possibile.
+* Provare **la sicurezza della propria password** con un computer e scoprire entro quanto tempo verrebbe forzata in un eventuale **attacco hacker**
+
+Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
+Il **lunedì il museo è chiuso**. 
+
+<center><b><a href="https://www.getyourguide.it/berlino-l17/-t249697/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-alternativo-berlino">Potete acquistare i biglietti qui ➡️</a></b></center>
+
+<small>Affiliate</small>
+
+<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
+  </div>
+  
  {{< titolo2 title="S-Bahn Nordbahnhof" link="nordbahnhof" >}} 
 
 {{< img "Facciata con nome della stazione S-Bahn Nordbahnhof" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
@@ -135,7 +162,7 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
   </div>
   
 ---
-{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",170637,,37028,,43642\"></div>" >}}
+{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",170637,,37028,,43642\"></div> <noscript><center><h4><a href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietti-per-il-museo-dei-videogiochi-t43642/?partner=true&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-alternativo-berlino-nojs\">Museo dei Videogiochi di Berlino: acquista i biglietti</a></h4></center>" >}}
 
 ---
   
@@ -144,6 +171,7 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
 Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all' incirca **12 650 tonnellate**).
 
 **Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo [nella guida, nella sezione sul Deutscher Dom](/cosa-vedere-a-berlino#deutscher-dom)).
+
 Il costo dell' intero edificio fu di circa 400 000 Reichsmark. {{< nota "Fonte dei dati: Wikipedia / Schwerbelastungskörper" >}}
 Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate lì (visto che è lontano dal centro) approfittatene**.
 
@@ -193,8 +221,11 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
 {{< img "Vista del centro città di Stettino. Il tram numero 171 viaggia in direzione Turkusowa. Sullo sfondo si vede la Cattedrale di Stettino." "/img/articoli/stettino-città-tram.jpg" >}}
 
 Se volete fare qualcosa di diverso potete anche **uscire da Berlino** e dirigervi veso **Stettino**, in **Polonia**.
+
 Stettino è una città della Pomerania Occidentale ed era, durante la Seconda Guerra Mondiale, la **terza città più grande della Germania**. Tra le tante cose è possibile assaggiare un [**piatto tipico della città**](https://en.wikipedia.org/wiki/Pasztecik_szczeci%C5%84ski) e visitare un **bunker della Seconda Guerra Mondiale e della Guerra Fredda**.
+
 Si può fare una visita di una giornata (non si può vedere molto, chiaramente) per fare qualcosa di diverso. È davvero una bella città ed è molto colorata e caratteristica. Potete [raggiungerla direttamente con il Flixbus](https://www.flixbus.it/tratte-autobus/berlino-stettino) per **più o meno 20 € andata e ritorno**. Il tempo di percorrenza è di circa due ore.
+
 In alternativa potete raggiungere anche Słubice che si trova al confine tra Germania e Polonia.
 
 
@@ -207,7 +238,9 @@ In alternativa potete raggiungere anche Słubice che si trova al confine tra Ger
 {{< titolo2 title="Casa della Conferenza di Wannsee" link="casa-conferenza-wannsee" >}}
 
 Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale*, lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo. 
+
 **Se possedete una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB" >}}**, la carta per i trasporti di Berlino, la stazione di **Wannsee è inclusa**, quindi non serve fare altri biglietti.
+
 Se provenite dallo Schönefeld e avete la **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card per la zona ABC" >}}**, allora **potrete raggiungere anche la vicina città di Potsdam**.
 <small>Affiliate</small>
 

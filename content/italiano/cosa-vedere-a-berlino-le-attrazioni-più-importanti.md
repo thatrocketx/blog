@@ -131,9 +131,13 @@ State molto attenti alle truffe che avvengono qualche volta davanti a questo mon
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Checkpoint+Charlie/@52.5074534,13.3902253,20z/data=!4m5!3m4!1s0x47a851d15c26d8cd:0x23a50042477d89c8!8m2!3d52.5074434!4d13.3903913"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50751/13.39037"  >OpenStreetMap</a> - <a href="geo:52.50751,13.39037?z=19"  >Applicazione mappe</a>
   </div>
   
+  
+  ---
+  
+  
  {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",158612,,6045,,791\"></div> <noscript><center><h4><a href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">Berlin Welcome Card: pass per i trasporti di Berlino. Acquista i biglietti su GetYourGuide (zona ABC).</a></h4></center></noscript>" >}}
  
- 
+ ---
 
 {{< titolo2 title="Deutsch-Russisches Museum Berlin-Karlshorst" link="museo-russia-germania" >}}
 
@@ -309,7 +313,11 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Gendarmenmarkt/@52.5140099,13.3930886,17z/data=!4m5!3m4!1s0x47a851da6e329be1:0x69ed42f426573790!8m2!3d52.5137235!4d13.3926719"  >Google Maps</a> - <a href="https://www.openstreetmap.org/search?query=We%20love%20that%20Rocket%20X#map=17/52.51343/13.39310"  >OpenStreetMap</a> - <a href="geo:52.51343,13.39310?z=17"  >Applicazione mappe</a>
   </div>
   
+  ---
+  
 {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino-gratis\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",49759,,22003,,171918\"></div> <noscript><center><h4><a href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietto-per-il-museo-haus-am-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">Museo Checkpoint Charlie: acquista i biglietti su GetYourGuide.</a></h4></center></noscript>" >}}
+
+---
 
 {{< titolo2 title="Hackesche Höfe" link="hackesche-hofe" >}}
 

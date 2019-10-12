@@ -48,7 +48,7 @@ Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci si
 
 In questo articolo vi racconteremo **la nostra esperienza** durante la nostra visita all' **Hotel Eremo**: cosa abbiamo visto e **cosa abbiamo scoperto** di questo piccolo **gioiello abbandonato** sul **Vesuvio**.​
 
-{{< img "eremo-cancello.jpg" "Vecchio cancello per entrare all' Hotel Eremo" >}}
+{{< img "Vecchio cancello per entrare all' Hotel Eremo" "eremo-cancello.jpg" >}}
 
 {{< titolo title="Una breve introduzione - La storia dell' Hotel Eremo e del suo abbandono" link="storia" >}}​
 L' Hotel Eremo **venne costruito** a partire dal **1902**, molto probabilmente voluto da _John Mason Cook_, l' allora proprietario della Thomas Cook (la stessa compagnia che operava aerei e offriva viaggi, fallita il 23 settembre del 2019) per **ospitare i turisti** che visitavano **sul Vesuvio** utilizzando la vecchia ferrovia che collegava Ercolano con il vulcano. La Cook aveva infatti avuto in concessione la costruzione della **ferrovia Pugliano-Vesuvio**, sulla base di un vecchio progetto e, tra le varie fermate, aveva appunto inserito la fermata _Eremo_ per chi volesse fermarsi e soggiornare all' Hotel - Ristorante.  Successivamente, nel periodo della prima decadenza, l' intero impianto venne ceduto ad un' altra società.​
@@ -110,7 +110,7 @@ Vi è ancora un altro piano, ma che data la fatiscenza dell' edificio abbiamo de
 {{< titolo title="Conclusioni" link="conclusioni" >}}​
 Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità**, **adrenalina** e **inquietudine**. Viene voglia di esplorarlo da cima a fondo. Ciò che secondo noi rende così affascinante questo luogo è proprio il fatto che **un hotel così bello**, in un posto fantastico, nel quale prima non si poteva accedere, oggi è lì **abbandonato** e **distrutto**.​
 
-{{< img "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg" "Foto da una vecchia cartolina d' epoca" >}}
+{{< img  "Foto da una vecchia cartolina d' epoca" "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg" >}}
 <small>Foto da Wikicommons - Autore sconosciuto -- Di <span lang="it">sconosciuto</span> - Cartolina d'epoca, Pubblico dominio, <a href="https://commons.wikimedia.org/w/index.php?curid=38738873">Collegamento</a></small>
 
 Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** se non in alcune foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​

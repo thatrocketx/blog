@@ -1,5 +1,5 @@
 <!-- . -->
-{{ with .Get "alt"}} 
-{{ $codice := .Get "alt" }}
+{{ with .Get 1}} 
+{{ $codice := .Get 1 }}
 {{ printf "%s" $codice | safeHTML }}
 {{ end }}

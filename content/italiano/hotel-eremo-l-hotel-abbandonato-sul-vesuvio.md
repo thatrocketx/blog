@@ -48,8 +48,10 @@ Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci si
 
 In questo articolo vi racconteremo **la nostra esperienza** durante la nostra visita all' **Hotel Eremo**: cosa abbiamo visto e **cosa abbiamo scoperto** di questo piccolo **gioiello abbandonato** sul **Vesuvio**.​
 
+{{< img "eremo-cancello.jpg" "Vecchio cancello per entrare all' Hotel Eremo" >}}
+
 {{< titolo title="Una breve introduzione - La storia dell' Hotel Eremo e del suo abbandono" link="storia" >}}​
-L' Hotel Eremo **venne costruito** a partire dal **1902**, probabilmente voluto da _John Mason Cook_, l' allora proprietario della Thomas Cook (si, la stessa compagnia che, fino al 23 settembre del 2019, operava aerei e offriva viaggi) per **ospitare i turisti** che venivano in visita **sul Vesuvio**. La Cook aveva infatti avuto in concessione la costruzione della **ferrovia Pugliano-Vesuvio** sulla base di un vecchio progetto e, tra le varie fermate, vi era appunto la fermata _Eremo_ per i turisti che volessero soggiornare all' Hotel - Ristorante. Successivamente l' intero impianto venne ceduto ad un' altra società.​
+L' Hotel Eremo **venne costruito** a partire dal **1902**, molto probabilmente voluto da _John Mason Cook_, l' allora proprietario della Thomas Cook (la stessa compagnia che operava aerei e offriva viaggi, fallita il 23 settembre del 2019) per **ospitare i turisti** che visitavano **sul Vesuvio** utilizzando la vecchia ferrovia che collegava Ercolano con il vulcano. La Cook aveva infatti avuto in concessione la costruzione della **ferrovia Pugliano-Vesuvio**, sulla base di un vecchio progetto e, tra le varie fermate, aveva appunto inserito la fermata _Eremo_ per chi volesse fermarsi e soggiornare all' Hotel - Ristorante.  Successivamente, nel periodo della prima decadenza, l' intero impianto venne ceduto ad un' altra società.​
 
 Con le varie **eruzioni** del Vesuvio, soprattutto con l' [eruzione del 1944](https://it.wikipedia.org/wiki/Eruzione_del_Vesuvio_del_1944) che causarono la distruzione di parte della linea e con il clima di guerra della Seconda Guerra Mondiale, vi fu un **notevole calo di traffico** turistico. Nel 1951 **l' hotel venne ceduto a privati**. A causa della costruzione della nuova strada provinciale, la ferrovia venne soppressa definitivamente. Per chi volesse approfondire la storia dell' Eremo e della ferrovia, consiglio la lettura dell' [articolo scritto da lestradeferrate](http://www.lestradeferrate.it/mono67.htm) e la [pagina Wikipedia dedicata](https://it.wikipedia.org/wiki/Ferrovia_Pugliano-Vesuvio).​
 
@@ -60,9 +62,9 @@ Il nostro primo incontro con questo edificio lo abbiamo avuto per puro caso, seg
 
 Il nostro intento originario era quello di vedere il famoso **[Osservatorio Vesuviano](https://it.wikipedia.org/wiki/Osservatorio_Vesuviano)** (l' hotel si trova a pochi passi). Quando siamo entrati all' interno dell' hotel è diventato per noi un luogo magico. Già solo l' ex entrata principale da' un senso di inquietudine, che viene però alleviata dal fatto che ci si trova in un posto abbastanza frequentato grazie alla presenza di un parcheggio e di un bar. Per le visite successive, infatti, abbiamo sempre usato l' auto per una questione di comodità.​
 
-All' entrata dell' hotel manca di qualsiasi forma di chiusura di sicurezza: il vecchio cancello, ormai **perennemente chiuso**, è stato conquistato da Madre Natura ed è ora divorato da una **fitta vegetazione**. Passando per la stradina aperta di fianco al cancello, si arriva direttamente ad una delle **entrate**: un ampio **spazio vuoto**, che diventa qualche volta luogo di sosta per chi percorre i sentieri del Parco Nazionale del Vesuvio.​
+L' entrata all' hotel manca, ormai, di qualsiasi forma di sicurezza: il vecchio cancello, ormai **perennemente chiuso**, è stato conquistato da Madre Natura ed è ora divorato da una **fitta vegetazione**. Passando per la stradina aperta di fianco al cancello, si arriva direttamente ad una delle **entrate**: un ampio **spazio vuoto**, che diventa qualche volta luogo di sosta per chi percorre i sentieri del Parco Nazionale del Vesuvio.​
 
-{{< img "Entrata per lo spazio principale dell' Hotel Eremo." "/img/articoli/eremo-entrata-completa.jpg" >}}
+{{< img "Entrata dell' Hotel Eremo, dal lato opposto si trova la terrazza con vista su Napoli." "/img/articoli/eremo-entrata-completa.jpg" >}}
 <small>Foto di that Rocket X.</small>
 
 **Non siamo certi** che il luogo **non sia** più **proprietà privata**, quindi non possiamo assicurarvi dell' effettiva **legalità** del fermarsi a vedere l' hotel. Se avete notizie al riguardo **vi preghiamo di farcelo presente** nei commenti, così da poter aggiungere eventuali avvisi.​
@@ -75,32 +77,32 @@ L' hotel è ormai completamente **distrutto** a causa dei vari **vandalismi** ed
 
 Con quel poco che è rimasto (le mura e qualche pezzo di mobilia troppo vecchia per essere usata), però, è possibile fare un resoconto e **immaginare un po'** come potesse essere questo hotel, e possiamo dedurre che a suo tempo sia stato un **hotel di tutto prestigio**.​
 
-{{< img "Uno dei graffiti nell' hotel" "/img/articoli/eremo-non-scendere.jpg" >}}
+{{< img "Uno dei graffiti nell' Hotel Eremo recita 'Non Scendete', scherzando sul fatto che la parte inferiore dell' edificio è completamente vuota e senza scale." "/img/articoli/eremo-non-scendete.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 Proseguendo dritto, percorrendo lo spazio tra le colonne e dirigendosi verso la luce, è possibile affacciarsi dall' **enorme terrazza**, che ci dona una meravigliosa **vista su Napoli**: dal **lungomare** alle zone più periferiche e, per qualche minuto, quasi si dimentica dove ci si trova. 
 
-{{< img "Vista dalla terrazza sulla città di Napoli." "/img/articoli/eremo-vista-terrazza.jpg" >}}
+{{< img "Vista della città di Napoli dalla terrazza dell' Hotel Eremo." "/img/articoli/eremo-vista-terrazza.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 Da qui è possibile rendersi conto di quanto fosse grande l' hotel: si può notare l' ampia area di ingresso e la distensione dell' edificio a sinistra che era probabilmente (_N.B. su nostra supposizione_) il vecchio ristorante (ricordiamo che l' **Eremo** era pubblicizzato come **Hotel - Ristorante**).​
 
-{{< img "Parte della terrazza." "/img/articoli/eremo-terrazza.jpg" >}}
+{{< img "Parte della terrazza dell' Hotel Eremo con oggetti abbandonati." "/img/articoli/eremo-terrazza.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l' ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattata una da una delle finestre dell' hotel. Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti segni satanici, che ora sembrano essere stati cancellati o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​
 
-{{< img "Foto della statua di Gesù nello spiazzato dell' hotel." "/img/articoli/eremo-statua-gesu.jpg" >}}
+{{< img "Foto della statua di Gesù nello spiazzato dell' Hotel Eremo." "/img/articoli/eremo-statua-gesu.jpg" >}}
 <small>Foto di that Rocket X.</small>
 
 Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali. 
 
-{{< img "Foto di una camera distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}
+{{< img "Foto di una camera dell' Hotel Eremo, oggi completamente distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due terrazze laterali** che donano una vista diversa da quella principale, focalizzandosi di più sul Vesuvio. Piccola curiosità per i fan di **Liberato** (l' artista musicale): una delle scene del video della canzone [_Me staje appennenn' amò_](https://youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
 
-{{< img "Vista dal balcone al piano superiore." "/img/articoli/eremo-vista-balcone.jpg" >}}
+{{< img "Vista da uno dei due balconi al piano superiore dell' Hotel Eremo." "/img/articoli/eremo-vista-balcone.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 Vi è ancora un altro piano, ma che data la fatiscenza dell' edificio abbiamo deciso di non visitare. Uno di noi l' ha perlustrato e **sconsiglia di visitarlo** per la sua forte esposizione alle intemperie. A quanto pare sembra essere un **vecchio deposito**.​
@@ -108,4 +110,7 @@ Vi è ancora un altro piano, ma che data la fatiscenza dell' edificio abbiamo de
 {{< titolo title="Conclusioni" link="conclusioni" >}}​
 Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità**, **adrenalina** e **inquietudine**. Viene voglia di esplorarlo da cima a fondo. Ciò che secondo noi rende così affascinante questo luogo è proprio il fatto che **un hotel così bello**, in un posto fantastico, nel quale prima non si poteva accedere, oggi è lì **abbandonato** e **distrutto**.​
 
-Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** se non in alcune foto d' epoca che si trovano su delle vecchie cartoline in vendita su eBay per pochi euro, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
+{{< img "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg" "Foto da una vecchia cartolina d' epoca" >}}
+<small>Foto da Wikicommons - Autore sconosciuto -- Di <span lang="it">sconosciuto</span> - Cartolina d'epoca, Pubblico dominio, <a href="https://commons.wikimedia.org/w/index.php?curid=38738873">Collegamento</a></small>
+
+Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** se non in alcune foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​

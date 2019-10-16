@@ -114,4 +114,4 @@ Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità
 {{< img  "Foto da una vecchia cartolina d' epoca" "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg" >}}
 <small>Foto da Wikicommons - Autore sconosciuto -- Di <span lang="it">sconosciuto</span> - Cartolina d'epoca, Pubblico dominio, <a href="https://commons.wikimedia.org/w/index.php?curid=38738873">Collegamento</a></small>
 
-Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** se non in alcune foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
+Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** una volta, se non in alcune foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​

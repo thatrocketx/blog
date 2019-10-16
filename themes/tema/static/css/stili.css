@@ -606,6 +606,11 @@ input[class="navmobile"], label[for="menuapri"] {
   transition: all .5s ease-in-out;
 }
 
+.articoli.lista:hover ~ .paese::after, .articoli.lista:focus ~ .paese::after {
+  top: 0.1rem;
+   transition: all .5s ease-in-out;
+}
+
 .contenitore-ultimi-categoria-contenitore {
   width: 100%;
   overflow: auto;
@@ -706,6 +711,7 @@ input[class="navmobile"], label[for="menuapri"] {
  filter: blur(0.4rem);
  opacity: 0.7;
  z-index: -1;
+ transition: all .5s ease-in-out;
 }
 
 .paese[data-paese="Italia"], .paese[data-paese="Italy"] {

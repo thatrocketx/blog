@@ -49,6 +49,7 @@ Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci si
 In questo articolo vi racconteremo **la nostra esperienza** durante la nostra visita all' **Hotel Eremo**: cosa abbiamo visto e **cosa abbiamo scoperto** di questo piccolo **gioiello abbandonato** sul **Vesuvio**.​
 
 {{< img "Vecchio cancello per entrare all' Hotel Eremo" "/img/articoli/eremo-cancello.jpg" >}}
+<small>Foto di that Rocket X.</small>
 
 {{< titolo title="Una breve introduzione - La storia dell' Hotel Eremo e del suo abbandono" link="storia" >}}​
 L' Hotel Eremo **venne costruito** a partire dal **1902**, molto probabilmente voluto da _John Mason Cook_, l' allora proprietario della Thomas Cook (la stessa compagnia che operava aerei e offriva viaggi, fallita il 23 settembre del 2019) per **ospitare i turisti** che visitavano **sul Vesuvio** utilizzando la vecchia ferrovia che collegava Ercolano con il vulcano. La Cook aveva infatti avuto in concessione la costruzione della **ferrovia Pugliano-Vesuvio**, sulla base di un vecchio progetto e, tra le varie fermate, aveva appunto inserito la fermata _Eremo_ per chi volesse fermarsi e soggiornare all' Hotel - Ristorante.  Successivamente, nel periodo della prima decadenza, l' intero impianto venne ceduto ad un' altra società.​

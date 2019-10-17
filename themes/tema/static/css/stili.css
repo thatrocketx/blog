@@ -606,7 +606,7 @@ input[class="navmobile"], label[for="menuapri"] {
   transition: all .5s ease-in-out;
 }
 
-.articoli.lista:hover ~ .paese::after, .articoli.lista:focus ~ .paese::after {
+.articoli.lista:hover .paese::after, .articoli.lista:focus .paese::after {
   top: 0.1rem;
    transition: all .5s ease-in-out;
 }

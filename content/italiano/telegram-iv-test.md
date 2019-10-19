@@ -15,7 +15,7 @@ description: >-
 
 autore: Staff
 
-immagine: 'https://www.thatrocketx.com/img/articoli/italo-2019-10-21.png'
+immagine: 'https://www.thatrocketx.com/img/articoli/cupola-reichstag.jpg'
 
 categories:
 

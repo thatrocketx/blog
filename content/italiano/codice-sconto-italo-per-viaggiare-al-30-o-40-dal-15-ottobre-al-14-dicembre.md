@@ -6,7 +6,7 @@ description: >-
   Codice sconto Italo per viaggiare in Smart o Comfort con uno sconto a partire
   dal 30% al 50%
 autore: Staff
-immagine: 'https:/www.thatrocketx.com/img/articoli/italo-2019-10-21.png'
+immagine: 'https://www.thatrocketx.com/img/articoli/italo-2019-10-21.png'
 categories:
   - Offerte Viaggi
 tags:
@@ -20,7 +20,7 @@ news_keywords:
   - italo offerte
 titoloSEO: Nuovo codice sconto Italo valido fino al 21 ottobre 2019
 slug: codice-sconto-italo-fino-al-21-ottobre-2019
-immagineprincipale: 'https:/www.thatrocketx.com/img/articoli/italo-2019-10-21.png'
+immagineprincipale: 'https://www.thatrocketx.com/img/articoli/italo-2019-10-21.png'
 descrizioneimg: Logo di Italo con lo sconto in basso.
 fontawesome: false
 js: false

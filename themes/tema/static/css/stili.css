@@ -964,6 +964,17 @@ blockquote {
   margin: 20px 2px 30px 3px;
 }
 
+code {
+  color: #000;
+  background: #ededed;
+  max-width: 700px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
+   
+
 article a:not(.noext) {
   color: inherit;
   border-bottom: 2px solid #dd3d57;

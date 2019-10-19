@@ -138,7 +138,7 @@ Museo davvero ben fatto sullo spionaggio e sulle tecniche di crittografia. Ciò 
 Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
 Il **lunedì il museo è chiuso**. 
 
-<center><b><a href="https://www.getyourguide.it/berlino-l17/-t249697/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-alternativo-berlino">Potete acquistare i biglietti qui ➡️</a></b></center>
+<center><b><a href="https://www.getyourguide.it/berlino-l17/stasi-e-bond-biglietto-per-lo-spy-museum-berlino-t59251/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=button-cta&cmp=cosa-vedere-alternativo-berlino">Potete acquistare i biglietti qui ➡️</a></b></center>
 
 <small>Affiliate</small>
 

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: '2019-10-19T08:30:54+00:00'
+date: '2019-10-19T07:30:54+00:00'
 title: Codice Sconto Italo per viaggiare dal -30% al -50% dal 5 Novembre al 31 Marzo
 description: >-
   Codice sconto Italo per viaggiare in Smart o Comfort con uno sconto a partire
@@ -24,9 +24,9 @@ immagineprincipale: '/https:/www.thatrocketx.com/img/articoli/italo-2019-10-21.p
 descrizioneimg: Logo di Italo con lo sconto in basso.
 fontawesome: false
 js: false
-publishdate: '2019-10-19T08:30:54+00:00'
-expirydate: '2019-10-22T08:00:00+00:00'
-scadenza: '2019-10-21T15:00:00+00:00'
+publishdate: '2019-10-19T07:30:54+00:00'
+expirydate: '2019-10-22T07:00:00+00:00'
+scadenza: '2019-10-21T14:00:00+00:00'
 mostrascadenza: true
 lastmod: '2019-10-19T08:30:54+00:00'
 ---

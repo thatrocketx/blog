@@ -230,7 +230,7 @@ Per la visita sulla cupola prenderete **un' ascensore che vi porterà fino alla 
 
 {{< titolo title="Come arrivare al Reichstag" link="raggiungere-il-reichstag" >}}
 
-Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "Berlin Welcome Card" >}} oppure volete prendere i **mezzi pubblici**, potete scendere in queste stazioni:
+Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "Berlin Welcome Card" >}}** oppure volete prendere i **mezzi pubblici**, potete scendere in queste **stazioni**:
 
 <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
 <g transform="translate(0 -289.06)">

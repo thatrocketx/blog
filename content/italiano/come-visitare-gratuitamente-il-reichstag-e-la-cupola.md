@@ -126,9 +126,9 @@ Una volta letta la policy _(sicuramente...)_ **spuntate la casella e cliccate su
 
 {{< img "Captcha risolto con pulsante Next evidenziato.""/img/articoli/4-reichstag-cupola-web-captcha.png" >}}
 
-Ora è il turno del **controllo Captcha**, questo controllo serve al sito per essere sicuri che voi non siate dei robot che effettuano centinaia di prenotazioni a vuoto.
+Ora è il turno del classico **controllo Captcha**, questo test viene richiesto dal sito per assicurarsi che voi non siate dei robot che effettuano centinaia di prenotazioni a vuoto.
 
-**Scrivete il testo che vedete** oppure trascrivete l' audio **e cliccate sul pulsante _Next_**.
+Se siete dei robot non potrete proseguire, ci dispiace... Se non lo siete, invece, **scrivete il testo che vedete** oppure trascrivete l' audio (per i non vedenti) **e cliccate sul pulsante _Next_**.
 
 ### 🔘 Passo 5 - Scelta dell' attività
 

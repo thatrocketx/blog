@@ -52,7 +52,7 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 * [**Come prenotare la visita** (passo per passo)](#come-prenotare)
 * [Informazioni e **consigli per il giorno della visita**](#informazioni-visita)
 * [Come **raggiungere il Reichstag**](#raggiungere-il-reichstag)
-* [**Il ristorante**](#il-ristorante)
+* [**Il ristorante**](#il-ristorante) (***il biglietto include anche una prenotazione alla cupola***)
 
 ### Informazioni sul Reichstag
 

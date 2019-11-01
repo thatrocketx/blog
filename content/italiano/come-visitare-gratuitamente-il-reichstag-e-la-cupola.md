@@ -102,9 +102,9 @@ Se siete interessati, qui sotto **vi abbiamo tradotto velocemente tutto il testo
 **RIASSUNTO MOLTO BREVE:**
 
 1. ❌ **Se non ricevete una conferma** per email, **la vostra prenotazione NON è stata effettuata**
-2. 👥 **Se dovete prenotare per più persone** fatevi dare le **carte di identità** perché vi servono **nome, cognome e data di nascita** di ogni persona.
-3. 📅 **Il tour guidato nel Palazzo può essere prenotato per 3 mesi, la visita alla cupola per 2 mesi**.
-4. 😲 Se ci sono **problemi di meteo o di sicurezza**, la **visita alla cupola sarà annullata** anche all' ultimo minuto e **non sarete avvisati**.
+2. 👥 **Se dovete prenotare per più persone** assicuratevi di avere il **nome, cognome** e la **data di nascita** di ogni persona.
+3. 📅 **Il tour guidato nel Palazzo può essere prenotato fino a 3 mesi prima, la visita alla cupola fino a 2 mesi prima**.
+4. 😲 Se ci sono **problemi con il meteo o altri problemi di sicurezza**, la **visita alla cupola sarà annullata** anche all' ultimo minuto e **non sarete avvisati**.
 
 {{< img "Testo, casella spuntata e pulsante Next evidenziato.""/img/articoli/2-reichstag-cupola-web-conferma-e-avanti.png" >}}
 

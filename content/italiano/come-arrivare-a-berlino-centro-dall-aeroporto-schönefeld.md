@@ -59,6 +59,8 @@ GUIDE INCLUSE NELL' ARTICOLO:​
 * [**Come arrivare alla stazione** dall' aeroporto](#stazione)
 * [**Dove acquistare i biglietti** per i **treni**](#biglietti)
 
+{{< ad-it >}}
+
 ​{{< titolo title="🚆 Treno regionale" link="REGIO" >}}
 
 ​Il modo migliore per arrivare a Berlino Centro è, secondo il nostro parere, attraverso il Treno _REGIO_ Airport Express, sia perché è il più veloce, ma anche per la comodità dei treni.

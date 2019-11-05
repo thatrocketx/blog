@@ -115,3 +115,7 @@ Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità
 <small>Foto da Wikicommons - Autore sconosciuto -- Di <span lang="it">sconosciuto</span> - Cartolina d'epoca, Pubblico dominio, <a href="https://commons.wikimedia.org/w/index.php?curid=38738873">Collegamento</a></small>
 
 Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** una volta, se non in alcune foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
+
+
+{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/city.frame\" data-gyg-iata=\"nap\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"city\" data-gyg-partner-id="CSSHL9T" data-gyg-placement=\"content-end\" data-gyg-cmp=\"hotel-eremo\"></div>" "<hr><a href=\"https://www.getyourguide.it/napoli-l162/?partner_id=CSSHL9T\" rel=\"nofollow\">🎟️ Scopri e acquista biglietti per altre attrazioni di Napoli ↗️</a>" >}}
+<small> Annuncio tramite affiliazione - Affiliate </small>

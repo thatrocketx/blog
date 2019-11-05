@@ -60,6 +60,8 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 * [**Che significa Reichstag**?](#che-significa)
 * [Breve **storia del Reichstag**](#storia)
 
+{{ < ad-it >}}
+
 ## Prenotare la visita al Reichstag
 
 {{< titolo title="Qual è il costo dei biglietti?" link="costo-del-biglietto" >}}

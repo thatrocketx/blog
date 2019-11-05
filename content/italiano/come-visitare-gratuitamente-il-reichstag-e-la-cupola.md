@@ -60,7 +60,7 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 * [**Che significa Reichstag**?](#che-significa)
 * [Breve **storia del Reichstag**](#storia)
 
-{{ < ad-it >}}
+{{< ad-it >}}
 
 ## Prenotare la visita al Reichstag
 

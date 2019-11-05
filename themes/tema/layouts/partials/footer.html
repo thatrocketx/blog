@@ -142,33 +142,37 @@ window.cookieconsent.initialise({
 {{ end }}
 </script>
 
-
+<!-- Autoplay video on scroll - Special thanks to RXMESH - https://stackoverflow.com/questions/15395920/play-html5-video-when-scrolled-to -->
 {{ if .IsHome }}
 <script type="application/javascript">
-   $(document).ready(function() {
-            // Get media - with autoplay disabled (audio or video)
-            var media = $('video');
-            var tolerancePixel = 40;
+ var videos = document.getElementsByTagName("video"),
+fraction = 0.8;
+function checkScroll() {
 
-            function checkMedia(){
-                // Get current browser top and bottom
-                var scrollTop = $(window).scrollTop() + tolerancePixel;
-                var scrollBottom = $(window).scrollTop() + $(window).height() - tolerancePixel;
+    for(var i = 0; i < videos.length; i++) {
 
-                media.each(function(index, el) {
-                    var yTopMedia = $(this).offset().top;
-                    var yBottomMedia = $(this).height() + yTopMedia;
+        var video = videos[i];
 
-                    if(scrollTop < yBottomMedia && scrollBottom > yTopMedia){ //view explaination in `In brief` section above
-                        $(this).get(0).play();
-                    } else {
-                        $(this).get(0).pause();
-                    }
-                });
+        var x = video.offsetLeft, y = video.offsetTop, w = video.offsetWidth, h = video.offsetHeight, r = x + w, //right
+            b = y + h, //bottom
+            visibleX, visibleY, visible;
 
-                //}
+            visibleX = Math.max(0, Math.min(w, window.pageXOffset + window.innerWidth - x, r - window.pageXOffset));
+            visibleY = Math.max(0, Math.min(h, window.pageYOffset + window.innerHeight - y, b - window.pageYOffset));
+
+            visible = visibleX * visibleY / (w * h);
+
+            if (visible > fraction) {
+                video.play();
+            } else {
+                video.pause();
             }
-            $(document).on('scroll', checkMedia);
-        });
+
+    }
+
+}
+
+window.addEventListener('scroll', checkScroll, false);
+window.addEventListener('resize', checkScroll, false);
 </script>
 {{ end }}

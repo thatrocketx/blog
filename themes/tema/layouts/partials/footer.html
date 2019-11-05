@@ -162,7 +162,7 @@ function checkScroll() {
 
             visible = visibleX * visibleY / (w * h);
 
-            if (visible > fraction) {
+            if (visible < fraction) {
                 video.play();
             } else {
                 video.pause();

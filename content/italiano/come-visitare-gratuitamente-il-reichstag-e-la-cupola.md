@@ -52,7 +52,7 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 * [**Come prenotare la visita** (passo per passo)](#come-prenotare)
 * [Informazioni e **consigli per il giorno della visita**](#informazioni-visita)
 * [Come **raggiungere il Reichstag**](#raggiungere-il-reichstag)
-* [**Il ristorante**](#il-ristorante) (***il biglietto include anche una prenotazione alla cupola***)
+* [**Il ristorante**](#il-ristorante) (<i>il biglietto <mark>include anche una prenotazione alla cupola</mark><i>)
 
 ### Informazioni sul Reichstag
 
@@ -68,7 +68,7 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 
 <mark>**I biglietti** per visitare il Reichstag **sono gratuiti**</mark>, quindi il prezzo del biglietto è 0. 
 
-**Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono il ristorante e i souvenir** alla fine della visita.
+**Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "il ristorante" >}} e i souvenir** alla fine della visita.
 
 {{< titolo title="Come prenotare la visita alla Cupola del Reichstag e all' interno del Palazzo" link="come-prenotare" >}}
 

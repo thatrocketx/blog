@@ -60,7 +60,7 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 * [**Che significa Reichstag**?](#che-significa)
 * [Breve **storia del Reichstag**](#storia)
 
-{{< ad-it >}}
+{{< noamp "<hr><script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/city.frame\" data-gyg-iata=\"TXL\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"city\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-cmp=\"reichstag\"></div><small>Affiliate</small><hr>" >}}
 
 ## Prenotare la visita al Reichstag
 

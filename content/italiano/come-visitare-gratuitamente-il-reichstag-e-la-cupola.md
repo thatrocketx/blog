@@ -44,7 +44,7 @@ Non solo: è anche possibile accompagnarla con delle **visite guidate** all' int
 
 In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo. 
 
-**N.B.**: In questa guida troverete alcuni link per acquistare biglietti per servizi e attrazioni. Questi link sono link, contrassegnati dalla scritta <small><i>Affiliate</i></small>, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
+**N.B.**: In questa guida troverete alcuni link per acquistare biglietti per servizi e attrazioni. Questi link, contrassegnati dalla scritta <small><i>Affiliate</i></small>, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
 
 Buona lettura!
 

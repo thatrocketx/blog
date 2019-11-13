@@ -47,7 +47,7 @@ Se viaggiate con una compagnia aerea _low cost_ come ad esempio <span style="col
 
 ​Per i viaggiatori instancabili, si tratta di un **3-4 ore di cammino** (secondo Google Maps) alla scoperta della Berlino più periferica. Per chi invece non se la sente, troverà conforto in questa guida nella quale vi spiegheremo come arrivare dall' aeroporto di Berlino Schönefeld a **Berlino Centro** utilizzando i mezzi pubblici a disposizione e vi descriveremo la nostra esperienza con il trasporto ferroviario di Berlino.​
 
-**N.B.**: In questa guida troverete alcuni link per acquistare biglietti per servizi e attrazioni. Questi link, contrassegnati dalla scritta <small><i>Affiliate</i></small>, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
+**N.B.**: In questa guida troverete alcuni link per acquistare i biglietti per la *Berlin Welcome Card*. Questi link, contrassegnati dalla scritta <small><i>Affiliate</i></small>, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
 
 <div id="lista">
 </div>​

@@ -147,7 +147,7 @@ La cucina comprende sia **piatti tipici tedeschi** che piatti famosi e **gourmet
 
 
 
-{{< titolo "Orari e giorni di apertura della Torre della Televisione" link="orari-e-giorni-di-apertura-della-torre-della-televisione" >}}
+{{< titolo title="Orari e giorni di apertura della Torre della Televisione" link="orari-e-giorni-di-apertura-della-torre-della-televisione" >}}
 
 La Torre della TV è aperta **quasi tutto l' anno**, tranne per **2 giorni**, nei quali viene fatta della **manutenzione**.
 

@@ -72,6 +72,8 @@ Buona lettura!
 
 **Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "il ristorante" >}} e i souvenir** alla fine della visita.
 
+<small>Affiliate</small>
+
 {{< titolo title="Come prenotare la visita alla Cupola del Reichstag e all' interno del Palazzo" link="come-prenotare" >}}
 
 **La prenotazione della visita al Reichstag va fatta online**, sul sito ufficiale del Bundestag. Qui trovate la **guida su come prenotare i vostri biglietti**.

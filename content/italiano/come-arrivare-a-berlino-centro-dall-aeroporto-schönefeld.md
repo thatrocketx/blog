@@ -59,7 +59,6 @@ GUIDE INCLUSE NELL' ARTICOLO:​
 * [**Come arrivare alla stazione** dall' aeroporto](#stazione)
 * [**Dove acquistare i biglietti** per i **treni**](#biglietti)
 
-{{< ad-it >}}
 
 ​{{< titolo title="🚆 Treno regionale" link="REGIO" >}}
 

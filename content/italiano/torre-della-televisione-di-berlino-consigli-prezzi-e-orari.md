@@ -117,7 +117,7 @@ Alla nostra visita, **i turni erano di cira 20 minuti per gruppo**, quindi in gi
 
 ** {{< nofollow "https://www.getyourguide.it/berlino-l17/ingresso-prioritario-torre-della-televisione-a-berlino-t141648/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione (solo terrazza panoramica)" >}}
 
-{{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-torre-della-televisione-con-tavolo-riservato-t144261/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" " ➡️ Biglietto salta la fila per la Torre della Televisione (con ristorante - cibo e bevande escluse)" >}} **
+{{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-torre-della-televisione-con-tavolo-riservato-t144261/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione (con ristorante - cibo e bevande escluse)" >}} **
 
 {{< titolo title="Pranzare e cenare nel ristorante della Torre della TV" link="pranzare-e-cenare-nel-ristorante-della-torre-della-tv" >}}
 
@@ -137,11 +137,11 @@ La cucina comprende sia **piatti tipici tedeschi** che piatti famosi e **gourmet
 | Pranzo    | dalle 11:00 alle 16:00 | [Menu del pranzo](https://tv-turm.de/wp-content/uploads/2019/09/2019.09_Tageskarte_Onlineversion-mit-Zusatzstoffen-DE-EN_final.pdf)                     |
 | Cena      | dalle 16:00 alle 22:30 | [Menu della cena](https://tv-turm.de/wp-content/uploads/2019/09/2019.09_Abendkarte-Onlineversion-mit-Zusatzstoffen_DE-EN-final.pdf)                     |
 
-** {{< nofollow "https://www.getyourguide.it/berlino-l17/torre-della-tv-di-berlino-ingresso-vip-e-colazione-t141654/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" ➡️ Biglietto salta la fila per la Torre della Televisione con COLAZIONE VIP" >}}
+** {{< nofollow "https://www.getyourguide.it/berlino-l17/torre-della-tv-di-berlino-ingresso-vip-e-colazione-t141654/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione con COLAZIONE VIP" >}}
 
-{{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-evita-la-coda-alla-torre-della-tv-pranzo-vip-t141657/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" " ➡️ Biglietto salta la fila per la Torre della Televisione con PRANZO" >}} 
+{{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-evita-la-coda-alla-torre-della-tv-pranzo-vip-t141657/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione con PRANZO" >}} 
 
-{{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-accesso-prioritario-torre-della-tv-cena-vip-t141651/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" ➡️ Biglietto salta la fila per la Torre della Televisione con CENA" >}} **
+{{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-accesso-prioritario-torre-della-tv-cena-vip-t141651/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione con CENA" >}} **
 
 **NOTA: In alcuni periodi i costi potrebbero essere maggiorati a causa di eventi speciali**
 

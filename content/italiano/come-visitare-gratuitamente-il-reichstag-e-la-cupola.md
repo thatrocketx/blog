@@ -42,7 +42,11 @@ Non solo: è anche possibile accompagnarla con delle **visite guidate** all' int
 
 **Se si prenota in tempo**, infatti, è possibile prendere l' **ascensore gratuito che porta fino al tetto della struttura** e da qui è possibile avere una **vista a 360° della città** e leggere la storia della sua costruzione. 
 
-In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo. Buona lettura!
+In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo. 
+
+NB: In questa guida troverete alcuni link per acquistare biglietti per servizi e attrazioni. Questi link sono link, contrassegnati dalla scritta <small><i>Affiliate</i></small>, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
+
+Buona lettura!
 
 ## Indice
 
@@ -52,15 +56,13 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 * [**Come prenotare la visita** (passo per passo)](#come-prenotare)
 * [Informazioni e **consigli per il giorno della visita**](#informazioni-visita)
 * [Come **raggiungere il Reichstag**](#raggiungere-il-reichstag)
-* [**Il ristorante**](#il-ristorante) (<i>il biglietto <mark>include anche una prenotazione alla cupola</mark><i>)
+* [**Il ristorante**](#il-ristorante) (<i>il biglietto <b>include anche una prenotazione alla cupola</b><i>)
 
 ### Informazioni sul Reichstag
 
 * [**Cos' è il Reichstag**?](#informazioni)
 * [**Che significa Reichstag**?](#che-significa)
 * [Breve **storia del Reichstag**](#storia)
-
-{{< noamp "<hr><script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/city.frame\" data-gyg-iata=\"TXL\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"city\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-cmp=\"reichstag\"></div><small>Affiliate</small><hr>" >}}
 
 ## Prenotare la visita al Reichstag
 
@@ -282,6 +284,10 @@ Questo è tutto ciò che c'è da sapere su come prenotare per la visita al Reich
 Se non lo avete ancora fatto, **vi invitiamo a leggere la** [**nostra guida a Berlino**, con **consigli e informazioni** sulle attrazioni turistiche principali della città](/cosa-vedere-a-berlino/) e sui luoghi meno conosciuti, ma che vale la pena vedere. 
 
 Grazie per la lettura. **Buon viaggio**!
+
+
+
+{{< noamp "<hr><script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/city.frame\" data-gyg-iata=\"TXL\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"city\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-cmp=\"reichstag\"></div><small>Affiliate</small><hr>" >}}
 
 ## Informazioni sul Reichstag
 

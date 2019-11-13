@@ -284,19 +284,12 @@ Oggi è **uno dei simboli più famosi della città di Berlino**.
 Sapevate che...
 
 - La torre ha un' altezza di oltre 360 metri.
-
 - La Torre della Televisione di Berlino è la torre televisiva più alta della Germania e la quarta più alta in Europa.
-
 - È la struttura pubblicamente accessibile più alta d' Europa.
-
 - La Torre della Televisione di Berlino non doveva trovarsi a Berlino centro, la torre doveva essere costruita nei pressi di Schönefeld, ma a causa dell' aeroporto omonimo si decise di spostarla al centro di Berlino. La torre, con la sua altezza, avrebbe causato gravi problemi al traffico aereo in prossimità dell' aeroporto.
-
 - La cucina del ristorante Sphere si trova in realtà ai primi piani della torre, per evitare incendi, e il cibo viene trasportato successivamente con un ascensore e il piatto ultimato.
-
 - Agli inizi, il limite di permanenza nella terrazza della torre era di 30 minuti.
-
 - La forma della torre è ispirata allo Sputnik e alla corsa per lo spazio dell' epoca nella quale venne costruita.
-
 - In alcuni momenti della giornata, i raggi del sole formano una croce sulla sfera di vetro. Questa croce viene chiamata la "Vendetta del Papa", in quanto appunto richiama la famosa croce cristiana.
 
 

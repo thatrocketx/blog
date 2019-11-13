@@ -62,19 +62,12 @@ In aggiunta, in fondo all' articolo troverete una raccolta di **storie e curiosi
 Qui sotto trovate un **indice delle sezioni principali** di questa guida, grazie al quale potete navigare rapidamente nell' articolo. Buona lettura!
 
 - [Cos'è la Torre della Televisione di Berlino](#cos-e-la-torre-della-televisione-di-berlino)
-
 - [Costo dei biglietti per salire sulla Torre della TV](#costo-dei-biglietti-per-salire-sulla-torre-della-tv-a-berlino)
-
 - [Tempi di attesa per l' ascensore](#tempi-di-attesa-per-l-ascensore)
-
 - [Pranzare e cenare nel ristorante della Torre della TV](#pranzare-e-cenare-nel-ristorante-della-torre-della-tv)
-
 - [Orari e giorni di apertura della Torre della Televisione](#orari-e-giorni-di-apertura-della-torre-della-televisione)
-
 - [Consigli per la visita](#consigli-per-la-visita-della-torre-della-televisione)
-
 - [Come raggiungere la Torre della Televisione a Berlino](#come-raggiungere-la-torre-della-televisione-a-berlino)
-
 - [Storia e curiosità sulla Torre della Televisione di Berlino](#storia-e-curiosità-sulla-torre-della-televisione-di-berlino)
 
 {{< titolo title="Cos'è la Torre della Televisione" link="cos-e-la-torre-della-televisione-di-berlino" >}}

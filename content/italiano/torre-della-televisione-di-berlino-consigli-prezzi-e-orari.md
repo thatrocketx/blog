@@ -188,7 +188,7 @@ Se ci si trova nel centro città (al Tor di Brandeburgo per intendersi), basta d
 
 Se si prende la metro, il tram, il bus o il treno, invece, basta fermarsi ad **Alexanderplatz**, la torre si trova **proprio dietro le fermate** di questi mezzi di trasporto (per il bus dipende anche dal tipo di fermata, in ogni caso è molto vicina).
 
-Piccola curiosità: se utilizzate una **{{< nofollow "[https://www.getyourguide.it/s/?q=berlin%20welcome%20card&customerSearch=true&p=1&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv"](https://www.getyourguide.it/s/?q=berlin%20welcome%20card&customerSearch=true&p=1&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv") "Berlin Welcome Card" >}}**, avrete uno **sconto del 25% sul prezzo del biglietto** della torre.
+Piccola curiosità: se utilizzate una **{{< nofollow "https://www.getyourguide.it/s/?q=berlin%20welcome%20card&customerSearch=true&p=1&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "Berlin Welcome Card" >}}**, avrete uno **sconto del 25% sul prezzo del biglietto** della torre.
 
 Giusto per una questione di chiarezza, quindi, qui sotto troverete le varie fermate dei trasporti pubblici che potete utilizzare per raggiungere la Torre della Televisione.
 

@@ -976,7 +976,7 @@ code {
    
 
 article a:not(.noext) {
-  color: inherit;
+  color: #993141;
   border-bottom: 2px solid #dd3d57;
   -webkit-transition: all .2s ease-in-out;
   -o-transition: all .2s ease-in-out;

@@ -29,7 +29,9 @@ titoloSEO: Cose insolite da vedere a Berlino
 sottotitolo: Cose alternative da vedere nella città
 slug: cosa-vedere-a-berlino-alternativo
 immagineprincipale: /img/articoli/berlino-torre-di-controllo-3.jpg
-descrizioneimg: 'Torre di controllo in Erna-Berger-Straße, vicino Potsdamerplatz. Foto di that Rocket X'
+descrizioneimg: >-
+  Torre di controllo in Erna-Berger-Straße, vicino Potsdamerplatz. Foto di that
+  Rocket X
 fontawesome: false
 js: false
 publishdate: '2019-09-19T06:22:54+00:00'
@@ -150,7 +152,7 @@ Il **lunedì il museo è chiuso**.
 {{< img "Facciata con nome della stazione S-Bahn Nordbahnhof" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-**Una delle tante "_Stazioni Fantasma_"**, si differenzia dal fatto che al suo interno vi è un' **esposizione di foto storiche**. 
+**Una delle tante "_Stazioni Fantasma_"**, è la più conosciuta soprattutto perché si trova proprio accanto al Memoriale del Muro di Berlino. Merita assolutamente una vistita, perchè al suo interno vi è un' **esposizione di foto storiche** risalenti soprattutto all' epoca della Guerra Fredda. 
 
 Le stazioni fantasma erano **stazioni che si trovavano a Berlino Est** e nelle quali era consentito il passaggio ai treni provenienti da Berlino Ovest (tre linee di Berlino Ovest avevano delle stazioni in Berlino Est), ma **nelle quali non ci si poteva fermare**. Al loro interno vi erano **guardie armate della Germania dell' Est che controllavano** che i treni non si fermassero. 
 

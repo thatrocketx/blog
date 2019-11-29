@@ -8,7 +8,7 @@ description: >-
   sicuramente la Torre della Televisione. In questa guida troverete consigli,
   orari, attrazioni, storia e curiosità su uno dei monumenti simbolo di Berlino
 autore: Mediterraneo
-immagine: /img/articoli/berlino-torre-tv-og.png
+immagine: /img/articoli/berlino-torre-tv-og2.png
 categories:
   - Guide
 tags:

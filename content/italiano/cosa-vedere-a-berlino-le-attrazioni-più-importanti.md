@@ -124,7 +124,7 @@ Cattedrale posta sul retro dell' Opera di Stato, a Bebelplatz. **Venne commissio
 
 **Era il principale passaggio tra Berlino Est e Berlino Ovest**.
 
-🔤 Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontiera** ( C è la terza lettera dell' alfabeto  e nell' alfabeto NATO C è Charlie). Quando fu alzato il muro in questo punto ci fu il **confronto tra USA e Unione Sovietica**, uno dei momenti più vicini ad una **Terza Guerra Mondiale**. Una placca su una pila di sabbia **ricorda questo evento**.
+🔤 Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontiera** ( C è la terza lettera dell' alfabeto  e nell' alfabeto NATO C è Charlie). Verso la fine di ottobre, proprio in questo punto ci fu un pericolosissimo [**confronto tra USA e Unione Sovietica**](, che divenne uno dei momenti più vicini ad una **Terza Guerra Mondiale**. Fu un momento di grande agitazione, che si risolse fortunatamente in modo non violento. La placca sulla pila di sacchi di sabbia **ricorda questo grave evento**.
 
 **Vi conviene andarci il prima possibile** di mattina perché **si affolla** di turisti abbastanza velocemente (già alle 9 di mattina) e spesso vi si piazzano anche dei personaggi vestiti da soldati tedeschi e russi che potrebbero rovinare eventuali fotografie.
 

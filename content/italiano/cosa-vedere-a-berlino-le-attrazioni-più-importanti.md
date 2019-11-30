@@ -124,11 +124,11 @@ Cattedrale posta sul retro dell' Opera di Stato, a Bebelplatz. **Venne commissio
 
 **Era il principale passaggio tra Berlino Est e Berlino Ovest**.
 
-🔤 Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontiera** ( C è la terza lettera dell' alfabeto  e nell' alfabeto NATO C è Charlie). Verso la fine di ottobre, proprio in questo punto ci fu un pericolosissimo [**confronto tra la Germania Est e Germania Ovest**](https://it.wikipedia.org/wiki/Crisi_di_Berlino_del_1961#Confronto_diretto_al_Checkpoint_Charlie), che divenne uno dei momenti della Guerra Fredda più vicini alla **Terza Guerra Mondiale**. Fu un momento di grande agitazione, che si risolse fortunatamente in modo non violento. La placca sulla pila di sacchi di sabbia **ricorda questo grave evento**.
+🔤 Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontiera** ( La terza lettera dell' alfabeto, la [C è solitamente chiamata Charlie](https://it.wikipedia.org/wiki/Alfabeto_fonetico_NATO). Verso la fine di ottobre, proprio in questo punto ci fu un pericolosissimo [**confronto tra la Germania Est e Germania Ovest**](https://it.wikipedia.org/wiki/Crisi_di_Berlino_del_1961#Confronto_diretto_al_Checkpoint_Charlie), che divenne uno dei momenti della Guerra Fredda più vicini alla **Terza Guerra Mondiale**. Fu un momento di grande agitazione, che si risolse fortunatamente in modo non violento. La placca sulla pila di sacchi di sabbia **ricorda questo famigerato evento**.
 
 **Vi conviene andarci il prima possibile** di mattina perché **si affolla** di turisti abbastanza velocemente (già alle 9 di mattina) e spesso vi si piazzano anche dei personaggi vestiti da soldati tedeschi e russi che potrebbero rovinare eventuali fotografie.
 
-State molto attenti alle truffe che avvengono qualche volta davanti a questo monumento. Il [gioco dei tre bussolotti](https://it.wikipedia.org/wiki/Gioco_delle_tre_campanelle) (in questo caso) non ha niente a che fare con la fortuna, lasciate perdere!
+State molto attenti alle **truffe** che avvengono qualche volta davanti a questo monumento. Il [gioco dei tre bussolotti](https://it.wikipedia.org/wiki/Gioco_delle_tre_campanelle) (in questo caso) non ha niente a che fare con la fortuna, lasciate perdere!
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Checkpoint+Charlie/@52.5074534,13.3902253,20z/data=!4m5!3m4!1s0x47a851d15c26d8cd:0x23a50042477d89c8!8m2!3d52.5074434!4d13.3903913"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50751/13.39037"  >OpenStreetMap</a> - <a href="geo:52.50751,13.39037?z=19"  >Applicazione mappe</a>
   </div>
@@ -185,7 +185,7 @@ Chiuso il lunedì.
 
 **Vecchia chiesa di corte** in stile rinascimentale. 
 
-Il duomo **venne costruito nel 1905** dopo che, nel 1894, **Giglielmo II ordinò la distruzione** della chiesa che precedentemente si ereggeva nello stesso punto, che era in uno stile più antico, per ricostruirla nello stile neobarocco. 
+⛪ Il duomo **venne costruito nel 1905** dopo che, nel 1894, **Giglielmo II ordinò la distruzione** della chiesa che precedentemente si ereggeva nello stesso punto, che era in uno stile più antico, per ricostruirla nello stile neobarocco. 
 
 Venne **gravemente danneggiato durante la Seconda Guerra Mondiale**, ma venne restaurato nel 1981.
 
@@ -241,17 +241,19 @@ Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile 
 {{< img "Torre della Televisione vista da lontano" "/img/articoli/torre-della-tv_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-Alta 368m, è la **quarta torre più alta in Europa**.
+Alta 368m, è la **quarta torre televisiva più alta in Europa**.
 
 Venne ordinata dal governatore della Germania dell' Est Walter Ulbricht nel 1950.
 
 La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche come dimostrazione della forza e della tecnologia della Germania dell' Est.
 
-**La forma a razzo fu ispirata dalla corsa allo spazio del 1960** e al lancio dello Sputnik.
+👨🏻‍🚀 **La forma (che ricorda un razzo) fu ispirata dalla corsa allo spazio del 1960** e al lancio dello Sputnik da parte dell' Unione Sovietica.
 
-**È possibile salire sulla torre** per avere una vista panoramica della città. **Il prezzo per salire è di circa 16 euro**. Puoi andare nella sezione su _cosa vedere a pagamento a Berlino_ di questa guida [cliccando qui](#cosa-vedere-pagamento) per scoprirne di più. 
+🏙️ **È possibile salire sulla torre** per avere una vista panoramica della città. **Il prezzo per salire è di circa 16 euro**. 
 
-[Clicca qui per andare direttamente alla sezione sulla torre](#accesso-torre-della-televisione).
+📖 Potete leggere la nostra [**guida completa alla Torre della Televisione di Berlino**](/torre-della-televisione-di-berlino/) **per altre informazioni sulla torre e su come visitarla**. 
+
+[Qui invece trovate la sua sezione dedicata in questa guida.](#accesso-torre-della-televisione).
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947"  >OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19"  >Applicazione mappe</a>
   </div>

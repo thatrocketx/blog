@@ -37,7 +37,7 @@ js: false
 publishdate: '2019-09-19T06:22:54+00:00'
 expirydate: ' '
 scadenza: ' '
-lastmod: '2019-09-24T08:28:48+00:00'
+lastmod: '2019-11-30T13:18:48+00:00'
 ---
 Quando si va in una città si ha sempre la voglia di trovare qualche luogo "strano" o comunque poco conosciuto. Berlino è una città piena di luoghi nascosti e cose di questo genere. In questa mini-guida, appendice della [nostra guida principale alla città](/cosa-vedere-a-berlino), vi elenchiamo i luoghi e le attività meno conosciute della capitale tedesca.
 
@@ -87,6 +87,8 @@ Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondi
 **Luogo nel quale era situato il bunker di Hitler**. Oggi è un **parcheggio**, un cartello spiega come era strutturato.
 
 Si trova **qualche metro dopo il Memoriale dell' Olocausto**.
+
+Piccola curiosità: se avete visto il film [Lui è tornato](https://it.wikipedia.org/wiki/Lui_%C3%A8_tornato_(film)), che trovate anche su [Netflix](https://www.netflix.com/it/title/80094357), nella scena iniziale il luogo in cui Hitler "risorge" è proprio questo parcheggio.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064"  >OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19"  >Applicazione mappe</a>
   </div>

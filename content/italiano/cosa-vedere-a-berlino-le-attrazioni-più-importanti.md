@@ -50,6 +50,8 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 
 - - -
 
+
+
 {{< titolo title="🆓 Cosa vedere gratis a Berlino" link="cosa-vedere-gratis" >}}
 
 **Berlino è piena di luoghi e musei gratuiti**, in questa sezione trovate la nostra lista **dei luoghi gratuiti che abbiamo visto e quelli che avremmo voluto vedere**; Berlino è una città ricca di cose da vedere e per questo non ci è stato possibile visitarli tutti, ma siamo riusciti almeno a vederne la maggior parte.
@@ -610,16 +612,7 @@ All' esterno è invece possibile notare un **pezzo originale del Muro di Berlino
 Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Topographie+des+Terrors/@52.5072009,13.3831069,17z/data=!4m5!3m4!1s0x47a851cc389778c7:0x374bd5cc05c96648!8m2!3d52.5066836!4d13.383702"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50680/13.38352"  >OpenStreetMap</a> - <a href="geo:52.50680,13.38352?z=19"  >Applicazione mappe</a>
-  </div>  
-  
-  
-  
-  <br>  
- {{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-a-berlino_368326?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false#14/52.5164/13.4007\"></iframe>" >}}
- 
- 
- 
- 
+  </div>   
 ---
 
 {{< titolo title="✋ Cosa vedere solo su prenotazione" link="cosa-vedere-su-prenotazione" >}}
@@ -774,10 +767,6 @@ Chiuso il lunedì.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
   </div>
-  
-<br>
-{{< affiliato "gyg" "Pass di 3 giorni per più di 30 musei di Berlino - Museum Pass Berlin" "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "/img/articoli/pass-musei-3gg-berlino.png" "Vedi su GetYourGuide" >}}
-<br>
 
 {{< titolo2 title="Museo del cinema (German Cinematheque - Museum of Film and Television)" link="german-cinematheque" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 

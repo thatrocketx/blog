@@ -50,7 +50,7 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 
 - - -
 
-
+{{< nofollow "https://www.civitatis.com/it/berlino/free-tour-berlino?aid=8933" "➡️ Ottieni un tour GRATUITO di Berlino su Civitatis!" >}} <small>Affiliate</small>
 
 {{< titolo title="🆓 Cosa vedere gratis a Berlino" link="cosa-vedere-gratis" >}}
 
@@ -318,12 +318,6 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Gendarmenmarkt/@52.5140099,13.3930886,17z/data=!4m5!3m4!1s0x47a851da6e329be1:0x69ed42f426573790!8m2!3d52.5137235!4d13.3926719"  >Google Maps</a> - <a href="https://www.openstreetmap.org/search?query=We%20love%20that%20Rocket%20X#map=17/52.51343/13.39310"  >OpenStreetMap</a> - <a href="geo:52.51343,13.39310?z=17"  >Applicazione mappe</a>
   </div>
-  
-  ---
-  
-{{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino-gratis\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",49759,,22003,,171918\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietto-per-il-museo-haus-am-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">🧱 Museo Checkpoint Charlie: acquista i biglietti su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>" "<center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietto-per-il-museo-haus-am-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">🧱 Museo Checkpoint Charlie: acquista i biglietti su GetYourGuide.</a></center> <br><small>Affiliate</small>" >}}
-
----
 
 {{< titolo2 title="Hackesche Höfe" link="hackesche-hofe" >}}
 
@@ -613,6 +607,9 @@ Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Topographie+des+Terrors/@52.5072009,13.3831069,17z/data=!4m5!3m4!1s0x47a851cc389778c7:0x374bd5cc05c96648!8m2!3d52.5066836!4d13.383702"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50680/13.38352"  >OpenStreetMap</a> - <a href="geo:52.50680,13.38352?z=19"  >Applicazione mappe</a>
   </div>   
+     <br>  
+
+    {{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-a-berlino_368326?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false#14/52.5164/13.4007\"></iframe>" >}}
 ---
 
 {{< titolo title="✋ Cosa vedere solo su prenotazione" link="cosa-vedere-su-prenotazione" >}}

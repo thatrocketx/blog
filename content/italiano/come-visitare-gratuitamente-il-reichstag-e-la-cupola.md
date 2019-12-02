@@ -48,6 +48,8 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 
 Buona lettura!
 
+{{< nofollow "https://www.civitatis.com/it/berlino/free-tour-berlino?aid=8933" "➡️ Ottieni un tour GRATUITO di Berlino su Civitatis!" >}} <small>Affiliate</small>
+
 ## Indice
 
 ### Prenotare la visita al Reichstag
@@ -287,9 +289,6 @@ Se non lo avete ancora fatto, **vi invitiamo a leggere la** [**nostra guida a Be
 
 Grazie per la lettura. **Buon viaggio**!
 
-
-
-{{< noamp "<hr><script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/city.frame\" data-gyg-iata=\"TXL\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"city\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-cmp=\"reichstag\"></div><small>Affiliate</small><hr>" >}}
 
 ## Informazioni sul Reichstag
 

@@ -183,7 +183,7 @@ Ultimo gruppo alle 23:30.
 
 Questa è la parte dei nostri consigli, sulla base della nostra esperienza durante il nostro ultimo viaggio alla capitale tedesca.
 
-Innanzitutto vi consigliamo di recarvi alla torre e di **acquistare il biglietto un' oretta prima** del vostro orario prescelto (a meno che non abbiate effettuato già la prenotazione per quell' orario), in modo tale che possiate recarvi nella **vicina Alexanderplatz** per passare un po' di tempo, perché l' attesa al piano superiore è  **abbastanza noiosa** e le sedie non bastano per tutti.
+Innanzitutto vi consigliamo di recarvi alla torre e di **acquistare il biglietto un' oretta prima** del vostro orario prescelto (a meno che non abbiate effettuato già la prenotazione per quell' orario), in modo tale che possiate recarvi nella **vicina [Alexanderplatz](/cosa-vedere-a-berlino/#alexanderplatz)** per passare un po' di tempo, perché l' attesa al piano superiore è  **abbastanza noiosa** e le sedie non bastano per tutti.
 
 Inoltre, a proposito di piano superiore, state bene attenti alla scala da prendere: se siete possessori del **fast ticket** (ovvero del biglietto salta la fila), utilizzate la **scala apposita**, così non vi ritroverete in posti affollati.
 
@@ -199,7 +199,7 @@ Come ultimo consiglio, ma **forse il più importante**, vi diciamo di portare vo
 
 Raggiungere la Torre della TV è davvero semplicissimo, soprattutto perché **è impossibile non notarla**.
 
-Se ci si trova nel centro città (al Tor di Brandeburgo per intendersi), basta davvero soltanto **seguirla**, percorrendo la via larga che porta ad altri iconici posti come Bebel Platz e il duomo di Berlino e attraversare il ponte in direzione **Alexanderplatz**. 
+Se ci si trova nel centro città (alla [Porta di Brandeburgo](/cosa-vedere-a-berlino/#porta-di-brandeburgo) per intendersi), basta davvero soltanto **seguirla**, percorrendo la via larga che porta ad altri iconici posti come [Bebelplatz](/cosa-vedere-a-berlino/#bebelplatz) e il [Duomo di Berlino](/cosa-vedere-a-berlino/#duomo-berlino) e attraversare il ponte in direzione **Alexanderplatz**. 
 
 {{< img "Alexanderplatz di giorno""/img/articoli/alexanderplatz.jpg" >}}
 
@@ -208,6 +208,8 @@ Se si prende la metro, il tram, il bus o il treno, invece, basta fermarsi ad **A
 Piccola curiosità: se utilizzate una **{{< nofollow "https://www.getyourguide.it/s/?q=berlin%20welcome%20card&customerSearch=true&p=1&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "Berlin Welcome Card" >}}**, avrete uno **sconto del 25% sul prezzo del biglietto** della torre.
 
 Giusto per una questione di chiarezza, quindi, qui sotto troverete le varie fermate dei trasporti pubblici che potete utilizzare per raggiungere la Torre della Televisione.
+
+<small> Affiliate </small>
 
 <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
 <g transform="translate(0 -289.06)">
@@ -304,7 +306,7 @@ Sapevate che...
 * La torre ha un' altezza di oltre 360 metri.
 * La Torre della Televisione di Berlino è la torre televisiva più alta della Germania e la quarta più alta in Europa.
 * È la struttura pubblicamente accessibile più alta d' Europa.
-* La Torre della Televisione di Berlino non doveva trovarsi a Berlino centro, inizialmente doveva essere costruita nei pressi di Schönefeld, ma a causa dell' aeroporto omonimo si decise di spostarla al centro di Berlino. La torre, con la sua altezza, avrebbe causato gravi problemi al traffico aereo in prossimità dell' aeroporto.
+* La Torre della Televisione di Berlino non doveva trovarsi a Berlino centro, inizialmente doveva essere costruita nei pressi di [Schönefeld](/schonefeld-berlino-centro/), ma a causa dell' aeroporto omonimo si decise di spostarla al centro di Berlino. La torre, con la sua altezza, avrebbe causato gravi problemi al traffico aereo in prossimità dell' aeroporto.
 * Per evitare disastrosi incendi, la cucina del ristorante Sphere si trova in realtà ai primi piani della torre. Il cibo viene successivamente trasportato con un ascensore e il piatto viene ultimato in una cucina satellite.
 * Agli inizi, il limite di permanenza nella terrazza della torre era di 30 minuti.
 * La forma della torre è ispirata allo Sputnik e alla corsa per lo spazio dell' epoca nella quale venne costruita.

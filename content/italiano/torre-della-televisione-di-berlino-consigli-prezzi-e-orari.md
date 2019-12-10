@@ -310,4 +310,6 @@ Sapevate che...
 * La forma della torre è ispirata allo Sputnik e alla corsa per lo spazio dell' epoca nella quale venne costruita.
 * In alcuni momenti della giornata, i raggi del sole formano il riflesso di una croce sulla sfera di vetro. Questa croce viene chiamata la "Vendetta del Papa", in quanto appunto richiama la famosa croce cristiana.
 
+Fonte per storia e curiosità: [Wikipedia in inglese](https://en.wikipedia.org/wiki/Fernsehturm_Berlin)
+
 Questo è quanto, per ora. **Vi ringraziamo per aver letto questa guida** alla Torre della Televisione di Berlino e **vi auguriamo un piacevole viaggio**!

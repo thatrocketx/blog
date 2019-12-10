@@ -57,11 +57,7 @@ Inoltre, vi daremo informazioni sugli **orari di visita**, sui **prezzi dei vari
 
 In aggiunta, in fondo all' articolo troverete una raccolta di **storie e curiosità** sulla **Torre della TV** che trovammo per organizzare il nostro viaggio e che potrebbero tornarvi utili per scoprire qualcosa in più prima di visitarla.
 
-
-
 {{< img "Torre della Televisione di Berlino, vista dalla Franziskane-Klosterkirche""/img/articoli/franziskaner-klosterkirche-con-torre-della-tv_compressed.jpg" >}}
-
-
 
 **N.B.** In questa guida sono presenti alcuni link per l' acquisto di biglietti per attrazioni e servizi. Questi link sono link _sponsorizzati_, vale a dire che da questi biglietti noi ricaviamo una piccola percentuale dagli acquisti idonei, in quanto affiliati al sito _GetYourGuide.com_. Sul nostro sito noi non vogliamo utilizzare pubblicità traccianti e/o invasive; per questo motivo ringraziamo in anticipo a chiunque acquisterà dai nostri link!
 
@@ -90,11 +86,7 @@ Oltre alla terrazza panoramica, nella quale se si vuole si può fare un aperitiv
 
 Salire sulla Torre della TV **non è proprio economico**, sia chiaro, ma vi assicuriamo che l' esperienza **vale assolutamente il prezzo del ticket**.
 
-
-
 {{< img "Berlino vista dalla Torre della Televisione""/img/articoli/vista-torre-della-tv-berlino_compressed.jpg" >}}
-
-
 
 Il costo di un **singolo biglietto** per la terrazza panoramica è di **€ 16.50** per gli adulti e € 9.50 per i bambini dai 4 ai 14 anni.
 
@@ -104,9 +96,9 @@ I biglietti si possono **{{< nofollow "https://www.getyourguide.it/torre-della-t
 
 
 
+<small> Affiliate </small>
+
 {{< img "Torre della Televisione di Berlino vista dalla piazzetta all' entrata.""/img/articoli/torre-della-televisione-di-berlino-esterno.jpg" >}}
-
-
 
 Oltre al biglietto classico, la torre offre **altri servizi**, ognuno con una fascia di prezzo diversa, in particolare è possibile acquistare il biglietto con l' accompagnamento di uno snack o una bibita al bar presente nella terrazza, Bar 203. I prezzi sono abbastanza alti e i servizi cambiano a seconda del periodo; in ogni caso, per chi fosse interessato, sul [sito ufficiale](https://tv-turm.de/en/observation-deck-bar-203/) è possibile trovare una versione aggiornata dei vari eventi e dei servizi e prenotarli.
 
@@ -135,15 +127,13 @@ Alla nostra visita, **i turni erano di cira 20 minuti per gruppo**, quindi in gi
 {{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-torre-della-televisione-con-tavolo-riservato-t144261/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione (con ristorante - cibo e bevande escluse)" >}} </b>
 
 </center>
+
+<small> Affiliate </small>
 {{< titolo title="Pranzare e cenare nel ristorante della Torre della TV" link="pranzare-e-cenare-nel-ristorante-della-torre-della-tv" >}}
-
-
 
 {{< img "Torre della Televisione di Berlino, uscita.""/img/articoli/torre-della-televisione-di-berlino-interno-ascensore.jpg" >}}
 
-
-
-Oltre al Bar 203, il bar della terrazza panoramica, la Torre della Televisione possiede, al di sopra della terrazza, un **ristorante**, lo _**Sphere**_, anch' esso panoramico.
+Oltre al Bar 203, il bar della terrazza panoramica, la Torre della Televisione possiede, al di sopra della terrazza, un **ristorante**, lo **_Sphere_**, anch' esso panoramico.
 
 Una particolarità di questo ristorante è che **effettua un giro completo** (di 360°) **ogni ora**, quindi ruota, dando una vista completa della città di Berlino per tutto il tempo di permanenza.
 
@@ -168,6 +158,8 @@ La cucina comprende sia **piatti tipici tedeschi** che piatti famosi e **gourmet
 {{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-accesso-prioritario-torre-della-tv-cena-vip-t141651/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione con CENA" >}} </b>
 
 </center>
+
+<small> Affiliate </small>
 **NOTA: In alcuni periodi i costi potrebbero essere maggiorati a causa di eventi speciali**
 
 {{< titolo title="Orari e giorni di apertura della Torre della Televisione" link="orari-e-giorni-di-apertura-della-torre-della-televisione" >}}
@@ -295,11 +287,7 @@ La **Torre della Televisione** nasce nella vecchia Repubblica Democratica Tedesc
 
 La costruzione di una torre così alta sembrava non solo l' unico modo di ovviare al problema, ma anche quello più appariscente: la costruzione della nuova struttura avrebbe dimostrato la **potenza della Germania dell' Est** e avrebbe creato un **nuovo simbolo per la città**.
 
-
-
 {{< img "L' interno della Torre della Televisione di Berlino""/img/articoli/torre-della-televisione-di-berlino-interno-bar.jpg" >}}
-
-
 
 L' inizio dei lavori si ebbero nel 1966 e in un **tempo record di 3 anni** venne conclusa nel 1969. 
 

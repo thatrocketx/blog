@@ -84,10 +84,6 @@ Oltre alla terrazza panoramica, nella quale se si vuole si può fare un aperitiv
 
 Salire sulla Torre della TV **non è proprio economico**, sia chiaro, ma vi assicuriamo che l' esperienza **vale assolutamente il prezzo del ticket**.
 
-
-
-<small> Affiliate </small>
-
 {{< img "Berlino vista dalla Torre della Televisione""/img/articoli/vista-torre-della-tv-berlino_compressed.jpg" >}}
 
 Il costo di un **singolo biglietto** per la terrazza panoramica è di **€ 16.50** per gli adulti e € 9.50 per i bambini dai 4 ai 14 anni.

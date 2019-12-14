@@ -23,17 +23,15 @@ Amsterdam è la principale città dell’Olanda ed è una delle città europee p
 Il nostro itinerario di 3 giorni su cosa fare e cosa vedere ad Amsterdam se è la prima volta che la visitate.
 
 <h1>1 giorno</h1>
-Per il primo giorno ad Amsterdam è utile per prima cosa orientarsi in città. Parti da Piazza Dam, la piazza più importante della città. Piazza Dam rappresenta il centro della città di Amsterdam, è la sua piazza principale su cui si affaccia anche il palazzo Reale, la Nieuwe Kerk (in italiano Chiesa Nuova luogo dove convolano a nozze e vengono incoronati i sovrani dei Paesi Bassi) e il grande obelisco in memoria dei caduti della II Guerra Mondiale. La piazza è sempre piena di gente a qualsiasi ora del giorno. Merita una visita anche di notte in quanto più suggestiva grazie al fatto che non si notano gli annerimenti dei palazzi dovuti all’inquinamento.
+Per il primo giorno ad Amsterdam è utile per prima cosa orientarsi in città. Parti da Piazza Dam, la piazza più importante della città. Piazza Dam rappresenta il centro della città di Amsterdam, è la sua piazza principale su cui si affaccia anche il palazzo Reale, la Nieuwe Kerk (in italiano Chiesa Nuova, luogo dove convolano a nozze e vengono incoronati i sovrani dei Paesi Bassi) e il grande obelisco in memoria dei caduti della II Guerra Mondiale. La piazza è sempre piena di gente a qualsiasi ora del giorno. Merita una visita anche di notte in quanto più suggestiva grazie al fatto che non si notano gli annerimenti dei palazzi dovuti all’inquinamento.
 
 Da Piazza Dam percorri le stradine che ti portano alla casa di Anna Frank.  L’edificio non è solo un museo, ma è il vero stabile che ospitava l’azienda del padre di Anna. Viene permesso ai visitatori di effettuare un percorso guidato tra le stanze fino a giungere alla famosa stanzetta con la libreria girevole. Qui, c’è l’accesso alla soffitta, il famoso alloggio segreto che per due anni ospitò la famiglia Frank e Van Pels. La fila per l’accesso al museo è notevole ecco perché ti consiglio di acquistare il biglietto online ([QUI](https://www.getyourguide.it/amsterdam-l36/-t250362/)
 ).  In oltre una volta che ti trovi a piazza Dam se avete voglia d’incontrare qualche personaggio famoso, fate un giro a Madame Tussaud. Per i biglietti e saltare la fila acquistali ([QUI](https://www.getyourguide.it/amsterdam-l36/amsterdam-ingresso-prioritario-per-il-madame-tussauds-t36506/)
 )
 
+![<smol>Foto di that Rocket X<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a> </smol>](/img/articoli/ddddd.jpg)
 
 
-![](/img/articoli/ddddd.jpg)
-
-<smol>Foto di that Rocket X<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a> </smol>
 
 Dalla casa di Anna Frank prosegui lungo il canale Singel fino ad arrivare al Bloemenmarkt, il mercato galleggiante della città. Merita sicuramente una visita e rientra tra le cose da vedere ad Amsterdam ma ammetto che con il passare degli anni è diventato sempre più turistico e la vendita dei fiori (tulipani in particolare) sta lasciando spazio ai souvenirs. E’ definito galleggiante in quanto i negozi di fiori sono delle imbarcazioni (fisse) che costeggiano la riva del canale.
 

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: '2019-12-12T14:18:42+01:00'
 title: 'Cosa vedere 3 giorni ad Amsterdam '
 description: In giro per Amsterdam
@@ -11,7 +11,7 @@ news_keywords:
   - Amsterdam
   - Cosa vedere in 3 giorni ad Amsterdam
   - canali
-countries: Olanda
+countries: Paesi Bassi
 cities: Amsterdam
 titoloSEO: 3 giorni ad Amsterdam
 immagineprincipale: /img/articoli/img_8970.jpg
@@ -29,6 +29,8 @@ Amsterdam è la principale città dell’Olanda ed è una delle città europee p
 Il nostro itinerario di 3 giorni su cosa fare e cosa vedere ad Amsterdam se è la prima volta che la visitate.
 
 <h1>1 giorno</h1>
+
+
 Per il primo giorno ad Amsterdam è utile per prima cosa orientarsi in città. Parti da Piazza Dam, la piazza più importante della città. Piazza Dam rappresenta il centro della città di Amsterdam, è la sua piazza principale su cui si affaccia anche il palazzo Reale, la Nieuwe Kerk (in italiano Chiesa Nuova, luogo dove convolano a nozze e vengono incoronati i sovrani dei Paesi Bassi) e il grande obelisco in memoria dei caduti della II Guerra Mondiale. La piazza è sempre piena di gente a qualsiasi ora del giorno. Merita una visita anche di notte in quanto più suggestiva grazie al fatto che non si notano gli annerimenti dei palazzi dovuti all’inquinamento.
 
 ![Foto di that Rocket X](/img/articoli/dam.jpg)

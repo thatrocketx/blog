@@ -46,7 +46,7 @@ A secondo del periodo che andrai ad Amsterdam lo troverai più o meno fiorito. I
 <h1>2 Giorno</h1>
 
 <h2>VONDELPARK</h2>
-Quello che \\\*\\\*Central Park è per New York\\\*\\\*, è \\\*\\\*Vondelpark per Amsterdam!\\\*\\\* Fiori, laghetti, ponticelli… E poi ancora: concerti di musica jazz, performance acrobatiche, spettacoli di danza moderna, tutto rigorosamente gratuito! Vondelpark è il punto di ritrovo per gli abitanti di Amsterdam. Soprattutto in primavera e d’estate, il parco si riempie di gente: chi fa jogging, chi prende il sole, chi organizza mercatini improvvisati, chi suona la chitarra sull’erba. Prendetevi un pomeriggio libero e rilassatevi nello splendido \\\*\\\*polmone verde della città.\\\*\\\*
+Quello che **Central Park è per New York**, è **Vondelpark per Amsterdam!** Fiori, laghetti, ponticelli… E poi ancora: concerti di musica jazz, performance acrobatiche, spettacoli di danza moderna, tutto rigorosamente gratuito! Vondelpark è il punto di ritrovo per gli abitanti di Amsterdam. Soprattutto in primavera e d’estate, il parco si riempie di gente: chi fa jogging, chi prende il sole, chi organizza mercatini improvvisati, chi suona la chitarra sull’erba. Prendetevi un pomeriggio libero e rilassatevi nello splendido **polmone verde della città.**
 
 ![<smol>Foto di that Rocket X<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a> </smol>](/img/articoli/vondelpark_2-1.jpg)
 

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: '2019-12-12T14:18:42+01:00'
 title: 'Cosa vedere 3 giorni ad Amsterdam '
 description: In giro per Amsterdam

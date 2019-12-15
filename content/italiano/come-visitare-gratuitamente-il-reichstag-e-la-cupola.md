@@ -72,7 +72,7 @@ Buona lettura!
 
 <mark>**I biglietti** per visitare il Reichstag **sono gratuiti**</mark>, quindi il prezzo del biglietto è 0. 
 
-**Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "il ristorante" >}} e i souvenir** alla fine della visita.
+**Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "il ristorante" >}} e i souvenir** alla fine della visita. Prenotando un posto per il ristorante si ottiene anche un posto per la cupola, quindi in tal caso non è necessario seguire questa guida.
 
 <small>Affiliate</small>
 

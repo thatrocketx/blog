@@ -2,7 +2,9 @@
 draft: false
 date: '2019-12-12T14:18:42+01:00'
 title: 'Cosa vedere 3 giorni ad Amsterdam '
-description: In giro per Amsterdam
+description: >-
+  Cosa vedere ad Amsterdam in tre giorni, una breve guida di un viaggiatore che
+  ci è stato di recente
 autore: Oraion
 immagine: /img/articoli/ddddddc.jpg
 categories:
@@ -14,6 +16,7 @@ news_keywords:
 countries: Paesi Bassi
 cities: Amsterdam
 titoloSEO: 3 giorni ad Amsterdam
+sottotitolo: In giro per Amsterdam
 immagineprincipale: /img/articoli/img_8970.jpg
 descrizioneimg: >-
   Foto di that Rocket X Creative Commons Attribuzione - Non commerciale -
@@ -25,34 +28,32 @@ expirydate: ' '
 scadenza: ' '
 lastmod: '2019-12-12T14:18:42+01:00'
 ---
-Amsterdam è la principale città dell’Olanda ed è una delle città europee più visitate negli ultimi anni. Grazie al suo sistema di canali.
-Il nostro itinerario di 3 giorni su cosa fare e cosa vedere ad Amsterdam se è la prima volta che la visitate.
+Amsterdam è la principale città dell’Olanda ed è una delle città europee più visitate negli ultimi anni. Il nostro itinerario di 3 giorni ti darà consigli su cosa fare e cosa vedere ad Amsterdam se è la prima volta che la visiti.
 
 <h1>1 giorno</h1>
-
 
 Per il primo giorno ad Amsterdam è utile per prima cosa orientarsi in città. Parti da Piazza Dam, la piazza più importante della città. Piazza Dam rappresenta il centro della città di Amsterdam, è la sua piazza principale su cui si affaccia anche il palazzo Reale, la Nieuwe Kerk (in italiano Chiesa Nuova, luogo dove convolano a nozze e vengono incoronati i sovrani dei Paesi Bassi) e il grande obelisco in memoria dei caduti della II Guerra Mondiale. La piazza è sempre piena di gente a qualsiasi ora del giorno. Merita una visita anche di notte in quanto più suggestiva grazie al fatto che non si notano gli annerimenti dei palazzi dovuti all’inquinamento.
 
 ![Foto di that Rocket X](/img/articoli/dam.jpg)
 
-Da Piazza Dam percorri le stradine che ti portano alla casa di Anna Frank.  L’edificio non è solo un museo, ma è il vero stabile che ospitava l’azienda del padre di Anna. Viene permesso ai visitatori di effettuare un percorso guidato tra le stanze fino a giungere alla famosa stanzetta con la libreria girevole. Qui, c’è l’accesso alla soffitta, il famoso alloggio segreto che per due anni ospitò la famiglia Frank e Van Pels. La fila per l’accesso al museo è notevole ecco perché ti consiglio di acquistare il biglietto online ([QUI](https://www.getyourguide.com/amsterdam-l36/amsterdam-life-of-anne-frank-walking-tour-t250362/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam)).  In oltre una volta che ti trovi a piazza Dam se avete voglia d’incontrare qualche personaggio famoso, fate un giro a Madame Tussaud. Per i biglietti e saltare la fila acquistali ([QUI](https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam)).
+Da Piazza Dam percorri le stradine che ti portano alla casa di Anna Frank.  L’edificio non è solo un museo, ma è il vero stabile che ospitava l’azienda del padre di Anna. Viene permesso ai visitatori di effettuare un percorso guidato tra le stanze fino a giungere alla famosa stanzetta con la libreria girevole, con la famosa stanza segreta che per un periodo ospitò lei e la sua famiglia. La fila per l’accesso al museo è notevole ecco perché ti consiglio di acquistare il biglietto online ([QUI](https://www.getyourguide.com/amsterdam-l36/amsterdam-life-of-anne-frank-walking-tour-t250362/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam)).  In oltre una volta che ti trovi a piazza Dam se avete voglia d’incontrare qualche personaggio famoso, fate un giro a Madame Tussaud. Per i biglietti e saltare la fila acquistali ([QUI](https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam)).
 
 ![Foto di that Rocket X](/img/articoli/fiori.jpg)
 
 Dalla casa di Anna Frank prosegui lungo il canale Singel fino ad arrivare al Bloemenmarkt, il mercato galleggiante della città. Merita sicuramente una visita e rientra tra le cose da vedere ad Amsterdam ma ammetto che con il passare degli anni è diventato sempre più turistico e la vendita dei fiori (**tulipani in particolare**) sta lasciando spazio ai souvenirs. E’ definito galleggiante in quanto i negozi di fiori sono delle imbarcazioni (fisse) che costeggiano la riva del canale.
 
-A secondo del periodo che andrai ad Amsterdam lo troverai più o meno fiorito. In primavera è il periodo migliore. Noi ci siamo stati in inverno e l’aria è davvero fredda e suggestiva, con i primi addobbi natalizi. In serata non puoi non fare un giro nel quartiere più famoso di tutta l'Olanda: il Red Light District. Vai con pochi pregiudizi, o non andarci affatto. Il quartiere a luci rosse di Amsterdam secondo alcuni è un must da vedere almeno **una volta**, ed è una delle cose piu “particolari” della città (suo malgrado). L’atmosfera non e per nulla degradata, come si possa pensare, anzi, è forse uno dei quartieri più sicuri ad Amsterdam a causa dell’alto numero di poliziotti che pattugliano l’area. All’interno del quartiere è vietato fare video e foto (onde evitare multe salate). Il Red Light District è un posto molto turistico, pieno di gente che osserva le vetrine (o meglio le ragazze in vetrina), sexy shop e night club.
+A secondo del periodo che andrai ad Amsterdam lo troverai più o meno fiorito. In primavera è il periodo migliore. Noi ci siamo stati in inverno e l’aria è davvero fredda e suggestiva, con i primi addobbi natalizi. Di sera, se ti è possibile, devi assolutemente visitare quello che probabilmente è il quartiere più famoso dell' intera Olanda: il Red Light District. Vai con pochi pregiudizi, o non andarci affatto. Il quartiere a luci rosse di Amsterdam secondo alcuni è un must da vedere almeno **una volta**, ed è una delle cose piu “particolari” della città (suo malgrado). L’atmosfera non e per nulla degradata, come si possa pensare, anzi, è forse uno dei quartieri più sicuri ad Amsterdam a causa dell’alto numero di poliziotti che pattugliano l’area. All’interno del quartiere è vietato fare video e foto (onde evitare multe salate). Il Red Light District è un posto molto turistico, pieno di gente che osserva le vetrine (o meglio le ragazze in vetrina), sexy shop e night club.
 
-![](/img/articoli/red.jpg)
+![null](/img/articoli/red.jpg)
 
 <h1>2 Giorno</h1>
 
 <h2>VONDELPARK</h2>
-Quello che **Central Park è per New York**, è **Vondelpark per Amsterdam!** Fiori, laghetti, ponticelli… E poi ancora: concerti di musica jazz, performance acrobatiche, spettacoli di danza moderna, tutto rigorosamente gratuito! Vondelpark è il punto di ritrovo per gli abitanti di Amsterdam. Soprattutto in primavera e d’estate, il parco si riempie di gente: chi fa jogging, chi prende il sole, chi organizza mercatini improvvisati, chi suona la chitarra sull’erba. Prendetevi un pomeriggio libero e rilassatevi nello splendido **polmone verde della città.**
+\*\*Vondelpark è per Amsterdam\*\* l' equivalente del \[parco di Tiergarten](/cosa-vedere-a-berlino/#tiergarten) per Berlino, se vogliamo fare un paragone. Fiori, laghetti, ponticelli… E poi ancora: concerti di musica jazz, performance acrobatiche, spettacoli di danza moderna, tutto rigorosamente gratuito! Vondelpark è il punto di ritrovo per gli abitanti di Amsterdam. Soprattutto in primavera e d’estate, il parco si riempie di gente: chi fa jogging, chi prende il sole, chi organizza mercatini improvvisati, chi suona la chitarra sull’erba. Prenditi un po' di tempo e rilassati in questo splendido spazio verde.
 
 ![<smol>Foto di that Rocket X<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a> </smol>](/img/articoli/vondelpark_2-1.jpg)
 
-Un’altra cosa da fare assolutamente quando si va ad Amsterdam è il **tour per i canali**, molto suggestivo con audioguida in molte lingue (anche in italiano). L’audioguida racconta tutta la storia e le particolarità del posto.([QUI PER I BIGLIETTI](https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/)) 
+Un’altra cosa da fare assolutamente quando si va ad Amsterdam è il **tour per i canali**, molto suggestivo con audioguida in molte lingue (anche in italiano). L’audioguida racconta tutta la storia e le particolarità del posto. ([QUI PER I BIGLIETTI](https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/)) 
 
 ![<smol>Foto di that Rocket X<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a> </smol>](/img/articoli/eeedd.jpg)
 

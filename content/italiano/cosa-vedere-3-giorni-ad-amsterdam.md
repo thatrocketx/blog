@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: '2019-12-12T14:18:42+01:00'
 title: 'Cosa vedere 3 giorni ad Amsterdam '
 description: >-
@@ -49,7 +49,7 @@ A secondo del periodo che andrai ad Amsterdam lo troverai più o meno fiorito. I
 <h1>2 Giorno</h1>
 
 <h2>VONDELPARK</h2>
-\*\*Vondelpark è per Amsterdam\*\* l' equivalente del \[parco di Tiergarten](/cosa-vedere-a-berlino/#tiergarten) per Berlino, se vogliamo fare un paragone. Fiori, laghetti, ponticelli… E poi ancora: concerti di musica jazz, performance acrobatiche, spettacoli di danza moderna, tutto rigorosamente gratuito! Vondelpark è il punto di ritrovo per gli abitanti di Amsterdam. Soprattutto in primavera e d’estate, il parco si riempie di gente: chi fa jogging, chi prende il sole, chi organizza mercatini improvvisati, chi suona la chitarra sull’erba. Prenditi un po' di tempo e rilassati in questo splendido spazio verde.
+\\*\\*Vondelpark è per Amsterdam\\*\\* l' equivalente del \\[parco di Tiergarten](/cosa-vedere-a-berlino/#tiergarten) per Berlino, se vogliamo fare un paragone. Fiori, laghetti, ponticelli… E poi ancora: concerti di musica jazz, performance acrobatiche, spettacoli di danza moderna, tutto rigorosamente gratuito! Vondelpark è il punto di ritrovo per gli abitanti di Amsterdam. Soprattutto in primavera e d’estate, il parco si riempie di gente: chi fa jogging, chi prende il sole, chi organizza mercatini improvvisati, chi suona la chitarra sull’erba. Prenditi un po' di tempo e rilassati in questo splendido spazio verde.
 
 ![<smol>Foto di that Rocket X<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a> </smol>](/img/articoli/vondelpark_2-1.jpg)
 

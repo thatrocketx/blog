@@ -33,9 +33,7 @@ lastmod: '2019-12-18T14:51:55+00:00'
 ---
 Ciao a tutti, viaggiatori. Oggi vi propongo un articolo molto breve diverso dal solito. Oggi voglio rendervi partecipi di una cosa che ho scoperto di recente e che penso possa interessare a qualcuno di voi: **guide turistiche gratis per l' Irlanda**. 
 
-Come chi ci segue su [Twitter](https://www.twitter.com/thatrocketx) ha potuto notare, in questo periodo ci stiamo avvicinando (in particolare io) molto al paese celtico, il che si potrebbe tradurre in un prossimo viaggio (speriamo). 
-
-Mentre cercavo delle informazioni sul **[sito ufficiale per il turismo irlandese](https://www.ireland.com)** ho scoperto che questo ti permette anche di **chiedere gratuitamente delle guide e delle mappe per visitare il paese** e le sue città più importanti.Dopo essere rimasto **pienamente soddisfatto del servizio**, ho deciso di condividere con voi questa cosa. Spero possa esservi utile!
+Ultimamente mi sto appassioando molto a questo paese e qualche settimana fa, mentre cercavo delle informazioni sul **[sito ufficiale per il turismo irlandese](https://www.ireland.com)** ho scoperto che questo ti permette anche di **richiedere gratuitamente delle guide e delle mappe per visitare al meglio l' Irlanda** e le sue città più importanti, soprattutto la capitale: Dublino.Dopo essere rimasto **pienamente soddisfatto del servizio**, ho deciso di condividere con voi questa cosa. Spero possa esservi utile!
 
 ## Come funziona
 
@@ -45,11 +43,11 @@ Le guide sono disponibili sia in italiano che in inglese, ma non tutte sono trad
 
 Tra le varie guide e mappe troviamo:
 
-- Mappe varie di Dublino
-- Guide per Belfast (anche in italiano)
-- Guida alle coste irlandesi (in inglese)
-- La Rivista Ufficiale dell' Irlanda (in italiano)
-- Per gli appassionati del Trono di Spade, una guida alla scoperta dell' Irlanda attraverso la serie (in inglese)
+* Mappe varie di Dublino
+* Guide per Belfast (anche in italiano)
+* Guida alle coste irlandesi (in inglese)
+* La Rivista Ufficiale dell' Irlanda (in italiano)
+* Per gli appassionati del Trono di Spade, una guida alla scoperta dell' Irlanda attraverso la serie (in inglese)
 
 e molte altre.
 

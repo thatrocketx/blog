@@ -86,8 +86,6 @@ Buona lettura!
 
 [**SITO UFFICIALE**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en)
 
-{{< noamp "<br>(<a href=\"https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en\" target=\"_blank\">Clicca qui per aprire la pagina in una nuova scheda</a>)" >}}
-
 ### ✅ Passo 2 - Accettazione delle regole
 
 {{< img "Prima apertura della pagina""/img/articoli/1-reichstag-cupola-web-pagina-principale.png" >}}

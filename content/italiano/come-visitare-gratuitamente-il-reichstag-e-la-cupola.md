@@ -48,8 +48,6 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 
 Buona lettura!
 
-{{< nofollow "https://www.civitatis.com/it/berlino/free-tour-berlino?aid=8933" "➡️ Ottieni un tour GRATUITO di Berlino su Civitatis!" >}} <small>Affiliate</small>
-
 ## Indice
 
 ### Prenotare la visita al Reichstag
@@ -72,7 +70,9 @@ Buona lettura!
 
 <mark>**I biglietti** per visitare il Reichstag **sono gratuiti**</mark>, quindi il prezzo del biglietto è 0. 
 
-**Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "il ristorante" >}} e i souvenir** alla fine della visita. Prenotando un posto per il ristorante si ottiene anche un posto per la cupola, quindi in tal caso non è necessario seguire questa guida.
+**Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono il ristorante e i souvenir** alla fine della visita. Prenotando un posto per il ristorante si ottiene anche un posto per la cupola, quindi in tal caso non è necessario seguire questa guida.
+
+<div style="width: 100%"><a href="https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center">Prenota un posto al ristorante della Cupola del Reichstag</a>  </div>
 
 <small>Affiliate</small>
 
@@ -288,6 +288,8 @@ Questo è tutto ciò che c'è da sapere su come prenotare per la visita al Reich
 Se non lo avete ancora fatto, **vi invitiamo a leggere la** [**nostra guida a Berlino**, con **consigli e informazioni** sulle attrazioni turistiche principali della città](/cosa-vedere-a-berlino/) e sui luoghi meno conosciuti, ma che vale la pena vedere. 
 
 Grazie per la lettura. **Buon viaggio**!
+
+<div style="width: 100%"><a href="https://www.civitatis.com/it/berlino/free-tour-berlino?aid=8933" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center">Ottieni un tour gratuito di Berlino su Civitatis</a>  </div>
 
 
 ## Informazioni sul Reichstag

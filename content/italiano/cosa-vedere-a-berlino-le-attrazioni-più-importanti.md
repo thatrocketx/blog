@@ -50,8 +50,6 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 
 - - -
 
-{{< nofollow "https://www.civitatis.com/it/berlino/free-tour-berlino?aid=8933" "➡️ Ottieni un tour GRATUITO di Berlino su Civitatis!" >}} <small>Affiliate</small>
-
 {{< titolo title="🆓 Cosa vedere gratis a Berlino" link="cosa-vedere-gratis" >}}
 
 **Berlino è piena di luoghi e musei gratuiti**, in questa sezione trovate la nostra lista **dei luoghi gratuiti che abbiamo visto e quelli che avremmo voluto vedere**; Berlino è una città ricca di cose da vedere e per questo non ci è stato possibile visitarli tutti, ma siamo riusciti almeno a vederne la maggior parte.
@@ -85,6 +83,10 @@ Situata a Bebelplatz, **è una vecchia biblioteca di Berlino**.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Universit%C3%A4tsbibliothek+Humboldt-Universit%C3%A4t+zu+Berlin,+ZwB+Rechtswissenschaften/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x0:0x6afecf18e757f4b9!8m2!3d52.516408!4d13.393313"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51644/13.39316"  >OpenStreetMap</a> - <a href="geo:52.51644,13.39316?z=19"  >Applicazione mappe</a>
   </div>
+  
+  
+  <div style="width: 100%"><a href="https://www.civitatis.com/it/berlino/free-tour-berlino?aid=8933" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center"><svg width="100px" height="50px" style="display: inline-block" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><g transform="matrix(1.8075 0 0 1.8075 -1516.1 329.57)"><g transform="matrix(1.1609 0 0 1.1609 -173.43 -60.475)" fill="#fff" stroke="#f9f9f9"><rect x="917.48" y="-39.51" width="3.7418" height="70.345" stroke-width=".50932"/><path d="m917.23-13.38-2.5507 45.715v1.7643h9.3702v-1.7643l-2.7737-61.478-3.616 1.7639z" stroke-width=".26458px"/><rect x="916.91" y="-37.301" width="5.0271" height="2.6017" stroke-width=".50932"/><circle cx="919.34" cy="-44.974" r="6.6587" stroke-width=".50932"/><rect x="916.4" y="-59.716" width="5.7374" height="8.7932" stroke-width=".50932"/><rect x="918.36" y="-103.49" width="1.8085" height="43.779" stroke-width=".50932"/></g></g></svg> Ottieni un tour gratuito di Berlino su Civitatis</a>  </div>
+  
 
 {{< titolo2 title="Bebelplatz" link="bebelplatz" >}} 
 

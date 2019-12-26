@@ -617,8 +617,8 @@ Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
 {{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-a-berlino_368326?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false#14/52.5164/13.4007\"></iframe>" >}}
 
 
-
-
+<p>
+  
 - - -
 
 
@@ -645,7 +645,11 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 
 In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono piaciute di più. Abbiamo deciso di descrivere solo quelle in cui siamo andati perché non ci sentiamo di consigliare posti di cui non sappiamo nulla e farvi spendere dei soldi inutilmente, alla fine di questa sezione vi elencheremo il resto dei posti che potreste visitare in base a quelli che avevamo inizialmente deciso di vedere (ma che a causa del poco tempo e di qualche imprevisto non siamo riusciti a guardare).
 
-Gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che per soli 30 € vi da diritto ad entrare **in più di 30 musei per 3 giorni** (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. Se vi interessa {{< nofollow "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "lo potete acquistare qui" >}}. La card si ritira all' aeroporto o nei punti informazione in città. <small>Affiliate</small>
+Gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che per soli 30 € vi da diritto ad entrare **in più di 30 musei per 3 giorni** (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. Se vi interessa {{< nofollow "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "lo potete acquistare qui" >}}. La card si ritira all' aeroporto o nei punti informazione in città. 
+
+<small>Affiliate</small>
+
+</p>
 
 {{< titolo2 title="Museo della storia tedesco (Deutsches Historisches Museum)" link="deutsches-historisches-museum" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 

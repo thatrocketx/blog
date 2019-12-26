@@ -569,9 +569,6 @@ La colonna era **originariamente piazzata vicino al Reichstag** (lo potrete vede
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Colonna+della+Vittoria/@52.5144587,13.3502071,19z/data=!4m5!3m4!1s0x47a851af28d3f1c3:0x55627fdba380e5c9!8m2!3d52.5145433!4d13.3501187"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51439/13.34993"  >OpenStreetMap</a> - <a href="geo:52.51439,13.34993?z=19"  >Applicazione mappe</a>
   </div>
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Alte+Berliner+Stadtmauer/@52.516814,13.4129869,18z/data=!4m5!3m4!1s0x47a84e23c6ffe913:0xd0af0b36494c0c9f!8m2!3d52.5167097!4d13.4141209"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51664/13.41428"  >OpenStreetMap</a> - <a href="geo:52.51664,13.41428?z=19"  >Applicazione mappe</a>
-  </div>
-
 {{< titolo2 title="Parco di Tiergarten" link="tiergarten" >}}
 
 {{< img "Squarcio sul parco di Tiergarten con un albero e un lago con un ponte nello sfondo" "/img/articoli/tiergarten_compressed.jpg" >}}
@@ -623,24 +620,15 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 
 
 <ul>
-<li><strong>Salita sulla cupola del Reichstag</strong></li>
-</ul>
-<p>626</p>
+<li><strong>Salita sulla cupola del Reichstag</strong>
 <p>  La prenotazione è <strong>completamente gratuita</strong> e va fatta <strong>online</strong> preferibilmente in <strong>largo anticipo</strong>. Qui trovate una <a href="/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino">guida su come effettuare la prenotazione per salire sulla cupola del Reichstag</a>, oppure se ve la cavate bene con l&#39; inglese, questo è il link al <a href="https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en"><strong>sito del Bundestag sul quale va effettuata la prenotazione</strong></a>.</p>
-<p>627</p>
-<p>  Se volete potete anche prenotare una <strong>visita guidata all&#39; interno del Reichstag</strong> stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene <strong>prenotare il prima possibile</strong> (almeno un mese prima). 🇩🇪<br><br></p>
-<p>628</p>
-<ul>
-<li><a href="/cosa-vedere-a-berlino-alternativo#spreepark"><strong>Spreepark</strong></a></li>
+<p>  Se volete potete anche prenotare una <strong>visita guidata all&#39; interno del Reichstag</strong> stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene <strong>prenotare il prima possibile</strong> (almeno un mese prima). 🇩🇪<br><br></p></li>
+<li><a href="/cosa-vedere-a-berlino-alternativo#spreepark"><strong>Spreepark</strong></a>
 </ul>
-<p>629</p>
 <p>  Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo <strong>parco abbandonato</strong> della Germania dell&#39; Est.</p>
-<p>630</p>
 <p>  Vi consigliamo di <strong>prenotare MESI PRIMA</strong>, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.</p>
-<p>631</p>
 <p>  Questo è link al <a href="https://gruen-berlin.de/en/spreepark/visitor-information-0">sito sul quale prenotare la visita guidata</a>. È disponibile sia in tedesco che in inglese.</p>
-<p>632</p>
-<p>  Il costo del biglietto è di <strong>€ 5</strong>. 👻</p>
+<p>  Il costo del biglietto è di <strong>€ 5</strong>. 👻</p></li>
   
   
 <hr>

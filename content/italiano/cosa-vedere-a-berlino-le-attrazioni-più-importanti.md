@@ -941,7 +941,11 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
   Un parco abbandonato sulla riva del fiume.
   [Sito web](https://gruen-berlin.de/en/spreepark) (inglese).
 
+
+
 {{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-tour-ids=\"141648,21231,68464\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa-nojs\">🎟️ Museum Pass Berlin: pass per più di 30 musei di Berlino valido per 3 giorni. Acquista su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>" "<center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa-nojs\">🎟️ Museum Pass Berlin: pass per più di 30 musei di Berlino valido per 3 giorni. Acquista su GetYourGuide.</a></center> <br><small>Affiliate</small>" >}}
+
+
 
 - - -
 

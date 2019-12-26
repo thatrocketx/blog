@@ -206,6 +206,9 @@ Con la Seconda Guerra Mondiale, gran parte della vecchia città storica di Berli
 
 Negli anni della Guerra Fredda, venne costruita, dal governo della Germania dell' Est, [Nikolaiviertel](/cosa-vedere-a-berlino#nikolaiviertel): una serie di strutture nel vecchio quartiere di Berlino omonimo, che riprende lo stile della città antica.
 
+<div style="text-align: center"><a href="https://www.google.com/maps/place/Alte+Berliner+Stadtmauer/@52.516814,13.4129869,18z/data=!4m5!3m4!1s0x47a84e23c6ffe913:0xd0af0b36494c0c9f!8m2!3d52.5167097!4d13.4141209"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51664/13.41428"  >OpenStreetMap</a> - <a href="geo:52.51664,13.41428?z=19"  >Applicazione mappe</a>
+  </div>
+  
 
 {{< titolo2 title="Torre di controllo in Erna-Berger-Straße" link="torre-di-controllo" >}}
 

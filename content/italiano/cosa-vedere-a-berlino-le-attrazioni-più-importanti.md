@@ -614,6 +614,9 @@ Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
     {{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-a-berlino_368326?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false#14/52.5164/13.4007\"></iframe>" >}}
 
 
+
+
+
 ---
 
 

@@ -615,47 +615,41 @@ Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
 {{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-a-berlino_368326?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false#14/52.5164/13.4007\"></iframe>" >}}
 
   
-- - -
-
-
-
-
+<hr>
 
 {{< titolo title="✋ Cosa vedere solo su prenotazione" link="cosa-vedere-su-prenotazione" >}}
-
-
-
 
 Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di essere prenotate, qui ve le elenchiamo.
 
 
-* **Salita sulla cupola del Reichstag**
-  La prenotazione è **completamente gratuita** e va fatta **online** preferibilmente in **largo anticipo**. Qui trovate una [guida su come effettuare la prenotazione per salire sulla cupola del Reichstag](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino), oppure se ve la cavate bene con l' inglese, questo è il link al [**sito del Bundestag sul quale va effettuata la prenotazione**](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en).
-  Se volete potete anche prenotare una **visita guidata all' interno del Reichstag** stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene **prenotare il prima possibile** (almeno un mese prima). 🇩🇪<br><br>
-* [**Spreepark**](/cosa-vedere-a-berlino-alternativo#spreepark)
-  Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo **parco abbandonato** della Germania dell' Est.
-  Vi consigliamo di **prenotare MESI PRIMA**, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.
-  Questo è link al [sito sul quale prenotare la visita guidata](https://gruen-berlin.de/en/spreepark/visitor-information-0). È disponibile sia in tedesco che in inglese.
-  Il costo del biglietto è di **€ 5**. 👻
+<ul>
+<li><strong>Salita sulla cupola del Reichstag</strong></li>
+</ul>
+<p>626</p>
+<p>  La prenotazione è <strong>completamente gratuita</strong> e va fatta <strong>online</strong> preferibilmente in <strong>largo anticipo</strong>. Qui trovate una <a href="/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino">guida su come effettuare la prenotazione per salire sulla cupola del Reichstag</a>, oppure se ve la cavate bene con l&#39; inglese, questo è il link al <a href="https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en"><strong>sito del Bundestag sul quale va effettuata la prenotazione</strong></a>.</p>
+<p>627</p>
+<p>  Se volete potete anche prenotare una <strong>visita guidata all&#39; interno del Reichstag</strong> stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene <strong>prenotare il prima possibile</strong> (almeno un mese prima). 🇩🇪<br><br></p>
+<p>628</p>
+<ul>
+<li><a href="/cosa-vedere-a-berlino-alternativo#spreepark"><strong>Spreepark</strong></a></li>
+</ul>
+<p>629</p>
+<p>  Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo <strong>parco abbandonato</strong> della Germania dell&#39; Est.</p>
+<p>630</p>
+<p>  Vi consigliamo di <strong>prenotare MESI PRIMA</strong>, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.</p>
+<p>631</p>
+<p>  Questo è link al <a href="https://gruen-berlin.de/en/spreepark/visitor-information-0">sito sul quale prenotare la visita guidata</a>. È disponibile sia in tedesco che in inglese.</p>
+<p>632</p>
+<p>  Il costo del biglietto è di <strong>€ 5</strong>. 👻</p>
   
   
-
-
-
-- - -
-
-
+<hr>
 
 {{< titolo title="💶 Cosa visitare (musei e attrazioni a pagamento)" link="cosa-visitare-a-pagamento" >}}
 
+<p>In questa sezione riportiamo, invece, le <strong>attrazioni a pagamento</strong> che ci sono piaciute di più. Abbiamo deciso di descrivere solo quelle in cui siamo andati perché non ci sentiamo di consigliare posti di cui non sappiamo nulla e farvi spendere dei soldi inutilmente, alla fine di questa sezione vi elencheremo il resto dei posti che potreste visitare in base a quelli che avevamo inizialmente deciso di vedere (ma che a causa del poco tempo e di qualche imprevisto non siamo riusciti a guardare).</p>
 
-
-In questa sezione riportiamo, invece, le **attrazioni a pagamento** che ci sono piaciute di più. Abbiamo deciso di descrivere solo quelle in cui siamo andati perché non ci sentiamo di consigliare posti di cui non sappiamo nulla e farvi spendere dei soldi inutilmente, alla fine di questa sezione vi elencheremo il resto dei posti che potreste visitare in base a quelli che avevamo inizialmente deciso di vedere (ma che a causa del poco tempo e di qualche imprevisto non siamo riusciti a guardare).
-
-
-
-Gran parte di queste attrazioni sono incluse nel <mark>**pass di 3 giorni per i musei**</mark>, che per soli 30 € vi da diritto ad entrare **in più di 30 musei per 3 giorni** (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto **risparmiare un po' di soldi**. Se vi interessa {{< nofollow "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "lo potete acquistare qui" >}}. La card si ritira all' aeroporto o nei punti informazione in città. 
-
+<p>Gran parte di queste attrazioni sono incluse nel <mark><strong>pass di 3 giorni per i musei</strong></mark>, che per soli 30 € vi da diritto ad entrare <strong>in più di 30 musei per 3 giorni</strong> (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto <strong>risparmiare un po&#39; di soldi</strong>. Se vi interessa {{< nofollow "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "lo potete acquistare qui" >}}. La card si ritira all&#39; aeroporto o nei punti informazione in città. </p>
 
 
 <small>Affiliate</small>

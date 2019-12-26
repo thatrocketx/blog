@@ -979,7 +979,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
-   \*\*U-BAHN\*\* \*(consigliata)\* è la \*\*metropolitana\*\*, è il mezzo più veloce e \*\*ferma nella maggior parte dei posti menzionati in questa guida\*\*. I prezzi variano a seconda della zona che si sceglie (A,B o C) e \*\*si aggirano intorno ai € 3 / 3.50\*\*. C'è anche la possibilità di di \*\*pagare € 1.70 se si fanno soltanto 3 fermate\*\*. Le stazioni della U-BAHN sono contrassegnate da un quadrato blu con una U all' interno.
+   **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai € 3 / 3.50**. C'è anche la possibilità di di **pagare € 1.70 se si fanno soltanto 3 fermate**. Le stazioni della U-BAHN sono contrassegnate da un quadrato blu con una U all' interno.
 2. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <path d="m4.7825 291.6 1.8124 0.3508-0.058465-1.6253-3.0168-0.6665-2.0229 0.80682-0.5028 2.2217 3.4144 1.6838s-0.28063 0.33909-0.43264 0.3274c-0.15201-0.0117-2.5725-1.1693-2.5725-1.1693l-0.21047 1.1576 0.70158 1.1225 2.362 0.60804 1.8592-0.76005 0.94714-2.9466z" fill="#fff"/>
@@ -994,7 +994,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
-   \*\*S-BAHN\*\* è la \*\*stazione dei treni\*\*. Le stazioni della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
+   **S-BAHN** la **stazione dei treni**. Le stazioni della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
 3. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <g transform="translate(-4.733e-7 .033073)">
@@ -1009,7 +1009,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
-   \*\*AUTOBUS\*\*
+   **AUTOBUS**
 4. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <g transform="translate(.033073)" stroke-width=".010448">
@@ -1024,7 +1024,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </g>
    </svg>
-   \*\*TRAM\*\*, che troverete solo in alcune zone.
+   **TRAM**, che troverete solo in alcune zone.
 
 Per maggiori informazioni sui treni del Tram, della U-BAHN e della S-BAHN e sui bus vi consiglio di visitare il [sito ufficiale delle ferrovie di Berlino](https://sbahn.berlin/en/), nel quale potrete trovare la stazione più vicina al vostro hotel e i vari treni necessari per arrivare alla vostra destinazione. [Qui invece trovate la mappa completa di metropolitana + treno](https://map.sbahn.berlin/pdf/S+U-Bahn_08_2019-Internetversion-BVG,%20Lizenz-Nummer%20701-1-19.1-1%20-%20aktualisiert%2012.07.2019.pdf), se preferite stampare la cartina e fare alla vecchia maniera 😉.
 

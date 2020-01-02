@@ -103,7 +103,7 @@ I biglietti si possono **{{< nofollow "https://www.getyourguide.it/torre-della-t
 <rect x="916.4" y="-59.716" width="5.7374" height="8.7932" stroke-width=".50932"/>
 <rect x="918.36" y="-103.49" width="1.8085" height="43.779" stroke-width=".50932"/></g>
 </g>
-</svg> Acquista i biglietti per la torre della televisione online </a>  </div>
+</svg> Prenota i biglietti per la Torre della Televisione di Berlino online </a>  </div>
 
 
 

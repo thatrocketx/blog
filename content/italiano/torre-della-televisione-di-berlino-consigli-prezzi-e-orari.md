@@ -93,6 +93,21 @@ I biglietti si possono **{{< nofollow "https://www.getyourguide.it/torre-della-t
 **Se si possiede una {{< nofollow "https://www.getyourguide.it/s/?q=berlin%20welcome%20card&customerSearch=true&p=1&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "Berlin Welcome Card" >}}** (l' abbonamento per i trasporti di Berlino), il prezzo del biglietto sarà **scontato a circa € 12,40** per gli adulti (**25% di sconto**).
 
 
+<div style="width: 100%"><a href="https://www.getyourguide.it/torre-della-televisione-l4285/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" rel="nofollow" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center"><svg width="100px" height="50px" style="float: left" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<g transform="matrix(1.8075 0 0 1.8075 -1516.1 329.57)">
+<g transform="matrix(1.1609 0 0 1.1609 -173.43 -60.475)" fill="#fff" stroke="#f9f9f9">
+<rect x="917.48" y="-39.51" width="3.7418" height="70.345" stroke-width=".50932"/>
+<path d="m917.23-13.38-2.5507 45.715v1.7643h9.3702v-1.7643l-2.7737-61.478-3.616 1.7639z" stroke-width=".26458px"/>
+<rect x="916.91" y="-37.301" width="5.0271" height="2.6017" stroke-width=".50932"/>
+<circle cx="919.34" cy="-44.974" r="6.6587" stroke-width=".50932"/>
+<rect x="916.4" y="-59.716" width="5.7374" height="8.7932" stroke-width=".50932"/>
+<rect x="918.36" y="-103.49" width="1.8085" height="43.779" stroke-width=".50932"/></g>
+</g>
+</svg> Acquista i biglietti per la torre della televisione online </a>  </div>
+
+
+
+
 
 <small> Affiliate </small>
 

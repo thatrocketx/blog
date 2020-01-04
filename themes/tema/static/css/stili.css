@@ -1311,7 +1311,6 @@ box-shadow: 0 5px 10px 2px #A1A1A1;}
 
 .affiliato-compra-new .titolo-container{
   width: 100%;
-  border: 1px solid green;
   margin: 3px;
   overflow: hidden;
   position: relative;
@@ -1319,7 +1318,6 @@ box-shadow: 0 5px 10px 2px #A1A1A1;}
 
 .affiliato-compra-new .titolo {
   width: 100%;
-  border: 1px solid blue;
   font-size: 25px;
   overflow: hidden;
     color: #22C2A8;
@@ -1331,7 +1329,6 @@ box-shadow: 0 5px 10px 2px #A1A1A1;}
 
 .affiliato-compra-new .descrizione {
   width: 98%;
-  border: 1px solid yellow;
   font-size: 15px;
   overflow: hidden;
     color: #767a79;

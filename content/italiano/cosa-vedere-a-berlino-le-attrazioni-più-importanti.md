@@ -138,12 +138,9 @@ State molto attenti alle **truffe** che avvengono qualche volta davanti a questo
   </div>
   
   
-  ---
-  
-  
- {{< noamp "<div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"cosa-vedere-a-berlino\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",158612,,6045,,791\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">🚍 Berlin Welcome Card: pass per i trasporti di Berlino. Acquista i biglietti su GetYourGuide (zona ABC).</a></center></noscript> <br><small>Affiliate</small>" "<center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-a-berlino-nojs\">🚍 Berlin Welcome Card: pass per i trasporti di Berlino. Acquista i biglietti su GetYourGuide (zona ABC).</a></center> <br><small>Affiliate</small>" >}}
- 
- ---
+ {{< gyg img="https://cdn.getyourguide.com/img/tour_img-1132553-97.jpg" link="https://www.getyourguide.com/berlin-l17/skip-the-line-berlin-wall-museum-at-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_checkpoint_nuovo_affiliato" title="Berlino: biglietto per il Museo Haus am Checkpoint Charlie" desc="Visita il Museo Haus am Checkpoint Charlie, fondato poco dopo la costruzione del Muro di Berlino, svolgendo un ruolo fondamentale nella storia tedesca, ricordata oggi attraverso gli oggetti e i mezzi di trasporto esposti nelle sue sale." price="da 14,50€ p.p." >}}
+		
+						
 
 {{< titolo2 title="Deutsch-Russisches Museum Berlin-Karlshorst" link="museo-russia-germania" >}}
 
@@ -261,6 +258,9 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947"  >OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19"  >Applicazione mappe</a>
   </div>
+  
+  
+  {{< gyg img="https://cdn.getyourguide.com/img/location_img-4285-402408154-88.jpg" link="https://www.getyourguide.it/torre-della-televisione-l4285/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_torre_nuovo_affiliato" title="Torre della Televisione: prenota i biglietti" desc="Con i suoi 368 metri di altezza, la Torre della Televisione è la struttura più alta di Berlino (e anche di tutta la Germania!)." price="da 22,50€" >}}
 
 {{< titolo2 title="Franziskaner-Klosterkirche" link="franziskaner-klosterkirche" >}} 
 
@@ -624,11 +624,11 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 <p>  La prenotazione è <strong>completamente gratuita</strong> e va fatta <strong>online</strong> preferibilmente in <strong>largo anticipo</strong>. Qui trovate una <a href="/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino">guida su come effettuare la prenotazione per salire sulla cupola del Reichstag</a>, oppure se ve la cavate bene con l&#39; inglese, questo è il link al <a href="https://visite.bundestag.de/BAPWeb/pages/createBookingRequest/viewBasicInformation.jsf?lang=en"><strong>sito del Bundestag sul quale va effettuata la prenotazione</strong></a>.</p>
 <p>  Se volete potete anche prenotare una <strong>visita guidata all&#39; interno del Reichstag</strong> stesso (dallo stesso link), ma tenete presente che vanno praticamente a ruba, quindi vi conviene <strong>prenotare il prima possibile</strong> (almeno un mese prima). 🇩🇪<br><br></p></li>
 <li><a href="/cosa-vedere-a-berlino-alternativo#spreepark"><strong>Spreepark</strong></a>
-</ul>
 <p>  Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo <strong>parco abbandonato</strong> della Germania dell&#39; Est.</p>
 <p>  Vi consigliamo di <strong>prenotare MESI PRIMA</strong>, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.</p>
 <p>  Questo è link al <a href="https://gruen-berlin.de/en/spreepark/visitor-information-0">sito sul quale prenotare la visita guidata</a>. È disponibile sia in tedesco che in inglese.</p>
 <p>  Il costo del biglietto è di <strong>€ 5</strong>. 👻</p></li>
+  </ul>
   
   
 <hr>
@@ -834,6 +834,9 @@ Chiuso il martedì.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Altes+Museum/@52.5194124,13.3989051,19z/data=!4m5!3m4!1s0x47a851dd6a1d6f33:0xb61e5106fd47fdbb!8m2!3d52.5194664!4d13.3987445"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51947/13.39851"  >OpenStreetMap</a> - <a href="geo:52.51947,13.39851?z=19"  >Applicazione mappe</a>
   </div>
+  
+  {{< gyg img="https://cdn.getyourguide.com/img/tour_img-2515988-97.jpg" link="https://www.getyourguide.com/berlin-l17/museum-pass-berlin-3-day-entry-to-over-50-museums-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_musei_nuovo_affiliato" title="Musei di Berlino: pass di 3 giorni per oltre 30 musei" desc="Usa il tuo Pass Musei di Berlino per un itinerario culturale davvero flessibile. Soddisfa tutti i tuoi desideri entrando in oltre 30 musei a scelta in 3 giorni." price="da 29€" >}}
+
 
 {{< titolo2 title="Museo Ebraico" link="museo-ebraico" >}} <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green"> Incluso nel pass da 3 giorni per i musei </div>
 

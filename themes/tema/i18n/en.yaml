@@ -88,6 +88,12 @@
   translation: "/amazon-ad.png"
 - id: pubblicita_url
   translation: "https://amazon.com?tag="
+- id: acquista-gyg
+  translation: "BUY"
+- id: acquisto-sicuro
+  translation: "Purchase with securety on"
+
+
 
 - id: esortazionecommenti
   translation: "See what people think of this article or start the conversation!"

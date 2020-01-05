@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: '2019-11-13T17:31:06+01:00'
 title: DJI Osmo Mobile 3
 description: Recensione Dji Osmo mobile 3
@@ -25,7 +25,7 @@ Si parla di stabilizzatori meccanici, ovvero gimbal manuali, prodotti dal leader
 I gimbal manuali per reflex, mirrorless, smartphone o con camera integrata, sono presenti da da svariati anni nei cataloghi del colosso asiatico che giusto quest'anno ha affrontato anche il settore delle action cam con la sua DJI Osmo Action.
 La versione che abbiamo acquistato  dello stabilizzatore DJI Osmo Mobile 3 è quella normale non la versione combo che viene fornita con custodia scura e treppiedi pieghevole. ([ PER LA VERSIONE COMBO QUI](https://amzn.to/2QNHN9l) )
 
-![null](/img/articoli/osmo-1.jpeg)
+{{<img "Foto di that Rocket X" "/img/articoli/osmo-1.jpeg">}}
 
 ## **Prezzo del DJI Osmo Mobile 3**
 
@@ -40,9 +40,9 @@ Come dicevamo con poco più di 100 euro si può acquistare il DJI Osmo Mobile 3,
 Il treppiede ha un attacco standard con vite F di tipo fotografico, quindi se volete risparmiare e avete già in casa un cavalletto o similare, potrete anche non comprare il kit combo, ma come dicevamo prima il DJI Osmo Mobile 3 in piedi da solo non ci sta, come invece faceva il suo predecessore Osmo Mobile 2.
 La base dello stabilizzatore proprio per evitare che qualcuno provi a farlo rimanere in equilibrio da solo, è smussata da un lato.
 
-![null](/img/articoli/osmo-4.jpg)
+{{<img "Foto di that Rocket X" "/img/articoli/osmo-4.jpg">}}
 
-![null](/img/articoli/osmo-5.jpg)
+{{<img "Foto di that Rocket X" "/img/articoli/osmo-5.jpg">}}
 
 ### **Unboxing e contenuto della confezione del DJI Osmo Mobile 3**
 
@@ -50,7 +50,7 @@ Come dicevamo la versione da noi acquistata è quella normale. Solita scatola bi
 
 All’interno della confezione troviamo quindi lo stabilizzatore Osmo Mobile 3 un sacchetto per riporre gli accessori o lo stesso Osmo, una cavo di ricarica USB/USB-C e un cavetto di sicurezza per il fissaggio al polso.
 
-![null](/img/articoli/osmo-3.jpg)
+{{<img "Foto di that Rocket X" "/img/articoli/osmo-3.jpg">}}
 
 ## **Attivazione e primo funzionamento**
 
@@ -66,11 +66,11 @@ Una altra differenza rispetto alla precedente versione del Osmo e proprio quella
 Il bilanciamento dei pesi è importantissimo per gli stabilizzatori della serie Ronin che supportano sino a 2 chilogrammi. E non erano certamente da sottovalutare nemmeno per Osmo Mobile 2, dove erano presenti due viti posteriori per le regolazioni, al fine di sistemare correttamente il posizionamento del telefono.
 Operazione non difficile, ma per chi si trova alle prime armi con questi dispositivi, poteva mettere leggermente in crisi.
 
-![](/img/articoli/osmo-8.jpg)
+{{<img "Foto di that Rocket X" "/img/articoli/osmo-8.jpg">}}
 
 Con Osmo Mobile 3, la principale regolazione da fare, è quella orizzontale. A stabilizzatore rigorosamente spento, occorre fissare lo smartphone sul Osmo, e spostarlo leggermente  facendolo scivolare sulla manina – holder – che lo trattiene.
 
-![](/img/articoli/osmo-9.jpg)
+{{<img "Foto di that Rocket X" "/img/articoli/osmo-9.jpg">}}
 
 
 Nel caso in cui lo smarpthone si inclinasse ancora sull’asse del roll, lo si deve mettere in posizione verticale e poi  è sufficiente spostare leggermente il punto di attacco posteriore in un senso o nell’altro.
@@ -116,4 +116,4 @@ Tempo di ricarica circa 2,5 ore
 **Connessione**
 Bluetooth 5.0 Low energy
 
-![](/img/articoli/osmo-7.jpg)
+{{<img "Foto di that Rocket X" "/img/articoli/osmo-7.jpg">}}

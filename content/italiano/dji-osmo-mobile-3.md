@@ -4,7 +4,7 @@ date: '2019-11-13T17:31:06+01:00'
 title: DJI Osmo Mobile 3
 description: Recensione Dji Osmo mobile 3
 autore: Oraion
-immagine: /img/articoli/img_8894.jpeg
+immagine: /img/articoli/osmo-1.jpeg
 categories:
   - Recensioni
 tags:
@@ -24,7 +24,9 @@ L’Osmo Mobile 3 è il nuovo prodotto per la stabilizzazione dei video con smar
 Si parla di stabilizzatori meccanici, ovvero gimbal manuali, prodotti dal leader asiatico produttore di droni DJI. E probabilmente non sarà nemmeno l’ultima.
 
 I gimbal manuali per reflex, mirrorless, smartphone o con camera integrata, sono presenti da da svariati anni nei cataloghi del colosso asiatico che giusto quest&#39;anno ha affrontato anche il settore delle action cam con la sua DJI Osmo Action.
-La versione che abbiamo acquistato  dello stabilizzatore DJI Osmo Mobile 3 è quella normale non la versione combo che viene fornita con custodia scura e treppiedi pieghevole.
+La versione che abbiamo acquistato  dello stabilizzatore DJI Osmo Mobile 3 è quella normale non la versione combo che viene fornita con custodia scura e treppiedi pieghevole. ([ PER LA VERSIONE COMBO QUI]( https://amzn.to/2QNHN9l)
+)
+
 
 
 

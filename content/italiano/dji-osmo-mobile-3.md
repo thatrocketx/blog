@@ -9,6 +9,7 @@ categories:
   - Recensioni
 tags:
   - ''
+immagineprincipale: /img/articoli/osmo-2.jpg
 descrizioneimg: 'Scatola DJI Osmo Mobile 3 '
 fontawesome: false
 js: false

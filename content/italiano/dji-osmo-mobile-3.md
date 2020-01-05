@@ -4,7 +4,7 @@ date: '2019-11-13T17:31:06+01:00'
 title: DJI Osmo Mobile 3
 description: Recensione Dji Osmo mobile 3
 autore: Oraion
-immagine: /img/articoli/osmo-1.jpeg
+immagine: /img/articoli/osmo-home.jpg
 categories:
   - Recensioni
 tags:

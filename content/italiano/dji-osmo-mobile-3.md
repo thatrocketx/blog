@@ -79,7 +79,7 @@ Al resto ci penseranno i sistemi di stabilizzazione con giroscopi e accelerometr
 Le istruzioni affermano che un cattivo bilanciamento, comporta un uso irregolare ed eccessivo di alcuni motori con conseguente durata inferiore delle batterie.
 Durante il fissaggio del telefono, occorre prestare attenzione al posizionamento dello stesso con la **fotocamera sul lato sinistro,**  come da adesivo ben visibile sul Osmo.
 
-La **movimentazione tramite il piccolo joystick **centrale** ,il **posizionamento orizzontale o verticale**, ottenibile con la  **pressione**   **consecutiva**  per due volte del **tasto mode** (quello dietro )e la stabilizzazione sono operative, anche usando una altra applicazione per registrare i video.
+La movimentazione tramite il piccolo joystick **centrale** ,il **posizionamento orizzontale o verticale**, ottenibile con la  **pressione**   **consecutiva**  per due volte del **tasto mode** (quello dietro )e la stabilizzazione sono operative, anche usando una altra applicazione per registrare i video.
 
 I  **tasti laterali**  che gestiscono lo zoom con  **ingrandimenti**   **digitali**  dello smartphone, invece  **sono operativi solo con la app DJI MIMO**. Stessa cosa per il bottone rosso del REC o scatto foto.
 **Per usare lo stabilizzatore manuale DJI Osmo Mobile 3 al massimo delle sue potenzialità, conviene ovviamente usare la applicazione originale.**

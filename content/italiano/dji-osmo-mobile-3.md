@@ -29,7 +29,7 @@ La versione che abbiamo acquistato  dello stabilizzatore DJI Osmo Mobile 3 è qu
 
 ## **Prezzo del DJI Osmo Mobile 3**
 
-Il  **prezzo d** i acquisto per il gimbal   **DJI Osmo Mobile 3**  è di soli  **109,00 euro.**  Seguiamo il settore degli stabilizzatori per action cam e telefoni da parecchio tempo ma da quando DJI è entrata in questo mercato, l’asticella di mercato i è alzata di molto e i prezzi abbassati notevolmente.
+Il  **prezzo d'** acquisto per il gimbal   **DJI Osmo Mobile 3**  è di soli  **109,00 euro.**  Seguiamo il settore degli stabilizzatori per action cam e telefoni da parecchio tempo ma da quando DJI è entrata in questo mercato, l’asticella di mercato i è alzata di molto e i prezzi abbassati notevolmente.
 Una volta gli stabilizzatori da usare con una sola mano per smartphone erano in metallo, ma risultavano pesanti e scomodi da utilizzare. Poi li produssero in alluminio, ancora gradevole al tatto e certamente più leggeri, sino ad arrivare alla plastica grigia DJI; bruttina, ma resistente e leggera.
 
 Certo l’estetica e il feeling sono leggermente decaduti, ma il peso e i prezzi ne hanno notevolmente guadagnato.
@@ -79,7 +79,7 @@ Al resto ci penseranno i sistemi di stabilizzazione con giroscopi e accelerometr
 Le istruzioni affermano che un cattivo bilanciamento, comporta un uso irregolare ed eccessivo di alcuni motori con conseguente durata inferiore delle batterie.
 Durante il fissaggio del telefono, occorre prestare attenzione al posizionamento dello stesso con la **fotocamera sul lato sinistro,**  come da adesivo ben visibile sul Osmo.
 
-La ** movimentazione tramite il piccolo joystick**  centrale, il ** posizionamento orizzontale o verticale** , ottenibile con la  **pressione**   **consecutiva**  per due volte del ** tasto mode**   (quello dietro )e la stabilizzazione sono operative, anche usando una altra applicazione per registrare i video.
+La **movimentazione tramite il piccolo joystick **centrale** ,il **posizionamento orizzontale o verticale**, ottenibile con la  **pressione**   **consecutiva**  per due volte del **tasto mode** (quello dietro )e la stabilizzazione sono operative, anche usando una altra applicazione per registrare i video.
 
 I  **tasti laterali**  che gestiscono lo zoom con  **ingrandimenti**   **digitali**  dello smartphone, invece  **sono operativi solo con la app DJI MIMO**. Stessa cosa per il bottone rosso del REC o scatto foto.
 **Per usare lo stabilizzatore manuale DJI Osmo Mobile 3 al massimo delle sue potenzialità, conviene ovviamente usare la applicazione originale.**
@@ -87,10 +87,10 @@ I  **tasti laterali**  che gestiscono lo zoom con  **ingrandimenti**   **digital
 Potenzialità del **Osmo Mobile 3**
 
 Sono davvero tante le funzioni che sono state introdotte mano a mano dalle precedenti versioni del Osmo che incorporano anche la tecnologia software, usata sui droni DJI.
-Ad esempio il modo ** ActiveTrack:**  che sul Osmo Mobile 3  **tiene inquadrato il volto di una persona,**  dopo averla selezionata con un tap sullo schermo e la segue dando i comandi ai motori in tutte le direzione e sino a che non va fuori campo.
-Una bella comodità anche per i Vlogger, che all&#39;interno di un ambiente si possono muovere e registrare i loro video come se dietro alla camera ci fosse un operatore video che segue i movimenti della persona.
+Ad esempio il modo **ActiveTrack:**  che sul Osmo Mobile 3  **tiene inquadrato il volto di una persona,**  dopo averla selezionata con un tap sullo schermo e la segue dando i comandi ai motori in tutte le direzione e sino a che non va fuori campo.
+Una bella comodità anche per i Vlogger, che all'interno di un ambiente si possono muovere e registrare i loro video come se dietro alla camera ci fosse un operatore video che segue i movimenti della persona.
 
-La funzione  **Story Mode**  permette di registrare brevi video, volendo anche con musica in sottofondo,  **da caricare ** direttamente  **su Instagram**  seguendo template preimpostati.
+La funzione  **Story Mode**  permette di registrare brevi video, volendo anche con musica in sottofondo,  **da caricare** direttamente  **su Instagram**  seguendo template preimpostati.
 Il  **Gesture Mode**  permette di far partire la registrazione senza toccare la applicazione in modalità selfie, con due semplici gesti della mano.
 Il  **Quick Roll,**  permette con un semplice  **doppio click sul pulsante mode**  di mettere il telefono in  **orizzontale o verticale** , quindi registrare in  16:9 o 9:16, per riempire meglio lo schermo usando le applicazioni per i più popolari social network.
 

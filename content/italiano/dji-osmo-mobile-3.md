@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: '2019-11-13T17:31:06+01:00'
 title: DJI Osmo Mobile 3
 description: Recensione Dji Osmo mobile 3

@@ -3,7 +3,7 @@
   <meta charset="UTF-8" />
   <meta name="generator" content="Hugo 0.54.0" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="https://www.thatrocketx.com/css/stili.min.css" />
+  {{ $css := resources.Get "css/stili.css" }}{{ $style := $css | resources.Minify }}<link rel="stylesheet" href="{{ $style.RelPermalink | absURL}}" type='text/css' media='all' />
   {{ if .IsPage }}<link rel="amphtml" href="{{ .Permalink }}index-amp.html" />{{ end }}
   <link rel="alternate" href="{{ absLangURL "/" }}rss/index.xml" type="application/rss+xml" title="RSS" />
   <link rel="manifest" href="https://www.thatrocketx.com/manifest.json" />

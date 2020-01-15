@@ -35,3 +35,13 @@ disqusShortname = "thatrocketx"
       country = "countries"
       series = "series"
       city = "cities"
+[minify]
+  enable = true
+  [[minify.htmlOptions]]
+    KeepDocumentTags = true
+    KeepConditionalComments = true
+    KeepEndTags = true
+    KeepDefaultAttrVals = true
+  [[minify.cssOptions]]
+    Decimals = -1
+    KeepCSS2 = true

@@ -2055,7 +2055,7 @@ footer a {
    
   .articoli.lista::after {
      background: -o-linear-gradient( rgba(255, 255, 255, 0.001), #1e1b1b );
-     background: -webkit-gradient( linear, left top, left bottom, from(rgba(255, 255, 255, 0.001)), to(#1e1b1b) ) !important;
+     background: -webkit-gradient( linear, left top, left bottom, from(rgba(0, 0, 0, 0.001)), to(#1e1b1b) ) !important;
      background: linear-gradient( rgba(255, 255, 255, 0.001), #1e1b1b );
    }
 

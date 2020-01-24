@@ -18,7 +18,7 @@
   {{ $readingtime := .ReadingTime }}
   {{ $readingtimeone := 1 }}
   <figure class="immagine-principale" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <img  itemprop="image" src="{{ if (isset .Params "immagineprincipale") }}{{ .Params.immagineprincipale }}{{ else }}{{ .Params.immagine }}{{ end }}?nf_resize=fit&w=800" alt="{{ .Params.descrizioneimg }}" class="immagine-articolo">
+    <img  itemprop="image" src="{{ if (isset .Params "immagineprincipale") }}{{ .Params.immagineprincipale }}{{ else }}{{ .Params.immagine }}{{ end }}" alt="{{ .Params.descrizioneimg }}" class="immagine-articolo">
     <figcaption itemprop="caption">{{ .Params.descrizioneimg }}</figcaption>
     </figure>
 </div>
@@ -54,7 +54,7 @@
     {{ range . }}
     <a href="{{ .URL }}"><div class="articoli incategoria">
       <div class="contenitore-immagine">
-     {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}?nf_resize=fit&w=300" class="immagine-lista" alt="{{ .Title }}">{{end}}
+     {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="{{ .Title }}">{{end}}
      </div>
      <div class="info lista">
       {{ if (isset .Params "categories") }}<span class="categoria">{{.Params.categories}}</span> {{ end }}

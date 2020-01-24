@@ -1908,6 +1908,14 @@ footer a {
     -webkit-animation: none;
     animation: none
   }
+    .animated {
+    -webkit-animation-duration: 1ms !important;
+    animation-duration: 1ms !important;
+    -webkit-transition-duration: 1ms !important;
+    transition-duration: 1ms !important;
+    -webkit-animation-iteration-count: 1 !important;
+    animation-iteration-count: 1 !important;
+  }
 }
 
 @media print {

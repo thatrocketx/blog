@@ -767,7 +767,7 @@ color: #000;
   font-weight: 300;
 }
 
-.info, .info a {
+.info {
   color: #000000;
   padding: 10px;
 }
@@ -2095,7 +2095,7 @@ footer a {
     color: #dfdfdf;
   }
 
-  .info, .info a {
+  .info {
     color: #FFF
   }
 

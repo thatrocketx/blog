@@ -13,7 +13,7 @@
 <meta itemprop='about' content='{{ .Description }}' />
 <header role="banner">
   <div class="banner-articolo">
-  <h1 class="titolo" itemprop="name headline">{{ .Title }}</h1>
+  <h1 class="titolo animated fadeInUp" itemprop="name headline">{{ .Title }}</h1>
   <h2 class="descrizione flipboard -subtitle" itemprop="subheading">{{if (isset .Params "sottotitolo")}} {{.Params.sottotitolo}} {{else}}{{ .Description }} {{end}}</h2>
   {{ $readingtime := .ReadingTime }}
   {{ $readingtimeone := 1 }}

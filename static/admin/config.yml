@@ -16,7 +16,7 @@ collections:
       - {label: "Data", name: "date", widget: "datetime", required: false}
       - {label: "Titolo", name: "title", widget: "string", required: true}
       - {label: "Descrizione articolo", name: "description", widget: "string", required: true, hint: "Inserire una descrizione sull' argomento dell' articolo. Se la descrizione è troppo lunga, aggiungere un sottotitolo nella sezione Bellezza"}
-      - {label: "Autore", name: "autore", widget: "select", options: ["Mediterraneo", "Oraion", "that Rocket X", "Staff"], required: false}
+      - {label: "Autore", name: "autore", widget: "select", options: ["Mediterraneo", "Oraion", "Francesco", "that Rocket X", "Staff"], required: false}
       - {label: "Immagine principale", name: "immagine", widget: "image", required: true, hint: "Immagine che comparirà sui social e nella homepage"}
       - {label: "Categorie", name: "categories", widget: "list", required: false, hint: "Categoria dell' articolo"}
       - {label: "Serie", name: "series", widget: "list", required: false, hint: "Se l' articolo fa parte di una serie, inserirla"}

@@ -516,6 +516,14 @@ input[class="navmobile"], label[for="menuapri"] {
    margin-top: 800px
 }
 
+.articoli.sideart {
+  display: block;
+}
+
+.articoli.sideart .titolo-lista {
+  font-size: 1.2em;
+}
+
 .auto-center {
    width: 100%;
    margin: auto;

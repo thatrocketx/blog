@@ -16,7 +16,18 @@
     {{ end }}
     {{ end }}
 
-<h2> Scopri di più </h2>
-<div style="position: -webkit-sticky;  position: sticky;  top: 0; background: red; color: white">
-  TEST STICKY
-</div>
+<h2> {{T "last-articles" }</h2>
+{{ range  (.Paginator 8).Pages }}    
+{{ if not (isset .Params "nolist" ) }}
+    <a href="{{ .URL }}"><div class="articoli sideart">
+      <div class="contenitore-immagine">
+     {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="{{ .Title }}">{{end}}
+     </div>
+     <div class="info lista"> 
+      {{ if (isset .Params "categories") }}<span class="categoria">{{.Params.categories}}</span> {{ end }}
+      <h1 class="titolo-lista">{{ .Title }}</h1> 
+      <div class="pubblicato-lista">{{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+        {{- .Date.Format "2/1/2006" -}}</time>{{end}}</div>
+    </div>
+    </div></a>
+    {{ end }}

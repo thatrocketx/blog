@@ -9,7 +9,7 @@
   </nav>
 {{ end }}
 <div class="contenuto-contenitore">
-<article class="contenuto" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
+<article class="contenuto {{ if not (isset .Params "autore") }}ufficiale{{end}}" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
 <meta itemprop='inLanguage' content='{{ .Site.LanguageCode }}'/>
 <meta itemprop='about' content='{{ .Description }}' />
 <header role="banner">

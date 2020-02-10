@@ -1,6 +1,3 @@
-{{ if (isset .Params "adside") }}
-{{.Params.adside | safeHTML }}
-{{ end }}
 {{ $related := .Site.RegularPages.Related . | first 3 }}
   {{ with $related }}
   <h2> {{ T "vedi-anche"}} </h2>                
@@ -35,3 +32,6 @@
     </div></a>
     {{ end }}
     {{ end }}
+{{ if (isset .Params "adside") }}
+{{.Params.adside | safeHTML }}
+{{ end }}

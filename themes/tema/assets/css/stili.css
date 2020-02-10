@@ -470,11 +470,25 @@ input[class="navmobile"], label[for="menuapri"] {
 }
 
 .main-contenitore {
-  max-width: 880px;
+  max-width: 1080px;
   margin-left: auto;
   margin-right: auto;
   position: relative;
   min-height: 100%;
+}
+
+.content {
+  float: left;
+  max-width: 870px;
+}
+
+.sidebar {
+  position: relative;
+  width: 200px;
+  margin-left: -210px;
+  float: right;
+  overflow: hidden;
+  min-height: 600px;
 }
 
 .main {
@@ -572,7 +586,6 @@ input[class="navmobile"], label[for="menuapri"] {
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
   background-color: #F8F8F8;
   border: 1px solid #e9e9e9;
   -webkit-transition: all .5s ease-in-out;
@@ -2166,8 +2179,8 @@ footer a {
 @-webkit-keyframes fadeInUp {
   from {
     opacity: 0;
-    -webkit-transform: translate3d(0, 10%, 0);
-    transform: translate3d(0, 10%, 0);
+    -webkit-transform: translate3d(0, 2%, 0);
+    transform: translate3d(0, 2%, 0);
   }
 
   to {

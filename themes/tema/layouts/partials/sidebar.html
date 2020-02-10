@@ -2,7 +2,7 @@
   {{ with $related }}
   <h2> {{ T "vedi-anche"}} </h2>                
     {{ range . }}
-    <a href="{{ .URL }}"><div class="articoli">
+    <a href="{{ .URL }}"><div class="articoli sideart">
       <div class="contenitore-immagine">
      {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="{{ .Title }}">{{end}}
      </div>

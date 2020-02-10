@@ -8,8 +8,8 @@
   {{ end}}
   </nav>
 {{ end }}
-<div class="contenuto-contenitore">
-<article class="contenuto {{ if not (isset .Params "autore") }}ufficiale{{end}}" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
+<div class="contenuto-contenitore {{ if not (isset .Params "autore") }}ufficiale{{end}}">
+<article class="contenuto" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
 <meta itemprop='inLanguage' content='{{ .Site.LanguageCode }}'/>
 <meta itemprop='about' content='{{ .Description }}' />
 <header role="banner">
@@ -24,8 +24,8 @@
     </figure>
 </div>
     <div class="info articolo">
-      {{ if (isset .Params "autore") }}<span itemprop="author" class="autore" title="{{ T "autoreinf"}}">{{ .Params.autore }}</span><span class="tempo-lettura-tempo"><span class="separatore"></span> <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="nascosto">{{ T "tempo_lettura"}}:</span></span> {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}}</span>{{end}} {{ if (isset .Params "stelle") }}<span class="separatore"></span><span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> {{ end }} <span class="separatore"></span> {{ T "commenti"}}: <div class="comment-count">
-	<a class="noext" href="{{ .Permalink }}#disqus_thread">{{T "vaiaicommenti"}}</a>
+      {{ if (isset .Params "autore") }}<span itemprop="author" class="autore" title="{{ T "autoreinf"}}">{{ .Params.autore }}</span><span class="tempo-lettura-tempo"><span class="separatore"></span> <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="nascosto">{{ T "tempo_lettura"}}:</span></span> {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}}</span>{{end}} {{ if (isset .Params "stelle") }}<span class="separatore"></span><span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> <span class="separatore"></span> {{ T "commenti"}}: <div class="comment-count">
+	<a class="noext" href="{{ .Permalink }}#disqus_thread">{{T "vaiaicommenti"}}</a>{{ end }}
 	</div>
     </div>
 </header>

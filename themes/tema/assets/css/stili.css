@@ -570,6 +570,7 @@ input[class="navmobile"], label[for="menuapri"] {
 .titolo-in-lista {
   font-size: 2em;
   max-width: 700px;
+   margin: auto;
 }
 
 .rss-lista {

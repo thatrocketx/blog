@@ -17,7 +17,7 @@
     {{ end }}
 
 <h2> {{T "ultimi-articoli" }}</h2>
-{{ range  (.Paginator 8).Pages }}    
+{{ range  Pages | first 2 }}    
 {{ if not (isset .Params "nolist" ) }}
     <a href="{{ .URL }}"><div class="articoli sideart">
       <div class="contenitore-immagine">

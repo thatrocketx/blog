@@ -522,8 +522,6 @@ input[class="navmobile"], label[for="menuapri"] {
   -o-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
   opacity: 0.4;
-   position: sticky;
-   top: 5px;
    padding-left: 10px;
    border-left: 1px solid #CAC5C5;
 }

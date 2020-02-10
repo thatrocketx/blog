@@ -33,7 +33,7 @@ collections:
       - {label: "Il video è hostato sul nostro sito", name: "videoself", widget: "boolean", hint: "Da spuntare solo se il video si trova sul nostro sito", required: false}
       - {label: "Abilita Fontawesome", name: "fontawesome", widget: "boolean", default: false, required: false, hint: "Abilita le icone fontawesome"}
       - {label: "Abilita Animazioni Javascript", name: "js", widget: "boolean", default: false, required: false, hint: "Abilita il supporto alle animazioni su scorrimento tramite Javascript"}
-      - {label: "Pubblicità laterale", name: "body", widget: "html", required: false, hint: "Qui va inserita la pubblicità da mostrare in sidebar"}
+      - {label: "Pubblicità laterale", name: "adside", widget: "html", required: false, hint: "Qui va inserita la pubblicità da mostrare in sidebar"}
       - {label: "Testo", name: "body", widget: "markdown", required: true, hint: "Qui va inserito il testo dell' articolo"}
       - {label: "Data nella quale pubblicare l' articolo", name: "publishdate", widget: "datetime", required: true, hint: "Inserire la data nella quale si vuole pubblicare l' articolo"}
       - {label: "Data di scadenza articolo (rimozione automatica)", name: "expirydate", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo", default: " "}

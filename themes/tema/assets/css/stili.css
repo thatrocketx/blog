@@ -477,9 +477,24 @@ input[class="navmobile"], label[for="menuapri"] {
   min-height: 100%;
 }
 
-.content {
+.contenuto-contenitore {
   float: left;
   max-width: 870px;
+}
+
+.contenuto {
+   margin-right: 880px;
+  clear: both;
+  overflow: auto;
+}
+
+@media only screen and (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+  .contenuto {
+    margin: 0;
+  }
 }
 
 .sidebar {

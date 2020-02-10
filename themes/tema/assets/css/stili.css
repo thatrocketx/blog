@@ -493,6 +493,9 @@ input[class="navmobile"], label[for="menuapri"] {
   .sidebar {
     display: none;
   }
+   .contenuto-contenitore {
+      width: 100%
+   }
   .contenuto {
     margin-right: 0;
   }

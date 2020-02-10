@@ -364,7 +364,7 @@ template {
 body {
   position: relative;
   height: 100%;
-  background-color: #f8f2f2;
+  background-color: #f5f2f2;
   width: 100%;
   font-family: Arial;
   scroll-behavior: smooth;
@@ -484,12 +484,14 @@ input[class="navmobile"], label[for="menuapri"] {
 }
 
 .contenuto {
-   margin-right: 880px;
+   margin-right: auto;
+   margin-left: auto;
   clear: both;
   overflow: auto;
+  overflow-x: hidden;
 }
 
-@media only screen and (max-width: 1074px) {
+@media only screen and (max-width: 1194px) {
   .sidebar {
     display: none;
   }
@@ -513,7 +515,18 @@ input[class="navmobile"], label[for="menuapri"] {
   float: right;
   overflow: hidden;
   min-height: 600px;
-   margin-top: 800px
+   margin-top: 800px;
+   -webkit-transition: all .5s ease-in-out;
+  -o-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+  opacity: 0.4;
+}
+
+.sidebar:hover {
+   opacity: 1;
+  -webkit-transition: all .5s ease-in-out;
+  -o-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
 }
 
 .articoli.sideart {
@@ -524,7 +537,7 @@ input[class="navmobile"], label[for="menuapri"] {
 .articoli.sideart .titolo-lista {
   font-size: 1.2em;
 }
-.articoli.sideart .contenitore-immagine {
+.articoli.sideart .contenitore-immagine, .articoli.sideart .info.lista {
    height: auto;
 }
 

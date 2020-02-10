@@ -8,7 +8,6 @@
   {{ end}}
   </nav>
 {{ end }}
-<div>
 <div class="contenuto-contenitore">
 <article class="contenuto" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
 <meta itemprop='inLanguage' content='{{ .Site.LanguageCode }}'/>
@@ -45,7 +44,6 @@
 	{{- partial "sidebar.html" . -}}
 </aside>
 {{ end }}
-</div>
 
 {{ if (isset .Params "autore") }}
 {{- partial "pubblicita.html" . -}}

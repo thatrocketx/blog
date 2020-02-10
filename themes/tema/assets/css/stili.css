@@ -494,7 +494,7 @@ input[class="navmobile"], label[for="menuapri"] {
     display: none;
   }
    .contenuto-contenitore {
-      width: 100%
+      max-width: 100%
    }
   .contenuto {
     margin-right: 0;

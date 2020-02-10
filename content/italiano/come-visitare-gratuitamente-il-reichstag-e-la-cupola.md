@@ -33,7 +33,9 @@ descrizioneimg: La cupola del Reichstag vista da vicino dalla terrazza del Reich
 fontawesome: false
 js: false
 adside: >-
-  <div data-gyg-href="https://widget.getyourguide.com/default/activites.frame"
+  <script async defer
+  src="https://widget.getyourguide.com/v2/widget.js"></script><div
+  data-gyg-href="https://widget.getyourguide.com/default/activites.frame"
   data-gyg-locale-code="it-IT" data-gyg-widget="activities"
   data-gyg-number-of-items="5" data-gyg-cmp="berlino-reichstag-side"
   data-gyg-excluded-tour-ids="49448,45967" data-gyg-partner-id="CSSHL9T"

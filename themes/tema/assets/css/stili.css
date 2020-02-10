@@ -525,7 +525,7 @@ input[class="navmobile"], label[for="menuapri"] {
    position: sticky;
    top: 5px;
    padding-left: 10px;
-   1px solid #CAC5C5;
+   border-left: 1px solid #CAC5C5;
 }
 
 .sidebar:hover {

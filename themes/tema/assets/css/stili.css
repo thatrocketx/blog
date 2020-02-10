@@ -504,8 +504,10 @@ input[class="navmobile"], label[for="menuapri"] {
 }
 
 .community {
-   width: 100%;
+   max-width: 880px;
    display: block;
+   margin-left: 0;
+   border-top: 3px solid #5E5252;
 }
 
 .sidebar {
@@ -520,6 +522,8 @@ input[class="navmobile"], label[for="menuapri"] {
   -o-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
   opacity: 0.4;
+   position: sticky;
+   top: 5px
 }
 
 .sidebar:hover {

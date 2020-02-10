@@ -1010,7 +1010,7 @@ article .testo {
 
 
 .titolo-href::before {
-   content: '#';
+   content: '# ';
 }
 
 article h2 {

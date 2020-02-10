@@ -9,7 +9,7 @@
   </nav>
 {{ end }}
 <div class="contenuto-contenitore">
-<article class="articoli contenuto" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
+<article class="contenuto" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
 <meta itemprop='inLanguage' content='{{ .Site.LanguageCode }}'/>
 <meta itemprop='about' content='{{ .Description }}' />
 <header role="banner">
@@ -40,11 +40,11 @@
 </article>
 </div>
 {{ if (isset .Params "autore") }}
-<aside class="sidebar articoli">
+<aside class="sidebar">
 	{{- partial "sidebar.html" . -}}
 </aside>
 {{- partial "pubblicita.html" . -}}
-<section class="articoli community" role="region">
+<section class="community" role="region">
   <div class= "info articolo">
     {{ T "esortazionecommenti"}} <a href="#c">{{T "vaiaicommenti"}}</a>
     {{- partial "condividi.html" . -}}

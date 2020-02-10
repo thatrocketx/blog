@@ -480,6 +480,7 @@ input[class="navmobile"], label[for="menuapri"] {
 .contenuto-contenitore {
   float: left;
   max-width: 870px;
+   margin-bottom: 10px;
 }
 
 .contenuto {

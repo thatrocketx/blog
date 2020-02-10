@@ -37,7 +37,7 @@ adside: >-
   src="https://widget.getyourguide.com/v2/widget.js"></script><div
   data-gyg-href="https://widget.getyourguide.com/default/activites.frame"
   data-gyg-locale-code="it-IT" data-gyg-widget="activities"
-  data-gyg-number-of-items="2" data-gyg-cmp="berlino-reichstag-side"
+  data-gyg-number-of-items="5" data-gyg-cmp="berlino-reichstag-side"
   data-gyg-excluded-tour-ids="49448,45967" data-gyg-partner-id="CSSHL9T"
   data-gyg-placement="sidebar-right" data-gyg-q="Reichstag"></div>
 publishdate: '2019-09-13T09:55:55+00:00'

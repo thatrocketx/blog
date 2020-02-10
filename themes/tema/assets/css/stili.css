@@ -518,6 +518,7 @@ input[class="navmobile"], label[for="menuapri"] {
 
 .articoli.sideart {
   display: block;
+   max-width: 200px;
 }
 
 .articoli.sideart .titolo-lista {

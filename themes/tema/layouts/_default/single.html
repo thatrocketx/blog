@@ -8,7 +8,8 @@
   {{ end}}
   </nav>
 {{ end }}
-<article class="articoli content" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
+<div class="contenuto-contenitore">
+<article class="articoli contenuto" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
 <meta itemprop='inLanguage' content='{{ .Site.LanguageCode }}'/>
 <meta itemprop='about' content='{{ .Description }}' />
 <header role="banner">
@@ -37,6 +38,7 @@
 <span class="ultimamodifica">{{ if (isset .Params "lastmod") }}{{ T "ultima-modifica"}} <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="dateModified">
  {{- .Lastmod.Format "2/1/2006" -}}</time>{{end}}</span>
 </article>
+</div>
 {{ if (isset .Params "autore") }}
 <aside class="sidebar">
 	In costruzione.

@@ -491,6 +491,11 @@ input[class="navmobile"], label[for="menuapri"] {
   overflow-x: hidden;
 }
 
+.contenuto-contenitore.ufficiale {
+   margin: auto;
+   float: none;
+}
+
 @media only screen and (max-width: 1194px) {
   .sidebar {
     display: none;

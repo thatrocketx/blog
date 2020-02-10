@@ -489,7 +489,7 @@ input[class="navmobile"], label[for="menuapri"] {
   overflow: auto;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1074px) {
   .sidebar {
     display: none;
   }

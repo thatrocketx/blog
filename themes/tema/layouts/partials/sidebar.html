@@ -1,6 +1,5 @@
 {{ if (isset .Params "adside") }}
 {{.Params.adside | safeHTML }}
-<small>Affiliate</small>
 {{ end }}
 {{ $related := .Site.RegularPages.Related . | first 3 }}
   {{ with $related }}

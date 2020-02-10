@@ -35,22 +35,4 @@
 {{ if (isset .Params "adside") }}
 <hr>
 {{.Params.adside | safeHTML }}
-<hr>
-{{ end }}
-{{ if (isset .Params "countries") }}
-<h2> {{ T "vedi-anche"}} </h2>
-{{ $mytag := .Params.countries }}
-{{ range first 3 (where (index .Site.Taxonomies.tags $mytag).Pages) }}
-      <a href="{{ .URL }}"><div class="articoli sideart">
-      <div class="contenitore-immagine">
-     {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="{{ .Title }}">{{end}}
-     </div>
-     <div class="info lista"> 
-      {{ if (isset .Params "categories") }}<span class="categoria">{{.Params.categories}}</span> {{ end }}
-      <h1 class="titolo-lista">{{ .Title }}</h1> 
-      <div class="pubblicato-lista">{{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-        {{- .Date.Format "2/1/2006" -}}</time>{{end}}</div>
-    </div>
-    </div></a>
-{{ end }}
 {{ end }}

@@ -524,6 +524,9 @@ input[class="navmobile"], label[for="menuapri"] {
 .articoli.sideart .titolo-lista {
   font-size: 1.2em;
 }
+.articoli.sideart .contenitore-immagine {
+   height: auto;
+}
 
 .auto-center {
    width: 100%;

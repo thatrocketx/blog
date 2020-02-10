@@ -470,7 +470,7 @@ input[class="navmobile"], label[for="menuapri"] {
 }
 
 .main-contenitore {
-  max-width: 1080px;
+  max-width: 1180px;
   margin-left: auto;
   margin-right: auto;
   position: relative;
@@ -508,7 +508,7 @@ input[class="navmobile"], label[for="menuapri"] {
 
 .sidebar {
   position: relative;
-  width: 200px;
+  width: 300px;
   margin-left: -210px;
   float: right;
   overflow: hidden;
@@ -518,7 +518,7 @@ input[class="navmobile"], label[for="menuapri"] {
 
 .articoli.sideart {
   display: block;
-   max-width: 200px;
+   max-width: 265px;
 }
 
 .articoli.sideart .titolo-lista {

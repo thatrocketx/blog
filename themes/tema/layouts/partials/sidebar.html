@@ -34,5 +34,5 @@
     {{ end }}
 
 {{ if (isset .Params "adside") }}
-{{.Params.adside}}
+{{.Params.adside | safeHTML }}
 {{ end }}

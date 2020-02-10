@@ -493,7 +493,7 @@ input[class="navmobile"], label[for="menuapri"] {
     display: none;
   }
   .contenuto {
-    margin: 0;
+    margin-right: 0;
   }
 }
 

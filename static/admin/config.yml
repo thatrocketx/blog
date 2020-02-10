@@ -11,6 +11,7 @@ collections:
     folder: "content/italiano" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template
+    preview_path: preview/{{slug}}
     fields: # The fields for each document, usually in front matter
       - {label: "Bozza", name: "draft", widget: "boolean", default: false, required: true, hint: "Spuntare la casella se non si vuole pubblicare l' articolo, ma salvarlo per successive modifiche"}
       - {label: "Data", name: "date", widget: "datetime", required: false}
@@ -34,7 +35,7 @@ collections:
       - {label: "Abilita Fontawesome", name: "fontawesome", widget: "boolean", default: false, required: false, hint: "Abilita le icone fontawesome"}
       - {label: "Abilita Animazioni Javascript", name: "js", widget: "boolean", default: false, required: false, hint: "Abilita il supporto alle animazioni su scorrimento tramite Javascript"}
       - {label: "Pubblicità laterale", name: "adside", widget: "html", required: false, hint: "Qui va inserita la pubblicità da mostrare in sidebar"}
-      - {label: "Testo", name: "body", widget: "markdown", required: true, hint: "Qui va inserito il testo dell' articolo"}
+      - {label: "Testo", name: "body", widget: "text", required: true, hint: "Qui va inserito il testo dell' articolo"}
       - {label: "Data nella quale pubblicare l' articolo", name: "publishdate", widget: "datetime", required: true, hint: "Inserire la data nella quale si vuole pubblicare l' articolo"}
       - {label: "Data di scadenza articolo (rimozione automatica)", name: "expirydate", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo", default: " "}
       - {label: "Data di scadenza (offerta, ecc...)", name: "scadenza", widget: "datetime", required: false, hint: "Data nella scade qualcosa", default: " "}

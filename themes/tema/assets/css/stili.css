@@ -497,6 +497,11 @@ input[class="navmobile"], label[for="menuapri"] {
   }
 }
 
+.community {
+   width: 100%;
+   display: block;
+}
+
 .sidebar {
   position: relative;
   width: 200px;
@@ -504,6 +509,11 @@ input[class="navmobile"], label[for="menuapri"] {
   float: right;
   overflow: hidden;
   min-height: 600px;
+}
+
+.auto-center {
+   width: 100%;
+   margin: auto;
 }
 
 .main {
@@ -558,7 +568,7 @@ input[class="navmobile"], label[for="menuapri"] {
 
 .titolo-in-lista {
   font-size: 2em;
-  margin-left: 100px;
+  max-width: 700px;
 }
 
 .rss-lista {

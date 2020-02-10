@@ -32,3 +32,7 @@
     </div></a>
     {{ end }}
     {{ end }}
+
+{{ if (isset .Params "adside") }}
+{{.Params.adside}}
+{{ end }}

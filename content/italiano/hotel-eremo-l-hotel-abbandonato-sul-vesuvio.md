@@ -37,9 +37,10 @@ videoself: true
 fontawesome: false
 js: false
 adside: >-
-  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0"
-  scrolling="no" frameborder="0"
-  src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=thatrocketx-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=8822710606&linkId=46ee3b68a078741d8d743e1cbd81aa73"></iframe>
+  <img
+  src="https://m.media-amazon.com/images/I/71-uOi4oHJL._AC_UY327_QL65_ML3_.jpg"><br><a
+  href="https://amzn.to/37jq67P">Napoli esoterica e misteriosa. Il lato occulto,
+  maledetto e oscuro della città della sirena</a> su Amazon.
 publishdate: '2019-08-28T09:00:15+00:00'
 expirydate: ' '
 lastmod: '2019-09-23T19:10:00+00:00'

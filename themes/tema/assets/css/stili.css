@@ -2035,6 +2035,16 @@ footer a {
       display: none;
    }
    
+   .contenuto img {
+      float: left;
+      width: 20%;
+      clear: both;
+   }
+   
+   .contenuto img:nth-child(2n){
+      float: right;
+   }
+   
    article .categoria a {
       display: none;
    }
@@ -2050,6 +2060,11 @@ footer a {
    
    .titolo {
       border-bottom: none;
+      font-size: 1.5em;
+   }
+   
+   .descrizione {
+      font-size: 1em;
    }
    
    article .testo {

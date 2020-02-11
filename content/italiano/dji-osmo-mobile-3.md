@@ -72,9 +72,7 @@ L' app è **molto intuitiva** e abbastanza semplice, in ogni caso bisognerà **s
 
 Una volta finito **non cancellate l' app**, perché vi servirà tutte le volte che vorrete utilizzare l' Osmo, come ad esempio per stabilizzarlo in orizzontale o in verticale e utilizzare le **tantissime modalità presenti** e che cercheremo di utilizzare anche noi nei prossimi mesi. Apparte questo, per manovrare il gimbal basta **utilizzare il joystick centrale** a portata di pollice dall' impugnatura.
 
-{{<img "L' osmo con un cellulare sopra in orizzontale" "/img/articoli/osmo-8.jpg">}}
-
-{{<img "Retro dell' Osmo" "/img/articoli/osmo-9.jpg">}}
+<div style="width:100%"><div style="float:left; width: 50%">{{<img "L' osmo con un cellulare sopra in orizzontale" "/img/articoli/osmo-8.jpg">}}</div><div style="width:50%;float:right;">{{<img "Retro dell' Osmo" "/img/articoli/osmo-9.jpg">}}</div></div>
 
 Tra le tante modalità troviamo:
 

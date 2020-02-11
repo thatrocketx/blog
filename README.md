@@ -13,7 +13,7 @@ Special thanks are given to:
 - [Sharingbuttons.io](https://sharingbuttons.io/) for the sharing buttons in our article
 - [WOW.js](https://wowjs.co.uk/) for on-scroll css animations
 - [Animate.css](https://daneden.github.io/animate.css/) for they famous animations (used in WOW.js)
-- [Fontawesome](https://fontawesome.com/) for their icons (which might get useful)
+- [Fontawesome](https://fontawesome.com/) for their icons 
 - [30s of code (CSS)](https://30-seconds.github.io/30-seconds-of-css/) for some CSS snippets
 - [Nicolas Martignoni](https://github.com/martignoni/hugo-notice) for his Hugo notices
 - [eddiewebb](https://gist.github.com/eddiewebb/735feb48f50f0ddd65ae5606a1cb41ae) for his Hugo search

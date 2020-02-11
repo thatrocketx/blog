@@ -34,6 +34,12 @@ descrizioneimg: >-
   Rocket X
 fontawesome: false
 js: false
+adside: >-
+  <div data-gyg-href="https://widget.getyourguide.com/default/activites.frame"
+  data-gyg-locale-code="it-IT" data-gyg-widget="activities"
+  data-gyg-number-of-items="4" data-gyg-cmp="berlino-alternativa-side"
+  data-gyg-partner-id="CSSHL9T" data-gyg-placement="sidebar-right"
+  data-gyg-tour-ids="170637,226108,75508,43642"></div>
 publishdate: '2019-09-19T06:22:54+00:00'
 expirydate: ' '
 scadenza: ' '

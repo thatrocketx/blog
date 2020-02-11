@@ -38,7 +38,7 @@ adside: >-
 publishdate: '2019-11-13T17:31:06+01:00'
 expirydate: ' '
 scadenza: ' '
-lastmod: '2019-11-13T17:31:06+01:00'
+lastmod: '2020-02-11T13:02:06+00:00'
 ---
 Ciao a tutti, oggi vogliamo parlarvi di **un nostro nuovo acquisto**, il DJI **Osmo Mobile 3**, cos'è, come funziona e il nostro parere.
 

@@ -2037,12 +2037,14 @@ footer a {
    
    .contenuto img {
       float: left;
-      width: 20%;
+      width: 40%;
       clear: both;
+      margin: 5px 10px 5px 0;
    }
    
    .contenuto img:nth-child(2n){
       float: right;
+      margin: 5px 0 5px 10px;
    }
    
    article .categoria a {

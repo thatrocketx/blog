@@ -39,7 +39,7 @@ js: false
 adside: >-
   <img
   src="https://m.media-amazon.com/images/I/71-uOi4oHJL._AC_UY327_QL65_ML3_.jpg"
-  style="height: 200px; float: left; margin-right: 20px;><br><a
+  style="height: 200px; float: left; margin-right: 20px;"><br><a
   href="https://amzn.to/37jq67P" target="_blank" rel="noopener">Napoli esoterica
   e misteriosa. Il lato occulto, maledetto e oscuro della città della sirena</a>
   su Amazon.

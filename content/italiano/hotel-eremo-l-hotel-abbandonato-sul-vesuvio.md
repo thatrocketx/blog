@@ -108,7 +108,7 @@ Per chi avesse la possibilità di scendere al piano inferiore (non è molto illu
 Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali. 
 
 {{< notice warning >}}
-Le scale sono prive di corrimano e non sicure, bisogna stare attenti quando si sale a non scivolare o sporgersi.
+Le scale sono prive di corrimano e non sicure, prestare attenzione.
 {{</ notice >}}
 
 {{< img "Foto di una camera dell' Hotel Eremo, oggi completamente distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}

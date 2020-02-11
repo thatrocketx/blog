@@ -24,7 +24,7 @@ news_keywords:
 titoloSEO: Finalmente DJI Osmo Mobile 3!
 sottotitolo: Una breve recensione e parere sullo stabilizzatore video della DJI
 slug: recensione-dji-osmo-mobile-3
-immagineprincipale: /img/articoli/osmo-6.jpg
+immagineprincipale: /img/articoli/osmo-8.jpg
 descrizioneimg: 'DJI Osmo Mobile 3 '
 fontawesome: false
 js: false

@@ -2011,6 +2011,30 @@ footer a {
     font-style: italic;
   }
    
+   .titolo-href::before {
+      display: none;
+   }
+   
+   .sidebar {
+      display: none;
+   }
+   
+   iframe {
+      display: none;
+   }
+   
+   #commenti-info-articolo {
+      display: none;
+   }
+   
+   .comment-count {
+      display: none;
+   }
+   
+   article .categoria a {
+      display: none;
+   }
+   
    .articoli {
       -webkit-box-shadow: none;
               box-shadow: none;

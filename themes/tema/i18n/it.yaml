@@ -123,12 +123,11 @@
   translation: "Torna su"
   
   
-- id: warning
-  translation: "Warning"
+- id: warning      
+  translation: "Attenzione"  
 - id: note
-  translation: "Note"
+  translation: "Nota"
 - id: info
-  translation: "Info"
+  translation: "Informazione"
 - id: tip
-  translation: "Tip"
-
+  translation: "Consiglio"

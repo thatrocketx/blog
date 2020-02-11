@@ -39,11 +39,11 @@ js: false
 publishdate: '2019-11-13T14:14:04+00:00'
 expirydate: ' '
 scadenza: ' '
-lastmod: '2019-11-30T12:20:04+00:00'
+lastmod: '2020-02-11T13:45:04+00:00'
 ---
 ## Introduzione
 
-Quando si decide di fare un **viaggio a Berlino** e si cercano le [attrazioni principali della città](/cosa-vedere-a-berlino/), una delle prime e più iconiche che si trova è quasi sicuramente la **Torre della Televisione**. Per questo motivo, se si visita la capitale tedesca, ci si sente **quasi obbligati a non andare via senza averla prima visitata**.
+Quando si decide di fare un **[viaggio a Berlino](/cities/berlino)** e si cerca online "[attrazioni principali di Berlino](/cosa-vedere-a-berlino/)", una delle prime e più iconiche che si trova tra i risultati è quasi sicuramente la **Torre della Televisione**. Per questo motivo, se si visita la capitale tedesca, ci si sente **quasi obbligati a non andare via senza averla prima visitata**.
 
 Anche a noi è capitato e, nonostante il maltempo ci abbia scoraggiati nei primi giorni, al primo sole dell' ultimo giorno ci siamo affrettati a salirci su.
 
@@ -53,7 +53,7 @@ In questa (mini) guida vogliamo descrivervi **la nostra esperienza**, ricordando
 
 Inoltre, vi daremo informazioni sugli **orari di visita**, sui **prezzi dei vari biglietti** disponibili e sui **mezzi di trasporto** utilizzabili per raggiungerla.
 
-In aggiunta, in fondo all' articolo troverete una raccolta di **storie e curiosità** sulla **Torre della TV** che trovammo per organizzare il nostro viaggio e che potrebbero tornarvi utili per scoprire qualcosa in più prima di visitarla.
+In aggiunta, in fondo all' articolo troverete una raccolta di [**storie e curiosità** sulla **Torre della TV**](#storia-e-curiosità-sulla-torre-della-televisione-di-berlino) che trovammo per organizzare il nostro viaggio e che potrebbero tornarvi utili per scoprire qualcosa in più prima di visitarla.
 
 {{< img "Torre della Televisione di Berlino, vista dalla Franziskane-Klosterkirche""/img/articoli/franziskaner-klosterkirche-con-torre-della-tv_compressed.jpg" >}}
 
@@ -76,7 +76,7 @@ Qui sotto trovate un **indice delle sezioni principali** di questa guida, grazie
 
 Come si può facilmente dedurre dal nome, la **Torre della Televisione** (o, in tedesco, **Fernsehturm**) è una vera **torre radiotelevisiva** che si trova proprio nel centro città di Berlino. 
 
-La torre, infatti, ha il ruolo principale di **trasmettere diversi programmi radiofonici e televisivi**, al quale è stato aggiunto quello di **terrazza panoramica**.
+La torre, infatti, ha ancora oggi il ruolo principale di **trasmettere diversi programmi radiofonici e televisivi**, al quale è stato aggiunto quello di **terrazza panoramica**.
 
 Oltre alla terrazza panoramica, nella quale se si vuole si può fare un aperitivo al Bar 203, all' interno della Torre è disponibile anche un **ristorante**, il quale ruota di 360 gradi ogni ora.
 

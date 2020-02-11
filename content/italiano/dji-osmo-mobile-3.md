@@ -84,7 +84,15 @@ Una delle funzionalità più interessanti (per noi): permette di **creare dei vi
 
 Questa modalità permette di fare video utilizzando gesti, quindi avviando la registrazione in modo automatico. Apparte alcune occasioni, si è rivelata molto intelligente e funzionante.
 
-### ActiveTrack
+### Panorama
+
+Con questa modalità è possibile scattare ampie foto panoramiche, molto più precise di quelle effettuate con il cellulare.
+
+### Motion Time Lapse
+
+Questa è molto simpatica e permette di creare timelapse che si muovono, cambiando l' angolazione delle foto durante gli scatti. Il risultato finale è davvero eccezionale.
+
+### ActiveTrack per tracciare il volto
 
 Questa funzione mantiene sempre al centro il volto di una persona selezionato, per noi non è molto utile, ma potrebbe esserlo per video di viaggi o per riprese.
 

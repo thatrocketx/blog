@@ -39,9 +39,10 @@ js: false
 adside: >-
   <img
   src="https://m.media-amazon.com/images/I/71-uOi4oHJL._AC_UY327_QL65_ML3_.jpg"
-  style="float: left; margin-right: 20px;><br><a target="_blank" rel="noopener"
-  href="https://amzn.to/37jq67P">Napoli esoterica e misteriosa. Il lato occulto,
-  maledetto e oscuro della città della sirena</a> su Amazon.
+  style="height: 200px; float: left; margin-right: 20px;><br><a
+  href="https://amzn.to/37jq67P" target="_blank" rel="noopener">Napoli esoterica
+  e misteriosa. Il lato occulto, maledetto e oscuro della città della sirena</a>
+  su Amazon.
 publishdate: '2019-08-28T09:00:15+00:00'
 expirydate: ' '
 lastmod: '2019-09-23T19:10:00+00:00'

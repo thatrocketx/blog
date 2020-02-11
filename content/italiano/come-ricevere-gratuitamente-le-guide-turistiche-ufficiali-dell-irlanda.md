@@ -26,6 +26,12 @@ immagineprincipale: /img/articoli/photo_2019-12-18_16-47-53.jpg
 descrizioneimg: La rivista ufficiale in formato cartaceo.
 fontawesome: false
 js: false
+adside: >-
+  <script async defer
+  src="https://widget.getyourguide.com/v2/widget.js"></script><div
+  data-gyg-href="https://widget.getyourguide.com/default/city.frame"
+  data-gyg-iata="DUB" data-gyg-locale-code="it-IT" data-gyg-widget="city"
+  data-gyg-partner-id="CSSHL9T"></div>
 publishdate: '2019-12-18T14:51:55+00:00'
 expirydate: ' '
 scadenza: ' '
@@ -63,7 +69,7 @@ Per fare ciò basta recarsi a [questa pagina](https://www.ireland.com/it-it/post
 
 ### Tempi di arrivo dell' ordine
 
-Ho provato io stesso ad effettuare l' ordine e devo dire il tempo arrivo è stato davvero veloce, ho richiesto la Rivista Ufficiale e questa mi è arrivata in appena 12 giorni, davvero vicinissimo ai 10 giorni dichiarati dal sito (dobbiamo anche considerare il fatto che ho effettuato l' ordine durante il periodo pre-natalizio quindi potrebbero anche esserci stati dei ritardi aggiuntivi).
+Ho provato io stesso ad effettuare l' ordine e devo dire le spedizioni sono davvero veloci. Di solito l' ordine arriva entro 10-11 giorni, considerando che il tutto viene spedito dal Regno Unito e Irlanda e che è totalmente gratis, si può dire che è davvero un ottimo servizio.
 
 Questo è quanto, volevo solo rendervi partecipi di questa possibiltà che potrebbe essere utile a qualcuno di voi!
 

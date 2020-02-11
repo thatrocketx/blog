@@ -48,7 +48,7 @@ L' Osmo Mobile 3 **è uno stabilizzatore video** per **smartphone** della DJI, l
 
 Come potete notare dal video di anteprima su [that Rocket X](/), questo drone ha una stabilità impressionante e l' [Osmo Mobile 3](https://store.dji.com/product/osmo-mobile-3?clickpid=6910372&clicksid=6087d5910d1e34fd959050d8bb3cadee&from=dap_product&clickaid=nsKzrv1TWyvzsiaJuN0WaRGoIr8gg-Ch&pm=link&vid=83691) utilizza la stessa tecnologia di stabilizzazione utilizzata proprio da questi droni, ovvero stabilizzatori meccanici che aiutano a mantenere ferma la ripresa anche in condizioni difficili.
 
-La nostra versione dello stabilizzatore è quella "normale", ovvero quella senza accessori, ma se volete esiste anche la **versione combo** che comprende anche una custodia per trasportare il gimbal e un treppiedi. Se volete potete [acquistarla su Amazon cliccando qui]([https://amzn.to/2QNHN9l](https://amzn.to/2QNHN9l) (di fianco trovate anche quella base, potete effettuare il cambio dal menu).
+La nostra versione dello stabilizzatore è quella "normale", ovvero quella senza accessori, ma se volete esiste anche la **versione combo** che comprende anche una custodia per trasportare il gimbal e un treppiedi. Se volete potete [acquistarla su Amazon cliccando qui](https://amzn.to/2QNHN9l) (di fianco trovate anche quella base, potete effettuare il cambio dal menu).
 
 Affiliate
 

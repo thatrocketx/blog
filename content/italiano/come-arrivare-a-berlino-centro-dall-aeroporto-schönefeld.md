@@ -29,10 +29,18 @@ sottotitolo: >-
   Una lista dei mezzi di trasporto che si possono utilizzare e dove è possibile
   prenderli
 slug: schonefeld-berlino-centro
-immagineprincipale: https://www.thatrocketx.com/img/articoli/schonefeld-into_compressed.jpg
+immagineprincipale: 'https://www.thatrocketx.com/img/articoli/schonefeld-into_compressed.jpg'
 descrizioneimg: >-
   Scorcio dell' entrata dell' aeroporto. In alto si legge il nome dell'
   aeroporto: "Berlin Schönefeld". Foto di that Rocket X.
+adside: >-
+  <script async defer
+  src="https://widget.getyourguide.com/v2/widget.js"></script><div
+  data-gyg-href="https://widget.getyourguide.com/default/activites.frame"
+  data-gyg-locale-code="it-IT" data-gyg-widget="activities"
+  data-gyg-number-of-items="2" data-gyg-cmp="berlino-alternativa-side"
+  data-gyg-partner-id="CSSHL9T" data-gyg-placement="sidebar-right"
+  data-gyg-tour-ids="6045,363470"></div>
 publishdate: '2019-08-21T15:33:15+00:00'
 expirydate: ' '
 lastmod: '2019-08-27T11:31:15+00:00'

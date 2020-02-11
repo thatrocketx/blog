@@ -52,7 +52,7 @@ Non solo: è anche possibile accompagnarla con delle **visite guidate** all' int
 
 In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo. 
 
-{{< notice tip >}}
+{{< notice note >}}
 Prima di proseguire assicuratevi di avere almeno una **mezz' oretta di tempo libero** e la **data di nascita** di tutte le persone da prenotare.
 {{</ notice >}}
 

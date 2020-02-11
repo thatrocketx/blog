@@ -20,6 +20,11 @@ Special thanks are given to:
 We're very glad to them for their contribution to the internet
 
 # Use of this source code
-You can use our Hugo theme and part of it, but we'd be glad if you change its colors, so that you make it personal. Please do not use our logo in yours.
-Give credits if you use things not made by us (the ones listed above). Please do not copy all of our contents (which is available only on license [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), the same goes for our photos.
+You can use our Hugo theme and part of it, no credit required, just let us know.
+Please **change its colors, so that you make it personal**. 
+Please **do not use our logo** in yours.
+**Give credits if you use things not made by us** (the ones listed above).
+Please **do not copy our contents** (available with license [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/), the same goes with **our photos**.
 Let us know if you used our theme or part of it, thanks!
+
+

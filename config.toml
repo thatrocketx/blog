@@ -53,12 +53,15 @@ toLower = true
   name = "series"
   weight = 100.0
   [[related.indices]]
-  name = "keywords"
-  weight = 80.0
+  name = "cities"
+  weight = 90.0
+  [[related.indices]]
+  name = "categories"
+  weight = 90.0
   [[related.indices]]
   name = "countries"
   weight = 80.0
   [[related.indices]]
-  name = "categories"
-  weight = 80.0
+  name = "keywords"
+  weight = 70.0
   

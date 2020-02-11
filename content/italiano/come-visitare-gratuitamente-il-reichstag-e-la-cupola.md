@@ -52,6 +52,10 @@ Non solo: è anche possibile accompagnarla con delle **visite guidate** all' int
 
 In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo. 
 
+{{< notice tip >}}
+Prima di proseguire assicuratevi di avere almeno una **mezz' oretta di tempo libero** e la **data di nascita** di tutte le persone da prenotare.
+{{</ notice >}}
+
 **N.B.**: In questa guida troverete alcuni link per acquistare biglietti per servizi e attrazioni. Questi link, contrassegnati dalla scritta <small><i>Affiliate</i></small>, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
 
 Buona lettura!
@@ -114,6 +118,10 @@ Se siete interessati, qui sotto **vi abbiamo tradotto velocemente tutto il testo
 > * Durante le **sedute plenarie, non vi è alcuna interpretazione in lingua straniera** per i visitatori.
 
 **RIASSUNTO MOLTO BREVE:**
+
+{{< notice warning >}}
+Leggere le informazioni sottostanti
+{{</ notice >}}
 
 1. ❌ **Se non ricevete una conferma** per email, **la vostra prenotazione NON è stata effettuata**
 2. 👥 **Se dovete prenotare per più persone** assicuratevi di avere il **nome, cognome** e la **data di nascita** di ogni persona.
@@ -218,7 +226,9 @@ Troverete due link.
 
 **Cliccate il primo link** (o copiatelo ed incollatelo nella barra degli indirizzi). 
 
-**NON aprite il secondo link** perché quello è per l' **annullamento della prenotazione**.
+{{< notice warning >}}
+**Non aprite il secondo link** perché quello è per l' **annullamento della prenotazione**.
+{{</ notice >}}
 
 ### 📝 Passo 11 - Compilazione e invio della richiesta
 
@@ -241,6 +251,11 @@ Nel giorno della dovrete innanzitutto assicurarvi di <mark>**portare con voi i d
 Questo perchè dovrete prima superare i vari **controlli di sicurezza** (controllo della prenotazione, controllo documenti, metal detector, ispezioni ecc...) e poi dovrete attendere il vostro turno per entrare all' interno del Reichstag.
 
 Per la visita sulla cupola prenderete **un' ascensore che vi porterà fino alla terrazza** sul tetto, sulla quale potrete prendere dei fogli informativi e l' **audioguida gratuita** (la dovete chiedere esplicitamente al banco informazioni).
+
+{{< notice tip >}}
+Se vi interessa scoprire di più sul Bunderstag, date anche un' occhiata alla mostra dedicatagli nel Deutscher Dom.
+Ne abbiamo parlato nella sezione dedicata al [Deutscher Dom](https://www.thatrocketx.com/cosa-vedere-a-berlino/#deutscher-dom) della nostra [guida a Berlino](https://www.thatrocketx.com/cosa-vedere-a-berlino/).
+{{</ notice >}}
 
 {{< titolo title="Come arrivare al Reichstag" link="raggiungere-il-reichstag" >}}
 

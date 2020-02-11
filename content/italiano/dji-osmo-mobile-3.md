@@ -29,7 +29,12 @@ descrizioneimg: 'DJI Osmo Mobile 3 '
 fontawesome: false
 js: false
 adside: >-
-  <script>document.write(unescape('%3Cscript%20src%3D%22%2F%2Fu.dji.com%2Fwidget%2Fsubject_shows%2F9.js%3Fopen_id%3D4xMn8VKh%22%3E%3C%2Fscript%3E'))</script>
+  <script>
+
+  document.write(unescape('%3Cscript
+  src="https://u.dji.com/ads/3021"%3E%3C/script%3E'));
+
+  </script>
 publishdate: '2019-11-13T17:31:06+01:00'
 expirydate: ' '
 scadenza: ' '

@@ -121,3 +121,14 @@
   translation: "Vedi tutte le categorie"
 - id: tornasu
   translation: "Torna su"
+  
+  
+- id: warning
+  translation: "Warning"
+- id: note
+  translation: "Note"
+- id: info
+  translation: "Info"
+- id: tip
+  translation: "Tip"
+

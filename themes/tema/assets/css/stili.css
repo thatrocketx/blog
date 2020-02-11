@@ -2011,6 +2011,10 @@ footer a {
     font-style: italic;
   }
    
+   .separatore {
+      display: none;
+   }
+   
    .titolo-href::before {
       display: none;
    }

@@ -125,8 +125,8 @@
   translation: "See all categories"
 - id: tornasu
   translation: "Go to the top"
- 
- - id: warning
+
+- id: warning
   translation: "Warning"
 - id: note
   translation: "Note"

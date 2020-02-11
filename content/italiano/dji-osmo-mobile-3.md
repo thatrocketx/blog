@@ -1,100 +1,124 @@
 ---
-draft: true
+draft: false
 date: '2019-11-13T17:31:06+01:00'
-title: DJI Osmo Mobile 3
-description: Recensione Dji Osmo mobile 3
+title: DJI Osmo Mobile 3 - funzionamento e impressioni
+description: Recensione dello stabilizzatore video per cellulari DJI Osmo Mobile 3
 autore: Oraion
-immagine: /img/articoli/osmo-home.jpg
+immagine: /img/articoli/osmo-7.jpg
 categories:
   - Recensioni
 tags:
-  - ''
-immagineprincipale: /img/articoli/osmo-2.jpg
+  - recensione
+  - osmo mobile 3
+  - dji
+  - stabilizzatori
+  - strumenti video
+  - videomaking
+news_keywords:
+  - recensione
+  - osmo mobile 3
+  - dji
+  - stabilizzatori
+  - strumenti video
+  - videomaking
+titoloSEO: Finalmente DJI Osmo Mobile 3!
+sottotitolo: Una breve recensione e parere sullo stabilizzatore video della DJI
+slug: recensione-dji-osmo-mobile-3
+immagineprincipale: /img/articoli/osmo-6.jpg
 descrizioneimg: 'DJI Osmo Mobile 3 '
 fontawesome: false
 js: false
+adside: >-
+  <script>
+
+  document.write(unescape('%3Cscript
+  src="https://u.dji.com/ads/3021"%3E%3C/script%3E'));
+
+  </script>
 publishdate: '2019-11-13T17:31:06+01:00'
 expirydate: ' '
 scadenza: ' '
 lastmod: '2019-11-13T17:31:06+01:00'
 ---
-L’Osmo Mobile 3 è il nuovo prodotto per la stabilizzazione dei video con smartphone lanciato da DJI, la stabilizzazione dei video avviene mediante la tecnologia DJI usata per i gimbal dei droni.
+Ciao a tutti, oggi vogliamo parlarvi di **un nostro nuovo acquisto**, il DJI **Osmo Mobile 3**, cos'è, come funziona e il nostro parere.
 
-Si parla di stabilizzatori meccanici, ovvero gimbal manuali, prodotti dal leader asiatico produttore di droni DJI. E probabilmente non sarà nemmeno l’ultima.
+## Cos' è l' Osmo Mobile 3
 
-I gimbal manuali per reflex, mirrorless, smartphone o con camera integrata, sono presenti da da svariati anni nei cataloghi del colosso asiatico che giusto quest'anno ha affrontato anche il settore delle action cam con la sua DJI Osmo Action.
-La versione che abbiamo acquistato  dello stabilizzatore DJI Osmo Mobile 3 è quella normale non la versione combo che viene fornita con custodia scura e treppiedi pieghevole. ([ PER LA VERSIONE COMBO QUI](https://amzn.to/2QNHN9l) )
+L' Osmo Mobile 3 **è uno stabilizzatore video** per **smartphone** della DJI, la famosissima azienda produttrice di droni, di cui già possiedo un drone, che ho utilizzato per il video e le foto dell' articolo sull' [hotel abbandonato sul Vesuvio](/hotel-eremo-vesuvio/).
 
-{{<img "Foto di that Rocket X" "/img/articoli/osmo-1.jpeg">}}
+Come potete notare dal video di anteprima su [that Rocket X](/), questo drone ha una stabilità impressionante e l' [Osmo Mobile 3](https://store.dji.com/product/osmo-mobile-3?clickpid=6910372&clicksid=6087d5910d1e34fd959050d8bb3cadee&from=dap_product&clickaid=nsKzrv1TWyvzsiaJuN0WaRGoIr8gg-Ch&pm=link&vid=83691) utilizza la stessa tecnologia di stabilizzazione utilizzata proprio da questi droni, ovvero stabilizzatori meccanici che aiutano a mantenere ferma la ripresa anche in condizioni difficili.
 
-## **Prezzo del DJI Osmo Mobile 3**
+La nostra versione dello stabilizzatore è quella "normale", ovvero quella senza accessori, ma se volete esiste anche la **versione combo** che comprende anche una custodia per trasportare il gimbal e un treppiedi. Se volete potete [acquistarla su Amazon cliccando qui]([https://amzn.to/2QNHN9l](https://amzn.to/2QNHN9l) (di fianco trovate anche quella base, potete effettuare il cambio dal menu).
 
-Il  **prezzo d'** acquisto per il gimbal   **DJI Osmo Mobile 3**  è di soli  **109,00 euro.**  Seguiamo il settore degli stabilizzatori per action cam e telefoni da parecchio tempo ma da quando DJI è entrata in questo mercato, l’asticella di mercato i è alzata di molto e i prezzi abbassati notevolmente.
-Una volta gli stabilizzatori da usare con una sola mano per smartphone erano in metallo, ma risultavano pesanti e scomodi da utilizzare. Poi li produssero in alluminio, ancora gradevole al tatto e certamente più leggeri, sino ad arrivare alla plastica grigia DJI; bruttina, ma resistente e leggera.
+Affiliate
 
-Certo l’estetica e il feeling sono leggermente decaduti, ma il peso e i prezzi ne hanno notevolmente guadagnato.
-Come dicevamo con poco più di 100 euro si può acquistare il DJI Osmo Mobile 3, pieghevole e quasi tascabile, ma a nostro avviso conviene senza ombra di dubbio acquistare la versione combo che con euro 129,00 ti fornisce anche un comodo treppiede (accessorio indispensabile) e un pratico astuccio per il trasporto.
+{{<img "Custodia dell' Osmo Mobile 3 chiusa, vista frontale" "/img/articoli/osmo-1.jpeg">}}
 
-### **Il treppiede è obbligatorio**
+## **La confezione**
 
-Il treppiede ha un attacco standard con vite F di tipo fotografico, quindi se volete risparmiare e avete già in casa un cavalletto o similare, potrete anche non comprare il kit combo, ma come dicevamo prima il DJI Osmo Mobile 3 in piedi da solo non ci sta, come invece faceva il suo predecessore Osmo Mobile 2.
-La base dello stabilizzatore proprio per evitare che qualcuno provi a farlo rimanere in equilibrio da solo, è smussata da un lato.
+La scatola dell' Osmo Mobile 3 si presenta molto basica, con una semplice immagine dell' Osmo su fondo bianco e il logo della DJI, classica, come lo era per il drone.
 
-{{<img "Foto di that Rocket X" "/img/articoli/osmo-4.jpg">}}
+Noi abbiamo comprato la **[versione base](https://store.dji.com/product/osmo-mobile-3?clickpid=6910372&clicksid=6087d5910d1e34fd959050d8bb3cadee&from=dap_product&clickaid=nsKzrv1TWyvzsiaJuN0WaRGoIr8gg-Ch&pm=link&vid=83691)** e, quindi, al suo interno abbiamo trovato l' Osmo (naturalmente), un sacchetto, un laccio di sicurezza (per fissarlo al braccio) e un cavo USB per ricaricarlo.
 
-{{<img "Foto di that Rocket X" "/img/articoli/osmo-5.jpg">}}
-
-### **Unboxing e contenuto della confezione del DJI Osmo Mobile 3**
-
-Come dicevamo la versione da noi acquistata è quella normale. Solita scatola bianca stile DJI, oramai il brand DJI ha talmente tanti prodotti che spaziano dai droni agli stabilizzatori, finendo con le action cam, che oramai la grafica e i layout della casa madre.
-
-All’interno della confezione troviamo quindi lo stabilizzatore Osmo Mobile 3 un sacchetto per riporre gli accessori o lo stesso Osmo, una cavo di ricarica USB/USB-C e un cavetto di sicurezza per il fissaggio al polso.
+L' Osmo utilizza un attacco USB di tipo C quindi se si dovesse rompere **potete utilizzare anche quello di un cellulare** di ultima generazione (non iPhone però e attenzione, alcuni vecchi cellulari usano la mini USB, controllate questa cosa), visto che l' Osmo Mobile è, appunto, mobile, quindi per cellulari, questa cosa vi tornerà utile perché potrete **ricaricare il vostro cellulare e l' Osmo con lo stesso caricabatterie**.
 
 {{<img "Foto di that Rocket X" "/img/articoli/osmo-3.jpg">}}
 
-## **Attivazione e primo funzionamento**
+## **App DJI e attivazione**
 
-Appena scartato dalla confezione, conviene certamente mettere in carica lo stabilizzatore Osmo Mobile che richiede circa 2 ore per ottenere il massimo livello delle batterie.
-Nel frattempo è necessario scaricare dagli store Android o iOS l’ **applicazione DJI MIMO,**  la stessa usata dal Osmo Pocket.
-Una volta in possesso della app, occorre seguire i passi o vedere i video tutorial entro contenuti, in poche parole cercare tramite Bluetooth lo stabilizzatore DJI Osmo Mobile 3, che deve essere acceso ovviamente, e poi registrarsi presso DJI.
+Per attivare l' Osmo bisogna **scaricare l' app DJI Mimo dal [Play Store](https://play.google.com/store/apps/details?id=dji.mimo) o dall' [App Store](https://apps.apple.com/us/app/dji-mimo/id1431720653)**, che servirà anche a controllare l' Osmo in tutte le funzionalità.
 
-Una volta effettuato l’accesso al app basterà attivare il Bluetooth dello smartphone, accendere l’osmo e sincronizare i dispositivi premendo un semplice pulsante nell’app.
+L' app è **molto intuitiva** e abbastanza semplice, in ogni caso bisognerà **seguire le procedure indicate** e accendere il gimbal e accoppiarlo al vostro cellulare tramite **Bluetooth** (5.0).
 
-### **Bilanciamento del telefono sul Osmo Mobile 3**
+Una volta finito **non cancellate l' app**, perché vi servirà tutte le volte che vorrete utilizzare l' Osmo, come ad esempio per stabilizzarlo in orizzontale o in verticale e utilizzare le **tantissime modalità presenti** e che cercheremo di utilizzare anche noi nei prossimi mesi. Apparte questo, per manovrare il gimbal basta **utilizzare il joystick centrale** a portata di pollice dall' impugnatura.
 
-Una altra differenza rispetto alla precedente versione del Osmo e proprio quella relativa alla facilità del bilanciamento dello smartphone fissato sul gimbal manuale.
-Il bilanciamento dei pesi è importantissimo per gli stabilizzatori della serie Ronin che supportano sino a 2 chilogrammi. E non erano certamente da sottovalutare nemmeno per Osmo Mobile 2, dove erano presenti due viti posteriori per le regolazioni, al fine di sistemare correttamente il posizionamento del telefono.
-Operazione non difficile, ma per chi si trova alle prime armi con questi dispositivi, poteva mettere leggermente in crisi.
+{{<img "L' osmo con un cellulare sopra in orizzontale" "/img/articoli/osmo-8.jpg">}}
 
-{{<img "Foto di that Rocket X" "/img/articoli/osmo-8.jpg">}}
+{{<img "Retro dell' Osmo" "/img/articoli/osmo-9.jpg">}}
 
-Con Osmo Mobile 3, la principale regolazione da fare, è quella orizzontale. A stabilizzatore rigorosamente spento, occorre fissare lo smartphone sul Osmo, e spostarlo leggermente  facendolo scivolare sulla manina – holder – che lo trattiene.
+Tra le tante modalità troviamo:
 
-{{<img "Foto di that Rocket X" "/img/articoli/osmo-9.jpg">}}
+### Story Mode per fare video per Instagram e altri social
 
+Una delle funzionalità più interessanti (per noi): permette di **creare dei video da caricare direttamente su Instagram** (ma nulla ci vieta di utlizzarla per altri). In questo modo si possono creare video stabili da inserire sulle storie (ciò che vorremmo fare).
 
-Nel caso in cui lo smarpthone si inclinasse ancora sull’asse del roll, lo si deve mettere in posizione verticale e poi  è sufficiente spostare leggermente il punto di attacco posteriore in un senso o nell’altro.
-Una volta che più o meno rimane in equilibrio, si può accendere.
-Al resto ci penseranno i sistemi di stabilizzazione con giroscopi e accelerometri del DJI Osmo Mobile 3.
-Le istruzioni affermano che un cattivo bilanciamento, comporta un uso irregolare ed eccessivo di alcuni motori con conseguente durata inferiore delle batterie.
-Durante il fissaggio del telefono, occorre prestare attenzione al posizionamento dello stesso con la **fotocamera sul lato sinistro,**  come da adesivo ben visibile sul Osmo.
+### Gesture Mode
 
-La movimentazione tramite il piccolo joystick **centrale** ,il **posizionamento orizzontale o verticale**, ottenibile con la  **pressione**   **consecutiva**  per due volte del **tasto mode** (quello dietro )e la stabilizzazione sono operative, anche usando una altra applicazione per registrare i video.
+Questa modalità permette di fare video utilizzando gesti, quindi avviando la registrazione in modo automatico. Apparte alcune occasioni, si è rivelata molto intelligente e funzionante.
 
-I  **tasti laterali**  che gestiscono lo zoom con  **ingrandimenti**   **digitali**  dello smartphone, invece  **sono operativi solo con la app DJI MIMO**. Stessa cosa per il bottone rosso del REC o scatto foto.
-**Per usare lo stabilizzatore manuale DJI Osmo Mobile 3 al massimo delle sue potenzialità, conviene ovviamente usare la applicazione originale.**
+### ActiveTrack
 
-Potenzialità del **Osmo Mobile 3**
+Questa funzione mantiene sempre al centro il volto di una persona selezionato, per noi non è molto utile, ma potrebbe esserlo per video di viaggi o per riprese.
 
-Sono davvero tante le funzioni che sono state introdotte mano a mano dalle precedenti versioni del Osmo che incorporano anche la tecnologia software, usata sui droni DJI.
-Ad esempio il modo **ActiveTrack:**  che sul Osmo Mobile 3  **tiene inquadrato il volto di una persona,**  dopo averla selezionata con un tap sullo schermo e la segue dando i comandi ai motori in tutte le direzione e sino a che non va fuori campo.
-Una bella comodità anche per i Vlogger, che all'interno di un ambiente si possono muovere e registrare i loro video come se dietro alla camera ci fosse un operatore video che segue i movimenti della persona.
+### Quick Roll
 
-La funzione  **Story Mode**  permette di registrare brevi video, volendo anche con musica in sottofondo,  **da caricare** direttamente  **su Instagram**  seguendo template preimpostati.
-Il  **Gesture Mode**  permette di far partire la registrazione senza toccare la applicazione in modalità selfie, con due semplici gesti della mano.
-Il  **Quick Roll,**  permette con un semplice  **doppio click sul pulsante mode**  di mettere il telefono in  **orizzontale o verticale** , quindi registrare in  16:9 o 9:16, per riempire meglio lo schermo usando le applicazioni per i più popolari social network.
+Questa è una funzione più "rapida" che funzionale, in pratica cliccando un bottone presenti sul gimbal si può ruotare lo smartphone da orizzontale a verticale e viceversa, naturalmente vi sconsigliamo di utilizzarlo durante le registrazioni, ma è utile per cambiare visualizzazione rapidamente, magari se si registra per YouTube e nel frattempo si vogliono pubblicare storie su Instagram.
 
-### **Caratteristiche tecniche del gimbal handheld Osmo Mobile 3**
+## **Posizionarlo su un treppiede**
+
+Il treppiede ha un classico attacco con vite per fotocamere (tipo F), se già ne avete uno potete acquistare la versione normale e risparmiare un po' di soldi. Tenete presente però che l' Osmo Mobile 3 non si mantiene in piedi da solo, perché ha una base smussata, quindi se non avete un treppiedi e volete usarlo in una posizione stabile, allora probabilmente vi conviene acquistare la versione combo, oppure prenderne uno. In ogni caso questo è un oggetto che di solito va utilizzato in movimento quindi se lo utilizzate per i nostri stessi scopi (in viaggio), allora non vi servirà.
+
+<div style="width: 100%"><div style="width: 50%; float: left">{{<img "La base del DJI Osmo Mobile 3 è smussata ai lati" "/img/articoli/osmo-4.jpg">}}</div><div style="width: 50%; float: right">{{<img "L' Osmo Mobile 3 con il treppiedi" "/img/articoli/osmo-5.jpg">}}</div></div>
+
+## Il nostro parere
+
+Ormai sono passati sei mesi da quando abbiamo utilizzato per la prima volta l' Osmo, sulle spiagge di Napoli.
+
+Lo stabilizzatore è ottimo, ma non lo abbiamo provato in condizioni critiche, ma per quanto riguarda il semplice camminare va benissimo, soprattutto in città e in montagna (sul Vesuvio per noi).
+
+Le modalità sono davvero ben fatte e funzionano bene. L' app è abbastanza chiara, anche se potrebbe essere sempre migliorata graficamente.
+
+L' unico problema è che se si ha un cellulare con una batteria scarsa e che si scarica velocemente, allora utilizzare il Bluetooth peggiorerà soltanto la situazione.
+
+Naturalmente bisogna avere a disposizione un cellulare con una buona fotocamera, perché altrimenti si rischia di avere un semplice video con la risoluzione di una patata ma con una stabilità ottima... Diciamo che la qualità probabilmente ne risente comunque.
+
+Se non si ha nessuno di questi problemi, il DJI è probabilmente il miglior attrezzo in questo campo anche per il prezzo, che, considerando anche il supporto via app del gimbal e la qualità del marchio, non è poi così eccessivo.
+
+Nei prossimi mesi cercheremo di utilizzarlo quanto più ci è possibile e di aggiornare questo articolo con altre foto e video.
+
+Grazie per la lettura!
+
+### **Caratteristiche tecniche**
 
 **Dimensioni:**
 
@@ -108,7 +132,7 @@ Peso: 170 – 230 g;
 Spessore: ≤ 9,5 mm;
 Larghezza: 62 – 88 mm
 
-**Batteria agli ioni di lItio:**
+**Batteria agli ioni di litio:**
 
 Capacità 2450 mAh
 Durata circa 15 ore con dispositivo ben bilanciato
@@ -116,4 +140,4 @@ Tempo di ricarica circa 2,5 ore
 **Connessione**
 Bluetooth 5.0 Low energy
 
-{{<img "Foto di that Rocket X" "/img/articoli/osmo-7.jpg">}}
+{{<img "DJI Osmo visto lateralmente" "/img/articoli/osmo-7.jpg">}}

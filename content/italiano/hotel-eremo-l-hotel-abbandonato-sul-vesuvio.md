@@ -75,7 +75,9 @@ L' entrata all' hotel manca, ormai, di qualsiasi forma di sicurezza: il vecchio 
 {{< img "Entrata dell' Hotel Eremo, dal lato opposto si trova la terrazza con vista su Napoli." "/img/articoli/eremo-entrata-completa.jpg" >}}
 <small>Foto di that Rocket X.</small>
 
+{{< avviso note >}}
 **Non siamo certi** che il luogo **non sia** più **proprietà privata**, quindi non possiamo assicurarvi dell' effettiva **legalità** del fermarsi a vedere l' hotel. Se avete notizie al riguardo **vi preghiamo di farcelo presente** nei commenti, così da poter aggiungere eventuali avvisi.​
+{{</ avviso >}}
 
 {{< titolo title="L' interno" link="interno" >}}​
 L' hotel è ormai completamente **distrutto** a causa dei vari **vandalismi** ed è lasciato in stato **di totale abbandono** con **spazzatura**, oggetti che forse sarebbe meglio non toccare e **graffiti** su graffiti che variano da quelli artistici e simpatici a quelli decisamente fuori luogo, ma che donano comunque un tocco in più all' intero complesso. Tutto ciò che poteva essere rubato è stato rubato, tutto ciò che poteva essere distrutto è stato distrutto. Un vero peccato.​
@@ -104,6 +106,10 @@ Per chi avesse la possibilità di scendere al piano inferiore (non è molto illu
 <small>Foto di that Rocket X.</small>
 
 Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali. 
+
+{{< avviso warning >}}
+Le scale sono prive di corrimano e non sicure, bisogna stare attenti quando si sale a non scivolare o sporgersi.
+{{</ avviso >}}
 
 {{< img "Foto di una camera dell' Hotel Eremo, oggi completamente distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}
 <small>Foto di that Rocket X.</small>​

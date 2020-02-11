@@ -8,6 +8,7 @@ Special thanks are given to:
 - [flaticon.com](https://www.flaticon.com) for some of the icons used inside our website
 - [Netlify](https://www.netlify.com) for hosting our website
 - [Hugo](https://www.gohugo.io) our website builder
+- [GitHub](https://www.github.com) for hosting our source code
 - [Osano](https://cookieconsent.osano.com/) for their cookie consent
 - [Sharingbuttons.io](https://sharingbuttons.io/) for the sharing buttons in our article
 - [WOW.js](https://wowjs.co.uk/) for on-scroll css animations

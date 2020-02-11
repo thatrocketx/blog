@@ -894,9 +894,10 @@ color: #000;
 }
 
 .pag-contenitore {
-  width: 90%;
+   width: 90%;
   text-align: center;
-  margin-top: 10px
+  margin-top: 10px;
+   font-size: 1.3em;
 }
 
 .pagination, .pagination li {
@@ -905,6 +906,7 @@ color: #000;
 
 .page-item a {
   color: #585151;
+  margin-left: 5px;
 }
 
 li.page-item.active a {
@@ -1010,7 +1012,8 @@ article .testo {
 
 
 .titolo-href::before {
-   content: '# ';
+   content: '#';
+   margin-left: 3px;
 }
 
 article h2 {
@@ -1721,6 +1724,10 @@ footer a {
   display: inline;
   color: #ebebeb;
   text-decoration: none;
+}
+
+.selezione-lingua a {
+    margin-left: 2px;
 }
 
 .selezione-lingua .selected {

@@ -6,7 +6,7 @@ description: >-
   Cosa fare di alternativo a Berlino. Cose insolite da fare e posti diversi da
   visitare. Tutto ciò che di solito non si fa a Berlino.
 autore: Mediterraneo
-immagine: /img/articoli/cose-insolite-da-vedere-berlino-og.png
+immagine: /img/articoli/cose-insolite-da-vedere-berlino-og.jpg
 categories:
   - Guide
 series:

@@ -6,7 +6,7 @@ description: >-
   Una guida con storia e informazioni su come prenotare gratis la visita al
   Reichstag, la sede del Parlamento tedesco, e alla sua cupola in vetro.
 autore: Mediterraneo
-immagine: /img/articoli/salire-gratis-sulla-cupola-reichstag-berlino-og.png
+immagine: /img/articoli/salire-gratis-sulla-cupola-reichstag-berlino-og.jpg
 categories:
   - Guide
 tags:

@@ -6,7 +6,7 @@ description: >-
   Una breve guida per ricevere gratuitamente delle guide turistiche per
   viaggiare in Irlanda, sia in formato cartaceo che digitale.
 autore: Mediterraneo
-immagine: /img/articoli/guide-gratis-irlanda-gratis.png
+immagine: /img/articoli/guide-gratis-irlanda-gratis.jpg
 categories:
   - Strumenti
 tags:

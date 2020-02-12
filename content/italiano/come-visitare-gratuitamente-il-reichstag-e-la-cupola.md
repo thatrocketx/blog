@@ -254,7 +254,7 @@ Per la visita sulla cupola prenderete **un' ascensore che vi porterà fino alla 
 
 {{< notice tip >}}
 Se vi interessa scoprire di più sul Bunderstag, date anche un' occhiata alla mostra dedicatagli nel Deutscher Dom.
-Ne abbiamo parlato nella sezione dedicata al [Deutscher Dom](https://www.thatrocketx.com/cosa-vedere-a-berlino/#deutscher-dom) della nostra [guida a Berlino](https://www.thatrocketx.com/cosa-vedere-a-berlino/).
+Ne abbiamo parlato nella sezione dedicata al [Deutscher Dom](/cosa-vedere-a-berlino/#deutscher-dom) della nostra [guida a Berlino](/cosa-vedere-a-berlino/).
 {{</ notice >}}
 
 {{< titolo title="Come arrivare al Reichstag" link="raggiungere-il-reichstag" >}}

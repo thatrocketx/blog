@@ -39,7 +39,7 @@ js: false
 publishdate: '2019-11-13T14:14:04+00:00'
 expirydate: ' '
 scadenza: ' '
-lastmod: '2020-02-11T13:45:04+00:00'
+lastmod: '2020-02-13T15:56:04+00:00'
 ---
 ## Introduzione
 
@@ -158,9 +158,9 @@ La cucina comprende sia **piatti tipici tedeschi** che piatti famosi e **gourmet
 
 |           | Orari                  | Menu (inglese e tedesco)                                                                                                                                |
 | --------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Colazione | fino alle 11:00        | [Menu della colazione](https://tv-turm.de/wp-content/uploads/2019/09/2019.09_Fr%C3%BChst%C3%BCckskarte_Onlineversion-mit-Zusatzstoffen-DE-EN_final.pdf) |
-| Pranzo    | dalle 11:00 alle 16:00 | [Menu del pranzo](https://tv-turm.de/wp-content/uploads/2019/09/2019.09_Tageskarte_Onlineversion-mit-Zusatzstoffen-DE-EN_final.pdf)                     |
-| Cena      | dalle 16:00 alle 22:30 | [Menu della cena](https://tv-turm.de/wp-content/uploads/2019/09/2019.09_Abendkarte-Onlineversion-mit-Zusatzstoffen_DE-EN-final.pdf)                     |
+| Colazione | fino alle 11:00        | [Menu della colazione](https://tv-turm.de/wp-content/uploads/2019/12/2019.12_Fr%C3%BChst%C3%BCckskarte_Onlineversion-mit-Zusatzstoffen-DE-EN_v1.pdf) |
+| Pranzo    | dalle 11:00 alle 16:00 | [Menu del pranzo](https://tv-turm.de/wp-content/uploads/2019/12/2019.12_Tageskarte_Onlineversion-mit-Zusatzstoffen-DE-EN_v1.pdf)                     |
+| Cena      | dalle 16:00 alle 22:30 | [Menu della cena](https://tv-turm.de/wp-content/uploads/2019/12/2019.12_Abendkarte-Onlineversion-mit-Zusatzstoffen_DE-EN_v1.pdf)                     |
 
 <center>
 

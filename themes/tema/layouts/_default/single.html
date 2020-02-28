@@ -53,30 +53,28 @@
     {{- partial "condividi.html" . -}}
   <h2 id="c">{{ T "commenti"}}</h2><br>
   {{ T "commentiinfo"}}
-  <script type="text/javascript">
-	  var disqus_config = function () {
-  this.page.url = '{{ trim .Permalink "/" }}';
-};
-	  $(function(){
-  $('#show-comments').on('click', function(){
-    var disqus_shortname = '{{.Site.DisqusShortname}}';
-
-    (function() {
-      var disqus = document.createElement('script'); 
-      disqus.type = 'text/javascript'; 
-      disqus.async = true;
-      disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
-    })();
-
-    $(this).hide(); // Hide the button
-  });
-});
-</script> 
-<div class="disqus-comments">                  
-  <button id="show-comments" type="button">Show <span class="disqus-comment-count" data-disqus-url="{{ trim .Permalink "/" }}">comments</span></button>
+ <div class="disqus-comments">
+  <div id="showcom">
+  Say something or read other's ideas
+  <button id="show-comments" type="button">Show comments</button>
+  </div>
   <div id="disqus_thread"></div>
 </div>
+<script type="text/javascript">
+  var disqus_config = function () {
+    this.page.url = '{{ trim .Permalink "/" }}';
+    this.page.title = '{{ .Title }}';
+    this.page.identifier = '{{ .UniqueID }}';
+  };
+  document.getElementById('show-comments').onclick = function () {
+    var disqus = document.createElement('script'); 
+    disqus.type = 'text/javascript'; 
+    disqus.async = true;
+    disqus.src = '//' + '{{.Site.DisqusShortname}}' + '.disqus.com/embed.js';
+    document.body.appendChild(disqus);
+    this.parentNode.parentNode.removeChild(document.getElementById('showcom'));
+  };
+</script>
   {{ $related := .Site.RegularPages.Related . | first 2 }}
   {{ with $related }}
   <h2> {{ T "vedi-anche"}} </h2>

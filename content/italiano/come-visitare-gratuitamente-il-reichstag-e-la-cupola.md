@@ -26,10 +26,12 @@ news_keywords:
 countries: Germania
 cities: Berlino
 titoloSEO: Visitare gratuitamente il Reichstag di Berlino
-sottotitolo: Guida alla prenotazione della visita
+sottotitolo: >-
+  La guida completa passo per passo per prenotare la propria visita all' interno
+  del palazzo del Reichstag e per salire sulla sua cupola di vetro.
 slug: prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino
 immagineprincipale: /img/articoli/cupola-reichstag.jpg
-descrizioneimg: La cupola del Reichstag vista da vicino dalla terrazza del Reichstag
+descrizioneimg: La cupola del Reichstag vista dalla terrazza del Reichstag
 fontawesome: false
 js: false
 adside: >-
@@ -42,7 +44,7 @@ adside: >-
   data-gyg-placement="sidebar-right" data-gyg-q="Reichstag"></div>
 publishdate: '2019-09-13T09:55:55+00:00'
 expirydate: ' '
-lastmod: '2019-09-13T09:55:55+00:00'
+lastmod: '2020-02-28T14:06:55+00:00'
 ---
 Uno dei monumenti più famosi della città di Berlino è sicuramente il Reichstag, ma una cosa che pochi sanno è che è possibile **visitare gratuitamente** la nota **cupola in vetro** che lo rende famoso in tutto il mondo.
 

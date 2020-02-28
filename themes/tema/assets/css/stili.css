@@ -515,6 +515,16 @@ input[class="navmobile"], label[for="menuapri"] {
    border-top: 3px solid #5E5252;
 }
 
+.bottone-commenti {
+   width: 100%;
+   color: #FFF;
+   background-color: #dd3d57;
+   padding: 10px;
+   margin-top:10px;
+   text-transform: uppercase;
+   cursor: pointer;
+}
+
 .sidebar {
   position: relative;
   width: 300px;

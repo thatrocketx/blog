@@ -135,3 +135,7 @@
 - id: tip
   translation: "Tip"
 
+
+- id: leggi-i-commenti
+  translation: "Click here to read the comments and share your thoughts"
+

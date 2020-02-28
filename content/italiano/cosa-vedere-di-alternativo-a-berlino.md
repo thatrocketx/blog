@@ -3,8 +3,9 @@ draft: false
 date: '2019-09-19T10:22:54+00:00'
 title: Cosa vedere di alternativo a Berlino
 description: >-
-  Cosa fare di alternativo a Berlino. Cose insolite da fare e posti diversi da
-  visitare. Tutto ciò che di solito non si fa a Berlino.
+  Berlino è conosciuta per avere alcuni tra i monumenti più famosi al mondo, ma
+  altri non lo sono poi tanto. In questa guida scopriamo cosa vedere e cosa fare
+  di alternativo nella capitale della Germania.
 autore: Mediterraneo
 immagine: /img/articoli/cose-insolite-da-vedere-berlino-og.jpg
 categories:
@@ -26,7 +27,9 @@ news_keywords:
 countries: Germania
 cities: Berlino
 titoloSEO: Cose insolite da vedere a Berlino
-sottotitolo: Cose alternative da vedere nella città
+sottotitolo: >-
+  Da opere artistiche con membri giganti a statue nascoste, le attrazioni
+  insolite che più ci hanno colpito.
 slug: cosa-vedere-a-berlino-alternativo
 immagineprincipale: /img/articoli/berlino-torre-di-controllo-3.jpg
 descrizioneimg: >-
@@ -43,7 +46,7 @@ adside: >-
 publishdate: '2019-09-19T06:22:54+00:00'
 expirydate: ' '
 scadenza: ' '
-lastmod: '2019-11-30T13:18:48+00:00'
+lastmod: '2020-02-28T12:40:48+00:00'
 ---
 Quando si va in una città si ha sempre la voglia di trovare qualche luogo "strano" o comunque poco conosciuto. Berlino è una città piena di luoghi nascosti e cose di questo genere. In questa mini-guida, appendice della [nostra guida principale alla città](/cosa-vedere-a-berlino), vi elenchiamo i luoghi e le attività meno conosciute della capitale tedesca.
 

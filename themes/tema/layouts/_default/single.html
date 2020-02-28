@@ -77,7 +77,6 @@
   <button id="show-comments" type="button">Show <span class="disqus-comment-count" data-disqus-url="{{ trim .Permalink "/" }}">comments</span></button>
   <div id="disqus_thread"></div>
 </div>
-  {{ template "_internal/disqus.html" . }}
   {{ $related := .Site.RegularPages.Related . | first 2 }}
   {{ with $related }}
   <h2> {{ T "vedi-anche"}} </h2>

@@ -14,7 +14,7 @@ tags:
   - FILM
 countries: POLONIA
 cities: POLONIA
-immagineprincipale: /img/articoli/mausoleo-abandonado-polonia-escultura-2.jpg
+immagineprincipale: /img/articoli/img_7596_rev.jpg
 descrizioneimg: INGRESSO MONASTERO
 fontawesome: false
 js: false

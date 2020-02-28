@@ -23,7 +23,7 @@ expirydate: ' '
 scadenza: ' '
 lastmod: '2020-02-28T18:32:58+01:00'
 ---
-Nel profondo del vecchio e selvaggio parco della Polonia si trova un mausoleo in decomposizione al suo interno però si nasconde qualcosa che sicuramente non ti piacerebbe trovare per caso a tarda notte. Una scultura di un demone alta pochi metri. Vedere questa statua fa meraviglia.
+Nel profondo del vecchio e selvaggio parco della Polonia si trova un mausoleo in decomposizione al suo interno però si nasconde qualcosa che sicuramente non ti piacerebbe trovare per caso a tarda notte. Una scultura di un **demone** alta pochi metri. Vedere questa statua fa meraviglia.
 Come mai in un luogo sacro, dove ti aspetteresti di vedere alcuni attributi sacri, c'è invece una creatura infernale?
 
 

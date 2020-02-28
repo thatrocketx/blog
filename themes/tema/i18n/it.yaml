@@ -131,3 +131,6 @@
   translation: "Informazione"
 - id: tip
   translation: "Consiglio"
+  
+- id: leggi-i-commenti
+  translation: "Clicca qui per leggere i commenti o condividere le tue idee"

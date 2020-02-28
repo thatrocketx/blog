@@ -4,7 +4,7 @@ date: '2020-02-28T18:32:58+01:00'
 title: 'UN DEMONE NEL MAUSOLEO ABBANDONATO '
 description: UN DEMONE MISTERIOSO
 autore: Oraion
-immagine: /img/articoli/mausoleo-abandonado-polonia-escultura-2.jpg
+immagine: /img/articoli/img_7596_rev.jpg
 categories:
   - RACCONTI DI VIAGGIO
 tags:
@@ -14,7 +14,7 @@ tags:
   - FILM
 countries: POLONIA
 cities: POLONIA
-immagineprincipale: /img/articoli/img_7596_rev.jpg
+immagineprincipale: /img/articoli/mausoleo-abandonado-polonia-escultura-2.jpg
 descrizioneimg: INGRESSO MONASTERO
 fontawesome: false
 js: false

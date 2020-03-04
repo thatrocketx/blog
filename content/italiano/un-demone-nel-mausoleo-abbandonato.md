@@ -28,7 +28,7 @@ Come mai in un luogo sacro, dove ti aspetteresti di vedere alcuni attributi sacr
 
 {{<img "vista frontale demone" "/img/articoli/mausoleo-abandonado-polonia-escultura-3.jpeg">}}
 
-<div align="center"><img src="/img/articoli/mausoleo-abandonado-polonia-escultura-3.jpeg"></div>
+<img src="/img/articoli/mausoleo-abandonado-polonia-escultura-3.jpeg" alt="breve descrizione dell'immagine">
 
 Alcuni anni fa è stato girato un film horror **Redwood di Nicholas Brendon**, questa spaventosa scultura faceva parte della scenografia. È passato già un po’ di tempo dalle riprese (film del 2018). Il demone e piaciuto così tanto che non è mai stato rimosso dal mausoleo in stato di abbandono. L’edificio è aperto, quindi tutti posso passare a dare uno sguardo all’inquietante statua. Tuttavia, l'ospitalità del demone ha anche i suoi lati negativi: dal momento che il posto è aperto a tutti, di volta in volta alcuni visitatori cercano di sconfiggere la bestia e se non fosse per alcuni appassionati che lo riparano ogni volta che viene danneggiato, la scultura andrebbe distrutta. Fortunatamente ci sono state alcune protezioni implementate recentemente nel mausoleo che in futuro aiuteranno a identificare i vandali.
 

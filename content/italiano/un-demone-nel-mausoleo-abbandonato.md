@@ -1,6 +1,6 @@
 ---
 draft: false
-date: '2020-03-04T18:32:00+01:00'
+date: '2020-03-04T06:32:00+01:00'
 title: 'UN DEMONE NEL MAUSOLEO ABBANDONATO '
 description: UN DEMONE MISTERIOSO
 autore: Oraion
@@ -18,10 +18,10 @@ immagineprincipale: /img/articoli/mausoleo-abandonado-polonia-escultura-2.jpg
 descrizioneimg: INGRESSO MONASTERO
 fontawesome: false
 js: false
-publishdate: '2020-03-04T18:32:00+01:00'
+publishdate: '2020-03-04T06:32:00+01:00'
 expirydate: ' '
 scadenza: ' '
-lastmod: '2020-03-04T18:32:00+01:00'
+lastmod: '2020-03-04T06:32:00+01:00'
 ---
 Nel profondo del vecchio e selvaggio parco della Polonia si trova un mausoleo in decomposizione al suo interno però si nasconde qualcosa che sicuramente non ti piacerebbe trovare per caso a tarda notte. Una scultura di un **demone** alta pochi metri. Vedere questa statua fa meraviglia.
 Come mai in un luogo sacro, dove ti aspetteresti di vedere alcuni attributi sacri, c'è invece una creatura infernale?

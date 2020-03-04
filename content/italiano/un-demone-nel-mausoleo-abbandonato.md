@@ -18,7 +18,7 @@ immagineprincipale: /img/articoli/mausoleo-abandonado-polonia-escultura-2.jpg
 descrizioneimg: INGRESSO MONASTERO
 fontawesome: false
 js: false
-publishdate: '2020-02-28T18:32:58+01:00'
+publishdate: '2020-01-08T18:32:00+01:00'
 expirydate: ' '
 scadenza: ' '
 lastmod: '2020-02-28T18:32:58+01:00'

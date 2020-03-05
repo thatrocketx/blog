@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Language.Lang }}">
     {{- partial "head.html" . -}}
-    <body>
+    <body data-instant-allow-query-string>
       <a href="#content" class="nascosto">{{ T "salta_contenuto"}}</a>
         {{- partial "header.html" . -}}
         <div id="content" class="main-contenitore">

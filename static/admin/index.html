@@ -12,5 +12,10 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.js"></script>
+  <script type="application/javascript">
+   import CMS from 'netlify-cms-app';
+   import { it } from 'netlify-cms-locales';
+   CMS.registerLocale('it', it);
+  </script>
 </body>
 </html>

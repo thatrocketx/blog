@@ -16,7 +16,7 @@ collections:
     folder: "content/italiano" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template
-    preview_path: preview/{{slug}}
+    preview_path: italiano/preview/{{slug}}
     fields: # The fields for each document, usually in front matter
       - {label: "Bozza", name: "draft", widget: "boolean", default: false, required: true, hint: "Spuntare la casella se non si vuole pubblicare l' articolo, ma salvarlo per successive modifiche"}
       - {label: "Data", name: "date", widget: "datetime", required: false}

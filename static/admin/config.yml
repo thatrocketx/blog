@@ -12,7 +12,7 @@ locale: 'it'
 
 collections:
   - name: "italiano" # Used in routes, e.g., /admin/collections/blog
-    label: "Nuovo articolo" # Used in the UI
+    label: "articolo" # Used in the UI
     folder: "content/italiano" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template
@@ -48,7 +48,7 @@ collections:
       - {label: "Data ultima modifica", name: "lastmod", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo"}
       
   - name: "inglese" # Used in routes, e.g., /admin/collections/blog
-    label: "Articolo in inglese" # Used in the UI
+    label: "articolo in inglese" # Used in the UI
     folder: "content/english" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template
@@ -75,15 +75,4 @@ collections:
       - {label: "Data nella quale pubblicare l' articolo", name: "publishdate", widget: "datetime", required: true, hint: "Inserire la data nella quale si vuole pubblicare l' articolo"}
       - {label: "Data di scadenza articolo", name: "expirydate", widget: "datetime", required: false, hint: "Data nella quale rimuovere l' articolo", default: " "}
       - {label: "Mostra scadenza", name: "mostrascadenza", widget: "boolean", required: false, hint: "Mostra la scadenza nell' anteprima dell' articolo"}
-
-  - name: "seriesit" # Used in routes, e.g., /admin/collections/blog
-    label: "Aggiungi serie" # Used in the UI
-    folder: "content/italiano/series" # The path to the folder where the documents are stored
-    create: true
-    slug: "series/{{slug}}/_index.md"
-    fields:
-      - {label: "Nome serie", name: "title", widget: "string", required: true}
-      - {label: "Descrizione", name: "description", widget: "string", required: true, hint: "Descrizione"}
-      - {label: "Breve Descrizione", name: "body", widget: "markdown", required: true}
-
     

@@ -101,9 +101,14 @@ Da qui è possibile rendersi conto di quanto fosse grande l' hotel: si può nota
 {{< img "Parte della terrazza dell' Hotel Eremo con oggetti abbandonati." "/img/articoli/eremo-terrazza.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
-Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l' ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattata una da una delle finestre dell' hotel. Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti segni satanici, che ora sembrano essere stati cancellati o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​
+Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l' ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattata una da una delle finestre dell' hotel. Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti segni satanici, che ora sembrano essere stati cancellati per la maggior parte o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​
 
 {{< img "Foto della statua di Gesù nello spiazzato dell' Hotel Eremo." "/img/articoli/eremo-statua-gesu.jpg" >}}
+<small>Foto di that Rocket X.</small>
+
+Ecco una foto che abbiamo scattato con il drone, in cui si la statua si vede più nel dettaglio.
+
+{{< img "Foto della statua di Gesù nello spiazzato dell' Hotel Eremo." "/img/articoli/foto-gesu-eremo-drone.jpg" >}}
 <small>Foto di that Rocket X.</small>
 
 {{< titolo title="Il secondo piano" link="secondo-piano" >}}​
@@ -122,7 +127,7 @@ Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due t
 <small>Foto di that Rocket X.</small>​
 
 {{< titolo title="Il terzo piano" link="terzo-piano" >}}​
-{{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/porta-terzo-piano-eremo_c.jpg" >}}
+{{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/porta-terzo-piano-eremo_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 {{< notice warning >}}
@@ -144,7 +149,7 @@ Una cosa molto emozionante è poter leggere, sotto il legno e l' acciaio, **i no
 {{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-porta_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
-In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porre degli oggetti o se avesse altri scopi, forse di riscaldamento, non ne siamo assolutamente certi. Non pensiamo sia un fornzo, perché sarebbe stato scomodo da utilizzare e soprattutto la sua posizione non sarebbe stata molto strategica.
+In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porre degli oggetti o se avesse altri scopi, forse di riscaldamento, non ne siamo assolutamente certi. Non pensiamo sia un forno, perché sarebbe stato scomodo da utilizzare e soprattutto la sua posizione non sarebbe stata molto strategica.
 
 {{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-2_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​

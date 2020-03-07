@@ -56,7 +56,7 @@ Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci si
 
 In questo articolo vi racconteremo **la nostra esperienza** durante la nostra visita all' **Hotel Eremo**: cosa abbiamo visto e **cosa abbiamo scoperto** di questo piccolo **gioiello abbandonato** sul **Vesuvio**.​
 
-{{< img "Vecchio cancello per entrare all' Hotel Eremo" "/img/cancello-eremo_c.jpg" >}}
+{{< img "Vecchio cancello per entrare all' Hotel Eremo" "/img/articoli/cancello-eremo_c.jpg" >}}
 <small>Foto di that Rocket X.</small>
 
 {{< titolo title="Una breve introduzione - La storia dell' Hotel Eremo e del suo abbandono" link="storia" >}}​
@@ -133,22 +133,22 @@ Raggiungere il terzo piano è **molto pericoloso**, la poca attenzione può port
 
 Vicino alle scale che portano al secondo piano si trova una porta semi-aperta che si affaccia **nel vuoto**, grazie quale è possibile raggiungere il terzo piano.
 
-{{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/scala-terzo-piano-eremo_c.jpg" >}}
+{{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/scala-terzo-piano-eremo_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 Una volta entrati, sulla destra, si trova una piccola **scala a chiocciola** (stranamente ancora intatta) che porta ad ad uno stretto deposito pieno di **polvere, vari stracci e pezzi di legno**. Ipotizziamo fosse un luogo accessibile soltanto al personale dell' hotel. 
 
-{{< img "Una parte del terzo piano, qui sotto è possibile leggere i nomi delle ditte che hanno lavorato su questa parte dell' hotel" "/img/terzo-piano-eremo-stretto_c.jpg" >}}
+{{< img "Una parte del terzo piano, qui sotto è possibile leggere i nomi delle ditte che hanno lavorato su questa parte dell' hotel" "/img/articoli/terzo-piano-eremo-stretto_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 Una cosa molto emozionante è poter leggere, sotto il legno e l' acciaio, **i nomi delle varie ditte che vi hanno lavorato** e soprattutto poter quasi sentirsi protetti in questo piccolo luogo e dimenticarsi di trovarsi in un hotel così grande.
 
-{{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/terzo-piano-eremo-porta_c.jpg" >}}
+{{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-porta_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porre degli oggetti o se avesse altri scopi, forse di riscaldamento, non ne siamo assolutamente certi. Non pensiamo sia un fornzo, perché sarebbe stato scomodo da utilizzare e soprattutto la sua posizione non sarebbe stata molto strategica.
 
-{{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/terzo-piano-eremo-2_c.jpg" >}}
+{{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-2_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
 

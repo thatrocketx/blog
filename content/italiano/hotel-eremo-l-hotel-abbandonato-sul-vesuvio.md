@@ -66,6 +66,7 @@ Con le **eruzioni** del Vesuvio che si manifestarono nel '900, tra le quali rico
 
 Non siamo riusciti a trovare informazioni chiare sul perché l' hotel sia stato abbandonato, ma è molto probabile che i costi di manutenzione non giustificassero la scarsa richiesta. Probabilmente la distanza dell' hotel dal centro ha giocato un ruolo chiave per l' **abbandono**.​
 
+
 {{< titolo title="Arrivo all' hotel" link="arrivo" >}}​
 Il nostro primo incontro con questo edificio lo abbiamo avuto per puro caso, seguendo uno dei **sentieri del Parco Nazionale del Vesuvio** che abbiamo scoperto essere il numero 4.​
 

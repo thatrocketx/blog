@@ -66,7 +66,6 @@ Con le **eruzioni** del Vesuvio che si manifestarono nel '900, tra le quali rico
 
 Non siamo riusciti a trovare informazioni chiare sul perché l' hotel sia stato abbandonato, ma è molto probabile che i costi di manutenzione non giustificassero la scarsa richiesta. Probabilmente la distanza dell' hotel dal centro ha giocato un ruolo chiave per l' **abbandono**.​
 
-
 {{< titolo title="Arrivo all' hotel" link="arrivo" >}}​
 Il nostro primo incontro con questo edificio lo abbiamo avuto per puro caso, seguendo uno dei **sentieri del Parco Nazionale del Vesuvio** che abbiamo scoperto essere il numero 4.​
 
@@ -108,7 +107,6 @@ Per chi avesse la possibilità di scendere al piano inferiore (non è molto illu
 <small>Foto di that Rocket X.</small>
 
 {{< titolo title="Il secondo piano" link="secondo-piano" >}}​
-
 Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali. 
 
 {{< notice warning >}}
@@ -124,7 +122,6 @@ Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due t
 <small>Foto di that Rocket X.</small>​
 
 {{< titolo title="Il terzo piano" link="terzo-piano" >}}​
-
 {{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/porta-terzo-piano-eremo_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
@@ -152,13 +149,11 @@ In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porr
 {{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-2_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
-
 Questo è uno dei posti meglio mantenuti, probabilmente perché è rischioso da raggiungere. Una delle perle nascoste dell' hotel.
 
 {{< notice note >}}
 Nel caso in cui vi recaste, vi preghiamo di **non distruggere** e **non rubare** nulla dall' hotel, anche perché [potrebbe trattarsi di reato](https://www.laleggepertutti.it/149661_entrare-in-un-edificio-abbandonato-e-reato). Ricordate di essere civili.
 {{</ notice >}}
-
 
 {{< titolo title="Conclusioni" link="conclusioni" >}}​
 Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità**, **adrenalina** e **inquietudine**. Viene voglia di esplorarlo da cima a fondo. Ciò che secondo noi rende così affascinante questo luogo è proprio il fatto che **un hotel così bello**, in un posto fantastico, nel quale prima non si poteva accedere, oggi è lì **abbandonato** e **distrutto**.​
@@ -167,7 +162,6 @@ Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità
 <small>Foto da Wikicommons - Autore sconosciuto -- Di <span lang="it">sconosciuto</span> - Cartolina d'epoca, Pubblico dominio, <a href="https://commons.wikimedia.org/w/index.php?curid=38738873">Collegamento</a></small>
 
 Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** una volta, se non in alcune foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
-
 
 {{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/city.frame\" data-gyg-iata=\"nap\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"city\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-cmp=\"hotel-eremo\"></div>" "<hr><a href=\"https://www.getyourguide.com/catacombs-of-san-gennaro-l3801/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=hotel-eremo-link-amp\" rel=\"nofollow\">🎟️ Scopri le catacombe di San Gennaro e altre attrazioni di Napoli su GetYourGuide ↗️</a>" >}}
 <small> Annuncio tramite affiliazione - Affiliate </small>

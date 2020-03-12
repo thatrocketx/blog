@@ -49,9 +49,9 @@
 L.geoJSON(pos, {
   onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.name+'<p>'+feature.properties.description+'</p>');
-  },
-   var bounds = layer.getBounds();
+  }   
 }).addTo(map);
+var bounds = pos.getBounds();
 map.fitBounds(var);
 </script>
  {{ range  (.Paginator 8).Pages }}

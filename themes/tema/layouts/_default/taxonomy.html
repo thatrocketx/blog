@@ -52,7 +52,7 @@ L.geoJSON(pos, {
   }   
 }).addTo(map);
 var bounds = pos.getBounds();
-map.fitBounds(var);
+map.fitBounds(bounds);
 </script>
  {{ range  (.Paginator 8).Pages }}
  {{- partial "articoli.html" . -}}

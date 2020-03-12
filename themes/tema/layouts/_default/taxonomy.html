@@ -35,7 +35,7 @@
     const pos = {
   "type": "FeatureCollection",
   "features": [
-	  $pages := .Pages
+	  {{ $pages := .Pages }}
 	  {{ range .Pages }}{{ if (isset .Params "posizione") }}
     {
       "type": "Feature",

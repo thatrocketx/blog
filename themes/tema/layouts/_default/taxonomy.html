@@ -49,9 +49,10 @@
 L.geoJSON(pos, {
   onEachFeature: function (feature, layer) {
     layer.bindPopup('<a href="{{ .URL }}">'+feature.properties.name+'</a><p>'+feature.properties.description+'</p>');
+    var latLngsBounds = new  L.LatLngBounds(L.geoJSON.coordsToLatLngs(feature.geometry.coordinates[0][0]));
   }   
 }).addTo(map);
-map.fitBounds(pos.getBounds());
+map.fitBounds(latLngsBounds);
 </script>
  {{ range  (.Paginator 8).Pages }}
  {{- partial "articoli.html" . -}}

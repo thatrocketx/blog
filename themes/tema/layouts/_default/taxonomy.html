@@ -46,7 +46,6 @@
     } {{ end }}{{ end }}
   ]
 }
-  map.fitBounds(pos.getBounds());
 L.geoJSON(pos, {
   onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.name+'<p>'+feature.properties.description+'</p>');

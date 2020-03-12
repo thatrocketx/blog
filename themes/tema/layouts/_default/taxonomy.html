@@ -41,7 +41,7 @@
         "name": "{{.Title}}",
         "description": "{{.Params.description}}"
       },
-      "geometry": "{{ .Params.posizione | safeJSS }}"
+      "geometry": "{{ .Params.posizione | safeJS }}"
     }, {{ end }}{{ end }}
   ]
 }

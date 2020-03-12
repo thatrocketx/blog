@@ -24,6 +24,7 @@ news_keywords:
   - come prenotare berlino
   - reichstag visitare
 countries: Germania
+posizione: '{"type":"Point","coordinates":[13.3761066,52.5185986]}'
 cities: Berlino
 titoloSEO: Visitare gratuitamente il Reichstag di Berlino
 sottotitolo: >-

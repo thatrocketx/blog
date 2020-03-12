@@ -35,7 +35,7 @@
     const pos = {
   "type": "FeatureCollection",
   "features": [
-	  {{ delimit .Pages ", " }}{{ if (isset .Params "posizione") }}
+	  {{ {{- range $key, $ps := .Params.posizione }} }}{{ if (isset .Params "posizione") }}
     {
       "type": "Feature",
       "properties": {
@@ -43,7 +43,7 @@
         "description": {{ .Params.description }}
       },
       "geometry": {{ .Params.posizione | safeJS }}
-    }
+    }{{- if ne $key, 0 }}, {{ end }}
 	  {{ end }}{{ end }}
   ]
 }

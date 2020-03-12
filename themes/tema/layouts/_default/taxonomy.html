@@ -14,6 +14,39 @@
 			c36.83,16.94,68.806,38.972,95.93,66.09c27.118,27.123,49.149,59.101,66.089,95.931c16.94,36.836,26.557,75.705,28.839,116.627
 			c0.195,4.764,2.046,8.809,5.564,12.139c3.524,3.329,7.762,4.999,12.71,4.999h40.823c5.331,0,9.701-1.902,13.134-5.715
 			c3.809-3.806,5.517-8.274,5.144-13.415C399.52,333.017,388.093,285.291,367.728,239.701z"/><span class="nascosto">Feed</span></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></a></div>
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
+	<div id="map"></div>
+    <style>
+    #map{height: 500px; z-index: 1;}
+    </style>
+    <script type="application/javascript">
+    var map = L.map('map').setView([42.594, 10.393], 6);
+    map.options.maxZoom = 16;
+    map.options.minZoom = 2;
+    const attribution ='Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery &copy <a href="https://www.mapbox.com/">Mapbox</a>';
+    const tileUrl = 'https://{s}.tile.openstreetmap.org/${z}/${x}/${y}.png';
+    const tiles = L.tileLayer(tileUrl, { attribution });
+    tiles.addTo(map);
+    const pos = {
+  "type": "FeatureCollection",
+  "features": [{{ range .Pages }}
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "{{.Title}}",
+        "description": "{{.Params.description}}"
+      },
+      "geometry": {{ .Params.posizione }}
+    }, {{ end }}
+  ]
+}
+  map.fitBounds(group.getBounds())
+</script>
  {{ range  (.Paginator 8).Pages }}
  {{- partial "articoli.html" . -}}
  {{ end }}

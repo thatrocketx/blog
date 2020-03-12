@@ -25,6 +25,7 @@ news_keywords:
   - visitare berlino
   - turismo berlino
 countries: Germania
+posizione: '{"type":"Point","coordinates":[13.3916698,52.5065303]}'
 cities: Berlino
 titoloSEO: Cose insolite da vedere a Berlino
 sottotitolo: >-

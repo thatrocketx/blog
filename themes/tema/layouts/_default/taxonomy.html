@@ -38,10 +38,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "{{.Title}}",
-        "description": "{{.Params.description}}"
+        "name": "{{ printf "%s" .Title | safeJS }}",
+        "description": "{{ printf "%s" .Params.description | safeJS }}"
       },
-      "geometry": {{ printf "\"%s\"" .Params.posizione | safeJS }}
+      "geometry": {{ printf "%s" .Params.posizione | safeJS }}
     }, {{ end }}{{ end }}
   ]
 }

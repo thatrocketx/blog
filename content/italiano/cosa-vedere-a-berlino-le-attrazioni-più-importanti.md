@@ -25,6 +25,7 @@ news_keywords:
   - germania
   - turismo berlino
 countries: Germania
+posizione: '{"type":"Point","coordinates":[13.3888364,52.5169991]}'
 cities: Berlino
 titoloSEO: 'Viaggio a Berlino: cosa vedere?'
 sottotitolo: Le nostre attrazioni preferite per la capitale tedesca.

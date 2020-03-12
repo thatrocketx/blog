@@ -48,11 +48,10 @@
 }
 L.geoJSON(pos, {
   onEachFeature: function (feature, layer) {
-    layer.bindPopup(feature.properties.name+'<p>'+feature.properties.description+'</p>');
+    layer.bindPopup('<a href="{{ .URL }}">'feature.properties.name+'</a><p>'+feature.properties.description+'</p>');
   }   
 }).addTo(map);
-var bounds = pos.getBounds();
-map.fitBounds(bounds);
+map.fitBounds(pos.layer.getBounds());
 </script>
  {{ range  (.Paginator 8).Pages }}
  {{- partial "articoli.html" . -}}

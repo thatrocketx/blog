@@ -44,8 +44,7 @@
         "description": {{ .Params.description }}
       },
       "geometry": {{ .Params.posizione | safeJS }}
-    }{{ cond (eq (len $pages) 1) "," " " }}
-	  {{ end }}{{ end }}{}
+    }{{ cond (eq (len $pages) 1) "," " " }}{{ end }}{{ end }}
   ]
 }
   map.fitBounds(pos.getBounds());

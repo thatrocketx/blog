@@ -313,7 +313,7 @@ Se non lo avete ancora fatto, **vi invitiamo a leggere la** [**nostra guida a Be
 
 Grazie per la lettura. **Buon viaggio**!
 
-<div style="width: 100%"><a href="https://www.civitatis.com/it/berlino/free-tour-berlino?aid=8933" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center"><svg width="100px" height="50px" style="float: left" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<div style="width: 100%"><a href="https://www.civitatis.com/it/berlino/free-tour-berlino?aid=8933" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center"><svg width="100px" height="50px" style="float: left" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" >
 <g transform="matrix(1.8075 0 0 1.8075 -1516.1 329.57)">
 <g transform="matrix(1.1609 0 0 1.1609 -173.43 -60.475)" fill="#fff" stroke="#f9f9f9">
 <rect x="917.48" y="-39.51" width="3.7418" height="70.345" stroke-width=".50932"/>

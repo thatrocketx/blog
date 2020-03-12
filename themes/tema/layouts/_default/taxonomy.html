@@ -34,15 +34,17 @@
     tiles.addTo(map);
     const pos = {
   "type": "FeatureCollection",
-  "features": [{{ range .Pages }}{{ if (isset .Params "posizione") }}
+  "features": [
+	  {{ range .Pages }}{{ if (isset .Params "posizione") }}
     {
       "type": "Feature",
       "properties": {
-        "name": "{{ printf "%s" .Title | safeJS }}",
-        "description": "{{ printf "%s" .Params.description | safeJS }}"
+        "name": "{{ .Title | safeJS }}",
+        "description": "{{ .Params.description | safeJS }}"
       },
-      "geometry": {{ printf "%s" .Params.posizione | safeJS }}
-    }, {{ end }}{{ end }}
+      "geometry": {{ .Params.posizione | safeJS }}
+    }, 
+	  {{ end }}{{ end }}
   ]
 }
   map.fitBounds(pos.getBounds());

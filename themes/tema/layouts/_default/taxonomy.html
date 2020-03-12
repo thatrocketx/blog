@@ -44,15 +44,7 @@
       },
       "geometry": {{ .Params.posizione | safeJS }}
     },
-	  {{ end }}{{ end }}
-	    {
-      "type": "Feature",
-      "properties": {
-        "name": "",
-        "description": ""
-      },
-      "geometry": 
-    }
+	  {{ end }}{{ end }}{}
   ]
 }
   map.fitBounds(pos.getBounds());

@@ -26,6 +26,7 @@ news_keywords:
   - prezzi torre berlino
   - biglietti torre della tv
 countries: Germania
+posizione: '{"type":"Point","coordinates":[13.4094223,52.5208241]}'
 cities: Berlino
 titoloSEO: Guida completa alla Torre della Televisione di Berlino
 sottotitolo: Guida completa ad una delle attrazioni più importanti di Berlino

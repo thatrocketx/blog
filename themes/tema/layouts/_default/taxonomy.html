@@ -39,8 +39,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "{{ .Title }}",
-        "description": "{{ .Params.description }}"
+        "name": {{ .Title }},
+        "description": {{ .Params.description }}
       },
       "geometry": {{ .Params.posizione | safeJS }}
     }, 

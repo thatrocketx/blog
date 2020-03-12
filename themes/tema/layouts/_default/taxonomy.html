@@ -35,7 +35,7 @@
     const pos = {
   "type": "FeatureCollection",
   "features": [
-	 {{ range $i, $e := .Pages }}{{ if (isset .Params "posizione") }}
+	 {{ range $i, $e := .Pages }}{{ if (isset .Params "posizione") }}{{ if $i }},{{else}} {{ end }} 
     {
       "type": "Feature",
       "properties": {
@@ -43,7 +43,7 @@
         "description": {{ .Params.description }}
       },
       "geometry": {{ .Params.posizione | safeJS }}
-    } {{ if $i }},{{else}} {{ end }} {{ end }}{{ end }}
+    } {{ end }}{{ end }}
   ]
 }
   map.fitBounds(pos.getBounds());

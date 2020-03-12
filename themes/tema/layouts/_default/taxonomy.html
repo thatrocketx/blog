@@ -43,7 +43,7 @@
         "description": {{ .Params.description }}
       },
       "geometry": {{ .Params.posizione | safeJS }}
-    } {{ if $i }},{{else}}{{end}} {{ end }} {{ end }}{{ end }}
+    } {{ if $i }},{{else}} {{ end }} {{ end }}{{ end }}
   ]
 }
   map.fitBounds(pos.getBounds());

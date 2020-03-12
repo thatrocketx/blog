@@ -22,7 +22,7 @@
   crossorigin=""></script>
 	<div id="map"></div>
     <style>
-    #map{height: 300px; z-index: 1;}
+    #map{height: 300px; z-index: 1; max-width: 700px; margin: auto; margin-top: 3px}
     </style>
     <script type="application/javascript">
     var map = L.map('map').setView([42.394, 11.393], 5);
@@ -41,7 +41,7 @@
         "name": "{{.Title}}",
         "description": "{{.Params.description}}"
       },
-      "geometry": "{{ .Params.posizione }}"
+      "geometry": "{{ .Params.posizione | safeJSS }}"
     }, {{ end }}{{ end }}
   ]
 }

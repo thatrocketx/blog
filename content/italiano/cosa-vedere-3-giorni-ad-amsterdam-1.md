@@ -14,6 +14,7 @@ news_keywords:
   - Cosa vedere in 3 giorni ad Amsterdam
   - canali
 countries: Paesi Bassi
+posizione: '{"type":"Point","coordinates":[4.900589,52.3707364]}'
 cities: Amsterdam
 titoloSEO: 3 giorni ad Amsterdam
 sottotitolo: In giro per Amsterdam

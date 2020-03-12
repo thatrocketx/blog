@@ -23,6 +23,7 @@ news_keywords:
   - schonefeld
   - sxf
 countries: Germania
+posizione: '{"type":"Point","coordinates":[13.5115528,52.373629]}'
 cities: Berlino
 titoloSEO: Come arrivare nel Centro di Berlino dall' aeroporto Schönefeld
 sottotitolo: >-

@@ -51,7 +51,7 @@ L.geoJSON(pos, {
     layer.bindPopup('<a href="{{ .URL }}">'+feature.properties.name+'</a><p>'+feature.properties.description+'</p>');
   }   
 }).addTo(map);
-map.fitBounds(pos.getBounds())
+map.fitBounds(pos.getBounds());
 </script>
  {{ range  (.Paginator 8).Pages }}
  {{- partial "articoli.html" . -}}

@@ -120,9 +120,13 @@ Sui bus **riportiamo semplicemente le informazioni** dal [sito di Berlino](https
 ### Bus e fermate
 
 🚍 **X7 e 171 (EXPRESS)**: Bus diretto per la metropolitana di Rudow. Da qui potreste prendere i treni della metropolitana che arrivano nell' area che vi interessa.
+
 🚍 **163**: Grünau stazione, Adlershof stazione, Schöneweide stazione
+
 🚍 **164**: Adlershof stazione, Köpenick stazione, Kaulsdorf stazione
+
 🚍 **171**: Rudow metropolitana, Hermannplatz metropolitana
+
 
 {{< img "Stazione bus dell' aeroporto di Berlino Schönefeld. Mostra due autobus parcheggiati: uno bianco e un Flixbus." "/img/articoli/bus_compressed.jpg" >}}
 <small> Foto di that Rocket X.</small>

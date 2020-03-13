@@ -1,0 +1,76 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "whatsapp",
+    "system"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "Leggi l' articolo completo"
+    },
+    {
+      "type": "small",
+      "title": "Hotel Eremo - l' hotel abbandonato sul Vesuvio",
+      "url": "https://www.thatrocketx.com/hotel-eremo-vesuvio/",
+      "image": "https://www.thatrocketx.com/img/articoli/eremo-opengraph.jpg"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Leggi l' articolo",
+          "url": "https://www.thatrocketx.com/hotel-eremo-vesuvio/"
+        },
+        {
+          "text": "Scrivi un commento",
+          "url": "https://www.thatrocketx.com/hotel-eremo-vesuvio/#c"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Scopri di più"
+    },
+    {
+      "type": "small",
+      "title": "Ferrovia Pugliano-Vesuvio su Wikipedia",
+      "url": "https://it.wikipedia.org/wiki/Ferrovia_Pugliano-Vesuvio",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg"
+    },
+    {
+      "type": "small",
+      "title": "La Ferrovia del Vesuvio di lestradeferrate.it",
+      "url": "http://www.lestradeferrate.it/mono67.htm"
+      },
+      {
+        "type": "small",
+        "title": "LIBERATO - ME STAJE APPENNENN' AMÒ",
+        "url": "https://www.youtube.com/watch?v=8pFwPKNDF6E",
+        "image": "https://invidio.us/vi/8pFwPKNDF6E/maxres.jpg"
+        },
+      {
+        "type": "heading",
+        "text": "Crediti"
+      },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Music by Myuu",
+          "url": "https://www.thedarkpiano.com/abandoned-places-music"
+        },
+        {
+          "text": "Immagine cartolina",
+          "url": "https://commons.wikimedia.org/wiki/File:Ferrovia_vesuviana_-_panorama.jpg"
+        },
+        {
+          "text": "Template AMP",
+          "url": "https://github.com/ampproject/amp.dev/blob/master/tutorial_source/amp-pets-story/"
+        }
+      ]
+    }
+  ]
+}

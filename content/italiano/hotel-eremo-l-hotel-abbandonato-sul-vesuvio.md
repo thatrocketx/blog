@@ -49,6 +49,9 @@ expirydate: ' '
 scadenza: ''
 lastmod: 2020-03-07T17:16:00.000Z
 ---
+<style>.storia-he-wrapper {width: 100%} .storia-he {margin: auto; width: 4em; height: 4em; border-radius: 100%; border: 3px solid #dd3d57; background-image: url('https://www.thatrocketx.com/img/articoli/hotel-eremo-vista-aerea.jpg'); background-size: cover;  -webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-ms-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;} .storia-he:hover {transform: scale(1.1); cursor: pointer; -webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-ms-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;} .storia-he:active {transform: scale(.9)} .storia-he-wrapper a {border: none}</style>
+<div class="storia-he-wrapper"><a href="https://www.thatrocketx.com/stories/hotel-eremo-vesuvio" class="noext"><div class="storia-he"></div></a></div>
+
 Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
 
 Ciò che rende quest' hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l' _(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un' ottima presenza "_turistica_" grazie agli amanti dei luoghi abbandonati. 

@@ -11,9 +11,9 @@ logo_url: https://www.thatrocketx.com/trx.svg
 locale: 'it'
 
 collections:
-  - name: "italiano" # Used in routes, e.g., /admin/collections/blog
+  - name: "blog/italiano" # Used in routes, e.g., /admin/collections/blog
     label: "articolo" # Used in the UI
-    folder: "content/italiano" # The path to the folder where the documents are stored
+    folder: "_content/italiano" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template
     preview_path: /{{fields.slug}}

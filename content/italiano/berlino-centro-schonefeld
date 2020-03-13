@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2019-08-22T13:33:00
+date: '2019-08-22T13:33:00+00:00'
 title: Come arrivare a Berlino Centro dall' aeroporto Schönefeld
 description: >-
   L' aeroporto di Berlino Schönefeld (SXF) è uno dei due aeroporti principali di
@@ -47,10 +47,10 @@ adside: |-
     data-gyg-number-of-items="2" data-gyg-cmp="berlino-alternativa-side"
     data-gyg-partner-id="CSSHL9T" data-gyg-placement="sidebar-right"
     data-gyg-tour-ids="6045,363470"></div>
-publishdate: 2019-08-22T13:33:00
+publishdate: '2019-08-22T13:33:00+00:00'
 expirydate: ' '
 scadenza: ' '
-lastmod: 2020-03-13T14:12:45.200Z
+lastmod: '2020-03-13T14:12:20+00:00'
 ---
 {{< titolo title="Introduzione" link="introduzione" >}}
 

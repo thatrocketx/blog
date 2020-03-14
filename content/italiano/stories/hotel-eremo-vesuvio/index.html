@@ -149,13 +149,21 @@ nolist: true
       <amp-story-page id="page2">
         <amp-story-grid-layer template="vertical">
           <h1 animate-in="fade-in" animate-in-duration="5s">Eruzione del 1944</h1>
-          <amp-video autoplay loop controls animate-in="fade-in" animation-duration="8s" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv"
-              width="768" height="576"
-              layout="responsive" type="video/ogv">
-          </amp-video>
+            <amp-video animate-in="fade-in" animation-duration="8s"
+          loop
+          autoplay        
+          controls
+          width="768" height="576"
+          layout="responsive"
+          poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv/768px--Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv.jpg">
+          <source src="https://upload.wikimedia.org/wikipedia/commons/d/da/Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv"
+          type="video/ogv" />
+          <div fallback>
+          Video non supportato
+        </div>
+      </amp-video>
           </amp-story-grid-layer>
-        <amp-story-grid-layer template="thirds">
-
+        <amp-story-grid-layer template="thirds"><br>
           <p animate-in="fly-in-bottom" grid-area="lower-third">Qui sopra è possibile vedere il video di un reportage dell' eruzione del Vesuvio avvenuta nel 1944.</p>
         <small grid-area="lower-third" style="max-width:80%; bottom: 0; position: absolute; font-size: .7em; opacity: .5">Video di Pubblico Dominio, da Mediawiki</small>
         </amp-story-grid-layer>

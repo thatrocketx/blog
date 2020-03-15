@@ -181,11 +181,7 @@ window.addEventListener('resize', checkScroll, false);
 {{ if .IsPage }}
 <script id="dsq-count-scr" src="https://thatrocketx.disqus.com/count.js" async></script>
 <script type="application/javascript">
-	
-var lazyLoadInstance = new LazyLoad({
-    elements_selector: ".lazyloaded"
-});
-	
+	//External
 function targetBlank() {
   // remove subdomain of current site's url and setup regex   
   var internal = location.host.replace("www.", "");
@@ -200,6 +196,20 @@ function targetBlank() {
   }        
 };
 targetBlank();	
+	
+	// Lazyload
+	 // Set the options to make LazyLoad self-initialize
+    window.lazyLoadOptions = {
+        elements_selector: ".lazyloaded"
+    };
+    // Listen to the initialization event and get the instance of LazyLoad
+    window.addEventListener(
+        "LazyLoad::Initialized",
+        function(event) {
+            window.lazyLoadInstance = event.detail.instance;
+        },
+        false
+    );
 </script>
 <script src="/js/lazy.min.js" async></script>
 {{ end }}

@@ -4,7 +4,7 @@
     {{ range . }}
     <a href="{{ .URL }}"><div class="articoli sideart">
       <div class="contenitore-immagine">
-     {{ if (isset .Params "immagine") }}<img data-src="{{ .Params.immagine }}" class="lazyload immagine-lista" alt=" ">{{end}}
+     {{ if (isset .Params "immagine") }}<img data-src="{{ .Params.immagine }}" class="lazyloaded immagine-lista" alt=" ">{{end}}
      </div>
      <div class="info lista"> 
       {{ if (isset .Params "categories") }}<span class="categoria">{{.Params.categories}}</span> {{ end }}

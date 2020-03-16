@@ -125,9 +125,34 @@ nolist: true
           </amp-img>
         </amp-story-grid-layer>
       </amp-story-page>
-
+      
+      
       <!-- Page 2 -->
       <amp-story-page id="page2">
+        <amp-story-grid-layer template="vertical">
+          <h1 animate-in="fade-in" animate-in-duration="6s">L' eruzione del 1944</h1>
+            <amp-video animate-in="fade-in" animate-in-duration="5s" animate-in-delay="3s"
+          loop
+          autoplay        
+          controls
+          width="768" height="576"
+          layout="responsive"
+          poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv/768px--Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv.jpg">
+          <source src="https://upload.wikimedia.org/wikipedia/commons/d/da/Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv"
+          type="video/ogg" />
+          <div fallback>
+          Video non supportato
+        </div>
+      </amp-video>
+          </amp-story-grid-layer>
+        <amp-story-grid-layer template="thirds"><br>
+          <p animate-in="fly-in-bottom" grid-area="lower-third" animate-in-delay="10s"><br><br>Questo video è un reportage d' epoca sull' eruzione del Vesuvio avvenuta nel 1944.</p>
+        <small grid-area="lower-third" style="max-width:80%; bottom: 0; position: absolute; font-size: .7em; opacity: .5">Video di Pubblico Dominio, da Mediawiki</small>
+        </amp-story-grid-layer>
+      </amp-story-page>
+
+      <!-- Page 3 -->
+      <amp-story-page id="page3">
         <amp-story-grid-layer template="vertical">
           <amp-img animate-in="fade-in" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg"
               width="448" height="286"
@@ -145,29 +170,6 @@ nolist: true
         </amp-story-grid-layer>
       </amp-story-page>
       
-      <!-- Page 3 -->
-      <amp-story-page id="page3">
-        <amp-story-grid-layer template="vertical">
-          <h1 animate-in="fade-in" animate-in-duration="5s">Eruzione del 1944</h1>
-            <amp-video animate-in="fade-in" animation-duration="8s"
-          loop
-          autoplay        
-          controls
-          width="768" height="576"
-          layout="responsive"
-          poster="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv/768px--Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv.jpg">
-          <source src="https://upload.wikimedia.org/wikipedia/commons/d/da/Vesuvius_in_Eruption%2C_newsreel_%281944%29.ogv"
-          type="video/ogg" />
-          <div fallback>
-          Video non supportato
-        </div>
-      </amp-video>
-          </amp-story-grid-layer>
-        <amp-story-grid-layer template="thirds"><br>
-          <p animate-in="fly-in-bottom" grid-area="lower-third"><br>Questo video è un reportage d' epoca sull' eruzione del Vesuvio avvenuta nel 1944.</p>
-        <small grid-area="lower-third" style="max-width:80%; bottom: 0; position: absolute; font-size: .7em; opacity: .5">Video di Pubblico Dominio, da Mediawiki</small>
-        </amp-story-grid-layer>
-      </amp-story-page>
 
       <!-- Page 4 -->
       <amp-story-page id="page4" background-audio="https://upload.wikimedia.org/wikipedia/en/d/de/Adagio_for_Strings-Samuel_Barber.ogg">

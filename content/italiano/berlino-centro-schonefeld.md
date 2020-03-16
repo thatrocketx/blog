@@ -104,7 +104,7 @@ Il biglietto da acquistare è il biglietto per i trasporti nella **zona ABC** di
 I due treni partono dagli **ultimi binari**. Arrivate verso **la fine della lunga galleria** della stazione e seguite i **cartelli** con su scritto **RE7 / R14**, potete andare **sia a destra che a sinistra**, entrambe le vie vi porteranno sui binari. La differenza è che da una parte ci sono le scale mentre dall' altra vi è la salita. **Vi consiglio di usare la salita** qualora abbiate delle **valigie pesanti**.
 
 {{< notice tip >}} 
-Se userete di frequente i treni nella capitale o se volete visitare anche i paesi limitrofi, date un' occhiata alla [Berlin Welcome Card](#bwc) che trovate più in basso in questo articolo, in questo modo risparmierete sul costo dei biglietti.
+Se userete di frequente i treni nella capitale o se volete visitare anche i paesi limitrofi, date un' occhiata alla [Berlin Welcome Card](https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=schonefeld-guida-welcome-tip), in questo modo **risparmierete molti soldi sull' acquisto dei biglietti per treni, bus e tram**. Trovate maggiori informazioni sul sito o più in basso in questo articolo.
 {{</ notice >}}
 
 Più in basso trovate una guida su [**dove acquistare i biglietti**](#biglietti) e [**come arrivare alla stazione**](#stazione) dall' aeroporto.

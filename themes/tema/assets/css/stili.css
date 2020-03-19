@@ -953,8 +953,8 @@ article figcaption {
 article iframe {
    margin: auto !important;
    outline: 1px inset #D93C55;
-   -webkit-box-shadow:inset 0 0 5px 5px #FFE3E8;
-   box-shadow:inset 0 0 5px 5px #FFE3E8;
+   -webkit-box-shadow:inset 0 0 1px 2px #FFE3E8;
+   box-shadow:inset 0 0 1px 2px #FFE3E8;
 }
 
 article li a:nth-of-type(odd) {

@@ -1381,7 +1381,7 @@ article p:not(quote):last-child:after {
 .affiliato-compra-new {
  width:100%;
  border:1px solid #000;
- min-height:180px;
+ min-height:150px;
  border-radius:5px;
  -webkit-transition:all 1s ease-in-out;
  -o-transition:all 1s ease-in-out;
@@ -1390,28 +1390,28 @@ article p:not(quote):last-child:after {
  display:-ms-flexbox;
  display:flex;
  position:relative;
- background:#FFF
+ background:#fff
 }
 .affiliato-compra-new:hover {
- -webkit-box-shadow:0 5px 10px 2px #A1A1A1;
- box-shadow:0 5px 10px 2px #A1A1A1
+ -webkit-box-shadow:0 5px 10px 2px #a1a1a1;
+ box-shadow:0 5px 10px 2px #a1a1a1
 }
 .affiliato-compra-new:hover .call-to-action {
  background:#dd3d57
 }
 .affiliato-compra-new .immagine-container {
  max-width:30%;
- /*! min-width:100px; */min-height:150px;
+ min-height:150px;
  margin:5px 2px auto;
  display:-webkit-box;
  display:-ms-flexbox;
- display:flex;
+ display:flex
 }
 .affiliato-compra-new .immagine-container img {
  width:100%;
  -o-object-fit:cover;
-    object-fit:cover;
- background-position:center;
+ object-fit:cover;
+ background-position:50%
 }
 .affiliato-compra-new .titolo-container {
  width:100%;
@@ -1421,12 +1421,14 @@ article p:not(quote):last-child:after {
 }
 .affiliato-compra-new .titolo {
  width:100%;
- font-size:.8em;
+ font-size:1.2em;
  overflow:hidden;
- color:#22C2A8;
+ color:#22c2a8;
  font-weight:800;
- /*! max-height:30px; */display:block;
- margin:2px
+ display:block;
+ margin:2px;
+ margin: auto;
+ text-align: center;
 }
 .affiliato-compra-new .descrizione {
  width:98%;
@@ -1440,32 +1442,34 @@ article p:not(quote):last-child:after {
  height:100%
 }
 .affiliato-compra-new .call-to-action {
- background:#22C2A8;
- width:30%;
+ background:#22c2a8;
+ width:100%;
  text-align:center;
  position:absolute;
  left:10px;
  bottom:10px;
- color:#FFF;
- height:15%;
+ color:#fff;
+ height:30px;
  font-size:.7em;
  display:-webkit-box;
  display:-ms-flexbox;
  display:flex;
  -webkit-box-align:center;
-     -ms-flex-align:center;
-         align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
  -webkit-box-pack:center;
-     -ms-flex-pack:center;
-         justify-content:center
+ -ms-flex-pack:center;
+ justify-content:center
 }
 .affiliato-compra-new .prezzo {
- position:absolute;
- right:12px;
+ /*! position:absolute; */right:12px;
  bottom:10px;
  color:#000;
- font-size:1em;
- font-weight:bold
+ font-size:1.5em;
+ font-weight:700;
+ text-align: center;
+ /*! margin-top: 50%; */top: 10px;
+ position: relative;
 }
 .informazioni-delay {
  margin-top:20px;

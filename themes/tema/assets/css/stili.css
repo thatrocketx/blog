@@ -952,8 +952,7 @@ article figcaption {
 
 article iframe {
    margin: auto !important;
-   outline: 3px inset #D93C55;
-   outline-offset: -4px;
+   outline: 1px inset #D93C55;
    -webkit-box-shadow:inset 0 0 5px 5px #FFE3E8;
    box-shadow:inset 0 0 5px 5px #FFE3E8;
 }

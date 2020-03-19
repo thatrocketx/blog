@@ -33,7 +33,7 @@ slug: cosa-vedere-a-berlino
 immagineprincipale: /img/articoli/20190812_193550_compressed.jpg
 descrizioneimg: 'Vista sul Reichstag, il palazzo del Parlamento Tedesco. Foto di that Rocket X'
 fontawesome: false
-js: true
+js: false
 publishdate: '2019-09-06T18:35:39+00:00'
 expirydate: ' '
 lastmod: '2019-11-30T13:19:00+00:00'

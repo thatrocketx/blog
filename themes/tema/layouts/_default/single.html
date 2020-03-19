@@ -29,7 +29,7 @@
 	</div>
     </div>
 </header>
-<div class="info articolo testo" id="postContent" itemprop="articleBody">
+<div class="info articolo testo" itemprop="articleBody">
     {{ .Content }}
     {{ if (isset .Params "prodottoamazon") }} {{- partial "compra.html" . -}} {{ end }}
 </div>

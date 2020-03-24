@@ -49,10 +49,7 @@ expirydate: ' '
 scadenza: ''
 lastmod: 2020-03-07T17:16:00.000Z
 ---
-
 Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
-
-{{< noamp "<style>.storia-he-wrapper {width: 100%} .storia-he {margin: auto; width: 4em; height: 4em; border-radius: 100%; border: 3px solid #dd3d57; background-image: url(/img/articoli/hotel-eremo-vista-aerea.jpg); background-size: cover;  -webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-ms-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;} .storia-he:hover {transform: scale(1.1); cursor: pointer; -webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-ms-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;} .storia-he:active {transform: scale(.9)} .storia-he-wrapper a {border: none}</style><div class=\"storia-he-wrapper\"><a href=\"https://www.thatrocketx.com/stories/hotel-eremo-vesuvio\" class=\"noext\" title=\"Guarda la storia\"><div class=\"storia-he lazyloaded\"></div></a></div>">}}
 
 Ciò che rende quest' hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l' _(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un' ottima presenza "_turistica_" grazie agli amanti dei luoghi abbandonati. 
 
@@ -69,6 +66,8 @@ L' Hotel Eremo **venne costruito** a partire dal **1902**, molto probabilmente v
 Con le **eruzioni** del Vesuvio che si manifestarono nel '900, tra le quali ricordiamo l' [eruzione del 1944](https://it.wikipedia.org/wiki/Eruzione_del_Vesuvio_del_1944), parte della linea ferroviaria venne danneggiata e per questo motivo vi fu un **notevole calo di traffico** turistico, complici anche i conflitti della Seconda Guerra Mondiale. Nel 1951 **l' hotel venne ceduto a privati**, ma successivamente, a causa della costruzione della nuova strada provinciale, la ferrovia che lo accompagnava venne definitvamente soppressa. Per chi volesse approfondire la storia dell' Eremo e della ferrovia, consiglio la lettura dell' [articolo scritto da lestradeferrate](http://www.lestradeferrate.it/mono67.htm) e la [pagina Wikipedia dedicata](https://it.wikipedia.org/wiki/Ferrovia_Pugliano-Vesuvio).​
 
 Non siamo riusciti a trovare informazioni chiare sul perché l' hotel sia stato abbandonato, ma è molto probabile che i costi di manutenzione non giustificassero la scarsa richiesta. Probabilmente la distanza dell' hotel dal centro ha giocato un ruolo chiave per l' **abbandono**.​
+
+{{< noamp "<style>.storia-he-wrapper {width: 100%} .storia-he {margin: auto; width: 4em; height: 4em; border-radius: 100%; border: 3px solid #dd3d57; background-image: url(/img/articoli/hotel-eremo-vista-aerea.jpg); background-size: cover;  -webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-ms-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;} .storia-he:hover {transform: scale(1.1); cursor: pointer; -webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-ms-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;} .storia-he:active {transform: scale(.9)} .storia-he-wrapper a {border: none}</style><div class=\"storia-he-wrapper\"><a href=\"https://www.thatrocketx.com/stories/hotel-eremo-vesuvio\" class=\"noext\" title=\"Guarda la storia\"><div class=\"storia-he lazyloaded\"></div></a></div>">}}
 
 {{< titolo title="Arrivo all' hotel" link="arrivo" >}}​
 Il nostro primo incontro con questo edificio lo abbiamo avuto per puro caso, seguendo uno dei **sentieri del Parco Nazionale del Vesuvio** che abbiamo scoperto essere il numero 4.​

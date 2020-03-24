@@ -15,7 +15,7 @@
 	<div class="card-header">
     <a href="{{ $item.author_url | safeURL }}" class="card-link noext">{{ $item.author_name }}</a>
   </div>
-	<a href="{{ $mediaURL }}" target="_blank"><img class="card-img-top img-fluid lazyloaded" data-src="{{ $item.thumbnail_url }}" width="{{ $item.thumbnail_width }}"  height="{{ $item.thumbnail_height }}" alt="Instagram Image"></a>
+	<a href="{{ $mediaURL }}" target="_blank" class="noext"><img class="card-img-top img-fluid lazyloaded" data-src="{{ $item.thumbnail_url }}" width="{{ $item.thumbnail_width }}"  height="{{ $item.thumbnail_height }}" alt="Instagram Image"></a>
 	<div class="card-body">
 		{{ if not $hideCaption }}<div class="card-text"><a href="{{ $item.author_url | safeURL }}" class="card-link noext">{{ $item.author_name }}</a> {{ $item.title}}</div>{{ end }}
 		<a href="{{ $item.author_url | safeURL }}" class="card-link">View More on Instagram</a>

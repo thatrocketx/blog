@@ -477,8 +477,6 @@ Questo monumento si trova proprio di fronte all' Opera di Stato (a Bebelplatz), 
 
 Entrando all' interno si trova un enorme spazio vuoto con al centro una statua che rappresenta **una madre che culla il suo figlio soldato morto**.
 
-{{< instagram_simple "B1wxChWiG8O" >}}
-
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Neue+Wache/@52.5178268,13.3955271,20z/data=!4m5!3m4!1s0x47a851dc12cdb693:0xdae82496d519367c!8m2!3d52.5178906!4d13.3955285"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51789/13.39563"  >OpenStreetMap</a> - <a href="geo:52.51789,13.39563?z=19"  >Applicazione mappe</a>
   </div>
 
@@ -519,6 +517,8 @@ Sulla punta, **la Quadriga rappresenta una dea alata che conduce quattro cavalli
 🧱 Proprio davanti date un' occhiata alla lunga **linea di mattoni** perché sta ad indicare il confine del muro di Berlino, la troverete in molte parti della città.
 
 Di notte è spettacolare.
+
+{{< instagram "B422DvVoT_X" >}}
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Porta+di+Brandeburgo/@52.516344,13.3776837,19z/data=!4m5!3m4!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162747!4d13.3777039"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51622/13.37761"  >OpenStreetMap</a> - <a href="geo:52.51622,13.37761?z=19"  >Applicazione mappe</a>
   </div>

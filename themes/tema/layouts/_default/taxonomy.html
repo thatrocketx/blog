@@ -52,10 +52,6 @@ L.geoJSON(pos, {
     layer.bindPopup('<a href="'+feature.properties.url+'">'+feature.properties.name+'</a><p>'+feature.properties.description+'</p>');
   }   
 }).addTo(map);
-map.on('popupopen', function(centerMarker) {
-        var cM = map.project(centerMarker.popup._latlng);
-        map.setView(map.unproject(cM),4, {animate: true});
-    });
 </script>
  {{ range  (.Paginator 8).Pages }}
  {{- partial "articoli.html" . -}}

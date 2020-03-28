@@ -29,7 +29,7 @@
     map.options.maxZoom = 16;
     map.options.minZoom = 1;
     const attribution ='Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.';
-    const tileUrl = 'http://tile.stamen.com/terrain/{z}/{x}/{y}.jpg';
+    const tileUrl = 'https://tile.stamen.com/terrain/{z}/{x}/{y}.jpg';
     const tiles = L.tileLayer(tileUrl, { attribution });
     tiles.addTo(map);
     const pos = {

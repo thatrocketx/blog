@@ -26,13 +26,13 @@
     <div class="info articolo">
       {{ if (isset .Params "autore") }}<span itemprop="author" class="autore" title="{{ T "autoreinf"}}">{{ .Params.autore }}</span><span class="tempo-lettura-tempo"><span class="separatore"></span> <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="nascosto">{{ T "tempo_lettura"}}:</span></span> {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}}</span>{{end}} {{ if (isset .Params "stelle") }}<span class="separatore"></span><span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> {{ end }} <span class="separatore"></span> <span id="commenti-info-articolo">{{ T "commenti"}}:</span> <div class="comment-count">
 	<a class="noext" href="{{ .Permalink }}#disqus_thread">{{T "vaiaicommenti"}}</a><br>
-	    {{ range seq 5 }}
+	  {{ if (isset .Params "voto") }}  {{ range seq 5 }}
          {{if lt . (add (int .Params "voto") 1)}} 
          ❤️
          {{ else }}
          🖤
          {{ end }}
-    {{ end }}
+    {{ end }} {{end}}
 	</div>
     </div>
 </header>

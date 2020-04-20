@@ -1,6 +1,6 @@
 <footer role="contentinfo">
   <div class="footer-container">
-  CC 2019 {{ .Site.Title }}. <br>{{ T "copy"}}<br>
+  CC-BY-NC-SA 2020 {{ .Site.Title }}. <br>{{ T "copy"}}<br>
   <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" src="/footer/creative.png" /></a>
 <ul class="selezione-lingua">
   <li><a href="/{{ .Language.Lang }}" class="selected">{{ .Language.LanguageName }}</a></li>
@@ -141,42 +141,6 @@ window.cookieconsent.initialise({
 }
 {{ end }}
 </script>
-
-<!-- Autoplay video on scroll - Special thanks to RXMESH - https://stackoverflow.com/questions/15395920/play-html5-video-when-scrolled-to -->
-{{ if .IsHome }}
-<script type="application/javascript">
- var videos = document.getElementsByTagName("video"),
-fraction = 0.8;
-function checkScroll() {
-
-    for(var i = 0; i < videos.length; i++) {
-
-        var video = videos[i];
-
-        var x = video.offsetLeft, y = video.offsetTop, w = video.offsetWidth, h = video.offsetHeight, r = x + w, //right
-            b = y + h, //bottom
-            visibleX, visibleY, visible;
-
-            visibleX = Math.max(0, Math.min(w, window.pageXOffset + window.innerWidth - x, r - window.pageXOffset));
-            visibleY = Math.max(0, Math.min(h, window.pageYOffset + window.innerHeight - y, b - window.pageYOffset));
-
-            visible = visibleX * visibleY / (w * h);
-
-            if (visible < fraction) {
-                video.play();
-            } else {
-                video.pause();
-            }
-
-    }
-
-}
-
-window.addEventListener('scroll', checkScroll, false);
-window.addEventListener('resize', checkScroll, false);
-</script>
-{{ end }}
-
 
 {{ if .IsPage }}
 <script id="dsq-count-scr" src="https://thatrocketx.disqus.com/count.js" async></script>

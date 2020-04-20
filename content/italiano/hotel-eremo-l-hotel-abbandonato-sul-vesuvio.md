@@ -1,11 +1,10 @@
 ---
 draft: false
-date: '2019-08-28T09:00:15+00:00'
+date: 2019-08-28T09:00:15+00:00
 title: Hotel Eremo - l' hotel abbandonato sul Vesuvio
-description: >-
-  L' Hotel Eremo è un luogo molto famoso per gli amanti dei luoghi abbandonati.
-  In questo articolo vi raccontiamo la storia e la nostra esperienza in questo
-  vecchio hotel abbandonato sul Vesuvio.
+description: L' Hotel Eremo è un luogo molto famoso per gli amanti dei luoghi
+  abbandonati. In questo articolo vi raccontiamo la storia e la nostra
+  esperienza in questo vecchio hotel abbandonato sul Vesuvio.
 autore: that Rocket X
 immagine: /img/articoli/eremo-opengraph.jpg
 categories:
@@ -27,26 +26,24 @@ countries: Italia
 posizione: '{"type":"Point","coordinates":[14.3955526,40.8278383]}'
 cities: Napoli
 titoloSEO: L' hotel abbandonato sul Vesuvio
-sottotitolo: >-
-  La storia e la nostra esperienza presso uno dei luoghi più affascinanti del
-  Vesuvio
+sottotitolo: La storia e la nostra esperienza presso uno dei luoghi più
+  affascinanti del Vesuvio
 slug: hotel-eremo-vesuvio
 immagineprincipale: /img/articoli/hotel-eremo-vista-aerea.jpg
 descrizioneimg: Vista aerea dell' Hotel Eremo sul Vesuvio. Foto di that Rocket X.
-videoSEO: 'https://www.thatrocketx.com/video/hotel-eremo-articolo-og-v2_compressed.mp4'
+videoSEO: https://www.thatrocketx.com/video/hotel-eremo-articolo-og-v2_compressed.mp4
 videoself: true
 fontawesome: false
 js: false
-adside: >-
-  <img
+adside: '<img
   src="https://m.media-amazon.com/images/I/71-uOi4oHJL._AC_UY327_QL65_ML3_.jpg"
   style="height: 200px; float: left; margin-right: 20px;"><br><a
   href="https://amzn.to/37jq67P" target="_blank" rel="noopener">Napoli esoterica
   e misteriosa. Il lato occulto, maledetto e oscuro della città della sirena</a>
-  su Amazon.
-publishdate: '2019-08-28T09:00:15+00:00'
-expirydate: ' '
-scadenza: ''
+  su Amazon.'
+publishdate: 2019-08-28T09:00:15+00:00
+expirydate: " "
+scadenza: ""
 lastmod: 2020-03-07T17:16:00.000Z
 ---
 Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
@@ -158,7 +155,7 @@ In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porr
 Questo è uno dei posti meglio mantenuti, probabilmente perché è rischioso da raggiungere. Una delle perle nascoste dell' hotel.
 
 {{< notice note >}}
-Nel caso in cui vi recaste, vi preghiamo di **non distruggere** e **non rubare** nulla dall' hotel, anche perché [potrebbe trattarsi di reato](https://www.laleggepertutti.it/149661_entrare-in-un-edificio-abbandonato-e-reato). Ricordate di essere civili.
+Nel caso in cui vi recaste, vi preghiamo di **non distruggere** e **non rubare** nulla dall' hotel, anche perché [potreste commettere un reato](https://www.laleggepertutti.it/149661_entrare-in-un-edificio-abbandonato-e-reato). Ricordate di essere civili.
 {{</ notice >}}
 
 {{< titolo title="Conclusioni" link="conclusioni" >}}​

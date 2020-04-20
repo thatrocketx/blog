@@ -1,10 +1,9 @@
 ---
-draft: true
+draft: false
 date: 2020-03-05T19:49:07.100Z
-title: 'Cosa vedere 3 giorni ad Amsterdam '
-description: >-
-  Cosa vedere ad Amsterdam in tre giorni, una breve guida di un viaggiatore che
-  ci è stato di recente
+title: "Cosa vedere 3 giorni ad Amsterdam "
+description: Cosa vedere ad Amsterdam in tre giorni, una breve guida di un
+  viaggiatore che ci è stato di recente
 autore: Oraion
 immagine: /img/articoli/ddddddc.jpg
 categories:
@@ -19,14 +18,13 @@ cities: Amsterdam
 titoloSEO: 3 giorni ad Amsterdam
 sottotitolo: In giro per Amsterdam
 immagineprincipale: /img/articoli/img_8970.jpg
-descrizioneimg: >-
-  Foto di that Rocket X Creative Commons Attribuzione - Non commerciale -
-  Condividi allo stesso modo 4.0 Internazionale
+descrizioneimg: Foto di that Rocket X Creative Commons Attribuzione - Non
+  commerciale - Condividi allo stesso modo 4.0 Internazionale
 fontawesome: false
 js: false
 publishdate: 2020-03-05T19:49:07.100Z
-expirydate: ' '
-scadenza: ' '
+expirydate: " "
+scadenza: " "
 lastmod: 2020-03-05T19:49:07.200Z
 ---
 Amsterdam è la principale città dell’Olanda ed è una delle città europee più visitate negli ultimi anni. Il nostro itinerario di 3 giorni ti darà consigli su cosa fare e cosa vedere ad Amsterdam se è la prima volta che la visiti.

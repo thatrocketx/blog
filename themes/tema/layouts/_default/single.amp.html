@@ -450,7 +450,7 @@
       </div>
     </header>
     <main class="info articolo">
-      {{ .Content }}
+      {{ .Content | replaceRE "!\[(.+)\]\((.+)\)" "<div class="fixed-container"><amp-img class=\"contain\" src=\"$2\" alt=\"$1\" width=\"400\" height=\"400\" layout=\"responsive\"></amp-img></div>" ""}}
       <br>
       <a href="{{ .RelPermalink }}#c"> {{ T "vaiaicommenti" }}</a><br><br>
 

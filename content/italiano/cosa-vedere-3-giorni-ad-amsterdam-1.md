@@ -15,8 +15,9 @@ news_keywords:
 countries: Paesi Bassi
 posizione: '{"type":"Point","coordinates":[4.900589,52.3707364]}'
 cities: Amsterdam
-titoloSEO: 3 giorni ad Amsterdam
-sottotitolo: In giro per Amsterdam
+titoloSEO: "3 giorni ad Amsterdam: cosa vedere?"
+sottotitolo: "In giro per Amsterdam per 3 giorni: i posti più belli ed
+  importanti secondo il mio parere"
 immagineprincipale: /img/articoli/img_8970.jpg
 descrizioneimg: Foto di that Rocket X Creative Commons Attribuzione - Non
   commerciale - Condividi allo stesso modo 4.0 Internazionale
@@ -64,7 +65,7 @@ Andando dritti, si può stare sul ponte e godere di una classica veduta in stile
 
 {{<img "Una classica vista in stile olandese su un ponte" "/img/articoli/ponte_amsterdam_2019.jpg">}}
 
-Girandovi attorno e prendendo una delle stradette si ritorna sulla strada che porta di nuovo alla piazza (a sinistra). Se invece si passa sul ponte e si prosegue dritto, si arriva a **Nieuwmarkt** (Mercato Nuovo), una piazza creata come mercato di "rimpiazzo" quando i canali vennero inondati nel 1614. A farla da padrone è la Pesa pubblica (il Waag), la più antica porta cittadina rimasta usata a partire dal 1616 come luogo in cui pesare oggetti (appunto "[pesa pubblica](https://it.wikipedia.org/wiki/Pesa_pubblica)").
+Girandovi attorno e prendendo una delle stradette si ritorna sulla strada che porta di nuovo alla piazza (a sinistra). Se invece si passa sul ponte e si prosegue dritto, si arriva a **Nieuwmarkt** (Mercato Nuovo), una piazza creata come mercato di "rimpiazzo" quando i canali vennero inondati nel 1614. A farla da padrone è la **Pesa pubblica** (il Waag), la più antica porta cittadina rimasta usata a partire dal 1616 come luogo in cui pesare oggetti (appunto "[pesa pubblica](https://it.wikipedia.org/wiki/Pesa_pubblica)").
 
 Se si ha ancora voglia di visitare si può scendere più a sud per vedere la **Sinagoga portoghese**, la più antica sinagoga della città, costruita nel 1671 e ancora oggi utilizzata per celebrare le funzioni religiose.
 
@@ -96,7 +97,7 @@ Parte di questa casa fu infatti utilizzata da Anna e la sua famiglia per ben 2 a
 
 Nella casa-museo è possibile vedere vari documenti multimediali così come la famosa stanza di Anna Frank.
 
-{{< gyg title="Tour guidato \"Anna Frank\" (inglese)" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-life-of-anne-frank-walking-tour-t250362/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" price="da € 28,50" >}}
+{{< gyg title="Tour guidato su Anna Frank (in inglese)" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-life-of-anne-frank-walking-tour-t250362/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" price="da € 28,50" >}}
 
 Attraversando il canale si può fare un giro nel quartiere **Jordaan**, il cui nome si pensa derivi dalla parola "giardino" e infatti molte strade hanno i nomi di piante e fiumi. Una volta abitato dalla classe dei lavoratori, oggi uno dei quartieri più costosi della città. È famoso soprattutto per i vari negozi, che offrono una vasta varietà di oggetti da poter acquistare come souvenir. Il quartiere è bello grande, quindi ci vuole un po' a visitarlo tutto.
 
@@ -120,10 +121,12 @@ Se siete amanti di musei e dell' arte potete uscire e recarvi al vicino **Museo 
 
 Poco più avanti si trova anche il **Rijksmuseum**, che raccoglie buona parte del patrimonio artistico e storico olandese e asiatico. Ma ciò che colpisce è anche la sua presenza scenica, l' edificio è davvero bellissimo e rispecchia appieno quell' ideale di architettura che spesso si trova in nord-europa (secondo il nostro parere).
 
-Se invese non si è amanti dell' arte si può fare un giro al vecchio birrificio della **Heineken**, proprio sulla strada alla destra del Rijksmuseum.
+Se invese non si è amanti dell' arte si può fare un giro al vecchio birrificio della **Heineken**, proprio un po' più avanti, proseguendo sulla strada alla destra del Rijksmuseum.
 
 {{< title="Biglietti per la Heineken Experience" link="https://www.getyourguide.com/amsterdam-l36/heineken-experience-ticket-t205012/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 18" >}}
 
 Il resto della giornata naturalmente si dovrebbe passare a fare un riepilogo, magari ripassando ai quartieri a luci rosse di sera o facendo un' ultima passeggiata sui ponti e godendosi i vari panorami che questa bellissima città ha da offire e pensare a quanto è bello viaggiare.
+
+{{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"//umap.openstreetmap.fr/en/map/untitled-map_447942?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false\"></iframe>" >}}
 
 {{<img "Alcune bici ad Amstedam" "/img/articoli/bici_amsterdam_2019.jpg">}}

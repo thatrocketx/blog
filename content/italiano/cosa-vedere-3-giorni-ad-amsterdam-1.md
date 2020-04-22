@@ -13,7 +13,7 @@ news_keywords:
   - Cosa vedere in 3 giorni ad Amsterdam
   - canali
 countries: Paesi Bassi
-posizione: '{"type":"Point","coordinates":[4.900589,52.3707364]}'
+posizione: '{"type":"Point","coordinates":[4.9004388,52.372539]}'
 cities: Amsterdam
 titoloSEO: "3 giorni ad Amsterdam: cosa vedere?"
 sottotitolo: "In giro per Amsterdam per 3 giorni: i posti più belli ed
@@ -123,7 +123,7 @@ Poco più avanti si trova anche il **Rijksmuseum**, che raccoglie buona parte de
 
 Se invese non si è amanti dell' arte si può fare un giro al vecchio birrificio della **Heineken**, proprio un po' più avanti, proseguendo sulla strada alla destra del Rijksmuseum.
 
-{{< title="Biglietti per la Heineken Experience" link="https://www.getyourguide.com/amsterdam-l36/heineken-experience-ticket-t205012/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 18" >}}
+{{< gyg title="Biglietti per la Heineken Experience" link="https://www.getyourguide.com/amsterdam-l36/heineken-experience-ticket-t205012/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 18" >}}
 
 Il resto della giornata naturalmente si dovrebbe passare a fare un riepilogo, magari ripassando ai quartieri a luci rosse di sera o facendo un' ultima passeggiata sui ponti e godendosi i vari panorami che questa bellissima città ha da offire e pensare a quanto è bello viaggiare.
 

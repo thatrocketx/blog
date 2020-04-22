@@ -25,7 +25,7 @@ descrizioneimg: Foto di that Rocket X Creative Commons Attribuzione - Non
 fontawesome: false
 js: false
 adside: <img src="/img/articoli/piazza_dam_ig_2019.jpg" alt="Piazza Dam storia
-  Instagram pubblicata durante il viaggio">
+  Instagram pubblicata durante il viaggio" style="width:30%">
 publishdate: 2020-03-05T19:49:07.100Z
 expirydate: " "
 scadenza: " "
@@ -84,7 +84,9 @@ Per il secondo giorno partiamo sempre da Piazza Dam (anche perché non solo è i
 
 Questa volta però andiamo verso nord-ovest, passando per le strade che si trovano dietro al Palazzo Reale.
 
+<div style="width:30%">
 {{<img "Una foto del panorama di Amsterdam" "/img/articoli/verticale_amsterdam_2019.jpg">}}
+</div>
 
 Andando sempre dritto si trova la **Westerkerk** (Chiesa Occidentale) e davanti la statua dedicata ad **Anna Frank**. Nei pressi della chiesa si trova anche l' Homomonument, un monumento dedicato alle persone omosessuali vittime di persecuzione a causa del loro orientamento.
 

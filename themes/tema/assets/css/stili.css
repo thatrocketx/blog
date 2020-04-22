@@ -844,7 +844,19 @@ color: #000;
   background: -o-linear-gradient(315deg,  #ffce00 0%,#dd0000 51%,#000000 100%);
   background: linear-gradient(135deg,  #ffce00 0%,#dd0000 51%,#000000 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffce00', endColorstr='#000000',GradientType=1 );
+}
 
+.paese[data-paese="Irlanda"], .paese[data-paese="Ireland"]{
+background: #61f430;
+background: linear-gradient(to right, #61f430 0%,#e6eef4 36%,#d3dce2 68%,#d6952c 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#61f430', endColorstr='#d6952c',GradientType=1 );
+}
+
+
+.paese[data-paese="Paesi Bassi"], .paese[data-paese="Netherlands"]{
+  background: #ff3232;
+background: linear-gradient(to bottom, #ff3232 0%,#e6eef4 47%,#d3dce2 56%,#d3dce2 68%,#d3dce2 68%,#3096e5 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3232', endColorstr='#3096e5',GradientType=0 );
 }
 
 .titolo-lista {

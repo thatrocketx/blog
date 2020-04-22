@@ -84,7 +84,7 @@ Per il secondo giorno partiamo sempre da Piazza Dam (anche perché non solo è i
 
 Questa volta però andiamo verso nord-ovest, passando per le strade che si trovano dietro al Palazzo Reale.
 
-<div style="width:30%">
+<div style="width:30%;margin:auto">
 {{<img "Una foto del panorama di Amsterdam" "/img/articoli/verticale_amsterdam_2019.jpg">}}
 </div>
 
@@ -126,6 +126,7 @@ Se invese non si è amanti dell' arte si può fare un giro al vecchio birrificio
 
 Il resto della giornata naturalmente si dovrebbe passare a fare un riepilogo, magari ripassando ai quartieri a luci rosse di sera o facendo un' ultima passeggiata sui ponti e godendosi i vari panorami che questa bellissima città ha da offire e pensare a quanto è bello viaggiare.
 
-{{< noamp "<iframe class=\"lazyloaded\" width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen data-src=\"//umap.openstreetmap.fr/en/map/untitled-map_447942?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false\"></iframe>" >}}
+{{< noamp "<iframe class=\"lazyloaded\" width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen data-src=\"//umap.openstreetmap.fr/en/map/untitled-map_447942?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false\"></iframe>" >}}
+
 
 {{<img "Alcune bici ad Amstedam" "/img/articoli/bici_amsterdam_2019.jpg">}}

@@ -69,7 +69,7 @@ Girandovi attorno e prendendo una delle stradette si ritorna sulla strada che po
 
 Se si ha ancora voglia di visitare si può scendere più a sud per vedere la **Sinagoga portoghese**, la più antica sinagoga della città, costruita nel 1671 e ancora oggi utilizzata per celebrare le funzioni religiose.
 
-{{< gyg title="Tour della sinagoga portoghese in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-in-the-golden-age-the-portuguese-synagogue-t68545/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=amsterdam-3-giorni" price="da € 17"}}
+{{< gyg title="Tour della sinagoga portoghese in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-in-the-golden-age-the-portuguese-synagogue-t68545/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=amsterdam-3-giorni" price="da € 17" >}}
 
 Tornando al Nieuwmarkt e proseguendo sulla Kloveniersburgwal si può ritornare a Piazza Dam (che si trova sulla destra, andando dritto dal ponte).
 
@@ -127,6 +127,6 @@ Se invese non si è amanti dell' arte si può fare un giro al vecchio birrificio
 
 Il resto della giornata naturalmente si dovrebbe passare a fare un riepilogo, magari ripassando ai quartieri a luci rosse di sera o facendo un' ultima passeggiata sui ponti e godendosi i vari panorami che questa bellissima città ha da offire e pensare a quanto è bello viaggiare.
 
-{{< noamp "<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen src=\"//umap.openstreetmap.fr/en/map/untitled-map_447942?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false\"></iframe>" >}}
+{{< noamp "<iframe class=\"lazyloaded\" width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen data-src=\"//umap.openstreetmap.fr/en/map/untitled-map_447942?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false\"></iframe>" >}}
 
 {{<img "Alcune bici ad Amstedam" "/img/articoli/bici_amsterdam_2019.jpg">}}

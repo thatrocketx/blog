@@ -24,8 +24,8 @@ descrizioneimg: Foto di that Rocket X Creative Commons Attribuzione - Non
   commerciale - Condividi allo stesso modo 4.0 Internazionale
 fontawesome: false
 js: false
-adside: '{{<img "Piazza Dam storia Instagram pubblicata durante il viaggio"
-  "/img/articoli/piazza_dam_ig_2019.jpg">}}'
+adside: <img src="/img/articoli/piazza_dam_ig_2019.jpg" alt="Piazza Dam storia
+  Instagram pubblicata durante il viaggio">
 publishdate: 2020-03-05T19:49:07.100Z
 expirydate: " "
 scadenza: " "

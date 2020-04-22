@@ -105,7 +105,7 @@ Attraversando il canale si può fare un giro nel quartiere **Jordaan**, il cui n
 
 Da qui potreste andare al Vondelpark, ma di questo parliamo nel giorno 3. Una cosa che potreste fare invece è fare un tour per i canali e visitare quindi Amsterdam dalla comodità della barca, ascoltando le informazioni e le curiosità sulla città (le barche partono anche dal luogo in cui si trova la casa di Anna Frank).
 
-{{< title="Tour per i canali di Amsterdam in barca in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 17,50" >}}
+{{< gyg title="Tour per i canali di Amsterdam in barca in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 17,50" >}}
 
 # Giorno 3
 

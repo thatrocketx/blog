@@ -46,9 +46,9 @@ La prima cosa che consiglierei di vedere ad Amsterdam è sicuramente la piazza p
 
 A parte la bellissima vista con il classico stile nord-europeo, girandoci attorno possiamo notare principalmente tre attrazioni "classiche":
 
-1.  Il [**Palazzo Reale**](https://it.wikipedia.org/wiki/Palazzo_Reale_(Amsterdam), che è l' enorme struttura con l' orologio e le tre statue, che simbolizzano la pace e la giustizia. È uno dei monumenti più belli dei Paesi Bassi ed è utilizzato ufficialmente dai reali neerlandesi per ricevere i personaggi che vengono a visitare la capitale.
+1.  Il **[Palazzo Reale](https://it.wikipedia.org/wiki/Palazzo_Reale_(Amsterdam))**, che è l' enorme struttura con l' orologio e le tre statue, che simbolizzano la pace e la giustizia. È uno dei monumenti più belli dei Paesi Bassi ed è utilizzato ufficialmente dai reali neerlandesi per ricevere i personaggi che vengono a visitare la capitale.
     
-2.  La [**Nieuwe Kerk**](https://it.wikipedia.org/wiki/Nieuwe_Kerk_(Amsterdam), ovvero la Chiesa Nuova, che si trova proprio a destra della chiesa ed è la chiesa in cui si tengono le incoronazioni dei sovrani neerlandesi (i Paesi Bassi, ricordo, sono una monarchia parlamentare).
+2.  La **[Nieuwe Kerk](https://it.wikipedia.org/wiki/Nieuwe_Kerk_(Amsterdam)), ovvero la Chiesa Nuova, che si trova proprio a destra della chiesa ed è la chiesa in cui si tengono le incoronazioni dei sovrani neerlandesi (i Paesi Bassi, ricordo, sono una monarchia parlamentare).
     
 3.  Il **Nationaal Monument**, un obelisco di circa 22 metri di altezza del 1956 che si trova proprio al centro della piazza, eretto in ricordo delle vittime della Seconda Guerra Mondiale
     
@@ -79,7 +79,7 @@ Qui è possibile trovare coffee shop, sexy shop e le cosiddette "donne in vetrin
 
 Buona notte!
 
-# Giorno 2
+<h1> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">2</span></h1>
 
 Buongiorno!
 
@@ -107,7 +107,7 @@ Da qui potreste andare al Vondelpark, ma di questo parliamo nel giorno 3. Una co
 
 {{< gyg title="Tour per i canali di Amsterdam in barca in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 17,50" >}}
 
-# Giorno 3
+<h1> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">3</span></h1>
 
 Siamo all' ultimo giorno del nostro viaggio e per questo motivo dobbiamo godercelo appieno, vedendo le ultime cose che possiamo visitare in questo nostro breve viaggio.
 

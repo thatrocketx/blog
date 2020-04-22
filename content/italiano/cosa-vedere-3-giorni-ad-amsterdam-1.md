@@ -18,6 +18,7 @@ cities: Amsterdam
 titoloSEO: "3 giorni ad Amsterdam: cosa vedere?"
 sottotitolo: "In giro per Amsterdam per 3 giorni: i posti più belli ed
   importanti secondo il mio parere"
+slug: cosa-vedere-ad-amsterdam-in-3-giorni
 immagineprincipale: /img/articoli/ponte_amsterdam_2019.jpg
 descrizioneimg: Foto di that Rocket X Creative Commons Attribuzione - Non
   commerciale - Condividi allo stesso modo 4.0 Internazionale

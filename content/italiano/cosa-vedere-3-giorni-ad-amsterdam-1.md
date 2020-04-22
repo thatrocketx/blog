@@ -27,45 +27,103 @@ expirydate: " "
 scadenza: " "
 lastmod: 2020-03-05T19:49:07.200Z
 ---
-Amsterdam è la principale città dell’Olanda ed è una delle città europee più visitate negli ultimi anni. Il nostro itinerario di 3 giorni ti darà consigli su cosa fare e cosa vedere ad Amsterdam se è la prima volta che la visiti.
+{{< notice info >}}
 
-<h1>1 giorno</h1>
+Questo articolo sarà ampliato con maggiori foto, video e informazioni nei prossimi mesi!
 
-Per il primo giorno ad Amsterdam è utile per prima cosa orientarsi in città. Parti da Piazza Dam, la piazza più importante della città. Piazza Dam rappresenta il centro della città di Amsterdam, è la sua piazza principale su cui si affaccia anche il palazzo Reale, la Nieuwe Kerk (in italiano Chiesa Nuova, luogo dove convolano a nozze e vengono incoronati i sovrani dei Paesi Bassi) e il grande obelisco in memoria dei caduti della II Guerra Mondiale. La piazza è sempre piena di gente a qualsiasi ora del giorno. Merita una visita anche di notte in quanto più suggestiva grazie al fatto che non si notano gli annerimenti dei palazzi dovuti all’inquinamento.
+{{</ notice >}}
 
-{{<img "Foto di that Rocket X" "/img/articoli/dam.jpg">}}
+Amsterdam è una delle mete che amo di più in assoluto, essendoci stato ormai più di un paio di volte, ma ogni volta che ci ritorno per me è come se fosse la prima volta. Oggi voglio proporvi alcuni consigli su cosa vedere se si sta nella capitale neerlandése per 3 giorni, una guida che potrebbe esservi utile per un weekend o per una breve sosta. Non vi darò informazioni dettagliatissime, perché Amsterdam è sicuramente una città che merita di essere visitata più a lungo, ma vi darò qualche accenno da cui iniziare a scoprire un po' la città. Le foto che troverete sono prese appunto dal mio ultimo viaggio nella capitale e quindi sono soprattutto storie Instagram e foto fatte con il cellulare, in quanto ho deciso di godermi appieno la città e di lasciare per un momento la fotocamera.
 
-Da Piazza Dam percorri le stradine che ti portano alla casa di Anna Frank.  L’edificio non è solo un museo, ma è il vero stabile che ospitava l’azienda del padre di Anna. Viene permesso ai visitatori di effettuare un percorso guidato tra le stanze fino a giungere alla famosa stanzetta con la libreria girevole, con la famosa stanza segreta che per un periodo ospitò lei e la sua famiglia. La fila per l’accesso al museo è notevole ecco perché ti consiglio di acquistare il biglietto online ([QUI](https://www.getyourguide.com/amsterdam-l36/amsterdam-life-of-anne-frank-walking-tour-t250362/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam)).  In oltre una volta che ti trovi a piazza Dam se avete voglia d’incontrare qualche personaggio famoso, fate un giro a Madame Tussaud. Per i biglietti e saltare la fila acquistali ([QUI](https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam)).
+{{<img "Scritta Iamsterdam vicino all' aeroporto" "/img/articoli/i_am_amsterdam_2019.jpg">}}
 
-{{<img "Foto di that Rocket X" "/img/articoli/fiori.jpg">}}
+<h1>Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">1</span></h1>
 
-Dalla casa di Anna Frank prosegui lungo il canale Singel fino ad arrivare al Bloemenmarkt, il mercato galleggiante della città. Merita sicuramente una visita e rientra tra le cose da vedere ad Amsterdam ma ammetto che con il passare degli anni è diventato sempre più turistico e la vendita dei fiori (**tulipani in particolare**) sta lasciando spazio ai souvenirs. E’ definito galleggiante in quanto i negozi di fiori sono delle imbarcazioni (fisse) che costeggiano la riva del canale.
+{{<img "Piazza Dam vista dal lato opposto al Palazzo Reale" "piazza_amsterdam_2019">}}
 
-A secondo del periodo che andrai ad Amsterdam lo troverai più o meno fiorito. In primavera è il periodo migliore. Noi ci siamo stati in inverno e l’aria è davvero fredda e suggestiva, con i primi addobbi natalizi. Di sera, se ti è possibile, devi assolutemente visitare quello che probabilmente è il quartiere più famoso dell' intera Olanda: il Red Light District. Vai con pochi pregiudizi, o non andarci affatto. Il quartiere a luci rosse di Amsterdam secondo alcuni è un must da vedere almeno **una volta**, ed è una delle cose piu “particolari” della città (suo malgrado). L’atmosfera non e per nulla degradata, come si possa pensare, anzi, è forse uno dei quartieri più sicuri ad Amsterdam a causa dell’alto numero di poliziotti che pattugliano l’area. All’interno del quartiere è vietato fare video e foto (onde evitare multe salate). Il Red Light District è un posto molto turistico, pieno di gente che osserva le vetrine (o meglio le ragazze in vetrina), sexy shop e night club.
+La prima cosa che consiglierei di vedere ad Amsterdam è sicuramente la piazza più famosa della città: **Piazza Dam**. Nata nel 1270 come piazza-mercato, è oggi uno dei principali centri della vita della capitale.
 
-{{<img "Foto di that Rocket X" "/img/articoli/red.jpg">}}
+A parte la bellissima vista con il classico stile nord-europeo, girandoci attorno possiamo notare principalmente tre attrazioni "classiche":
 
-<h1>2 Giorno</h1>
+1.  Il [**Palazzo Reale**](https://it.wikipedia.org/wiki/Palazzo_Reale_(Amsterdam), che è l' enorme struttura con l' orologio e le tre statue, che simbolizzano la pace e la giustizia. È uno dei monumenti più belli dei Paesi Bassi ed è utilizzato ufficialmente dai reali neerlandesi per ricevere i personaggi che vengono a visitare la capitale.
+    
+2.  La [**Nieuwe Kerk**](https://it.wikipedia.org/wiki/Nieuwe_Kerk_(Amsterdam), ovvero la Chiesa Nuova, che si trova proprio a destra della chiesa ed è la chiesa in cui si tengono le incoronazioni dei sovrani neerlandesi (i Paesi Bassi, ricordo, sono una monarchia parlamentare).
+    
+3.  Il **Nationaal Monument**, un obelisco di circa 22 metri di altezza del 1956 che si trova proprio al centro della piazza, eretto in ricordo delle vittime della Seconda Guerra Mondiale
+    
 
-<h2>VONDELPARK</h2>
-***Vondelpark è per Amsterdam*** l' equivalente del [parco di Tiergarten](/cosa-vedere-a-berlino/#tiergarten) per Berlino, se vogliamo fare un paragone. Fiori, laghetti, ponticelli… E poi ancora: concerti di musica jazz, performance acrobatiche, spettacoli di danza moderna, tutto rigorosamente gratuito! Vondelpark è il punto di ritrovo per gli abitanti di Amsterdam. Soprattutto in primavera e d’estate, il parco si riempie di gente: chi fa jogging, chi prende il sole, chi organizza mercatini improvvisati, chi suona la chitarra sull’erba. Prenditi un po' di tempo e rilassati in questo splendido spazio verde.
+{{<img "Piazza Dam storia Instagram pubblicata durante il viaggio" "/img/articoli/piazza_dam_ig_2019.jpg">}}
 
-{{<img "Foto di that Rocket X" "/img/articoli/vondelpark_2-1.jpg">}}
+Sulla sinistra del Palazzo Reale si trova invece la sede ad Amsterdam del celebre museo delle ceneri "**Madame Tussauds**", mentre di fronte troviamo l' **Hotel Krasnapolsky**, un hotel a 5 stelle nato nel 1865 come ristorante e divenuto oggi un' icona della piazza.
 
-Un’altra cosa da fare assolutamente quando si va ad Amsterdam è il **tour per i canali**, molto suggestivo con audioguida in molte lingue (anche in italiano). L’audioguida racconta tutta la storia e le particolarità del posto. ([QUI PER I BIGLIETTI](https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/)) 
+{{< gyg title="Madame Tussauds - biglietto salta la fila" link="https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" >}}
 
-{{<img "Foto di that Rocket X" "/img/articoli/eeedd.jpg">}}
+Proseguendo su *Damstraat*, ovvero la grande strada andando verso l'hotel, si arriva sul canale **Oudezijds Voorburgwal**.
 
-<h1>3 Giorno</h1>
+Andando dritti, si può stare sul ponte e godere di una classica veduta in stile olandese, ma se si gira a sinistra e si prosegue dritti, con la destra sull' acqua, si può invece incontrare dopo un paio di minuti la Oude Kerk, ovvero la **Chiesa Vecchia**, la chiesa più vecchia di Amsterdam, creata *XVI secolo*.
 
-Eccoci arrivati al tuo terzo e ultimo giorno di questo itinerario di 3 giorni di Amsterdam. Inizia dal Rijskmuseum (si trova vicino al Van Gogh Mueum) che ospita la più grande raccolta di opere fiamminghe di tutta l’Olanda, con alcuni dei quadri più famosi del mondo. Nel caso non ti interessasse puoi comunque ritornare nel quartiere dei musei anche solo per scattare un selfie con la famosa scritta **I AM AMSTERDAM**. \[Dall’inizio del 2019 questa scritta è stata rimossa, puoi sempre sfruttare l’occasione fuori l’aeroporto].
+{{<img "Una classica vista in stile olandese su un ponte" "/img/articoli/ponte_amsterdam_2019.jpg">}}
 
-{{<img "Foto di that Rocket X" "/img/articoli/dddd.jpg">}}
+Girandovi attorno e prendendo una delle stradette si ritorna sulla strada che porta di nuovo alla piazza (a sinistra). Se invece si passa sul ponte e si prosegue dritto, si arriva a **Nieuwmarkt** (Mercato Nuovo), una piazza creata come mercato di "rimpiazzo" quando i canali vennero inondati nel 1614. A farla da padrone è la Pesa pubblica (il Waag), la più antica porta cittadina rimasta usata a partire dal 1616 come luogo in cui pesare oggetti (appunto "[pesa pubblica](https://it.wikipedia.org/wiki/Pesa_pubblica)").
 
-Successivamente puoi recarti nel quartiere Jordaan. Un tempo un quartiere popolare, oggi questo posto è animato da artisti, designer e molti negozi “particolari”. In assoluto il quartiere di Amsterdam dove credo che per un turista sia obbligatorio perdersi e girovagare senza meta. Ti consiglio di visitarlo il lunedì, il giorno che si tiene il **mercatino delle pulci.**
+Se si ha ancora voglia di visitare si può scendere più a sud per vedere la **Sinagoga portoghese**, la più antica sinagoga della città, costruita nel 1671 e ancora oggi utilizzata per celebrare le funzioni religiose.
 
-{{<img "Foto di that Rocket X" "/img/articoli/gggg.jpg">}}
+{{< gyg title="Tour della sinagoga portoghese in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-in-the-golden-age-the-portuguese-synagogue-t68545/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=amsterdam-3-giorni" price="da € 17"}}
 
-Il pomeriggio del tuo ultimo giorno ad Amsterdam è libero. Goditi una passeggiata nel centro cittadino, ammira i canali, le centinaia di biciclette (qui sono una vera istituzione) e l’atmosfera che si respira nella cosiddetta Venezia del Nord. Un alternativa a questo pomeriggio libero può essere l’Heineken Experience, un tour nella vecchia fabbrica di birra Heineken, dove tutto è iniziato 100 anni fa. Ti consiglio di acquistare i biglietti online ([QUI PER I BIGLIETTI](https://www.getyourguide.com/amsterdam-l36/heineken-experience-ticket-t205012/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/)).
+Tornando al Nieuwmarkt e proseguendo sulla Kloveniersburgwal si può ritornare a Piazza Dam (che si trova sulla destra, andando dritto dal ponte).
 
-{{<img "Foto di that Rocket X"  "/img/articoli/hhhh.jpg">}}
+Per oggi abbiamo finito di visitare. Di sera, nell' area che abbiamo percorso vicino alla Vecchia Chiesa, si trova il famoso **quartiere a luci rosse** di Amsterdam (*De Wallen*), una delle cose che probabilmente tutti desiderano vedere durante il loro viaggio nella capitale. 😏
+
+Qui è possibile trovare coffee shop, sexy shop e le cosiddette "donne in vetrina", il tutto illuminato dalle iconiche luci rosse.
+
+Buona notte!
+
+# Giorno 2
+
+Buongiorno!
+
+Per il secondo giorno partiamo sempre da Piazza Dam (anche perché non solo è il punto più iconico, ma si trova anche a pochissimi chilometri dalla stazione centrale).
+
+Questa volta però andiamo verso nord-ovest, passando per le strade che si trovano dietro al Palazzo Reale.
+
+{{<img "Una foto del panorama di Amsterdam" "/img/articoli/verticale_amsterdam_2019.jpg">}}
+
+Andando sempre dritto si trova la **Westerkerk** (Chiesa Occidentale) e davanti la statua dedicata ad **Anna Frank**. Nei pressi della chiesa si trova anche l' Homomonument, un monumento dedicato alle persone omosessuali vittime di persecuzione a causa del loro orientamento.
+
+Se si prosegue sulla strada che passa di fianco al canale si può raggiungere l' Anne Frank Huis, ovvero la **casa di Anna Frank**.
+
+Parte di questa casa fu infatti utilizzata da Anna e la sua famiglia per ben 2 anni come nascondiglio per evitare la persecuzione degli ebrei da parte dei nazisti.
+
+Nella casa-museo è possibile vedere vari documenti multimediali così come la famosa stanza di Anna Frank.
+
+{{< gyg title="Tour guidato \"Anna Frank\" (inglese)" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-life-of-anne-frank-walking-tour-t250362/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" price="da € 28,50" >}}
+
+Attraversando il canale si può fare un giro nel quartiere **Jordaan**, il cui nome si pensa derivi dalla parola "giardino" e infatti molte strade hanno i nomi di piante e fiumi. Una volta abitato dalla classe dei lavoratori, oggi uno dei quartieri più costosi della città. È famoso soprattutto per i vari negozi, che offrono una vasta varietà di oggetti da poter acquistare come souvenir. Il quartiere è bello grande, quindi ci vuole un po' a visitarlo tutto.
+
+{{<img "Una barca che effettua tour" "/img/articoli/barca_amsterdam_2019.jpg">}}
+
+Da qui potreste andare al Vondelpark, ma di questo parliamo nel giorno 3. Una cosa che potreste fare invece è fare un tour per i canali e visitare quindi Amsterdam dalla comodità della barca, ascoltando le informazioni e le curiosità sulla città (le barche partono anche dal luogo in cui si trova la casa di Anna Frank).
+
+{{< title="Tour per i canali di Amsterdam in barca in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 17,50" >}}
+
+# Giorno 3
+
+Siamo all' ultimo giorno del nostro viaggio e per questo motivo dobbiamo godercelo appieno, vedendo le ultime cose che possiamo visitare in questo nostro breve viaggio.
+
+Partendo sempre da Piazza Dam, che ormai conosciamo come le nostre tasche, ci rechiamo verso sud, dando un' occhiata al **Mercato dei Fiori** (Bloemenmarkt). Questo è un posto unico perché si tratta dell' unico mercato di fiori galleggiante al mondo, fondato nel 1862. Questo tipo di vendita deriva da un vecchio modo di fare, che prevedeva l' arrivo delle piante sulle barche. In tutto ci sono 15 negozi di fiori che si occupano di vendere fiori freschi, tra i quali non possono assolutamente mancare i *tulipani*.
+
+{{<img "Il Mercato dei Fiori" "/img/articoli/fiori_amsterdam_2019.jpg">}}
+
+Da qui possiamo proseguire per la strada e, oltrepassato il ponte, arrivare al **Vondelpark**, che possiamo paragonare un po' al [parco di Tiergarten](/cosa-vedere-a-berlino/#tiergarten) di Berlino, visto che ne abbiamo parlato in altre guide. È un enorme parco "all' inglese" divenuto pubblico a partire dal 1865. Qui si possono effettuare varie attività sportive e si organizzano eventi per la città. Ci si può davvero perdere molto tempo senza annoiarsi poi tanto.
+
+Se siete amanti di musei e dell' arte potete uscire e recarvi al vicino **Museo di Van Gogh** (Van Gogh Museum), che, come dice il nome, raccoglie tutte le opere più famose del pittore olandese.
+
+Poco più avanti si trova anche il **Rijksmuseum**, che raccoglie buona parte del patrimonio artistico e storico olandese e asiatico. Ma ciò che colpisce è anche la sua presenza scenica, l' edificio è davvero bellissimo e rispecchia appieno quell' ideale di architettura che spesso si trova in nord-europa (secondo il nostro parere).
+
+Se invese non si è amanti dell' arte si può fare un giro al vecchio birrificio della **Heineken**, proprio sulla strada alla destra del Rijksmuseum.
+
+{{< title="Biglietti per la Heineken Experience" link="https://www.getyourguide.com/amsterdam-l36/heineken-experience-ticket-t205012/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 18" >}}
+
+Il resto della giornata naturalmente si dovrebbe passare a fare un riepilogo, magari ripassando ai quartieri a luci rosse di sera o facendo un' ultima passeggiata sui ponti e godendosi i vari panorami che questa bellissima città ha da offire e pensare a quanto è bello viaggiare.
+
+{{<img "Alcune bici ad Amstedam" "/img/articoli/bici_amsterdam_2019.jpg">}}

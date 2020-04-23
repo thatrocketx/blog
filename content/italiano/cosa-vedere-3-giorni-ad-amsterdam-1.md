@@ -48,6 +48,7 @@ Amsterdam è una delle mete che amo di più in assoluto, essendoci stato ormai p
 La prima cosa che consiglierei di vedere ad Amsterdam è sicuramente la piazza più famosa della città: **Piazza Dam**. Nata nel 1270 come piazza-mercato, è oggi uno dei principali centri della vita della capitale.
 
 A parte la bellissima vista con il classico stile nord-europeo, girandoci attorno possiamo notare principalmente tre attrazioni "classiche":
+
 1.  Il **[Palazzo Reale](https://it.wikipedia.org/wiki/Palazzo_Reale_(Amsterdam))**, che è l' enorme struttura con l' orologio e le tre statue, che simbolizzano la pace e la giustizia. È uno dei monumenti più belli dei Paesi Bassi ed è utilizzato ufficialmente dai reali neerlandesi per ricevere i personaggi che vengono a visitare la capitale.    
 2.  La **[Nieuwe Kerk](https://it.wikipedia.org/wiki/Nieuwe_Kerk_(Amsterdam))**, ovvero la Chiesa Nuova, che si trova proprio a destra della chiesa ed è la chiesa in cui si tengono le incoronazioni dei sovrani neerlandesi (i Paesi Bassi, ricordo, sono una monarchia parlamentare).    
 3.  Il **Nationaal Monument**, un obelisco di circa 22 metri di altezza del 1956 che si trova proprio al centro della piazza, eretto in ricordo delle vittime della Seconda Guerra Mondiale

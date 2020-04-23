@@ -51,7 +51,11 @@ A parte la bellissima vista con il classico stile nord-europeo, girandoci attorn
 1.  Il **[Palazzo Reale](https://it.wikipedia.org/wiki/Palazzo_Reale_(Amsterdam))**, che è l' enorme struttura con l' orologio e le tre statue, che simbolizzano la pace e la giustizia. È uno dei monumenti più belli dei Paesi Bassi ed è utilizzato ufficialmente dai reali neerlandesi per ricevere i personaggi che vengono a visitare la capitale.    
 2.  La **[Nieuwe Kerk](https://it.wikipedia.org/wiki/Nieuwe_Kerk_(Amsterdam))**, ovvero la Chiesa Nuova, che si trova proprio a destra della chiesa ed è la chiesa in cui si tengono le incoronazioni dei sovrani neerlandesi (i Paesi Bassi, ricordo, sono una monarchia parlamentare).    
 3.  Il **Nationaal Monument**, un obelisco di circa 22 metri di altezza del 1956 che si trova proprio al centro della piazza, eretto in ricordo delle vittime della Seconda Guerra Mondiale
-    
+
+<div style="width: 50%; margin: auto">
+{{< videogif "/video/piazza_dam_ig_2019_video.mp4" >}}
+ </div>
+   
 Sulla sinistra del Palazzo Reale si trova invece la sede ad Amsterdam del celebre museo delle ceneri "**Madame Tussauds**", mentre di fronte troviamo l' **Hotel Krasnapolsky**, un hotel a 5 stelle nato nel 1865 come ristorante e divenuto oggi un' icona della piazza.
 
 {{< gyg title="Madame Tussauds - biglietto salta la fila" link="https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" >}}
@@ -84,7 +88,7 @@ Per il secondo giorno partiamo sempre da Piazza Dam (anche perché non solo è i
 
 Questa volta però andiamo verso nord-ovest, passando per le strade che si trovano dietro al Palazzo Reale.
 
-<div style="width:30%;margin:auto">
+<div style="width:50%;margin:auto">
 {{<img "Una foto del panorama di Amsterdam" "/img/articoli/verticale_amsterdam_2019.jpg">}}
 </div>
 

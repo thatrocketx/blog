@@ -43,7 +43,7 @@ Amsterdam è una delle mete che amo di più in assoluto, essendoci stato ormai p
 
 <h1>Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">1</span></h1>
 
-{{<img "Piazza Dam vista dal lato opposto al Palazzo Reale" "piazza_amsterdam_2019">}}
+{{<img "Piazza Dam vista dal lato opposto al Palazzo Reale" "/img/articoli/piazza_amsterdam_2019.jpg">}}
 
 La prima cosa che consiglierei di vedere ad Amsterdam è sicuramente la piazza più famosa della città: **Piazza Dam**. Nata nel 1270 come piazza-mercato, è oggi uno dei principali centri della vita della capitale.
 

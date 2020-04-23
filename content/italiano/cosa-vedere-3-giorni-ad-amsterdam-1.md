@@ -25,9 +25,9 @@ descrizioneimg: Foto di that Rocket X Creative Commons Attribuzione - Non
 fontawesome: false
 js: false
 adside: >-
-  <div style="margin:auto"><img src="/img/articoli/piazza_dam_ig_2019.jpg"
-  alt="Piazza Dam storia Instagram pubblicata durante il viaggio"
-  style="max-height:300px"></div>
+  <img src="/img/articoli/piazza_dam_ig_2019.jpg" alt="Piazza Dam storia
+  Instagram pubblicata durante il viaggio"
+  style="max-height:300px;display:block;margin:auto">
 
   <script async defer src="https://widget.getyourguide.com/v2/widget.js"></script>
 

@@ -25,9 +25,9 @@ descrizioneimg: Foto di that Rocket X Creative Commons Attribuzione - Non
 fontawesome: false
 js: false
 adside: >-
-  <div style="margin:auto"><img src="/img/articoli/piazza_dam_ig_2019.jpg"
-  alt="Piazza Dam storia Instagram pubblicata durante il viaggio"
-  style="max-height:300px"></div>
+  <img src="/img/articoli/piazza_dam_ig_2019.jpg" alt="Piazza Dam storia
+  Instagram pubblicata durante il viaggio"
+  style="max-height:300px;display:block;margin:auto">
 
   <script async defer src="https://widget.getyourguide.com/v2/widget.js"></script>
 
@@ -60,7 +60,7 @@ A parte la bellissima vista con il classico stile nord-europeo, girandoci attorn
 3.  Il **Nationaal Monument**, un obelisco di circa 22 metri di altezza del 1956 che si trova proprio al centro della piazza, eretto in ricordo delle vittime della Seconda Guerra Mondiale
 
 <div style="margin: auto">
-{{< videogif "/video/piazza_dam_ig_2019_video.mp4\" style=\"max-height:500px" >}}
+{{< videogif "/video/piazza_dam_ig_2019_video.mp4" >}}
  </div>
    
 Sulla sinistra del Palazzo Reale si trova invece la sede ad Amsterdam del celebre museo delle ceneri "**Madame Tussauds**", mentre di fronte troviamo l' **Hotel Krasnapolsky**, un hotel a 5 stelle nato nel 1865 come ristorante e divenuto oggi un' icona della piazza.

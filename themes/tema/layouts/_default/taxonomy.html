@@ -47,11 +47,13 @@
     } {{ end }}{{ end }}
   ]
 }
-L.geoJSON(pos, {
+const features = L.geoJSON(pos, {
   onEachFeature: function (feature, layer) {
     layer.bindPopup('<a href="'+feature.properties.url+'">'+feature.properties.name+'</a><p>'+feature.properties.description+'</p>');
   }   
-}).addTo(map);
+});
+features.addTo(map);
+map.fitBounds(features.getBounds());	    
 </script>
  {{ range  (.Paginator 8).Pages }}
  {{- partial "articoli.html" . -}}

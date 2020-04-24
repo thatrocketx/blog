@@ -42,6 +42,7 @@
         "name": {{ .Title }},
         "description": {{ .Params.description }},
 	"url": {{ .URL }}
+	"img": {{ .Params.immagine }}
       },
       "geometry": {{ .Params.posizione | safeJS }}
     } {{ end }}{{ end }}
@@ -49,7 +50,7 @@
 }
 const features = L.geoJSON(pos, {
   onEachFeature: function (feature, layer) {
-    layer.bindPopup('<a href="'+feature.properties.url+'">'+feature.properties.name+'</a><p>'+feature.properties.description+'</p>');
+    layer.bindPopup('<a href="'+feature.properties.url+'">'+feature.properties.name+'<img src="'+feature.properties.img+'" alt="" style="max-width:100%;max-height:200px;display:block;margin:auto;margin-top:4px"></a><p>'+feature.properties.description+'</p>');
   }   
 });
 features.addTo(map);

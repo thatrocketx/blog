@@ -26,7 +26,7 @@
 - id: tema4
   translation: "Offerte e sconti"
 - id: tema5
-  translation: "Cibo"
+  translation: "Luoghi Abbandonati"
 - id: tema6
   translation: "Destinazioni"
 - id: tema1_l
@@ -38,7 +38,7 @@
 - id: tema4_l
   translation: "/categories/offerte-viaggi"
 - id: tema5_l
-  translation: "/categories/cibo"
+  translation: "/series/luoghi-abbandonati"
 - id: tema6_l
   translation: "/countries"
 

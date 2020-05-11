@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2019-08-28T09:00:15+00:00
+date: 2019-08-28T09:00:15.000Z
 title: Hotel Eremo - l' hotel abbandonato sul Vesuvio
 description: L' Hotel Eremo è un luogo molto famoso per gli amanti dei luoghi
   abbandonati. In questo articolo vi raccontiamo la storia e la nostra
@@ -41,11 +41,15 @@ adside: '<img
   href="https://amzn.to/37jq67P" target="_blank" rel="noopener">Napoli esoterica
   e misteriosa. Il lato occulto, maledetto e oscuro della città della sirena</a>
   su Amazon.'
-publishdate: 2019-08-28T09:00:15+00:00
+publishdate: 2019-08-28T09:00:15.000Z
 expirydate: " "
 scadenza: ""
 lastmod: 2020-03-07T17:16:00.000Z
 ---
+{{< notice note >}}
+Sei affascinato dall' Hotel Eremo? [Vota l' Hotel Eremo al Vesuvio come luogo del cuore sul sito del Fondo Ambiente Italiano (FAI) per aiutare a proteggerlo](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio). 💪
+{{<\ notice >}}
+
 Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
 
 Ciò che rende quest' hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l' _(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un' ottima presenza "_turistica_" grazie agli amanti dei luoghi abbandonati. 

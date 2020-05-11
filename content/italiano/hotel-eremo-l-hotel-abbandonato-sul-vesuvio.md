@@ -47,7 +47,7 @@ scadenza: ""
 lastmod: 2020-03-07T17:16:00.000Z
 ---
 {{< notice note >}}
-Sei affascinato dall' Hotel Eremo? [Vota l' Hotel Eremo al Vesuvio come luogo del cuore sul sito del Fondo Ambiente Italiano (FAI) per aiutare a proteggerlo](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio). 💪
+Sei affascinato dall' Hotel Eremo? [Vota l' Hotel Eremo al Vesuvio come **Luogo del Cuore** sul sito del **Fondo Ambiente Italiano (FAI)** per provare a proteggerlo!](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc) 💪
 {{</ notice >}}
 
 Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
@@ -169,6 +169,8 @@ Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità
 <small>Foto da Wikicommons - Autore sconosciuto -- Di <span lang="it">sconosciuto</span> - Cartolina d'epoca, Pubblico dominio, <a href="https://commons.wikimedia.org/w/index.php?curid=38738873">Collegamento</a></small>
 
 Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** una volta, se non in alcune foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
+
+<a href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc">{{< img "Vota l' Hotel Eremo sul sito del FAI" "https://fai-platform.s3.eu-west-1.amazonaws.com/banners/v2020.2/80688/1200x1200/578f59d63f5e5a602e726988ff1de4d4.png" >}}</a>
 
 {{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/city.frame\" data-gyg-iata=\"nap\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"city\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-cmp=\"hotel-eremo\"></div>" "<hr><a href=\"https://www.getyourguide.com/catacombs-of-san-gennaro-l3801/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=hotel-eremo-link-amp\" rel=\"nofollow\">🎟️ Scopri le catacombe di San Gennaro e altre attrazioni di Napoli su GetYourGuide ↗️</a>" >}}
 <small> Annuncio tramite affiliazione - Affiliate </small>

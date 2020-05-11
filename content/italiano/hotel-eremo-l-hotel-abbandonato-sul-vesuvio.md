@@ -48,7 +48,7 @@ lastmod: 2020-03-07T17:16:00.000Z
 ---
 {{< notice note >}}
 Sei affascinato dall' Hotel Eremo? [Vota l' Hotel Eremo al Vesuvio come luogo del cuore sul sito del Fondo Ambiente Italiano (FAI) per aiutare a proteggerlo](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio). 💪
-{{<\ notice >}}
+{{</ notice >}}
 
 Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
 

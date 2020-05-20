@@ -38,11 +38,11 @@ Nella capitale tedesca si incontrano tantissime tradizioni e culture differenti,
 
 L’ingrediente principale della cucina tradizionale tedesca è senza dubbio **la carne**:**di vitello o di maiale**, cucinata in molti modi diversi, viene per lo più servita con un contorno di patate, crauti o funghi. Anche i dolci non mancano: dallo **strudel ripieno di mele ai krapfen**.
 
-### <h3>**COSA MANGIARE A BERLINO**</h3>
+### COSA MANGIARE A BERLINO
 
 Basta spostarsi  per le strade di Berlino per poter assaporare le tipicità della cucina tedesca comodamente seduti in uno dei molti ristoranti o in piedi, per una breve sosta in qualche chioschetto che serve **street food**. L’importante è ricordarsi di accompagnare il proprio pranzo con un fresco **boccale di birra**.
 
-### **CURRYWURST**
+### CURRYWURST
 
 ![Currywurst con pane](/img/articoli/20190818_115329_compressed.jpg)
 
@@ -50,7 +50,7 @@ Basta spostarsi  per le strade di Berlino per poter assaporare le tipicità del
 
 Snack tipico inventato a Berlino nel 1949. È una salsiccia grigliata o fritta detta Wiener tagliate a fette si tratta di un **wurstel di vitello** cosparso di abbondante salsa speziata a base di pomodoro e curry. In genere, questo piatto viene accompagnato da pane bianco o patate fritte. Senza dubbio il re del cibo da strada.
 
-### **EISBEIN**
+### EISBEIN
 
 ![Eisbein](/img/articoli/20190813_192737_compressed.jpg)
 

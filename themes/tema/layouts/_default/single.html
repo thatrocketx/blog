@@ -1,3 +1,23 @@
+{{ define "footerfiles" }}
+<script id="dsq-count-scr" src="https://thatrocketx.disqus.com/count.js" async></script>
+<script type="application/javascript">
+	//External
+function targetBlank() {
+  // remove subdomain of current site's url and setup regex
+  var internal = location.host.replace("www.", "");
+      internal = new RegExp(internal, "i");
+  var a = document.getElementsByTagName('a'); // then, grab every link on the page
+  for (var i = 0; i < a.length; i++) {
+    var href = a[i].host; // set the host of each link
+    if( !internal.test(href) ) { // make sure the href doesn't contain current site's host
+      a[i].setAttribute('target', '_blank'); // if it doesn't, set attributes
+	a[i].setAttribute('rel', 'noopener');
+    }
+  }
+};
+targetBlank();
+</script>
+{{ end }}
 {{ define "main" }}
 {{ if .IsTranslated }}
   <nav class="lingue-lista">
@@ -28,6 +48,7 @@
     </div>
 </header>
 <div class="info articolo testo" itemprop="articleBody">
+    {{.TableOfContents}}
     {{ .Content }}
     {{ if (isset .Params "prodottoamazon") }} {{- partial "compra.html" . -}} {{ end }}
 </div>
@@ -44,56 +65,30 @@
 {{ end }}
 
 {{ if (isset .Params "autore") }}
-{{- partial "pubblicita.html" . -}}
 <section class="contenuto community" role="region">
-  <div class= "info articolo">
-    {{ T "esortazionecommenti"}} <a href="#c">{{T "vaiaicommenti"}}</a>
-    {{- partial "condividi.html" . -}}
-  <h2 id="c">{{ T "commenti"}}</h2><br>
-  {{ T "commentiinfo"}}
- <div class="disqus-comments">
-  <div id="showcom">
-  <button id="show-comments" type="button" class="bottone-commenti">{{ T "leggi-i-commenti" }}</button>
+{{- partial "community.html" -}}
+{{ $related := .Site.RegularPages.Related . | first 2 }}
+{{ with $related }}
+<h2> {{ T "vedi-anche"}} </h2>
+<div class="contenitore-ultimi-categoria-contenitore">
+<div class="contenitore-ultimi-categoria">
+  {{ range . }}
+  <a href="{{ .URL }}"><div class="articoli incategoria">
+    <div class="contenitore-immagine">
+   {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="{{ .Title }}">{{end}}
+   </div>
+   <div class="info lista">
+    {{ if (isset .Params "categories") }}<span class="categoria">{{.Params.categories}}</span> {{ end }}
+    <h1 class="titolo-lista">{{ .Title }}</h1>
+    <div class="pubblicato-lista">{{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+      {{- .Date.Format "2/1/2006" -}}</time>{{end}}</div>
   </div>
-  <div id="disqus_thread"></div>
-</div>
-<script type="text/javascript">
-  var disqus_config = function () {
-    this.page.url = '{{ trim .Permalink "/" }}';
-    this.page.title = '{{ .Title }}';
-    this.page.identifier = '{{ .UniqueID }}';
-  };
-  document.getElementById('show-comments').onclick = function () {
-    var disqus = document.createElement('script');
-    disqus.type = 'text/javascript';
-    disqus.async = true;
-    disqus.src = '//' + '{{.Site.DisqusShortname}}' + '.disqus.com/embed.js';
-    document.body.appendChild(disqus);
-    this.parentNode.parentNode.removeChild(document.getElementById('showcom'));
-  };
-</script>
-  {{ $related := .Site.RegularPages.Related . | first 2 }}
-  {{ with $related }}
-  <h2> {{ T "vedi-anche"}} </h2>
-  <div class="contenitore-ultimi-categoria-contenitore">
-  <div class="contenitore-ultimi-categoria">
-    {{ range . }}
-    <a href="{{ .URL }}"><div class="articoli incategoria">
-      <div class="contenitore-immagine">
-     {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="immagine-lista" alt="{{ .Title }}">{{end}}
-     </div>
-     <div class="info lista">
-      {{ if (isset .Params "categories") }}<span class="categoria">{{.Params.categories}}</span> {{ end }}
-      <h1 class="titolo-lista">{{ .Title }}</h1>
-      <div class="pubblicato-lista">{{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-        {{- .Date.Format "2/1/2006" -}}</time>{{end}}</div>
-    </div>
-    </div></a>
-    {{ end }}
-    </div>
-    </div>
-    </div>
+  </div></a>
   {{ end }}
-</section>
+  </div>
+  </div>
+  </div>
 {{ end }}
+</section>
+{{end}}
 {{end}}

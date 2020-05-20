@@ -1,0 +1,79 @@
+<script type="application/ld+json">
+  {{ if .IsHome }}
+  {
+	"@context": "http://schema.org/",
+  "@type": "Blog",
+  "url": "https://thatrocketx.com/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ .Site.BaseURL }}trx-amp.png",
+    "width": "118",
+    "height": "60"
+  },
+  "mainEntityOfPage": {
+    "@type": "Blog",
+    "id": "https://thatrocketx.com"
+  },
+  "name": "that Rocket X",
+  "sameAs": [ "https://facebook.com/thatrocketx",
+   "https://twitter.com/thatrocketx",
+  "https://t.me/thatrocketx",
+  "https://flipboard.com/@thatrocketx",
+  "https://pinterest.com/thatrocketx"
+],
+	"copyrightYear": "2019",
+	"license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+	"description": "{{ .Params.description }}"
+}
+  {{ else }}
+{
+  "@context": "http://schema.org/",
+  {{ if (isset .Params "recensioneprodotto") }}
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Thing",
+    "name": "{{ .Params.recensioneprodotto }}"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ .Params.recensionevoto }}"
+  },
+  {{ else }}
+  "@type": "Article",
+  {{ end }}
+   "mainEntityOfPage": {
+     "@type": "Blog",
+     "id": "https://thatrocketx.com"
+  },
+  "headline": "{{ .Title }}",
+  {{ if (isset .Params "date") }}"datePublished": "{{ .Date }}",{{end}}
+  {{ if (isset .Params "lastmod") }}"dateModified": "{{ .Lastmod }}", {{ end }}
+  {{ if (isset .Params "description") }}"description": "{{ .Params.description }}",{{end}}
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ .Site.BaseURL }}{{ if (isset .Params "immagine") }}{{ .Params.immagine }}{{else}}img/og/og-home-v2.jpg{{end}}"
+  },
+  {{ if (isset .Params "autore") }}"author": {
+    "@type": "Person",
+    "name": "{{ .Params.autore }}"
+  },{{end}}
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}trx-amp.png",
+      "width": "118",
+      "height": "60"
+    },
+    "name": "that Rocket X",
+    "sameAs": [ "https://facebook.com/thatrocketx",
+     "https://twitter.com/thatrocketx",
+    "https://t.me/thatrocketx",
+    "https://flipboard.com/@thatRocketX",
+    "https://pinterest.com/thatrocketx"
+  ]
+  }{{ if (isset .Params "content") }},
+  "articleBody" "{{ .Content | plainify | safeHTML }}"{{end}}
+}
+{{ end }}
+</script>

@@ -1,0 +1,26 @@
+<div class= "info articolo">
+    {{ T "esortazionecommenti"}} <a href="#c">{{T "vaiaicommenti"}}</a>
+    {{- partial "condividi.html" . -}}
+  <h2 id="c">{{ T "commenti"}}</h2><br>
+  {{ T "commentiinfo"}}
+ <div class="disqus-comments">
+  <div id="showcom">
+  <button id="show-comments" type="button" class="bottone-commenti">{{ T "leggi-i-commenti" }}</button>
+  </div>
+  <div id="disqus_thread"></div>
+</div>
+<script type="text/javascript">
+  var disqus_config = function () {
+    this.page.url = '{{ trim .Permalink "/" }}';
+    this.page.title = '{{ .Title }}';
+    this.page.identifier = '{{ .UniqueID }}';
+  };
+  document.getElementById('show-comments').onclick = function () {
+    var disqus = document.createElement('script');
+    disqus.type = 'text/javascript';
+    disqus.async = true;
+    disqus.src = '//' + '{{.Site.DisqusShortname}}' + '.disqus.com/embed.js';
+    document.body.appendChild(disqus);
+    this.parentNode.parentNode.removeChild(document.getElementById('showcom'));
+  };
+</script>

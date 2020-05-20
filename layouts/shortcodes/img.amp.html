@@ -1,1 +1,6 @@
-<div class="fixed-container"><amp-img class="contain" src="{{ .Get 1 }}" alt="{{ .Get 0 }}" width="400" height="400" layout="responsive"></amp-img></div> 
+<div class="fixed-container"><amp-img class="contain" src="{{ .Get 1 }}" alt="{{ .Get 0 }}" width="400" height="400" layout="responsive"></amp-img></div>
+{{ with .Get "trx" }}
+<small>that Rocket X<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></small>
+{{else}}
+{{.Get 2}}
+{{end}}

@@ -39,7 +39,6 @@
             new WOW().init();
             </script>
 {{ end }}
-{{ if .Params.fontawesome }} <link href="/css/all.min.css" rel="stylesheet" /> {{ end }}
 <script src="/js/cookie.js" async></script>
 <script>
 window.addEventListener("load", function(){
@@ -62,106 +61,7 @@ window.cookieconsent.initialise({
 }
 })});
 </script>
-<script type="application/ld+json">
-  {{ if .IsHome }}
-  {
-	"@context": "http://schema.org/",
-  "@type": "Blog",
-  "url": "https://thatrocketx.com/",
-  "logo": {
-    "@type": "ImageObject",
-    "url": "{{ .Site.BaseURL }}trx-amp.png",
-    "width": "118",
-    "height": "60"
-  },
-  "mainEntityOfPage": {
-    "@type": "Blog",
-    "id": "https://thatrocketx.com"
-  },
-  "name": "that Rocket X",
-  "sameAs": [ "https://facebook.com/thatrocketx",
-   "https://twitter.com/thatrocketx",
-  "https://t.me/thatrocketx",
-  "https://flipboard.com/@thatrocketx",
-  "https://pinterest.com/thatrocketx"
-],
-	"copyrightYear": "2019",
-	"license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-	"description": "{{ .Params.description }}"
-}
-  {{ else }}
-{
-  "@context": "http://schema.org/",
-  {{ if (isset .Params "recensioneprodotto") }}
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "Thing",
-    "name": "{{ .Params.recensioneprodotto }}"
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ .Params.recensionevoto }}"
-  },
-  {{ else }}
-  "@type": "Article",
-  {{ end }}
-   "mainEntityOfPage": {
-     "@type": "Blog",
-     "id": "https://thatrocketx.com"
-  },
-  "headline": "{{ .Title }}",
-  {{ if (isset .Params "date") }}"datePublished": "{{ .Date }}",{{end}}
-  {{ if (isset .Params "lastmod") }}"dateModified": "{{ .Lastmod }}", {{ end }}
-  {{ if (isset .Params "description") }}"description": "{{ .Params.description }}",{{end}}
-  "image": {
-    "@type": "ImageObject",
-    "url": "{{ .Site.BaseURL }}{{ if (isset .Params "immagine") }}{{ .Params.immagine }}{{else}}img/og/og-home-v2.jpg{{end}}"
-  },
-  {{ if (isset .Params "autore") }}"author": {
-    "@type": "Person",
-    "name": "{{ .Params.autore }}"
-  },{{end}}
-  "publisher": {
-    "@type": "Organization",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}trx-amp.png",
-      "width": "118",
-      "height": "60"
-    },
-    "name": "that Rocket X",
-    "sameAs": [ "https://facebook.com/thatrocketx",
-     "https://twitter.com/thatrocketx",
-    "https://t.me/thatrocketx",
-    "https://flipboard.com/@thatRocketX",
-    "https://pinterest.com/thatrocketx"
-  ]
-  }{{ if (isset .Params "content") }},
-  "articleBody" "{{ .Content | plainify | safeHTML }}"{{end}}
-}
-{{ end }}
-</script>
-
-{{ if .IsPage }}
-<script id="dsq-count-scr" src="https://thatrocketx.disqus.com/count.js" async></script>
-<script type="application/javascript">
-	//External
-function targetBlank() {
-  // remove subdomain of current site's url and setup regex
-  var internal = location.host.replace("www.", "");
-      internal = new RegExp(internal, "i");
-  var a = document.getElementsByTagName('a'); // then, grab every link on the page
-  for (var i = 0; i < a.length; i++) {
-    var href = a[i].host; // set the host of each link
-    if( !internal.test(href) ) { // make sure the href doesn't contain current site's host
-      a[i].setAttribute('target', '_blank'); // if it doesn't, set attributes
-	a[i].setAttribute('rel', 'noopener');
-    }
-  }
-};
-targetBlank();
-</script>
-{{ end }}
+{{- partial "schema.html" -}}
 <script type="text/javascript">
 	// Lazyload
 	 // Set the options to make LazyLoad self-initialize

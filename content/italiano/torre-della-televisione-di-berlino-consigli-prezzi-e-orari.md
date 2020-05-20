@@ -60,28 +60,15 @@ In aggiunta, in fondo all' articolo troverete una raccolta di [**storie e curios
 
 **N.B.** In questa guida sono presenti alcuni link per l' acquisto di biglietti per attrazioni e servizi. Questi link sono link _sponsorizzati_, vale a dire che da questi biglietti noi ricaviamo una piccola percentuale dagli acquisti idonei, in quanto affiliati al sito _GetYourGuide.com_. Sul nostro sito noi non vogliamo utilizzare pubblicità traccianti e/o invasive; per questo motivo ringraziamo in anticipo a chiunque acquisterà dai nostri link!
 
-## Indice
+## Cos'è la Torre della Televisione
 
-Qui sotto trovate un **indice delle sezioni principali** di questa guida, grazie al quale potete navigare rapidamente nell' articolo. Buona lettura!
-
-* [Cos'è la Torre della Televisione di Berlino](#cos-e-la-torre-della-televisione-di-berlino)
-* [Costo dei biglietti per salire sulla Torre della TV](#costo-dei-biglietti-per-salire-sulla-torre-della-tv-a-berlino)
-* [Tempi di attesa per l' ascensore](#tempi-di-attesa-per-l-ascensore)
-* [Pranzare e cenare nel ristorante della Torre della TV](#pranzare-e-cenare-nel-ristorante-della-torre-della-tv)
-* [Orari e giorni di apertura della Torre della Televisione](#orari-e-giorni-di-apertura-della-torre-della-televisione)
-* [Consigli per la visita](#consigli-per-la-visita-della-torre-della-televisione)
-* [Come raggiungere la Torre della Televisione a Berlino](#come-raggiungere-la-torre-della-televisione-a-berlino)
-* [Storia e curiosità sulla Torre della Televisione di Berlino](#storia-e-curiosità-sulla-torre-della-televisione-di-berlino)
-
-{{< titolo title="Cos'è la Torre della Televisione" link="cos-e-la-torre-della-televisione-di-berlino" >}}
-
-Come si può facilmente dedurre dal nome, la **Torre della Televisione** (o, in tedesco, **Fernsehturm**) è una vera **torre radiotelevisiva** che si trova proprio nel centro città di Berlino. 
+Come si può facilmente dedurre dal nome, la **Torre della Televisione** (o, in tedesco, **Fernsehturm**) è una vera **torre radiotelevisiva** che si trova proprio nel centro città di Berlino.
 
 La torre, infatti, ha ancora oggi il ruolo principale di **trasmettere diversi programmi radiofonici e televisivi**, al quale è stato aggiunto quello di **terrazza panoramica**.
 
 Oltre alla terrazza panoramica, nella quale se si vuole si può fare un aperitivo al Bar 203, all' interno della Torre è disponibile anche un **ristorante**, il quale ruota di 360 gradi ogni ora.
 
-{{< titolo title="Quanto costa salire sulla Torre della Televisione?" link="costo-dei-biglietti-per-salire-sulla-torre-della-tv-a-berlino" >}}
+## Quanto costa salire sulla Torre della Televisione?
 
 Salire sulla Torre della TV **non è proprio economico**, sia chiaro, ma vi assicuriamo che l' esperienza **vale assolutamente il prezzo del ticket**.
 
@@ -116,11 +103,11 @@ I biglietti si possono **{{< nofollow "https://www.getyourguide.it/torre-della-t
 
 Oltre al biglietto classico, la torre offre **altri servizi**, ognuno con una fascia di prezzo diversa, in particolare è possibile acquistare il biglietto con l' accompagnamento di uno snack o una bibita al bar presente nella terrazza, Bar 203. I prezzi sono abbastanza alti e i servizi cambiano a seconda del periodo; in ogni caso, per chi fosse interessato, sul [sito ufficiale](https://tv-turm.de/en/observation-deck-bar-203/) è possibile trovare una versione aggiornata dei vari eventi e dei servizi e prenotarli.
 
-{{< titolo title="Tempi di attesa per salire sulla Torre della Televisione" link="tempi-di-attesa-per-l-ascensore" >}}
+## Tempi di attesa per salire sulla Torre della Televisione
 
 Per salire sulla terrazza panoramica o nel ristorante, dovrete prendere **l' ascensore**, il quale vi porterà su nella bellezza di soli 40 secondi circa.
 
-Il problema principale quindi non è il tempo di salita, ma proprio **l' attesa del proprio turno**. 
+Il problema principale quindi non è il tempo di salita, ma proprio **l' attesa del proprio turno**.
 
 Come potete immaginare, infatti, la torre viene visitata da tantissima gente ogni ora e la terrazza ne può contenere solo una parte e la stessa cosa vale per l' ascensore, che può contenere **circa 12 persone per volta**.
 
@@ -143,7 +130,7 @@ Alla nostra visita, **i turni erano di cira 20 minuti per gruppo**, quindi in gi
 </center>
 
 <small> Affiliate </small>
-{{< titolo title="Pranzare e cenare nel ristorante della Torre della TV" link="pranzare-e-cenare-nel-ristorante-della-torre-della-tv" >}}
+## Pranzare e cenare nel ristorante della Torre della TV
 
 {{< img "Torre della Televisione di Berlino, uscita.""/img/articoli/torre-della-televisione-di-berlino-interno-ascensore.jpg" >}}
 
@@ -167,7 +154,7 @@ La cucina comprende sia **piatti tipici tedeschi** che piatti famosi e **gourmet
 
 <b> {{< nofollow "https://www.getyourguide.it/berlino-l17/torre-della-tv-di-berlino-ingresso-vip-e-colazione-t141654/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione con COLAZIONE VIP" >}}
 
-{{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-evita-la-coda-alla-torre-della-tv-pranzo-vip-t141657/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione con PRANZO" >}} 
+{{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-evita-la-coda-alla-torre-della-tv-pranzo-vip-t141657/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione con PRANZO" >}}
 
 {{< nofollow "https://www.getyourguide.it/berlino-l17/berlino-accesso-prioritario-torre-della-tv-cena-vip-t141651/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "➡️ Biglietto salta la fila per la Torre della Televisione con CENA" >}} </b>
 
@@ -176,7 +163,7 @@ La cucina comprende sia **piatti tipici tedeschi** che piatti famosi e **gourmet
 <small> Affiliate </small>
 **NOTA: In alcuni periodi i costi potrebbero essere maggiorati a causa di eventi speciali**
 
-{{< titolo title="Orari e giorni di apertura della Torre della Televisione" link="orari-e-giorni-di-apertura-della-torre-della-televisione" >}}
+## Orari e giorni di apertura della Torre della Televisione
 
 La Torre della TV è aperta **quasi tutto l' anno**, tranne per **2 giorni**, nei quali viene fatta della **manutenzione**.
 
@@ -193,7 +180,7 @@ _Il bar chiude alle 23:30, la cucina chiude alle 22:30._
 
 Ultimo gruppo alle 23:30.
 
-{{< titolo title="Consigli per la visita" link="consigli-per-la-visita-della-torre-della-televisione" >}}
+## Consigli per la visita
 
 Questa è la parte dei nostri consigli, sulla base della nostra esperienza durante il nostro ultimo viaggio alla capitale tedesca.
 
@@ -209,11 +196,11 @@ Il nostro quarto consiglio è quello di **evitare di portare con sè oggetti per
 
 Come ultimo consiglio, ma **forse il più importante**, vi diciamo di portare voi **un binocolo**, perché vi sarà **molto utile**. Vi troverete ad un' altezza di più di 200 metri e davanti a voi ci sarà l' intera città di Berlino, e sotto troverete varie informazioni sui luoghi visibili. Siccome **i binocoli disponibili sono pochi e sono a pagamento**, a questo punto non solo risparmierete, ma vi troverete molto meglio ad averne uno vostro.
 
-{{< titolo title="Come raggiungere la Torre della Televisione a Berlino" link="come-raggiungere-la-torre-della-televisione-a-berlino" >}}
+## Come raggiungere la Torre della Televisione a Berlino
 
 Raggiungere la Torre della TV è davvero semplicissimo, soprattutto perché **è impossibile non notarla**.
 
-Se ci si trova nel centro città (alla [Porta di Brandeburgo](/cosa-vedere-a-berlino/#porta-di-brandeburgo) per intendersi), basta davvero soltanto **seguirla**, percorrendo la via larga che porta ad altri iconici posti come [Bebelplatz](/cosa-vedere-a-berlino/#bebelplatz) e il [Duomo di Berlino](/cosa-vedere-a-berlino/#duomo-berlino) e attraversare il ponte in direzione **Alexanderplatz**. 
+Se ci si trova nel centro città (alla [Porta di Brandeburgo](/cosa-vedere-a-berlino/#porta-di-brandeburgo) per intendersi), basta davvero soltanto **seguirla**, percorrendo la via larga che porta ad altri iconici posti come [Bebelplatz](/cosa-vedere-a-berlino/#bebelplatz) e il [Duomo di Berlino](/cosa-vedere-a-berlino/#duomo-berlino) e attraversare il ponte in direzione **Alexanderplatz**.
 
 {{< img "Alexanderplatz di giorno""/img/articoli/alexanderplatz.jpg" >}}
 
@@ -295,7 +282,7 @@ Giusto per una questione di chiarezza, quindi, qui sotto troverete le varie ferm
 
 Per maggiori informazioni sulle linee da prendere dal vostro punto di partenza vi rimandiamo al [sito delle ferrovie di Berlino](https://sbahn.berlin/en/).
 
-{{< titolo title="Storia e curiosità sulla Torre della Televisione di Berlino" link="storia-e-curiosità-sulla-torre-della-televisione-di-berlino" >}}
+## Storia e curiosità sulla Torre della Televisione di Berlino
 
 ### Breve storia della Torre della Televisione
 
@@ -305,7 +292,7 @@ La costruzione di una torre così alta sembrava non solo l' unico modo di ovviar
 
 {{< img "L' interno della Torre della Televisione di Berlino""/img/articoli/torre-della-televisione-di-berlino-interno-bar.jpg" >}}
 
-L' inizio dei lavori si ebbero nel 1966 e in un **tempo record di 3 anni** venne conclusa nel 1969. 
+L' inizio dei lavori si ebbero nel 1966 e in un **tempo record di 3 anni** venne conclusa nel 1969.
 
 L' inaugurazione della torre si ebbe il 3 ottobre 1969, all' epoca era il **secondo edificio più grande del mondo**.
 

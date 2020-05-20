@@ -45,11 +45,11 @@ Questo articolo sarà ampliato con maggiori foto, video e informazioni nei pross
 
 Amsterdam è una delle mete che amo di più in assoluto, essendoci stato ormai più di un paio di volte, ma ogni volta che ci ritorno per me è come se fosse la prima volta. Oggi voglio proporvi alcuni consigli su cosa vedere se si sta nella capitale neerlandése per 3 giorni, una guida che potrebbe esservi utile per un weekend o per una breve sosta. Non vi darò informazioni dettagliatissime, perché Amsterdam è sicuramente una città che merita di essere visitata più a lungo, ma vi darò qualche accenno da cui iniziare a scoprire un po' la città. Le foto che troverete sono prese appunto dal mio ultimo viaggio nella capitale e quindi sono soprattutto storie Instagram e foto fatte con il cellulare, in quanto ho deciso di godermi appieno la città e di lasciare per un momento la fotocamera.
 
-{{<img "Scritta Iamsterdam vicino all' aeroporto" "/img/articoli/i_am_amsterdam_2019.jpg">}}
+{{<img "Scritta Iamsterdam vicino all' aeroporto" "/img/articoli/i_am_amsterdam_2019.jpg" " " >}}
 
-<h1>Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">1</span></h1>
+<h2>Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">1</span></h2>
 
-{{<img "Piazza Dam vista dal lato opposto al Palazzo Reale" "/img/articoli/piazza_amsterdam_2019.jpg">}}
+{{<img "Piazza Dam vista dal lato opposto al Palazzo Reale" "/img/articoli/piazza_amsterdam_2019.jpg" " ">}}
 
 La prima cosa che consiglierei di vedere ad Amsterdam è sicuramente la piazza più famosa della città: **Piazza Dam**. Nata nel 1270 come piazza-mercato, è oggi uno dei principali centri della vita della capitale.
 
@@ -62,7 +62,7 @@ A parte la bellissima vista con il classico stile nord-europeo, girandoci attorn
 <div style="margin: auto">
 {{< videogif "/video/piazza_dam_ig_2019_video.mp4" >}}
  </div>
-   
+
 Sulla sinistra del Palazzo Reale si trova invece la sede ad Amsterdam del celebre museo delle ceneri "**Madame Tussauds**", mentre di fronte troviamo l' **Hotel Krasnapolsky**, un hotel a 5 stelle nato nel 1865 come ristorante e divenuto oggi un' icona della piazza.
 
 {{< gyg title="Madame Tussauds - biglietto salta la fila" link="https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" >}}
@@ -71,7 +71,7 @@ Proseguendo su *Damstraat*, ovvero la grande strada andando verso l'hotel, si ar
 
 Andando dritti, si può stare sul ponte e godere di una classica veduta in stile olandese, ma se si gira a sinistra e si prosegue dritti, con la destra sull' acqua, si può invece incontrare dopo un paio di minuti la Oude Kerk, ovvero la **Chiesa Vecchia**, la chiesa più vecchia di Amsterdam, creata *XVI secolo*.
 
-{{<img "Una classica vista in stile olandese su un ponte" "/img/articoli/ponte_amsterdam_2019.jpg">}}
+{{<img "Una classica vista in stile olandese su un ponte" "/img/articoli/ponte_amsterdam_2019.jpg" " ">}}
 
 Girandovi attorno e prendendo una delle stradette si ritorna sulla strada che porta di nuovo alla piazza (a sinistra). Se invece si passa sul ponte e si prosegue dritto, si arriva a **Nieuwmarkt** (Mercato Nuovo), una piazza creata come mercato di "rimpiazzo" quando i canali vennero inondati nel 1614. A farla da padrone è la **Pesa pubblica** (il Waag), la più antica porta cittadina rimasta usata a partire dal 1616 come luogo in cui pesare oggetti (appunto "[pesa pubblica](https://it.wikipedia.org/wiki/Pesa_pubblica)").
 
@@ -87,7 +87,7 @@ Qui è possibile trovare coffee shop, sexy shop e le cosiddette "donne in vetrin
 
 Buona notte!
 
-<h1> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">2</span></h1>
+<h2> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">2</span></h2>
 
 Buongiorno!
 
@@ -96,7 +96,7 @@ Per il secondo giorno partiamo sempre da Piazza Dam (anche perché non solo è i
 Questa volta però andiamo verso nord-ovest, passando per le strade che si trovano dietro al Palazzo Reale.
 
 <div style="width:50%;margin:auto">
-{{<img "Una foto del panorama di Amsterdam" "/img/articoli/verticale_amsterdam_2019.jpg">}}
+{{<img "Una foto del panorama di Amsterdam" "/img/articoli/verticale_amsterdam_2019.jpg" " ">}}
 </div>
 
 Andando sempre dritto si trova la **Westerkerk** (Chiesa Occidentale) e davanti la statua dedicata ad **Anna Frank**. Nei pressi della chiesa si trova anche l' Homomonument, un monumento dedicato alle persone omosessuali vittime di persecuzione a causa del loro orientamento.
@@ -111,19 +111,19 @@ Nella casa-museo è possibile vedere vari documenti multimediali così come la f
 
 Attraversando il canale si può fare un giro nel quartiere **Jordaan**, il cui nome si pensa derivi dalla parola "giardino" e infatti molte strade hanno i nomi di piante e fiumi. Una volta abitato dalla classe dei lavoratori, oggi uno dei quartieri più costosi della città. È famoso soprattutto per i vari negozi, che offrono una vasta varietà di oggetti da poter acquistare come souvenir. Il quartiere è bello grande, quindi ci vuole un po' a visitarlo tutto.
 
-{{<img "Una barca che effettua tour" "/img/articoli/barca_amsterdam_2019.jpg">}}
+{{<img "Una barca che effettua tour" "/img/articoli/barca_amsterdam_2019.jpg" " ">}}
 
 Da qui potreste andare al Vondelpark, ma di questo parliamo nel giorno 3. Una cosa che potreste fare invece è fare un tour per i canali e visitare quindi Amsterdam dalla comodità della barca, ascoltando le informazioni e le curiosità sulla città (le barche partono anche dal luogo in cui si trova la casa di Anna Frank).
 
 {{< gyg title="Tour per i canali di Amsterdam in barca in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 17,50" >}}
 
-<h1> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">3</span></h1>
+<h2> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">3</span></h2>
 
 Siamo all' ultimo giorno del nostro viaggio e per questo motivo dobbiamo godercelo appieno, vedendo le ultime cose che possiamo visitare in questo nostro breve viaggio.
 
 Partendo sempre da Piazza Dam, che ormai conosciamo come le nostre tasche, ci rechiamo verso sud, dando un' occhiata al **Mercato dei Fiori** (Bloemenmarkt). Questo è un posto unico perché si tratta dell' unico mercato di fiori galleggiante al mondo, fondato nel 1862. Questo tipo di vendita deriva da un vecchio modo di fare, che prevedeva l' arrivo delle piante sulle barche. In tutto ci sono 15 negozi di fiori che si occupano di vendere fiori freschi, tra i quali non possono assolutamente mancare i *tulipani*.
 
-{{<img "Il Mercato dei Fiori" "/img/articoli/fiori_amsterdam_2019.jpg">}}
+{{<img "Il Mercato dei Fiori" "/img/articoli/fiori_amsterdam_2019.jpg" " ">}}
 
 Da qui possiamo proseguire per la strada e, oltrepassato il ponte, arrivare al **Vondelpark**, che possiamo paragonare un po' al [parco di Tiergarten](/cosa-vedere-a-berlino/#tiergarten) di Berlino, visto che ne abbiamo parlato in altre guide. È un enorme parco "all' inglese" divenuto pubblico a partire dal 1865. Qui si possono effettuare varie attività sportive e si organizzano eventi per la città. Ci si può davvero perdere molto tempo senza annoiarsi poi tanto.
 
@@ -137,7 +137,7 @@ Se invese non si è amanti dell' arte si può fare un giro al vecchio birrificio
 
 Il resto della giornata naturalmente si dovrebbe passare a fare un riepilogo, magari ripassando ai quartieri a luci rosse di sera o facendo un' ultima passeggiata sui ponti e godendosi i vari panorami che questa bellissima città ha da offire e pensare a quanto è bello viaggiare.
 
-{{< noamp "<iframe class=\"lazyloaded\" width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen data-src=\"//umap.openstreetmap.fr/en/map/untitled-map_447942?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false\"></iframe>" >}}
+{{< umap mapName="untitled-map_447942" >}}
 
 
-{{<img "Alcune bici ad Amstedam" "/img/articoli/bici_amsterdam_2019.jpg">}}
+{{<img "Alcune bici ad Amstedam" "/img/articoli/bici_amsterdam_2019.jpg" " ">}}

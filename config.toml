@@ -64,3 +64,16 @@ toLower = true
   [[related.indices]]
   name = "keywords"
   weight = 70.0
+[privacy]
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+[markup.goldmark.renderer]
+  unsafe= true

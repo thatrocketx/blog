@@ -13,8 +13,6 @@ Su questo sito sono stati utilizzati componenti Open Source, di seguito trovate 
 
 - [HUGO](https://gohugo.io/) con licenza [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE)
 - [Cookie Consent](https://www.osano.com/cookieconsent/documentation/license/) by Osano con licenza MIT
-- Twemoji by Twitter con licenza [Creative Commons BY 4.0](https://github.com/twitter/twemoji/blob/master/LICENSE-GRAPHICS)
-- hugo-mod-twemoji con licenza [MIT](https://github.com/jakejarvis/hugo-mod-twemoji/blob/master/LICENSE.md)
 - [SharingButtons.io](https://sharingbuttons.io/) con licenza [MIT](https://github.com/mxstbr/sharingbuttons.io/blob/master/LICENSE.md)
 - [WOW.js](https://wowjs.uk/) con licenza [MIT](https://github.com/graingert/WOW/blob/master/LICENSE)
 - [Animate.css](https://animate.style/) con licenza [MIT](https://github.com/animate-css/animate.css/blob/master/LICENSE)

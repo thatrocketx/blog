@@ -1,5 +1,5 @@
 # italiano
-# cookie per analizzare il traffico e 
+# cookie per analizzare il traffico e
 - id: salta_contenuto
   translation: "Salta al contenuto"
 - id: no_amp
@@ -113,24 +113,24 @@
 
 - id: copy
   translation: "Alcuni diritti riservati"
-- id: slogan
-  translation: "Il blog che rispetta la tua privacy"
 - id: tuttitags
   translation: "Vedi tutti i tag"
 - id: tuttecategorie
   translation: "Vedi tutte le categorie"
 - id: tornasu
   translation: "Torna su"
-  
-  
-- id: warning      
-  translation: "Attenzione"  
+- id: licenze 
+  translation: "Licenze"
+
+
+- id: warning
+  translation: "Attenzione"
 - id: note
   translation: "Nota"
 - id: info
   translation: "Informazione"
 - id: tip
   translation: "Consiglio"
-  
+
 - id: leggi-i-commenti
   translation: "Clicca qui per leggere i commenti o condividere le tue idee"

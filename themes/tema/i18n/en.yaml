@@ -1,5 +1,5 @@
 # inglese
-# first-party cookies to analyse our traffic and 
+# first-party cookies to analyse our traffic and
 - id: salta_contenuto
   translation: "Skip to content"
 - id: linguasuff
@@ -117,14 +117,14 @@
 
 - id: copy
   translation: "Some rights reserved"
-- id: slogan
-  translation: "The Privacy-Friendly Blog"
 - id: tuttitags
   translation: "See all tags"
 - id: tuttecategorie
   translation: "See all categories"
 - id: tornasu
   translation: "Go to the top"
+- id: licenze
+  translation: "Licenses"
 
 - id: warning
   translation: "Warning"
@@ -138,4 +138,3 @@
 
 - id: leggi-i-commenti
   translation: "Click here to read the comments and share your thoughts"
-

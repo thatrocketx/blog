@@ -17,6 +17,9 @@ disqusShortname = "thatrocketx"
   [outputFormats.AMP]
   baseName = "index-amp"
   path= ""
+[module]
+  [module.imports]
+  path = "github.com/jakejarvis/hugo-mod-twemoji"
 [languages]
   [languages.it]
     languageName = "Italiano"
@@ -64,4 +67,3 @@ toLower = true
   [[related.indices]]
   name = "keywords"
   weight = 70.0
-  

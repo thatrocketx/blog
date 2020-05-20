@@ -66,8 +66,8 @@ targetBlank();
 {{ if (isset .Params "autore") }}
 <section class="contenuto community" role="region">
   <div class= "info articolo">
-    <div style="font-size:1.3em;margin-bottom:10px">
-    <img src="/commenti.svg" width="50" height="50" style="display:inline-block;float:left;margin-right:10px">
+    <div style="font-size:1.3em;margin-bottom:10px;text-align:center">
+    <img src="/commenti.svg" width="50" height="50" style="display:inline-block;float:left;margin-right:10px" alt="">
       {{ T "esortazionecommenti"}} <br><a href="#c" onclick="showDisqus()">{{T "vaiaicommenti"}}</a>
       </div>
       {{- partial "condividi.html" . -}}

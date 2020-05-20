@@ -48,6 +48,7 @@ targetBlank();
     </div>
 </header>
 <div class="info articolo testo" itemprop="articleBody">
+    {{.TableOfContents}}
     {{ .Content }}
     {{ if (isset .Params "prodottoamazon") }} {{- partial "compra.html" . -}} {{ end }}
 </div>

@@ -61,14 +61,14 @@ In questo articolo vi racconteremo **la nostra esperienza** durante la nostra vi
 {{< img "Vecchio cancello per entrare all' Hotel Eremo" "/img/articoli/cancello-eremo_c.jpg" >}}
 
 
-{{< titolo title="Una breve introduzione - La storia dell' Hotel Eremo e del suo abbandono" link="storia" >}}​
+## Una breve introduzione - La storia dell' Hotel Eremo e del suo abbandono​
 L' Hotel Eremo **venne costruito** a partire dal **1902**, molto probabilmente voluto da _John Mason Cook_, l' allora proprietario della Thomas Cook (la stessa compagnia che operava aerei e offriva viaggi, fallita il 23 settembre del 2019) per **ospitare i turisti** che visitavano il **Vesuvio** utilizzando la vecchia ferrovia che collegava Ercolano con il vulcano. La Cook aveva infatti avuto in concessione la costruzione della **ferrovia Pugliano-Vesuvio**, sulla base di un vecchio progetto e, tra le varie tappe, aveva appunto inserito la fermata _Eremo_ per le persone che volessero fermarsi a soggiornarvi.  Successivamente, durante il periodo di prima decadenza del turismo, l' intero impianto ferroviario venne ceduto ad un' altra società.​
 
 Con le **eruzioni** del Vesuvio che si manifestarono nel '900, tra le quali ricordiamo l' [eruzione del 1944](https://it.wikipedia.org/wiki/Eruzione_del_Vesuvio_del_1944), parte della linea ferroviaria venne danneggiata e per questo motivo vi fu un **notevole calo di traffico** turistico, complici anche i conflitti della Seconda Guerra Mondiale. Nel 1951 **l' hotel venne ceduto a privati**, ma successivamente, a causa della costruzione della nuova strada provinciale, la ferrovia che lo accompagnava venne definitvamente soppressa. Per chi volesse approfondire la storia dell' Eremo e della ferrovia, consiglio la lettura dell' [articolo scritto da lestradeferrate](http://www.lestradeferrate.it/mono67.htm) e la [pagina Wikipedia dedicata](https://it.wikipedia.org/wiki/Ferrovia_Pugliano-Vesuvio).​
 
 Non siamo riusciti a trovare informazioni chiare sul perché l' hotel sia stato abbandonato, ma è molto probabile che i costi di manutenzione non giustificassero la scarsa richiesta. Probabilmente la distanza dell' hotel dal centro ha giocato un ruolo chiave per l' **abbandono**.​
 
-{{< titolo title="Arrivo all' hotel" link="arrivo" >}}​
+## Arrivo all' hotel​
 Il nostro primo incontro con questo edificio lo abbiamo avuto per puro caso, seguendo uno dei **sentieri del Parco Nazionale del Vesuvio** che abbiamo scoperto essere il numero 4.​
 
 Il nostro intento originario era quello di vedere il famoso **[Osservatorio Vesuviano](https://it.wikipedia.org/wiki/Osservatorio_Vesuviano)** (l' hotel si trova a pochi passi). Quando siamo entrati all' interno dell' hotel è diventato per noi un luogo magico. Già solo l' ex entrata principale da' un senso di inquietudine, che viene però alleviata dal fatto che ci si trova in un posto abbastanza frequentato grazie alla presenza di un parcheggio e di un bar. Per le visite successive, infatti, abbiamo sempre usato l' auto per una questione di comodità.​
@@ -82,7 +82,7 @@ L' entrata all' hotel manca, ormai, di qualsiasi forma di sicurezza: il vecchio 
 **Non siamo certi** che il luogo **non sia** più **proprietà privata**, quindi non possiamo assicurarvi dell' effettiva **legalità** del fermarsi a vedere l' hotel. Se avete notizie al riguardo **vi preghiamo di farcelo presente** nei commenti, così da poter aggiungere eventuali avvisi.​
 {{</ notice >}}
 
-{{< titolo title="Il primo piano" link="primo-piano" >}}​
+## Il primo piano​
 L' hotel è ormai completamente **distrutto** a causa dei vari **vandalismi** ed è lasciato in stato **di totale abbandono** con **spazzatura**, oggetti che forse sarebbe meglio non toccare e **graffiti** su graffiti che variano da quelli artistici e simpatici a quelli decisamente fuori luogo, ma che donano comunque un tocco in più all' intero complesso. Tutto ciò che poteva essere rubato è stato rubato, tutto ciò che poteva essere distrutto è stato distrutto. Un vero peccato.​
 
 {{< img "Interno dell' Hotel Eremo" "/img/articoli/eremo-interno-2.jpg" >}}
@@ -113,7 +113,7 @@ Ecco una foto che abbiamo scattato con il drone, in cui si la statua si vede pi�
 {{< img "Foto della statua di Gesù nello spiazzato dell' Hotel Eremo." "/img/articoli/foto-gesu-eremo-drone.jpg" >}}
 
 
-{{< titolo title="Il secondo piano" link="secondo-piano" >}}​
+## Il secondo piano​
 Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali.
 
 {{< notice warning >}}
@@ -128,7 +128,7 @@ Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due t
 {{< img "Vista da uno dei due balconi al piano superiore dell' Hotel Eremo." "/img/articoli/eremo-vista-balcone.jpg" >}}
 ​
 
-{{< titolo title="Il terzo piano" link="terzo-piano" >}}​
+## Il terzo piano​
 {{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/porta-terzo-piano-eremo_c.jpg" >}}
 ​
 
@@ -162,7 +162,7 @@ Questo è uno dei posti meglio mantenuti, probabilmente perché è rischioso da 
 Nel caso in cui vi recaste, vi preghiamo di **non distruggere** e **non rubare** nulla dall' hotel, anche perché [potreste commettere un reato](https://www.laleggepertutti.it/149661_entrare-in-un-edificio-abbandonato-e-reato). Ricordate di essere civili.
 {{</ notice >}}
 
-{{< titolo title="Conclusioni" link="conclusioni" >}}​
+## Conclusioni​
 Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità**, **adrenalina** e **inquietudine**. Viene voglia di esplorarlo da cima a fondo. Ciò che secondo noi rende così affascinante questo luogo è proprio il fatto che **un hotel così bello**, in un posto fantastico, nel quale prima non si poteva accedere, oggi è lì **abbandonato** e **distrutto**.​
 
 {{< img  "Foto da una vecchia cartolina d' epoca" "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg" "Foto da Wikimedia Commons - Autore sconosciuto -- Di sconosciuto - Cartolina d'epoca, Pubblico dominio, <a href=\"https://commons.wikimedia.org/w/index.php?curid=38738873\">Collegamento</a>" >}}

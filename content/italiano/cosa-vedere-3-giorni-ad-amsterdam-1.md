@@ -47,7 +47,7 @@ Amsterdam è una delle mete che amo di più in assoluto, essendoci stato ormai p
 
 {{<img "Scritta Iamsterdam vicino all' aeroporto" "/img/articoli/i_am_amsterdam_2019.jpg" " " >}}
 
-<h1>Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">1</span></h1>
+<h2>Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">1</span></h2>
 
 {{<img "Piazza Dam vista dal lato opposto al Palazzo Reale" "/img/articoli/piazza_amsterdam_2019.jpg" " ">}}
 
@@ -87,7 +87,7 @@ Qui è possibile trovare coffee shop, sexy shop e le cosiddette "donne in vetrin
 
 Buona notte!
 
-<h1> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">2</span></h1>
+<h2> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">2</span></h2>
 
 Buongiorno!
 
@@ -117,7 +117,7 @@ Da qui potreste andare al Vondelpark, ma di questo parliamo nel giorno 3. Una co
 
 {{< gyg title="Tour per i canali di Amsterdam in barca in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 17,50" >}}
 
-<h1> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">3</span></h1>
+<h2> Giorno <span style="background-color: #FFF;display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">3</span></h2>
 
 Siamo all' ultimo giorno del nostro viaggio e per questo motivo dobbiamo godercelo appieno, vedendo le ultime cose che possiamo visitare in questo nostro breve viaggio.
 

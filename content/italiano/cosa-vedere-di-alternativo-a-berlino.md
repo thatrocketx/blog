@@ -51,7 +51,7 @@ lastmod: '2020-02-28T12:40:48+00:00'
 ---
 Quando si va in una città si ha sempre la voglia di trovare qualche luogo "strano" o comunque poco conosciuto. Berlino è una città piena di luoghi nascosti e cose di questo genere. In questa mini-guida, appendice della [nostra guida principale alla città](/cosa-vedere-a-berlino), vi elenchiamo i luoghi e le attività meno conosciute della capitale tedesca.
 
-{{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
+### Friede sei mit Dir
 
 È un **murale "particolare"** che si trova sulla sede di uno dei giornali più famosi della Germania, il Taz, vicinissimo a Checkpoint Charlie.
 L' opera è puramente **satirica** e fu **dedicata all' ex direttore di un altro giornale** famoso, il Bild. Si diceva, infatti, che il direttore si fosse **sottoposto ad un intervento** per allungarsi in quel senso.
@@ -62,7 +62,7 @@ Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Artwork+%22Friede+sei+mit+Dir%22/@52.5066148,13.3916175,20z/data=!4m5!3m4!1s0x47a84e2a5cef3d1d:0x6de0798fab161a37!8m2!3d52.5066401!4d13.3917784"  >Google Maps</a> - <a href="https://www.openstreetmap.org/?mlat=52.50665&mlon=13.39175#map=19/52.50665/13.39175"  >OpenStreetMap</a> - <a href="geo:52.50665,13.39175?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Spreepark" link="spreepark" >}}
+### Spreepark
 
 **Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la **prenotazione online anticipata** ([vedere qui](/cosa-vedere-a-berlino#cosa-vedere-su-prenotazione)). Il parco **fu, per un lungo periodo di tempo, l' unico parco divertimenti di Berlino** e il migliore di tutta la Germania dell' Est. Col passare del tempo, **l' aumento dei prezzi portò ad un traffico sempre minore**, fino a quando, nel 2001, **chiuse per i troppi debiti**. Uno dei proprietari venne accusato, successivamente, di aver cercato di trasportare ben **180 kg di cocaina**, nascondendola in una delle attrazioni. Nel 2014 venne acquistato dalla città di Berlino. Oggi **il parco è visitabile soltanto se accompagnati da una guida turistica** che si può prenotare online (scavalcare i cancelli è illegale). Si trova a qualche chilometro da East Side Gallery.
 **A PAGAMENTO (5€ - SOLO SU PRENOTAZIONE)** ([sito per la prenotazione](https://gruen-berlin.de/en/spreepark/visitor-information-0))
@@ -70,7 +70,7 @@ Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Spreepark/@52.4836351,13.4894014,16z/data=!4m5!3m4!1s0x0:0xcd9e29eb2b539c51!8m2!3d52.4835798!4d13.4916723"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.48546/13.48860"  >OpenStreetMap</a> - <a href="geo:52.48546,13.48860?z=17"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Park am Gleisdreieck" link="park-am-gleisdreieck" >}}
+### Park am Gleisdreieck
 
 {{< img "Binari abbandonati" "/img/articoli/park-am-gleisdreieck_compressed.jpg" >}}
 
@@ -82,7 +82,7 @@ Ci si può fare un giro se si va al [Deutsches Technikmuseum](/cosa-vedere-a-ber
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Park+at+Gleisdreieck/@52.4944847,13.3764311,17z/data=!4m5!3m4!1s0x47a850301366c17b:0x5c368c54cfd1eb6!8m2!3d52.4940268!4d13.3759081"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.49394/13.37526"  >OpenStreetMap</a> - <a href="geo:52.49394,13.37526?z=17"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Parochialkirche" link="parochialkirche" >}}
+### Parochialkirche
 
 {{< img "Interno della chiesa" "/img/articoli/parochialkirche_compressed.jpg" >}}
 
@@ -92,7 +92,7 @@ Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondi
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Parochialkirche/@52.5170001,13.4128609,19z/data=!4m5!3m4!1s0x47a84e21827e160d:0xff49535dc736d5b1!8m2!3d52.5170353!4d13.4128844"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51699/13.41265"  >OpenStreetMap</a> - <a href="geo:52.51699,13.41265?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Bunker di Hitler (Führerbunker)" link="bunker-hitler" >}}
+### Bunker di Hitler (Führerbunker)
 
 **Luogo nel quale era situato il bunker di Hitler**. Oggi è un **parcheggio**, un cartello spiega come era strutturato.
 
@@ -103,7 +103,7 @@ Piccola curiosità: se avete visto il film [Lui è tornato](https://it.wikipedia
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Hitler's+Bunker+(F%C3%BChrerbunker)/@52.5124841,13.3787479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85122b25d1385:0xcbd28f9c6255700!8m2!3d52.5124841!4d13.3809366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51258/13.38064"  >OpenStreetMap</a> - <a href="geo:52.51258,13.38064?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Statua dell' omino del semaforo (Einheitsmännchen)" link="einheitsmännchen" >}}
+### Statua dell' omino del semaforo (Einheitsmännchen)
 
 {{< img "Statua dell' ampelmann" "/img/articoli/statua-gigante-omino-del-semaforo-ampelmann_compressed.jpg" >}}
 
@@ -117,7 +117,7 @@ Si trova a qualche metro a sud del memoriale dell' Olocausto, a **Ministergärte
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745"  >OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19"  >Applicazione mappe</a>
   </div>
 
-  {{< titolo2 title="Tempelhofer Feld" link="tempelhofer-feld" >}}
+  ### Tempelhofer Feld
 
 **Vecchio aeroporto abbandonato** di Berlino che ora funge da parco pubblico.
 
@@ -135,7 +135,7 @@ Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare,
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Tempelhofer+Feld/@52.4742191,13.4002196,15z/data=!4m5!3m4!1s0x47a84fe8f7d899eb:0x88898e99acbb718b!8m2!3d52.4753833!4d13.4019041"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.4722/13.3980"  >OpenStreetMap</a> - <a href="geo:52.4722,13.3980?z=15"  >Applicazione mappe</a>
   </div>
 
-  {{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}}
+  ### Museo dello spionaggio (Deutsches Spionagemuseum)
 
 {{< img "Parte della mostra" "/img/articoli/img_2064_compressed.jpg" >}}
 
@@ -159,7 +159,7 @@ Il **lunedì il museo è chiuso**.
 <div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
   </div>
 
- {{< titolo2 title="S-Bahn Nordbahnhof" link="nordbahnhof" >}}
+ ### S-Bahn Nordbahnhof
 
 {{< img "Facciata con nome della stazione S-Bahn Nordbahnhof" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
 
@@ -182,7 +182,7 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
 
 ---
 
-{{< titolo2 title="Schwerbelastungskörper" link="schwerbelastungskorper" >}}
+### Schwerbelastungskörper
 
 Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all' incirca **12 650 tonnellate**).
 
@@ -194,7 +194,7 @@ Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate l
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Schwerbelastungsk%C3%B6rper/@52.4839316,13.3709698,18z/data=!4m5!3m4!1s0x47a8503d23a64435:0x726cb510e12b2f9!8m2!3d52.4840392!4d13.3716139">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.48398/13.37142"  >OpenStreetMap</a> - <a href="geo:52.48398,13.37142?z=19"  >Applicazione mappe</a>
   </div>
 
-{{< titolo2 title="Sowjetisches Ehrenmal Tiergarten" link="sowjetisches-ehrenmal-tiergarten" >}}
+### Sowjetisches Ehrenmal Tiergarten
 
 {{< img "Monumento principale senza carri" "/img/articoli/sowjetisches-ehrenmal_compressed.jpg" >}}
 
@@ -206,7 +206,7 @@ Si trova nei pressi di Tiergarten, sulla strada che va dalla Porta di Brandeburg
 
 Di solito è poco affollato.
 
-{{< titolo2 title="Stadtmauer" link="stadtmauer" >}}
+### Stadtmauer
 
 {{< img "Stadtmauer" "/img/articoli/muro-antico-di-berlino_compressed.jpg" >}}
 
@@ -222,7 +222,7 @@ Negli anni della Guerra Fredda, venne costruita, dal governo della Germania dell
   </div>
 
 
-{{< titolo2 title="Torre di controllo in Erna-Berger-Straße" link="torre-di-controllo" >}}
+### Torre di controllo in Erna-Berger-Straße
 
 {{< img "Torre di controllo vicino Potsdamer Platz" "/img/articoli/torre-di-controllo-berlino-potsdamer-platz_compressed.jpg" >}}
 
@@ -235,7 +235,7 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
   </div>
 
 
-{{< titolo2 title="Uscire dalla Germania e visitare la Polonia" link="visitare-polonia" >}}
+### Uscire dalla Germania e visitare la Polonia
 
 {{< img "Vista del centro città di Stettino. Il tram numero 171 viaggia in direzione Turkusowa. Sullo sfondo si vede la Cattedrale di Stettino." "/img/articoli/stettino-città-tram.jpg" >}}
 
@@ -254,7 +254,7 @@ In alternativa potete raggiungere anche Słubice che si trova al confine tra Ger
 
 
 
-{{< titolo2 title="Casa della Conferenza di Wannsee" link="casa-conferenza-wannsee" >}}
+### Casa della Conferenza di Wannsee
 
 Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale*, lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo.
 

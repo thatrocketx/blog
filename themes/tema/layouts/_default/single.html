@@ -44,13 +44,12 @@ targetBlank();
     </figure>
 </div>
     <div class="info articolo">
-      {{ if (isset .Params "autore") }}<span itemprop="author" class="autore" title="{{ T "autoreinf"}}">{{ .Params.autore }}</span><span class="tempo-lettura-tempo"><span class="separatore"></span> <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="nascosto">{{ T "tempo_lettura"}}:</span></span> {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}}</span>{{end}} {{ if (isset .Params "stelle") }}<span class="separatore"></span><span aria-hidden="true" title="{{ .Params.recensionevoto }}"> {{.Params.stelle}} </span> <span class="separatore"></span> <span id="commenti-info-articolo">{{ T "commenti"}}:</span> <div class="comment-count"><a class="noext" href="{{ .Permalink }}#disqus_thread">{{T "vaiaicommenti"}}</a></div>{{ end }}
+      {{ if (isset .Params "autore") }}<span itemprop="author" class="autore" title="{{ T "autoreinf"}}">{{ .Params.autore }}</span><span class="tempo-lettura-tempo"><span class="separatore"></span> <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="nascosto">{{ T "tempo_lettura"}}:</span></span> {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}}</span><span class="separatore"></span> <span id="commenti-info-articolo">{{ T "commenti"}}:</span> <div class="comment-count"><a class="noext" onclick="showDisqus()" href="{{ .Permalink }}#disqus_thread">{{T "vaiaicommenti"}}</a></div>{{ end }}
     </div>
 </header>
 <div class="info articolo testo" itemprop="articleBody">
     {{.TableOfContents}}
     {{ .Content }}
-    {{ if (isset .Params "prodottoamazon") }} {{- partial "compra.html" . -}} {{ end }}
 </div>
   {{ if (isset .Params "categories") }}{{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="categoria">{{ . }}</a> {{end}}<br><br>{{ end }}
 {{ if (isset .Params "date") }}<time class="data" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" title="{{ T "datainf"}}">{{- .Date.Format "2/1/2006" -}}</time>{{ end }}
@@ -66,7 +65,36 @@ targetBlank();
 
 {{ if (isset .Params "autore") }}
 <section class="contenuto community" role="region">
-{{- partial "community.html" -}}
+  <div class= "info articolo">
+    <div style="font-size:1.3em">
+    <img src="/commenti.svg" width="50" height="50" style="display:inline-block;float:left;margin-right:10px">
+      {{ T "esortazionecommenti"}} <br><a href="#c" onclick="showDisqus()">{{T "vaiaicommenti"}}</a>
+      </div>
+      <h2>{{ T "condividi"}}</h2><br>
+      {{- partial "condividi.html" . -}}
+    <h2 id="c">{{ T "commenti"}}</h2><br>
+    {{ T "commentiinfo"}}
+   <div class="disqus-comments">
+    <div id="showcom">
+    <button id="show-comments" type="button" class="bottone-commenti" onclick="showDisqus()">{{ T "leggi-i-commenti" }}</button>
+    </div>
+    <div id="disqus_thread"></div>
+  </div>
+  <script type="text/javascript">
+    var disqus_config = function () {
+      this.page.url = '{{ trim .Permalink "/" }}';
+      this.page.title = '{{ .Title }}';
+      this.page.identifier = '{{ .UniqueID }}';
+    };
+    function showDisqus() {
+      var disqus = document.createElement('script');
+      disqus.type = 'text/javascript';
+      disqus.async = true;
+      disqus.src = '//' + '{{.Site.DisqusShortname}}' + '.disqus.com/embed.js';
+      document.body.appendChild(disqus);
+      document.getElementById('showcom').remove();
+    };
+  </script>
 {{ $related := .Site.RegularPages.Related . | first 2 }}
 {{ with $related }}
 <h2> {{ T "vedi-anche"}} </h2>

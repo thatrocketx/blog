@@ -49,7 +49,10 @@ expirydate: ' '
 scadenza: ' '
 lastmod: '2020-02-28T12:40:48+00:00'
 ---
+## Introduzione
 Quando si va in una città si ha sempre la voglia di trovare qualche luogo "strano" o comunque poco conosciuto. Berlino è una città piena di luoghi nascosti e cose di questo genere. In questa mini-guida, appendice della [nostra guida principale alla città](/cosa-vedere-a-berlino), vi elenchiamo i luoghi e le attività meno conosciute della capitale tedesca.
+
+## Le attrazioni alterantive da vedere a Berlino
 
 ### Friede sei mit Dir
 
@@ -234,6 +237,7 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
 <div style="text-align: center"><a href="https://www.google.com/maps/place/DDR+Watch+Tower/@52.5084286,13.379797,19z/data=!4m5!3m4!1s0x47a851ce99f7ae91:0x87c8b6677d18734d!8m2!3d52.5085353!4d13.3796787"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50849/13.37923"  >OpenStreetMap</a> - <a href="geo:52.50849,13.37923?z=19"  >Applicazione mappe</a>
   </div>
 
+## Le attrazioni alternative da vedere fuori Berlino
 
 ### Uscire dalla Germania e visitare la Polonia
 

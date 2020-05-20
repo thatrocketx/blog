@@ -30,15 +30,19 @@ publishdate: '2019-08-23T10:32:29+02:00'
 expirydate: ' '
 lastmod: '2019-08-27T11:04:29+00:00'
 ---
+{{< notice warning >}}
+Questo articolo è in fase di revisione, aggiorneremo alcune sue informazioni nei prossimi giorni.
+{{</ notice >}}
+## Introduzione
 Usando una metafora potremmo dire che le **tradizioni gastronomiche** di un paese sono il DNA della sua cultura, stratificata nei secoli. Il cibo é la **forma culturale più istintiva** che esista, è insieme un’esigenza di vita ed un linguaggio artistico che unisce uomini di ogni razza e religione.
 
-### LA CUCINA DI BERLINO: LE TRADIZIONI TEDESCHE E LE INFLUENZE TURCHE
+## LA CUCINA DI BERLINO: LE TRADIZIONI TEDESCHE E LE INFLUENZE TURCHE
 
 Nella capitale tedesca si incontrano tantissime tradizioni e culture differenti, legate in particolar modo all’immigrazione turca di cui la città è stata protagonista a partire dagli anni 70.
 
 L’ingrediente principale della cucina tradizionale tedesca è senza dubbio **la carne**:**di vitello o di maiale**, cucinata in molti modi diversi, viene per lo più servita con un contorno di patate, crauti o funghi. Anche i dolci non mancano: dallo **strudel ripieno di mele ai krapfen**.
 
-### COSA MANGIARE A BERLINO
+## COSA MANGIARE A BERLINO
 
 Basta spostarsi  per le strade di Berlino per poter assaporare le tipicità della cucina tedesca comodamente seduti in uno dei molti ristoranti o in piedi, per una breve sosta in qualche chioschetto che serve **street food**. L’importante è ricordarsi di accompagnare il proprio pranzo con un fresco **boccale di birra**.
 

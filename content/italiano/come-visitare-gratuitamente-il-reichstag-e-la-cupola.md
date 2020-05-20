@@ -63,7 +63,7 @@ Prima di proseguire assicuratevi di avere almeno una **mezz' oretta di tempo lib
 
 Buona lettura!
 
-## Prenotare la visita al Reichstag
+## **Prenotare la visita al Reichstag**
 
 ### Qual è il costo dei biglietti?
 

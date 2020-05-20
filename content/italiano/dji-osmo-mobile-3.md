@@ -54,7 +54,7 @@ Affiliate
 
 {{<img "Custodia dell' Osmo Mobile 3 chiusa, vista frontale" "/img/articoli/osmo-1.jpeg">}}
 
-## **La confezione**
+## La confezione
 
 La scatola dell' Osmo Mobile 3 si presenta molto basica, con una semplice immagine dell' Osmo su fondo bianco e il logo della DJI, classica, come lo era per il drone.
 
@@ -64,7 +64,7 @@ L' Osmo utilizza un attacco USB di tipo C quindi se si dovesse rompere **potete 
 
 {{<img "Foto di that Rocket X" "/img/articoli/osmo-3.jpg">}}
 
-## **App DJI e attivazione**
+## App DJI e attivazione
 
 Per attivare l' Osmo bisogna **scaricare l' app DJI Mimo dal [Play Store](https://play.google.com/store/apps/details?id=dji.mimo) o dall' [App Store](https://apps.apple.com/us/app/dji-mimo/id1431720653)**, che servirà anche a controllare l' Osmo in tutte le funzionalità.
 
@@ -100,12 +100,6 @@ Questa funzione mantiene sempre al centro il volto di una persona selezionato, p
 
 Questa è una funzione più "rapida" che funzionale, in pratica cliccando un bottone presenti sul gimbal si può ruotare lo smartphone da orizzontale a verticale e viceversa, naturalmente vi sconsigliamo di utilizzarlo durante le registrazioni, ma è utile per cambiare visualizzazione rapidamente, magari se si registra per YouTube e nel frattempo si vogliono pubblicare storie su Instagram.
 
-## **Posizionarlo su un treppiede**
-
-Il treppiede ha un classico attacco con vite per fotocamere (tipo F), se già ne avete uno potete acquistare la versione normale e risparmiare un po' di soldi. Tenete presente però che l' Osmo Mobile 3 non si mantiene in piedi da solo, perché ha una base smussata, quindi se non avete un treppiedi e volete usarlo in una posizione stabile, allora probabilmente vi conviene acquistare la versione combo, oppure prenderne uno. In ogni caso questo è un oggetto che di solito va utilizzato in movimento quindi se lo utilizzate per i nostri stessi scopi (in viaggio), allora non vi servirà.
-
-<div style="width: 100%"><div style="width: 50%; float: left">{{<img "La base del DJI Osmo Mobile 3 è smussata ai lati" "/img/articoli/osmo-4.jpg">}}</div><div style="width: 50%; float: right">{{<img "L' Osmo Mobile 3 con il treppiedi" "/img/articoli/osmo-5.jpg">}}</div></div>
-
 ## Il nostro parere
 
 Ormai sono passati sei mesi da quando abbiamo utilizzato per la prima volta l' Osmo, sulle spiagge di Napoli.
@@ -116,15 +110,20 @@ Le modalità sono davvero ben fatte e funzionano bene. L' app è abbastanza chia
 
 L' unico problema è che se si ha un cellulare con una batteria scarsa e che si scarica velocemente, allora utilizzare il Bluetooth peggiorerà soltanto la situazione.
 
-Naturalmente bisogna avere a disposizione un cellulare con una buona fotocamera, perché altrimenti si rischia di avere un semplice video con la risoluzione di una patata ma con una stabilità ottima... Diciamo che la qualità probabilmente ne risente comunque.
+Un altro problema è come tenerlo all' impiedi. L' Osmo Mobile 3 non si mantiene in piedi da solo, perché ha una base smussata, quindi se non avete un treppiedi e volete usarlo in una posizione stabile, allora probabilmente vi conviene acquistare la versione combo, oppure prenderne uno. Il treppiede presente nella versione combo ha un classico attacco con vite per fotocamere (tipo F), quindi se già ne avete uno potete acquistare la versione normale e risparmiare un po' di soldi.
+In ogni caso, questo è un oggetto che di solito **va utilizzato in movimento** quindi se lo utilizzate per i nostri stessi scopi (in viaggio), allora non vi servirà.
 
-Se non si ha nessuno di questi problemi, il DJI è probabilmente il miglior attrezzo in questo campo anche per il prezzo, che, considerando anche il supporto via app del gimbal e la qualità del marchio, non è poi così eccessivo.
+<div style="width: 100%"><div style="width: 50%; float: left">{{<img "La base del DJI Osmo Mobile 3 è smussata ai lati" "/img/articoli/osmo-4.jpg">}}</div><div style="width: 50%; float: right">{{<img "L' Osmo Mobile 3 con il treppiedi" "/img/articoli/osmo-5.jpg">}}</div></div>
+
+I video stabilizzati vengono davvero molto bene. Naturalmente bisogna avere a disposizione un cellulare con una buona fotocamera, perché altrimenti si rischia di avere un semplice video con la risoluzione di una videocamera degli anni 20, ma con una stabilità ottima... Questo è, naturalmente, da tener presente.
+
+Se non si ha nessuno di questi problemi, il gimbal della DJI è probabilmente uno dei migliori attrezzi in questo campo anche per il prezzo, che, considerando anche il supporto via app del gimbal e la qualità del marchio, non è poi così eccessivo.
 
 Nei prossimi mesi cercheremo di utilizzarlo quanto più ci è possibile e di aggiornare questo articolo con altre foto e video.
 
 Grazie per la lettura!
 
-### **Caratteristiche tecniche**
+### Caratteristiche tecniche
 
 **Dimensioni:**
 

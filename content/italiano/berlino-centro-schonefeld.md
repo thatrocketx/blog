@@ -58,7 +58,7 @@ lastmod: '2020-03-13T14:12:20+00:00'
 
 Se viaggiate con una compagnia aerea _low cost_ come ad esempio <span style="color: #f60;">easyJet</span> o <span style="color: #073590">RYANAIR</span> è molto probabile che **il vostro aeroporto** di destinazione **sarà** quello di **Berlino Schönefeld** (codice **SXF**, da non confondere con TXL che è invece il Tegel) che si trova a circa 18 km di distanza dal centro città.​
 
-{{< img "Mappa mostra la distanza approsimativa dell' aeroporto di Berlino Schönefeld dal centro di Berlino. La distanza è di circa 18 chilometri." "/img/articoli/distanza-sxf-berlino.jpg" >}}
+{{< img "Mappa mostra la distanza approsimativa dell' aeroporto di Berlino Schönefeld dal centro di Berlino. La distanza è di circa 18 chilometri." "/img/articoli/distanza-sxf-berlino.jpg" "Mappa <a href=\"https://openstreetmap.org/copyright\">&copy OpenStreetMap contributors</a>">}}
 
 ​Per i viaggiatori instancabili, si tratta di un **3-4 ore di cammino** (secondo Google Maps) alla scoperta della Berlino più periferica. Per chi invece non se la sente, troverà conforto in questa guida nella quale vi spiegheremo come arrivare dall' aeroporto di Berlino Schönefeld a **Berlino Centro** utilizzando i mezzi pubblici a disposizione e vi descriveremo la nostra esperienza con il trasporto ferroviario di Berlino.​
 
@@ -129,7 +129,6 @@ Sui bus **riportiamo semplicemente le informazioni** dal [sito di Berlino](https
 
 
 {{< img "Stazione bus dell' aeroporto di Berlino Schönefeld. Mostra due autobus parcheggiati: uno bianco e un Flixbus." "/img/articoli/bus_compressed.jpg" >}}
-<small> Foto di that Rocket X.</small>
 
 I bus partono dall' uscita dell' aeroporto o nel parcheggio sulla destra.
 
@@ -159,12 +158,10 @@ Qui sotto trovate i tutorial su [**come raggiungere la stazione**](#stazione) e 
 Sebbene inizialmente possa sembrare complicato, arrivare alla stazione dell' aeroporto è semplicissimo. Basta seguire i cartelli con su scritto **DB**, che sta per Deutsche Bahn, la "_Trenitalia_ tedesca".
 
 {{< img "Pensilina con insegna che indica la via per la stazione dell' aeroporto di Berlino Schönefeld" "/img/articoli/pensilina1_compressed.jpg" >}}
-<small> Foto di that Rocket X. </small>
 
 Una volta usciti dall' aeroporto percorrente la lunga pensilina bianca alla vostra sinistra, ad un certo punto, sempre alla vostra sinistra, troverete delle tende blu del ristorante _Augustiner Am Flughafen_, se è così proseguite sempre dritto, siete sotto la pensilina giusta. Troverete un edificio, una volta entrati sarete all' interno della stazione.
 
-{{< img "Stazione dell' aeroporto Berlino Schönefeld. Persone percorrono la galleria verso l' uscita." "/img/articoli/stazione-sxf_compressed.jpg">}}
-<small> Foto di that Rocket X.</small>
+{{< img "Stazione dell' aeroporto Berlino Schönefeld. Persone percorrono la galleria verso l' uscita." "/img/articoli/stazione-sxf_compressed.jpg" >}}
 
 {{< umap mapName="come-arrivare-a-berlino-centro-dall-aeroporto-scho_371192" >}}
 

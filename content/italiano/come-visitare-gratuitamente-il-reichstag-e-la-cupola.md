@@ -51,9 +51,9 @@ Uno dei monumenti più famosi della città di Berlino è sicuramente il Reichsta
 
 Non solo: è anche possibile accompagnarla con delle **visite guidate** all' interno del Palazzo stesso.
 
-**Se si prenota in tempo**, infatti, è possibile prendere l' **ascensore gratuito che porta fino al tetto della struttura** e da qui è possibile avere una **vista a 360° della città** e leggere la storia della sua costruzione. 
+**Se si prenota in tempo**, infatti, è possibile prendere l' **ascensore gratuito che porta fino al tetto della struttura** e da qui è possibile avere una **vista a 360° della città** e leggere la storia della sua costruzione.
 
-In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo. 
+In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo.
 
 {{< notice note >}}
 Prima di proseguire assicuratevi di avere almeno una **mezz' oretta di tempo libero** e la **data di nascita** di tutte le persone da prenotare.
@@ -83,7 +83,7 @@ Buona lettura!
 
 {{< titolo title="Qual è il costo dei biglietti?" link="costo-del-biglietto" >}}
 
-<mark>**I biglietti** per visitare il Reichstag **sono gratuiti**</mark>, quindi il prezzo del biglietto è 0. 
+<mark>**I biglietti** per visitare il Reichstag **sono gratuiti**</mark>, quindi il prezzo del biglietto è 0.
 
 **Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono il ristorante e i souvenir** alla fine della visita. Prenotando un posto per il ristorante si ottiene anche un posto per la cupola, quindi in tal caso non è necessario seguire questa guida.
 
@@ -103,7 +103,7 @@ Buona lettura!
 
 ### ✅ Passo 2 - Accettazione delle regole
 
-{{< img "Prima apertura della pagina""/img/articoli/1-reichstag-cupola-web-pagina-principale.png" >}}
+{{< img "Prima apertura della pagina""/img/articoli/1-reichstag-cupola-web-pagina-principale.png" " " >}}
 
 Aperta la pagina troverete varie **informazioni per la visita**.
 
@@ -131,7 +131,7 @@ Leggere le informazioni sottostanti
 3. 📅 **Il tour guidato nel Palazzo può essere prenotato fino a 3 mesi prima, la visita alla cupola fino a 2 mesi prima**.
 4. 😲 Se ci sono **problemi con il meteo o altri problemi di sicurezza**, la **visita alla cupola sarà annullata** anche all' ultimo minuto e **non sarete avvisati**.
 
-{{< img "Testo, casella spuntata e pulsante Next evidenziato.""/img/articoli/2-reichstag-cupola-web-conferma-e-avanti.png" >}}
+{{< img "Testo, casella spuntata e pulsante Next evidenziato.""/img/articoli/2-reichstag-cupola-web-conferma-e-avanti.png" " " >}}
 
 Considerato questo, **scorrete alla fine della pagina**, **spuntate la casella**
 
@@ -141,7 +141,7 @@ E poi **cliccate sul pulsante _Next_**
 
 ### 🔐 Passo 3 - Accettazione della privacy policy
 
-{{< img "Privacy Policy con casella spuntata e pulsante Next evidenziato.""/img/articoli/3-reichstag-cupola-web-conferma-privacy-policy.png" >}}
+{{< img "Privacy Policy con casella spuntata e pulsante Next evidenziato.""/img/articoli/3-reichstag-cupola-web-conferma-privacy-policy.png" " " >}}
 
 Il prossimo passo vi chiederà, come da prassi, di **leggere ed accettare la [privacy policy](https://www.bundestag.de/en/service/privacy) del Bundestag**.
 
@@ -149,7 +149,7 @@ Una volta letta la policy _(sicuramente...)_ **spuntate la casella e cliccate su
 
 ### 🤖 Passo 4 - Controllo Captcha
 
-{{< img "Captcha risolto con pulsante Next evidenziato.""/img/articoli/4-reichstag-cupola-web-captcha.png" >}}
+{{< img "Captcha risolto con pulsante Next evidenziato.""/img/articoli/4-reichstag-cupola-web-captcha.png" " " >}}
 
 Ora è il turno del classico **controllo Captcha**, questo test viene richiesto dal sito per assicurarsi che voi non siate dei robot che effettuano centinaia di prenotazioni a vuoto.
 
@@ -157,7 +157,7 @@ Se siete dei robot non potete proseguire, ci dispiace... Se non lo siete, invece
 
 ### 🔘 Passo 5 - Scelta dell' attività
 
-{{< img "Pagina della prenotazione con le tre scelte. Nessuna scelta evidenziata.""/img/articoli/5-reichstag-cupola-web-scelta.png" >}}
+{{< img "Pagina della prenotazione con le tre scelte. Nessuna scelta evidenziata.""/img/articoli/5-reichstag-cupola-web-scelta.png" " " >}}
 
 Da qui inizia la vera e propria prenotazione.
 
@@ -170,30 +170,30 @@ Vi troverete davanti **tre opzioni**:
 * **Visita alla cupola**.
   (_dalle 8:00 a mezzanotte (ultima visita alle 21.45); chiuso il 24 dicembre tutta la giornata e il 31 dicembre dalle 16 in poi. Potrebbero esserci dei giorni di chiusura per effettuare la pulizia della struttura_).
 
-{{< img "Visita alla cupola selezionata. Informazioni aggiuntive e pulsante Next evidenziato.""/img/articoli/6-reichstag-cupola-web-continuo-scelta.png" >}}
+{{< img "Visita alla cupola selezionata. Informazioni aggiuntive e pulsante Next evidenziato.""/img/articoli/6-reichstag-cupola-web-continuo-scelta.png" " " >}}
 
 *Come potete notare nella foto, nell' ultimo paragrafo vengono specificate le date nelle quali la cupola è chiusa per pulizia, assicuratevi di controllarle prima di continuare*.
 **Selezionate la vostra opzione e cliccate sul tasto _Next_**.
 
 ### 🔢 Passo 6 - Selezione del numero di persone
 
-{{< img "Numero di persone. Nell' esempio sono inserite due persone. Pulsante Next evidenziato.""/img/articoli/7-reichstag-cupola-web-numero-persone.png" >}}
+{{< img "Numero di persone. Nell' esempio sono inserite due persone. Pulsante Next evidenziato.""/img/articoli/7-reichstag-cupola-web-numero-persone.png" " " >}}
 
 Qui dovrete **inserire il numero delle persone da prenotare e cliccare su _Next_**.
 
 ### 📅 Passo 7 - Selezione della data e degli orari
 
-{{< img "Calendario con il giorno 17 selezionato. Nella parte inferiore ci sono gli orari disponibili nel giorno selezionato.""/img/articoli/8-reichstag-cupola-web-data.png" >}}
+{{< img "Calendario con il giorno 17 selezionato. Nella parte inferiore ci sono gli orari disponibili nel giorno selezionato.""/img/articoli/8-reichstag-cupola-web-data.png" " " >}}
 
 Vi si aprirà **un calendario** nel quale dovrete **decidere il giorno della vostra visita**. Una volta scelto il giorno scorrete la pagina e **scegliete gli orari** nei quali vi recherete, **potete scegliere al massimo 3 orari diversi** (vi consigliamo di sceglierli abbastanza distanti, così se ne perdete uno per problemi di tempo, non perderete anche gli altri!).
 
-{{< img "Riepilogo degli orari. Pulsante Next evidenziato.""/img/articoli/9-reichstag-cupola-web-data-continuo.png" >}}
+{{< img "Riepilogo degli orari. Pulsante Next evidenziato.""/img/articoli/9-reichstag-cupola-web-data-continuo.png" " " >}}
 
 Una volta scelti gli orari **cliccate su _Next_**.
 
 ### 📞 Passo 8 - Informazioni di contatto
 
-{{< img "Form della persona da contattare con campi di esempio per nome, cognome e indirizzo email.""/img/articoli/10-reichstag-cupola-web-nome-cognome.png" >}}
+{{< img "Form della persona da contattare con campi di esempio per nome, cognome e indirizzo email.""/img/articoli/10-reichstag-cupola-web-nome-cognome.png" " " >}}
 
 In questa pagina dovete inserire le **informazioni sulla persona** responsabile **da contattare per l' invio dei biglietti** e in caso di eventuali problemi.
 
@@ -209,7 +209,7 @@ I campi sono:
 
 ### ✅ Passo 9 - Conferma informazioni di contatto
 
-{{< img "Riepilogo delle informazioni di contatto.""/img/articoli/11-reichstag-cupola-web-conferma-finale.png" >}}
+{{< img "Riepilogo delle informazioni di contatto.""/img/articoli/11-reichstag-cupola-web-conferma-finale.png" " " >}}
 
 In questa pagina troverete un **riepilogo delle informazioni** inserite fino ad ora.
 
@@ -217,7 +217,7 @@ In questa pagina troverete un **riepilogo delle informazioni** inserite fino ad 
 
 ### 📧 Passo 10 - Conferma via email
 
-{{< img "Email inviata con i due link. Il link da usare è evidenziato.""/img/articoli/12-reichstag-cupola-web-email.png" >}}
+{{< img "Email inviata con i due link. Il link da usare è evidenziato.""/img/articoli/12-reichstag-cupola-web-email.png" " " >}}
 
 **Riceverete una email** per confermare la vostra prenotazione.
 
@@ -225,9 +225,9 @@ In questa pagina troverete un **riepilogo delle informazioni** inserite fino ad 
 
 Aprite la mail arrivata dal Bundestag.
 
-Troverete due link. 
+Troverete due link.
 
-**Cliccate il primo link** (o copiatelo ed incollatelo nella barra degli indirizzi). 
+**Cliccate il primo link** (o copiatelo ed incollatelo nella barra degli indirizzi).
 
 {{< notice warning >}}
 **Non aprite il secondo link** perché quello è per l' **annullamento della prenotazione**.
@@ -235,7 +235,7 @@ Troverete due link.
 
 ### 📝 Passo 11 - Compilazione e invio della richiesta
 
-{{< img "Esempio compilazione della richiesta. Il pulsante da cliccare a destra è evidenziato.""/img/articoli/13-reichstag-cupola-web-fine.png" >}}
+{{< img "Esempio compilazione della richiesta. Il pulsante da cliccare a destra è evidenziato.""/img/articoli/13-reichstag-cupola-web-fine.png" " " >}}
 
 Questo è l' ultimo passaggio per la prenotazione.
 
@@ -298,7 +298,7 @@ Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona dell
 
 {{< titolo title="Il ristorante" link="il-ristorante" >}}
 
-Sulla terrazza del Reichstag **è disponibile un ristorante panoramico** (il *Käfer*) nel quale è possibile effettuare una sosta. I prezzi sono abbastanza alti (_come ci si può aspettare_), ma se si vuole **si può {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "prenotare un posto per la pausa caffè" >}}** che comprende una prenotazione al tavolo per la degustazione di una fetta di torta e tè/caffè. 
+Sulla terrazza del Reichstag **è disponibile un ristorante panoramico** (il *Käfer*) nel quale è possibile effettuare una sosta. I prezzi sono abbastanza alti (_come ci si può aspettare_), ma se si vuole **si può {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "prenotare un posto per la pausa caffè" >}}** che comprende una prenotazione al tavolo per la degustazione di una fetta di torta e tè/caffè.
 
 **Il biglietto include anche una prenotazione al Reichstag** (quindi se avete prenotato un posto per il ristorante non è necessario seguire i passaggi di questa guida).
 
@@ -307,9 +307,9 @@ Il prezzo non è proprio economico, si parla di circa 20 €, ma se ci tenete a 
 <small>Affiliate</small>
 - - -
 
-Questo è tutto ciò che c'è da sapere su come prenotare per la visita al Reichstag. Speriamo di esservi stati di aiuto! **Qui sotto trovate maggiori informazioni sul Reichstag** (con curiosità e informazioni storiche) per gli interessati. 
+Questo è tutto ciò che c'è da sapere su come prenotare per la visita al Reichstag. Speriamo di esservi stati di aiuto! **Qui sotto trovate maggiori informazioni sul Reichstag** (con curiosità e informazioni storiche) per gli interessati.
 
-Se non lo avete ancora fatto, **vi invitiamo a leggere la** [**nostra guida a Berlino**, con **consigli e informazioni** sulle attrazioni turistiche principali della città](/cosa-vedere-a-berlino/) e sui luoghi meno conosciuti, ma che vale la pena vedere. 
+Se non lo avete ancora fatto, **vi invitiamo a leggere la** [**nostra guida a Berlino**, con **consigli e informazioni** sulle attrazioni turistiche principali della città](/cosa-vedere-a-berlino/) e sui luoghi meno conosciuti, ma che vale la pena vedere.
 
 Grazie per la lettura. **Buon viaggio**!
 
@@ -324,7 +324,7 @@ Grazie per la lettura. **Buon viaggio**!
 
 **La traduzione del nome Reichstag** è letteralmente **_Dieta imperiale_**, esso era, infatti, il **vecchio organo legislativo** nel periodo del **Sacro Romano Impero**.
 
-Deriva dalle parole 
+Deriva dalle parole
 
 **Reich** = _impero_
 
@@ -350,6 +350,6 @@ Il **3 ottobre del 1990**, infatti, proprio **nel Palazzo del Reichstag** si ten
 
 Nel **1992** il Palazzo, non ancora in ottimo stato, ottene finalmente un **restauro** con il quale, tra le altre cose, vi fu la **ricostruzione della Cupola**.
 
-Tutta la storia, con le varie fotografie dell' epoca, è ben spiegata proprio all' interno della cupola, quindi assicuratevi di dare un' occhiata più approfondita agli eventi che vi hanno colpito di più proprio sul luogo. 
+Tutta la storia, con le varie fotografie dell' epoca, è ben spiegata proprio all' interno della cupola, quindi assicuratevi di dare un' occhiata più approfondita agli eventi che vi hanno colpito di più proprio sul luogo.
 
 - - -

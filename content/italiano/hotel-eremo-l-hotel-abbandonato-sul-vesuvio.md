@@ -59,7 +59,7 @@ Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci si
 In questo articolo vi racconteremo **la nostra esperienza** durante la nostra visita all' **Hotel Eremo**: cosa abbiamo visto e **cosa abbiamo scoperto** di questo piccolo **gioiello abbandonato** sul **Vesuvio**.​
 
 {{< img "Vecchio cancello per entrare all' Hotel Eremo" "/img/articoli/cancello-eremo_c.jpg" >}}
-<small>Foto di that Rocket X.</small>
+
 
 {{< titolo title="Una breve introduzione - La storia dell' Hotel Eremo e del suo abbandono" link="storia" >}}​
 L' Hotel Eremo **venne costruito** a partire dal **1902**, molto probabilmente voluto da _John Mason Cook_, l' allora proprietario della Thomas Cook (la stessa compagnia che operava aerei e offriva viaggi, fallita il 23 settembre del 2019) per **ospitare i turisti** che visitavano il **Vesuvio** utilizzando la vecchia ferrovia che collegava Ercolano con il vulcano. La Cook aveva infatti avuto in concessione la costruzione della **ferrovia Pugliano-Vesuvio**, sulla base di un vecchio progetto e, tra le varie tappe, aveva appunto inserito la fermata _Eremo_ per le persone che volessero fermarsi a soggiornarvi.  Successivamente, durante il periodo di prima decadenza del turismo, l' intero impianto ferroviario venne ceduto ad un' altra società.​
@@ -76,7 +76,7 @@ Il nostro intento originario era quello di vedere il famoso **[Osservatorio Vesu
 L' entrata all' hotel manca, ormai, di qualsiasi forma di sicurezza: il vecchio cancello, ormai **perennemente chiuso**, è stato conquistato da Madre Natura ed è ora divorato da una **fitta vegetazione**. Passando per la stradina aperta di fianco al cancello, si arriva direttamente ad una delle **entrate**: un ampio **spazio vuoto**, che diventa qualche volta luogo di sosta per chi percorre i sentieri del Parco Nazionale del Vesuvio.​
 
 {{< img "Entrata dell' Hotel Eremo, dal lato opposto si trova la terrazza con vista su Napoli." "/img/articoli/eremo-entrata-completa.jpg" >}}
-<small>Foto di that Rocket X.</small>
+
 
 {{< notice note >}}
 **Non siamo certi** che il luogo **non sia** più **proprietà privata**, quindi non possiamo assicurarvi dell' effettiva **legalità** del fermarsi a vedere l' hotel. Se avete notizie al riguardo **vi preghiamo di farcelo presente** nei commenti, così da poter aggiungere eventuali avvisi.​
@@ -91,27 +91,27 @@ L' hotel è ormai completamente **distrutto** a causa dei vari **vandalismi** ed
 Con quel poco che è rimasto (le mura e qualche pezzo di mobilia troppo vecchia per essere usata), però, è possibile fare un resoconto e **immaginare un po'** come potesse essere questo hotel, e possiamo dedurre che a suo tempo sia stato un **hotel di tutto prestigio**.​
 
 {{< img "Uno dei graffiti nell' Hotel Eremo recita 'Non Scendete', scherzando sul fatto che la parte inferiore dell' edificio è completamente vuota e senza scale." "/img/articoli/eremo-non-scendete.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 Proseguendo dritto, percorrendo lo spazio tra le colonne e dirigendosi verso la luce, è possibile affacciarsi dall' **enorme terrazza**, che ci dona una meravigliosa **vista su Napoli**: dal **lungomare** alle zone più periferiche e, per qualche minuto, quasi si dimentica dove ci si trova.
 
 {{< img "Vista della città di Napoli dalla terrazza dell' Hotel Eremo." "/img/articoli/eremo-vista-terrazza.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 Da qui è possibile rendersi conto di quanto fosse grande l' hotel: si può notare l' ampia area di ingresso e la distensione dell' edificio a sinistra che era probabilmente (_N.B. su nostra supposizione_) il vecchio ristorante (ricordiamo che l' **Eremo** era pubblicizzato come **Hotel - Ristorante**).​
 
 {{< img "Parte della terrazza dell' Hotel Eremo con oggetti abbandonati." "/img/articoli/eremo-terrazza.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l' ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattata una da una delle finestre dell' hotel. Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti segni satanici, che ora sembrano essere stati cancellati per la maggior parte o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​
 
 {{< img "Foto della statua di Gesù nello spiazzato dell' Hotel Eremo." "/img/articoli/eremo-statua-gesu.jpg" >}}
-<small>Foto di that Rocket X.</small>
+
 
 Ecco una foto che abbiamo scattato con il drone, in cui si la statua si vede più nel dettaglio.
 
 {{< img "Foto della statua di Gesù nello spiazzato dell' Hotel Eremo." "/img/articoli/foto-gesu-eremo-drone.jpg" >}}
-<small>Foto di that Rocket X.</small>
+
 
 {{< titolo title="Il secondo piano" link="secondo-piano" >}}​
 Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali.
@@ -121,16 +121,16 @@ Le scale sono prive di corrimano e non sicure, prestare attenzione.
 {{</ notice >}}
 
 {{< img "Foto di una camera dell' Hotel Eremo, oggi completamente distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due terrazze laterali** che donano una vista diversa da quella principale, focalizzandosi di più sul Vesuvio. Piccola curiosità per i fan di **Liberato** (l' artista musicale): una delle scene del video della canzone [_Me staje appennenn' amò_](https://youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
 
 {{< img "Vista da uno dei due balconi al piano superiore dell' Hotel Eremo." "/img/articoli/eremo-vista-balcone.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 {{< titolo title="Il terzo piano" link="terzo-piano" >}}​
 {{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/porta-terzo-piano-eremo_c.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 {{< notice warning >}}
 Raggiungere il terzo piano è **molto pericoloso**, la poca attenzione può portare a gravi fratture da caduta e, nel peggiore dei casi, alla **morte**. Si sconsiglia vivamente di provare a raggiungerlo se non si è sicuri di ciò che si vuole fare.
@@ -139,22 +139,22 @@ Raggiungere il terzo piano è **molto pericoloso**, la poca attenzione può port
 Vicino alle scale che portano al secondo piano si trova una porta semi-aperta che si affaccia **nel vuoto**, grazie quale è possibile raggiungere il terzo piano.
 
 {{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/scala-terzo-piano-eremo_c.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 Una volta entrati, sulla destra, si trova una piccola **scala a chiocciola** (stranamente ancora intatta) che porta ad ad uno stretto deposito pieno di **polvere, vari stracci e pezzi di legno**. Ipotizziamo fosse un luogo accessibile soltanto al personale dell' hotel.
 
 {{< img "Una parte del terzo piano, qui sotto è possibile leggere i nomi delle ditte che hanno lavorato su questa parte dell' hotel" "/img/articoli/terzo-piano-eremo-stretto_c.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 Una cosa molto emozionante è poter leggere, sotto il legno e l' acciaio, **i nomi delle varie ditte che vi hanno lavorato** e soprattutto poter quasi sentirsi protetti in questo piccolo luogo e dimenticarsi di trovarsi in un hotel così grande.
 
 {{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-porta_c.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porre degli oggetti o se avesse altri scopi, forse di riscaldamento, non ne siamo assolutamente certi. Non pensiamo sia un forno, perché sarebbe stato scomodo da utilizzare e soprattutto la sua posizione non sarebbe stata molto strategica.
 
 {{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-2_c.jpg" >}}
-<small>Foto di that Rocket X.</small>​
+​
 
 Questo è uno dei posti meglio mantenuti, probabilmente perché è rischioso da raggiungere. Una delle perle nascoste dell' hotel.
 
@@ -165,12 +165,11 @@ Nel caso in cui vi recaste, vi preghiamo di **non distruggere** e **non rubare**
 {{< titolo title="Conclusioni" link="conclusioni" >}}​
 Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità**, **adrenalina** e **inquietudine**. Viene voglia di esplorarlo da cima a fondo. Ciò che secondo noi rende così affascinante questo luogo è proprio il fatto che **un hotel così bello**, in un posto fantastico, nel quale prima non si poteva accedere, oggi è lì **abbandonato** e **distrutto**.​
 
-{{< img  "Foto da una vecchia cartolina d' epoca" "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg" >}}
-<small>Foto da Wikicommons - Autore sconosciuto -- Di <span lang="it">sconosciuto</span> - Cartolina d'epoca, Pubblico dominio, <a href="https://commons.wikimedia.org/w/index.php?curid=38738873">Collegamento</a></small>
+{{< img  "Foto da una vecchia cartolina d' epoca" "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ferrovia_vesuviana_-_panorama.jpg" "Foto da Wikimedia Commons - Autore sconosciuto -- Di sconosciuto - Cartolina d'epoca, Pubblico dominio, <a href=\"https://commons.wikimedia.org/w/index.php?curid=38738873\">Collegamento</a>" >}}
 
 Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** una volta, se non in alcune foto d' epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
 
-<a href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc">{{< img "Vota l' Hotel Eremo sul sito del FAI" "/img/articoli/fai-eremo.jpg" >}}</a>
+<a href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc">{{< img "Vota l' Hotel Eremo sul sito del FAI" "/img/articoli/fai-eremo.jpg" " ">}}</a>
 
 {{< noamp >}}
 <script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/city.frame" data-gyg-iata="nap" data-gyg-locale-code="it-IT" data-gyg-widget="city" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-end" data-gyg-cmp="hotel-eremo"></div>

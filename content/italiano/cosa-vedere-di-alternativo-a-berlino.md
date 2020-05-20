@@ -73,7 +73,7 @@ Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza
 {{< titolo2 title="Park am Gleisdreieck" link="park-am-gleisdreieck" >}}
 
 {{< img "Binari abbandonati" "/img/articoli/park-am-gleisdreieck_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
+
 
 Ci si può fare un giro se si va al [Deutsches Technikmuseum](/cosa-vedere-a-berlino/#deutsches-technikmuseum) in quanto si trova proprio di fronte.
 
@@ -85,7 +85,7 @@ Ci si può fare un giro se si va al [Deutsches Technikmuseum](/cosa-vedere-a-ber
 {{< titolo2 title="Parochialkirche" link="parochialkirche" >}}
 
 {{< img "Interno della chiesa" "/img/articoli/parochialkirche_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
+
 
 Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondiale**. Ora è in ricostruzione.
 
@@ -106,7 +106,7 @@ Piccola curiosità: se avete visto il film [Lui è tornato](https://it.wikipedia
 {{< titolo2 title="Statua dell' omino del semaforo (Einheitsmännchen)" link="einheitsmännchen" >}}
 
 {{< img "Statua dell' ampelmann" "/img/articoli/statua-gigante-omino-del-semaforo-ampelmann_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
+
 
 Rimanenza di una **[vecchia installazione artistica](https://www.ottmar-hoerl.de/en/projects/2015/2015_einheitsmaennchen.php) del 2015 per commemorare il 25° anniversario della Riunificazione della Germania**.
 
@@ -139,7 +139,7 @@ Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare,
 
 {{< img "Parte della mostra" "/img/articoli/img_2064_compressed.jpg" >}}
 
-<small>Foto di that Rocket X</small>
+
 
 Museo davvero ben fatto sullo spionaggio e sulle tecniche di crittografia. Ciò che rende bello questo museo sono soprattutto gli spazi interattivi nei quali si può:
 
@@ -162,7 +162,7 @@ Il **lunedì il museo è chiuso**.
  {{< titolo2 title="S-Bahn Nordbahnhof" link="nordbahnhof" >}}
 
 {{< img "Facciata con nome della stazione S-Bahn Nordbahnhof" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
+
 
 **Una delle tante "_Stazioni Fantasma_"**, è la più conosciuta soprattutto perché si trova proprio accanto al Memoriale del Muro di Berlino. Merita assolutamente una vistita, perchè al suo interno vi è un' **esposizione di foto storiche** risalenti soprattutto all' epoca della Guerra Fredda.
 
@@ -198,7 +198,7 @@ Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate l
 
 {{< img "Monumento principale senza carri" "/img/articoli/sowjetisches-ehrenmal_compressed.jpg" >}}
 
-<small>Foto di that Rocket X</small>
+
 
 Memoriale russo **dedicato agli 80mila soldati sovietici** morti durante la Battaglia di Berlino.
 
@@ -210,7 +210,7 @@ Di solito è poco affollato.
 
 {{< img "Stadtmauer" "/img/articoli/muro-antico-di-berlino_compressed.jpg" >}}
 
-<small>Foto di that Rocket X</small>
+
 
 Vecchie mura della città di Berlino.
 
@@ -225,7 +225,7 @@ Negli anni della Guerra Fredda, venne costruita, dal governo della Germania dell
 {{< titolo2 title="Torre di controllo in Erna-Berger-Straße" link="torre-di-controllo" >}}
 
 {{< img "Torre di controllo vicino Potsdamer Platz" "/img/articoli/torre-di-controllo-berlino-potsdamer-platz_compressed.jpg" >}}
-<small>Foto di that Rocket X</small>
+
 
 **Una delle nove torri di controllo rimaste** su 300 che erano presenti a tenere **sotto controllo la popolazione della Germania dell' Est** ed evitare che le persone scappassero scavalcando il muro.
 

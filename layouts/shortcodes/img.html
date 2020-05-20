@@ -1,4 +1,9 @@
 <figure role="group">
   <img src="{{ .Get 1 }}" alt="{{ .Get 0 }}" loading="lazy"/>
   <figcaption>{{ .Get 0 }}</figcaption>
+  {{ with .Get 2 }}
+  <small>{{ . | safeHTML}}</small>
+  {{else}}
+  <small>that Rocket X<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></small>
+  {{end}}
 </figure>

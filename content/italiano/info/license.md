@@ -28,3 +28,4 @@ Su questo sito sono stati utilizzati componenti Open Source, di seguito trovate 
 - [eddiewebb](https://gist.github.com/eddiewebb/735feb48f50f0ddd65ae5606a1cb41ae)
 - [realfavicongenerator.net](https://realfavicongenerator.net/)
 - [appsco.pe](https://appsco.pe/developer/splash-screens)
+- [divinerites](https://discourse.gohugo.io/t/shortcode-for-openstreetmap-instead-of-googlemaps/12965)

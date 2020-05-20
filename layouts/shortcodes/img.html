@@ -1,1 +1,4 @@
-<img src="{{ .Get 1 }}" alt="{{ .Get 0 }}" loading="lazy"/>
+<figure role="group">
+  <img src="{{ .Get 1 }}" alt="{{ .Get 0 }}" loading="lazy"/>
+  <figcaption>{{ .Get 0 }}</figcaption>
+</figure>

@@ -10,25 +10,6 @@
         </section>
       </div>
         {{- partial "footer.html" . -}}
-
-        <script>
-
-      if ('serviceWorker' in navigator) {
-
-        console.log(" that");
-
-        navigator.serviceWorker.register('/service-worker.js')
-          .then(function(reg){
-
-            console.log("ROCKET X 🚀");
-
-         }).catch(function(err) {
-
-            console.log("err:", err)
-
-        });
-      }
-      </script>
       {{- block "footerfiles" .}} {{end}}
     </body>
 </html>

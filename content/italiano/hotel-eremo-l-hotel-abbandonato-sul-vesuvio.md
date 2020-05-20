@@ -52,7 +52,7 @@ Sei affascinato dall' Hotel Eremo? [**Vota l' Hotel Eremo** al Vesuvio come **Lu
 
 Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
 
-Ciò che rende quest' hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l' _(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un' ottima presenza "_turistica_" grazie agli amanti dei luoghi abbandonati. 
+Ciò che rende quest' hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l' _(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un' ottima presenza "_turistica_" grazie agli amanti dei luoghi abbandonati.
 
 Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci siamo ritornati più volte) per vederlo dal vivo e soddisfare quella strana voglia di **esplorare** i **luoghi più nascosti**, poco frequentati dai turisti (in inglese direbbero _urban exploration_ {{< nota "Andare in posti in cui non si dovrebbe. (Urban Dictionary)" >}} ), per dare un' occhiata in giro e tornare per qualche ora indietro nel tempo e provare ad immaginare come era in passato, prima che i soggiorni nell' hotel cessassero e l' hotel venisse abbandonato.​
 
@@ -93,7 +93,7 @@ Con quel poco che è rimasto (le mura e qualche pezzo di mobilia troppo vecchia 
 {{< img "Uno dei graffiti nell' Hotel Eremo recita 'Non Scendete', scherzando sul fatto che la parte inferiore dell' edificio è completamente vuota e senza scale." "/img/articoli/eremo-non-scendete.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
-Proseguendo dritto, percorrendo lo spazio tra le colonne e dirigendosi verso la luce, è possibile affacciarsi dall' **enorme terrazza**, che ci dona una meravigliosa **vista su Napoli**: dal **lungomare** alle zone più periferiche e, per qualche minuto, quasi si dimentica dove ci si trova. 
+Proseguendo dritto, percorrendo lo spazio tra le colonne e dirigendosi verso la luce, è possibile affacciarsi dall' **enorme terrazza**, che ci dona una meravigliosa **vista su Napoli**: dal **lungomare** alle zone più periferiche e, per qualche minuto, quasi si dimentica dove ci si trova.
 
 {{< img "Vista della città di Napoli dalla terrazza dell' Hotel Eremo." "/img/articoli/eremo-vista-terrazza.jpg" >}}
 <small>Foto di that Rocket X.</small>​
@@ -114,7 +114,7 @@ Ecco una foto che abbiamo scattato con il drone, in cui si la statua si vede pi�
 <small>Foto di that Rocket X.</small>
 
 {{< titolo title="Il secondo piano" link="secondo-piano" >}}​
-Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali. 
+Salendo al piano superiore, invece, è possibile dare un' occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell' hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali.
 
 {{< notice warning >}}
 Le scale sono prive di corrimano e non sicure, prestare attenzione.
@@ -141,7 +141,7 @@ Vicino alle scale che portano al secondo piano si trova una porta semi-aperta ch
 {{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/scala-terzo-piano-eremo_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
 
-Una volta entrati, sulla destra, si trova una piccola **scala a chiocciola** (stranamente ancora intatta) che porta ad ad uno stretto deposito pieno di **polvere, vari stracci e pezzi di legno**. Ipotizziamo fosse un luogo accessibile soltanto al personale dell' hotel. 
+Una volta entrati, sulla destra, si trova una piccola **scala a chiocciola** (stranamente ancora intatta) che porta ad ad uno stretto deposito pieno di **polvere, vari stracci e pezzi di legno**. Ipotizziamo fosse un luogo accessibile soltanto al personale dell' hotel.
 
 {{< img "Una parte del terzo piano, qui sotto è possibile leggere i nomi delle ditte che hanno lavorato su questa parte dell' hotel" "/img/articoli/terzo-piano-eremo-stretto_c.jpg" >}}
 <small>Foto di that Rocket X.</small>​
@@ -172,5 +172,7 @@ Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** una vo
 
 <a href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc">{{< img "Vota l' Hotel Eremo sul sito del FAI" "/img/articoli/fai-eremo.jpg" >}}</a>
 
-{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/city.frame\" data-gyg-iata=\"nap\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"city\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-cmp=\"hotel-eremo\"></div>" "<hr><a href=\"https://www.getyourguide.com/catacombs-of-san-gennaro-l3801/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=hotel-eremo-link-amp\" rel=\"nofollow\">🎟️ Scopri le catacombe di San Gennaro e altre attrazioni di Napoli su GetYourGuide ↗️</a>" >}}
+{{< noamp >}}
+<script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/city.frame" data-gyg-iata="nap" data-gyg-locale-code="it-IT" data-gyg-widget="city" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-end" data-gyg-cmp="hotel-eremo"></div>
 <small> Annuncio tramite affiliazione - Affiliate </small>
+{{</ noamp >}}

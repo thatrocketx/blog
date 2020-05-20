@@ -54,8 +54,8 @@ Quando si va in una città si ha sempre la voglia di trovare qualche luogo "stra
 {{< titolo2 title="Friede sei mit Dir" link="friede-sei-mit-dir" >}}
 
 È un **murale "particolare"** che si trova sulla sede di uno dei giornali più famosi della Germania, il Taz, vicinissimo a Checkpoint Charlie.
-L' opera è puramente **satirica** e fu **dedicata all' ex direttore di un altro giornale** famoso, il Bild. Si diceva, infatti, che il direttore si fosse **sottoposto ad un intervento** per allungarsi in quel senso. 
-Il nome dell' opera significa letteralmente **"La pace sia con te"**, ma il nome originale nasconde dei giochi di parola al suo interno. 
+L' opera è puramente **satirica** e fu **dedicata all' ex direttore di un altro giornale** famoso, il Bild. Si diceva, infatti, che il direttore si fosse **sottoposto ad un intervento** per allungarsi in quel senso.
+Il nome dell' opera significa letteralmente **"La pace sia con te"**, ma il nome originale nasconde dei giochi di parola al suo interno.
 
 Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza innocuo.
 
@@ -112,16 +112,16 @@ Rimanenza di una **[vecchia installazione artistica](https://www.ottmar-hoerl.de
 
 Mostra una versione più dettagliata del famoso omino del semaforo (Ampelmann), che per l' occasione prende il nome di Einheitsmännchen ovvero **Omino dell' Unità**. L' opera artistica fu elaborata dal Prof. Ottmar Hörl su commissione dello Stato Federale dell' Hesse. Lo stesso tipo di installazione fu posta anche in altri luoghi della Germania come Stoccarda e Francoforte sul Meno.
 
-Si trova a qualche metro a sud del memoriale dell' Olocausto, a **Ministergärten**. 
+Si trova a qualche metro a sud del memoriale dell' Olocausto, a **Ministergärten**.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Ministerg%C3%A4rten/@52.5113704,13.3777277,18z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851c8c3b36a33:0x8013f94f46c1122d!8m2!3d52.5118328!4d13.3773907"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51174/13.37745"  >OpenStreetMap</a> - <a href="geo:52.51174,13.37745?z=19"  >Applicazione mappe</a>
   </div>
-  
+
   {{< titolo2 title="Tempelhofer Feld" link="tempelhofer-feld" >}}
 
 **Vecchio aeroporto abbandonato** di Berlino che ora funge da parco pubblico.
 
-Nato come Aeroporto di Berlino Tempelhof nel 1923, è un luogo storico di notevole importanza: qui vi fu la **prima dimostrazione di volo** di  Armand Zipfel e di Orville Wright nel 1909 (prima che lo spazio diventasse effettivamente un aeroporto). 
+Nato come Aeroporto di Berlino Tempelhof nel 1923, è un luogo storico di notevole importanza: qui vi fu la **prima dimostrazione di volo** di  Armand Zipfel e di Orville Wright nel 1909 (prima che lo spazio diventasse effettivamente un aeroporto).
 
 Qui **venne fondata**, nel 1926, **la Lufthansa**, la compagnia aerea che precedeva la *nuova Lufthansa*, che ancora oggi effettua voli da e per la Germania.
 Durante il periodo nazista ricevette un notevole ristrutturamento, che lo portò ad ingrandirsi tanto da diventare **il terzo edificio più grande del mondo**.
@@ -134,8 +134,8 @@ Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare,
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Tempelhofer+Feld/@52.4742191,13.4002196,15z/data=!4m5!3m4!1s0x47a84fe8f7d899eb:0x88898e99acbb718b!8m2!3d52.4753833!4d13.4019041"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.4722/13.3980"  >OpenStreetMap</a> - <a href="geo:52.4722,13.3980?z=15"  >Applicazione mappe</a>
   </div>
-  
-  {{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}} 
+
+  {{< titolo2 title="Museo dello spionaggio (Deutsches Spionagemuseum)" link="deutsches-spionagemuseum" >}}
 
 {{< img "Parte della mostra" "/img/articoli/img_2064_compressed.jpg" >}}
 
@@ -150,7 +150,7 @@ Museo davvero ben fatto sullo spionaggio e sulle tecniche di crittografia. Ciò 
 * Provare **la sicurezza della propria password** con un computer e scoprire entro quanto tempo verrebbe forzata in un eventuale **attacco hacker**
 
 Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
-Il **lunedì il museo è chiuso**. 
+Il **lunedì il museo è chiuso**.
 
 <center><b><a href="https://www.getyourguide.it/berlino-l17/stasi-e-bond-biglietto-per-lo-spy-museum-berlino-t59251/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=button-cta&cmp=cosa-vedere-alternativo-berlino">Potete acquistare i biglietti qui ➡️</a></b></center>
 
@@ -158,15 +158,15 @@ Il **lunedì il museo è chiuso**.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
   </div>
-  
- {{< titolo2 title="S-Bahn Nordbahnhof" link="nordbahnhof" >}} 
+
+ {{< titolo2 title="S-Bahn Nordbahnhof" link="nordbahnhof" >}}
 
 {{< img "Facciata con nome della stazione S-Bahn Nordbahnhof" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
 <small>Foto di that Rocket X</small>
 
-**Una delle tante "_Stazioni Fantasma_"**, è la più conosciuta soprattutto perché si trova proprio accanto al Memoriale del Muro di Berlino. Merita assolutamente una vistita, perchè al suo interno vi è un' **esposizione di foto storiche** risalenti soprattutto all' epoca della Guerra Fredda. 
+**Una delle tante "_Stazioni Fantasma_"**, è la più conosciuta soprattutto perché si trova proprio accanto al Memoriale del Muro di Berlino. Merita assolutamente una vistita, perchè al suo interno vi è un' **esposizione di foto storiche** risalenti soprattutto all' epoca della Guerra Fredda.
 
-Le stazioni fantasma erano **stazioni che si trovavano a Berlino Est** e nelle quali era consentito il passaggio ai treni provenienti da Berlino Ovest (tre linee di Berlino Ovest avevano delle stazioni in Berlino Est), ma **nelle quali non ci si poteva fermare**. Al loro interno vi erano **guardie armate della Germania dell' Est che controllavano** che i treni non si fermassero. 
+Le stazioni fantasma erano **stazioni che si trovavano a Berlino Est** e nelle quali era consentito il passaggio ai treni provenienti da Berlino Ovest (tre linee di Berlino Ovest avevano delle stazioni in Berlino Est), ma **nelle quali non ci si poteva fermare**. Al loro interno vi erano **guardie armate della Germania dell' Est che controllavano** che i treni non si fermassero.
 
 [Qui trovate un **video dell' epoca sulle stazioni fantasma**](https://youtube.com/watch?v=7QYpfwbZcgc).
 
@@ -174,12 +174,14 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Berlin+Nordbahnhof/@52.5328051,13.3823947,16z/data=!4m8!1m2!2m1!1sEinheitsm%C3%A4nnchen!3m4!1s0x47a851edd7b49ad3:0x1b04b9848dea3418!8m2!3d52.5318833!4d13.3883831"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.53222/13.38688"  >OpenStreetMap</a> - <a href="geo:52.53222,13.38688?z=18"  >Applicazione mappe</a>
   </div>
-  
----
-{{< noamp "<script async defer src=\"https://widget.getyourguide.com/v2/widget.js\"></script><div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-middle\" data-gyg-tour-ids=\",170637,,37028,,43642\"></div> <noscript><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietti-per-il-museo-dei-videogiochi-t43642/?partner=true&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-alternativo-berlino-nojs\">🕹️ Museo dei Videogiochi di Berlino: acquista i biglietti su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>" "<center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-biglietti-per-il-museo-dei-videogiochi-t43642/?partner=true&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-alternativo-berlino-nojs\">🕹️ Museo dei Videogiochi di Berlino: acquista i biglietti su GetYourGuide.</a></center><br><small>Affiliate</small>" >}}
 
 ---
-  
+{{< noamp >}}
+<script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="it-IT" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="berlino-cosa-vedere-alternativo" data-gyg-currency="EUR" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-middle" data-gyg-tour-ids=",170637,,37028,,43642"></div> <noscript><center><a rel="nofollow" href="https://www.getyourguide.it/berlino-l17/berlino-biglietti-per-il-museo-dei-videogiochi-t43642/?partner=true&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-alternativo-berlino-nojs">🕹️ Museo dei Videogiochi di Berlino: acquista i biglietti su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>
+{{</ noamp >}}
+
+---
+
 {{< titolo2 title="Schwerbelastungskörper" link="schwerbelastungskorper" >}}
 
 Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all' incirca **12 650 tonnellate**).
@@ -191,8 +193,8 @@ Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate l
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Schwerbelastungsk%C3%B6rper/@52.4839316,13.3709698,18z/data=!4m5!3m4!1s0x47a8503d23a64435:0x726cb510e12b2f9!8m2!3d52.4840392!4d13.3716139">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.48398/13.37142"  >OpenStreetMap</a> - <a href="geo:52.48398,13.37142?z=19"  >Applicazione mappe</a>
   </div>
-  
-{{< titolo2 title="Sowjetisches Ehrenmal Tiergarten" link="sowjetisches-ehrenmal-tiergarten" >}} 
+
+{{< titolo2 title="Sowjetisches Ehrenmal Tiergarten" link="sowjetisches-ehrenmal-tiergarten" >}}
 
 {{< img "Monumento principale senza carri" "/img/articoli/sowjetisches-ehrenmal_compressed.jpg" >}}
 
@@ -200,7 +202,7 @@ Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate l
 
 Memoriale russo **dedicato agli 80mila soldati sovietici** morti durante la Battaglia di Berlino.
 
-Si trova nei pressi di Tiergarten, sulla strada che va dalla Porta di Brandeburgo alla Siegessäule, non potrete non vederlo, è davvero enorme. 
+Si trova nei pressi di Tiergarten, sulla strada che va dalla Porta di Brandeburgo alla Siegessäule, non potrete non vederlo, è davvero enorme.
 
 Di solito è poco affollato.
 
@@ -210,7 +212,7 @@ Di solito è poco affollato.
 
 <small>Foto di that Rocket X</small>
 
-Vecchie mura della città di Berlino. 
+Vecchie mura della città di Berlino.
 
 Con la Seconda Guerra Mondiale, gran parte della vecchia città storica di Berlino venne distrutta. Questi pochi metri di muro è ciò che è rimasto delle vecchie mura difensive della città antica medioevale che sorgeva nei pressi di Alexandeplatz.
 
@@ -218,7 +220,7 @@ Negli anni della Guerra Fredda, venne costruita, dal governo della Germania dell
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Alte+Berliner+Stadtmauer/@52.516814,13.4129869,18z/data=!4m5!3m4!1s0x47a84e23c6ffe913:0xd0af0b36494c0c9f!8m2!3d52.5167097!4d13.4141209"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51664/13.41428"  >OpenStreetMap</a> - <a href="geo:52.51664,13.41428?z=19"  >Applicazione mappe</a>
   </div>
-  
+
 
 {{< titolo2 title="Torre di controllo in Erna-Berger-Straße" link="torre-di-controllo" >}}
 
@@ -231,8 +233,8 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/DDR+Watch+Tower/@52.5084286,13.379797,19z/data=!4m5!3m4!1s0x47a851ce99f7ae91:0x87c8b6677d18734d!8m2!3d52.5085353!4d13.3796787"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50849/13.37923"  >OpenStreetMap</a> - <a href="geo:52.50849,13.37923?z=19"  >Applicazione mappe</a>
   </div>
-  
-  
+
+
 {{< titolo2 title="Uscire dalla Germania e visitare la Polonia" link="visitare-polonia" >}}
 
 {{< img "Vista del centro città di Stettino. Il tram numero 171 viaggia in direzione Turkusowa. Sullo sfondo si vede la Cattedrale di Stettino." "/img/articoli/stettino-città-tram.jpg" >}}
@@ -254,7 +256,7 @@ In alternativa potete raggiungere anche Słubice che si trova al confine tra Ger
 
 {{< titolo2 title="Casa della Conferenza di Wannsee" link="casa-conferenza-wannsee" >}}
 
-Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale*, lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo. 
+Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale*, lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo.
 
 **Se possedete una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB" >}}**, la carta per i trasporti di Berlino, la stazione di **Wannsee è inclusa**, quindi non serve fare altri biglietti.
 
@@ -264,7 +266,10 @@ Se provenite dallo Schönefeld e avete la **{{< nofollow "https://www.getyourgui
 <div style="text-align: center"><a href="https://www.google.com/maps/place/House+of+the+Wannsee+Conference/@52.4332375,13.1624479,16z/data=!4m13!1m7!3m6!1s0x47a858be4d35e285:0x52120465b5face0!2sWannsee,+14109+Berlino,+Germania!3b1!8m2!3d52.415113!4d13.1468678!3m4!1s0x47a858fa53c728e1:0x40087ca9f52dd011!8m2!3d52.4329117!4d13.1655264"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.43275/13.16474"  >OpenStreetMap</a> - <a href="geo:52.43275,13.16474?z=18"  >Applicazione mappe</a>
   </div>
 
-{{< noamp "<iframe width=\"100%\" height=\"300px\" title=\"Mappa di Berlino con i posti descritti nell' articolo\" frameborder=\"0\" class=\"lazyloaded\" allowfullscreen data-src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-di-alternativo-a-berlino_371321?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#14/52.5199/13.3994\"></iframe> <br> <div data-gyg-href=\"https://widget.getyourguide.com/default/activites.frame\" data-gyg-locale-code=\"it-IT\" data-gyg-widget=\"activities\" data-gyg-number-of-items=\"3\" data-gyg-cmp=\"berlino-cosa-vedere-alternativo\" data-gyg-currency=\"EUR\" data-gyg-partner-id=\"CSSHL9T\" data-gyg-placement=\"content-end\" data-gyg-tour-ids=\",49759,,112600,,2385\"></div> <noscript><hr><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=cosa-vedere-alternativo-berlino-nojs\">❓ Hitler: How could it happen? Museo sulla figura di Hitler e sugli eventi che portarono alla Seconda Guerra Mondiale. Acquista i biglietti su GetYourGuide.</a></center></hr></noscript> <br><small>Affiliate</small>" "<amp-iframe width=\"200\" height=\"300\" sandbox=\"allow-scripts allow-same-origin\"  layout=\"responsive\" frameborder=\"0\" src=\"https://umap.openstreetmap.fr/it/map/cosa-vedere-di-alternativo-a-berlino_371321?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#14/52.5199/13.3994\"></amp-iframe><hr><center><a rel=\"nofollow\" href=\"https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=cosa-vedere-alternativo-berlino-nojs\">❓ Hitler: How could it happen? Museo sulla figura di Hitler e sugli eventi che portarono alla Seconda Guerra Mondiale. Acquista i biglietti su GetYourGuide.</a></center></hr> <br><small>Affiliate</small>" >}}
+{{< umap mapName="cosa-vedere-di-alternativo-a-berlino_371321" >}}
+{{< noamp >}}
+<div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="it-IT" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="berlino-cosa-vedere-alternativo" data-gyg-currency="EUR" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-end" data-gyg-tour-ids=",49759,,112600,,2385"></div> <noscript><hr><center><a rel="nofollow" href="https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=cosa-vedere-alternativo-berlino-nojs">❓ Hitler: How could it happen? Museo sulla figura di Hitler e sugli eventi che portarono alla Seconda Guerra Mondiale. Acquista i biglietti su GetYourGuide.</a></center></hr></noscript> <br><small>Affiliate</small>
+{{</ noamp >}}
 
-Questi erano i nostri suggerimenti più insoliti per Berlino, in futuro, se dovessimo ritornarci, aggiorneremo questo post con le foto e i posti ancora più alternativi che abbiamo trovato. Nei commenti fateci sapere se conoscete dei posti strani anche voi o consigliateci altre città da visitare.<br> 
+Questi erano i nostri suggerimenti più insoliti per Berlino, in futuro, se dovessimo ritornarci, aggiorneremo questo post con le foto e i posti ancora più alternativi che abbiamo trovato. Nei commenti fateci sapere se conoscete dei posti strani anche voi o consigliateci altre città da visitare.<br>
 Grazie per la lettura e **buon viaggio**!

@@ -62,7 +62,7 @@ A parte la bellissima vista con il classico stile nord-europeo, girandoci attorn
 <div style="margin: auto">
 {{< videogif "/video/piazza_dam_ig_2019_video.mp4" >}}
  </div>
-   
+
 Sulla sinistra del Palazzo Reale si trova invece la sede ad Amsterdam del celebre museo delle ceneri "**Madame Tussauds**", mentre di fronte troviamo l' **Hotel Krasnapolsky**, un hotel a 5 stelle nato nel 1865 come ristorante e divenuto oggi un' icona della piazza.
 
 {{< gyg title="Madame Tussauds - biglietto salta la fila" link="https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" >}}
@@ -137,7 +137,7 @@ Se invese non si è amanti dell' arte si può fare un giro al vecchio birrificio
 
 Il resto della giornata naturalmente si dovrebbe passare a fare un riepilogo, magari ripassando ai quartieri a luci rosse di sera o facendo un' ultima passeggiata sui ponti e godendosi i vari panorami che questa bellissima città ha da offire e pensare a quanto è bello viaggiare.
 
-{{< noamp "<iframe class=\"lazyloaded\" width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen data-src=\"//umap.openstreetmap.fr/en/map/untitled-map_447942?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false\"></iframe>" >}}
+{{< umap mapName="untitled-map_447942" >}}
 
 
 {{<img "Alcune bici ad Amstedam" "/img/articoli/bici_amsterdam_2019.jpg">}}

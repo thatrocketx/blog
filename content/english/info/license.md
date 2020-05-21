@@ -17,6 +17,7 @@ This website utilized Open Source components, here's a list of the components an
 - [WOW.js](https://wowjs.uk/) licensed under [MIT](https://github.com/graingert/WOW/blob/master/LICENSE)
 - [Animate.css](https://animate.style/) licensed under [MIT](https://github.com/animate-css/animate.css/blob/master/LICENSE)
 - Hugo Notice by Nicolas Martignoni licensed under [GNU GPL 3.0](https://github.com/martignoni/hugo-notice/blob/master/LICENSE)
+- Twemoji by Twitter licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - [instant.page](https://instant.page/) licensed under [MIT](https://github.com/instantpage/instant.page/blob/master/LICENSE)
 - lazyload licensed under [MIT](https://github.com/verlok/lazyload/blob/master/LICENSE)
 - [leaflet.js](https://leafletjs.com/) licensed under [BSD 2-Clause "Simplified" License](https://github.com/Leaflet/Leaflet/blob/master/LICENSE)

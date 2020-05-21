@@ -17,6 +17,7 @@ Su questo sito sono stati utilizzati componenti Open Source, di seguito trovate 
 - [WOW.js](https://wowjs.uk/) con licenza [MIT](https://github.com/graingert/WOW/blob/master/LICENSE)
 - [Animate.css](https://animate.style/) con licenza [MIT](https://github.com/animate-css/animate.css/blob/master/LICENSE)
 - Hugo Notice by Nicolas Martignoni con licenza [GNU GPL 3.0](https://github.com/martignoni/hugo-notice/blob/master/LICENSE)
+- Twemoji by Twitter con licenza [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - [instant.page](https://instant.page/) con licenza [MIT](https://github.com/instantpage/instant.page/blob/master/LICENSE)
 - lazyload con licenza [MIT](https://github.com/verlok/lazyload/blob/master/LICENSE)
 - [leaflet.js](https://leafletjs.com/) con licenza [BSD 2-Clause "Simplified" License](https://github.com/Leaflet/Leaflet/blob/master/LICENSE)

@@ -75,5 +75,9 @@ toLower = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
-[markup.goldmark.renderer]
+[markup]
+  [markup.goldmark.renderer]
   unsafe= true
+  [markup.tableOfContents]
+    endLevel = 3
+    startLevel = 2

@@ -76,8 +76,13 @@ toLower = true
     disable = false
     privacyEnhanced = true
 [markup]
-  [markup.goldmark.renderer]
-  unsafe= true
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe= true
+  [markup.goldmark.extensions]
+      footnote = true
+      typographer = true
   [markup.tableOfContents]
-    endLevel = 3
+    endLevel = 4
     startLevel = 2

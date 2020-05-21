@@ -915,7 +915,7 @@ Per altre informazioni potete anche leggere la nostra [**guida alla Torre della 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947"  >OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19"  >Applicazione mappe</a>
   </div>
 
-#### 👁️ Altri posti da visitare
+### 👁️ Altri posti da visitare
 
 Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abbiamo visitato. Trovate dei link a siti per altre informazioni.
 

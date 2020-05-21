@@ -84,5 +84,5 @@ toLower = true
       footnote = true
       typographer = true
   [markup.tableOfContents]
-    endLevel = 4
+    endLevel = 3
     startLevel = 2

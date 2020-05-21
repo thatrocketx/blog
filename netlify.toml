@@ -4,5 +4,3 @@
 [[redirects]]
   from = "/en/feed"
   to = "/en/rss/index.xml"
-[[plugins]]
-  package = "netlify-plugin-inline-critical-css"

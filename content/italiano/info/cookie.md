@@ -14,20 +14,13 @@ Rispettiamo la privacy dei nostri utenti e per questo utilizziamo il minor numer
 In alcuni casi, però, siamo costretti ad utilizzare dei cookie per offrire servizi e analizzare il traffico al sito.
 Ecco i cookie che utilizziamo su questo sito:
 
-## Cookie di that Rocket X
-
-<!-- ### Da Matomo (analisi traffico, solo su questo sito web) [info](https://matomo.org/faq/general/faq_146/)) -->
-
-<!---   \_pk_id - 13 mesi)-->
-<!---   \_pk_ref - 6 mesi)-->
-<!---   \_pk_ses, \_pk_cvar, \_pk_hsr - 30 minuti)-->
 
 ### Cookie Consent
 
--   cookieconsent_status - determina se è stato accettato il banner sui cookie
+-   cookieconsent_status (durata: sessione) - determina se è stato accettato il banner sui cookie
 
 ## Cookie di terze parti
-### Da DISQUS (commenti) [info](https://help.disqus.com/user-profile/use-of-cookies)
+### Da DISQUS (commenti - solo se attivati) [info](https://help.disqus.com/user-profile/use-of-cookies)
 
 -   \_\_qca (Domain: .disqus.com)
 -   mc (Domain: .quantserve.com)
@@ -36,7 +29,7 @@ Ecco i cookie che utilizziamo su questo sito:
 -   disqus_unique (Domain: .disqus.com) - Analisi interna
 -   testCookie (Domain: mediacdn.disqus.com) - Controllo cookie
 
-### Da GetYourGuide [info](https://partner.getyourguide.com/en-us/c/frequently-asked-questions/how-does-the-tracking-work)
-- Partner ID - cookie necessario per collegare l' ID partner al sito di GetYourGuide - 90 giorni
+### Da GetYourGuide
+-   visitorId (dominio: widget.getyourguide.com, durata: sessione) - **cookie tracciante** per tracciare l' ID dell' utente che clicca sul banner.
 
-Per ora non disponiamo di opt-out, ma in futuro molto probabilmente vi sarà un aggiornamento per escludersi dal tracciamento dei cookie interni al sito.
+Per ora non disponiamo di opt-out, ma in futuro molto probabilmente vi sarà un aggiornamento per escludersi dal tracciamento dei cookie (appena riusciamo a farlo funzionare).

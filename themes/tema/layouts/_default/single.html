@@ -56,6 +56,10 @@ targetBlank();
 <span class="ultimamodifica">{{ if (isset .Params "lastmod") }}{{ T "ultima-modifica"}} <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="dateModified">
  {{- .Lastmod.Format "2/1/2006" -}}</time>{{end}}</span>
 </article>
+
+<a class="pocket" href="/info/privacy" style="display:block">
+⚠️ La privacy policy è stata aggiornata il 22/05/2020
+</a>
 </div>
 {{ if (isset .Params "autore") }}
 <aside class="sidebar">

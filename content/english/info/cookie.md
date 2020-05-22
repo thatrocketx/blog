@@ -14,14 +14,6 @@ We respect our users' privacy and for this reason we use the least number of tra
 Despite that, in some cases we need to use cookies to offer services and analyse our traffic.
 These are the cookies we use on this website:
 
-## Cookies from that Rocket X
-
-[//] # (### By Matomo (analytics, privacy friendly) [info](https://matomo.org/faq/general/faq_146/))
-
-[//] # (-   \_pk_id - 13 months)
-[//] # (-   \_pk_ref - 6 months)
-[//] # (-   \_pk_ses, \_pk_cvar, \_pk_hsr - 30 minutes)
-
 ### Cookie Consent
 
 -   cookieconsent_status - checks if the cookie banner has been accepted
@@ -39,8 +31,9 @@ These are the cookies we use on this website:
 
 ### By GetYourGuide [info](https://partner.getyourguide.com/en-us/c/frequently-asked-questions/how-does-the-tracking-work)
 
-- Partner ID - cookie used to link our partner ID to GetYourGuide - 90 days
+-   visitorId (domain: widget.getyourguide.com, duration: session) - **tracking cookie** it is set by the GetYourGuide widget to track the user who clicks the banner.
 
 
 
-We might update the website in the future for the opt-out.
+
+We might update the website in the future for the opt-out (when we will understand how to make it work...).

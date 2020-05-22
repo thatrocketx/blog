@@ -54,7 +54,7 @@ Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa
 
 Ciò che rende quest' hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l' _(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un' ottima presenza "_turistica_" grazie agli amanti dei luoghi abbandonati.
 
-Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci siamo ritornati più volte) per vederlo dal vivo e soddisfare quella strana voglia di **esplorare** i **luoghi più nascosti**, poco frequentati dai turisti (in inglese direbbero _urban exploration_ {{< nota "Andare in posti in cui non si dovrebbe. (Urban Dictionary)" >}} ), per dare un' occhiata in giro e tornare per qualche ora indietro nel tempo e provare ad immaginare come era in passato, prima che i soggiorni nell' hotel cessassero e l' hotel venisse abbandonato.​
+Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci siamo ritornati più volte) per vederlo dal vivo e soddisfare quella strana voglia di **esplorare** i **luoghi più nascosti**, poco frequentati dai turisti (in inglese direbbero _urban exploration_ [^1], per dare un' occhiata in giro e tornare per qualche ora indietro nel tempo e provare ad immaginare come era in passato, prima che i soggiorni nell' hotel cessassero e l' hotel venisse abbandonato.​
 
 In questo articolo vi racconteremo **la nostra esperienza** durante la nostra visita all' **Hotel Eremo**: cosa abbiamo visto e **cosa abbiamo scoperto** di questo piccolo **gioiello abbandonato** sul **Vesuvio**.​
 
@@ -175,3 +175,5 @@ Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** una vo
 <script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/city.frame" data-gyg-iata="nap" data-gyg-locale-code="it-IT" data-gyg-widget="city" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-end" data-gyg-cmp="hotel-eremo"></div>
 <small> Annuncio tramite affiliazione - Affiliate </small>
 {{</ noamp >}}
+
+[^1]: Andare in posti in cui non si dovrebbe. ([Urban Dictionary](https://www.urbandictionary.com/define.php?term=urban+exploration))

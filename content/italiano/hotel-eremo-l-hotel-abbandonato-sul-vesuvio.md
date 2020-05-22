@@ -171,9 +171,4 @@ Ormai non crediamo ci sia alcuna speranza di **rivederlo così com' era** una vo
 
 <a href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc" class="noext">{{< img "Vota l' Hotel Eremo sul sito del FAI" "/img/articoli/fai-eremo.jpg" " ">}}</a>
 
-{{< noamp >}}
-<script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/city.frame" data-gyg-iata="nap" data-gyg-locale-code="it-IT" data-gyg-widget="city" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-end" data-gyg-cmp="hotel-eremo"></div>
-<small> Annuncio tramite affiliazione - Affiliate </small>
-{{</ noamp >}}
-
 [^1]: Andare in posti in cui non si dovrebbe. ([Urban Dictionary](https://www.urbandictionary.com/define.php?term=urban+exploration))

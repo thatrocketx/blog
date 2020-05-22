@@ -97,7 +97,7 @@ I biglietti si possono **{{< nofollow "https://www.getyourguide.it/torre-della-t
 
 
 
-<small> Affiliate </small>
+<small> 💰 </small>
 
 {{< img "Torre della Televisione di Berlino vista dalla piazzetta all' entrata.""/img/articoli/torre-della-televisione-di-berlino-esterno.jpg" >}}
 
@@ -129,7 +129,7 @@ Alla nostra visita, **i turni erano di cira 20 minuti per gruppo**, quindi in gi
 
 </center>
 
-<small> Affiliate </small>
+<small> 💰 </small>
 ## Pranzare e cenare nel ristorante della Torre della TV
 
 {{< img "Torre della Televisione di Berlino, uscita.""/img/articoli/torre-della-televisione-di-berlino-interno-ascensore.jpg" >}}
@@ -160,7 +160,7 @@ La cucina comprende sia **piatti tipici tedeschi** che piatti famosi e **gourmet
 
 </center>
 
-<small> Affiliate </small>
+<small> 💰 </small>
 **NOTA: In alcuni periodi i costi potrebbero essere maggiorati a causa di eventi speciali**
 
 ## Orari e giorni di apertura della Torre della Televisione
@@ -210,7 +210,7 @@ Piccola curiosità: se utilizzate una **{{< nofollow "https://www.getyourguide.i
 
 Giusto per una questione di chiarezza, quindi, qui sotto troverete le varie fermate dei trasporti pubblici che potete utilizzare per raggiungere la Torre della Televisione.
 
-<small> Affiliate </small>
+<small> 💰 </small>
 
 <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
 <g transform="translate(0 -289.06)">

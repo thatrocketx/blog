@@ -59,7 +59,7 @@ In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegherem
 Prima di proseguire assicuratevi di avere almeno una **mezz' oretta di tempo libero** e la **data di nascita** di tutte le persone da prenotare.
 {{</ notice >}}
 
-**N.B.**: In questa guida troverete alcuni link per acquistare biglietti per servizi e attrazioni. Questi link, contrassegnati dalla scritta <small><i>Affiliate</i></small>, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
+**N.B.**: In questa guida troverete alcuni link per acquistare biglietti per servizi e attrazioni. Questi link, contrassegnati da 💰, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
 
 Buona lettura!
 
@@ -73,7 +73,7 @@ Buona lettura!
 
 <div style="width: 100%"><a href="https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center">Prenota un posto al ristorante della Cupola del Reichstag</a>  </div>
 
-<small>Affiliate</small>
+<small>💰</small>
 
 ### Come prenotare la visita alla Cupola del Reichstag e all' interno del Palazzo
 
@@ -246,7 +246,7 @@ Ne abbiamo parlato nella sezione dedicata al [Deutscher Dom](/cosa-vedere-a-berl
 
 ## Come arrivare al Reichstag
 
-Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "Berlin Welcome Card" >}}** oppure volete prendere i **mezzi pubblici**, potete scendere in queste **stazioni**:
+Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "Berlin Welcome Card" >}}**💰 oppure volete prendere i **mezzi pubblici**, potete scendere in queste **stazioni**:
 
 <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
 <g transform="translate(0 -289.06)">
@@ -278,17 +278,14 @@ Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona dell
 </g>
 </svg> **U-Bahn** - Bundestag
 
- <small>Affiliate</small>
-
 ## Il ristorante
 
-Sulla terrazza del Reichstag **è disponibile un ristorante panoramico** (il *Käfer*) nel quale è possibile effettuare una sosta. I prezzi sono abbastanza alti (_come ci si può aspettare_), ma se si vuole **si può {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "prenotare un posto per la pausa caffè" >}}** che comprende una prenotazione al tavolo per la degustazione di una fetta di torta e tè/caffè.
+Sulla terrazza del Reichstag **è disponibile un ristorante panoramico** (il *Käfer*) nel quale è possibile effettuare una sosta. I prezzi sono abbastanza alti (_come ci si può aspettare_), ma se si vuole **si può {{< nofollow "https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "prenotare un posto per la pausa caffè" >}}**💰 che comprende una prenotazione al tavolo per la degustazione di una fetta di torta e tè/caffè.
 
 **Il biglietto include anche una prenotazione al Reichstag** (quindi se avete prenotato un posto per il ristorante non è necessario seguire i passaggi di questa guida).
 
 Il prezzo non è proprio economico, si parla di circa 20 €, ma se ci tenete a passare del tempo sulla terrazza allora potreste farci un pensiero.
 
-<small>Affiliate</small>
 - - -
 
 Questo è tutto ciò che c'è da sapere su come prenotare per la visita al Reichstag. Speriamo di esservi stati di aiuto! **Qui sotto trovate maggiori informazioni sul Reichstag** (con curiosità e informazioni storiche) per gli interessati.

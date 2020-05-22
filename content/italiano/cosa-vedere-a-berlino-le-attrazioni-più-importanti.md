@@ -634,10 +634,7 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 
 <p>In questa sezione riportiamo, invece, le <strong>attrazioni a pagamento</strong> che ci sono piaciute di più. Abbiamo deciso di descrivere solo quelle in cui siamo andati perché non ci sentiamo di consigliare posti di cui non sappiamo nulla e farvi spendere dei soldi inutilmente, alla fine di questa sezione vi elencheremo il resto dei posti che potreste visitare in base a quelli che avevamo inizialmente deciso di vedere (ma che a causa del poco tempo e di qualche imprevisto non siamo riusciti a guardare).</p>
 
-<p>Gran parte di queste attrazioni sono incluse nel <mark><strong>pass di 3 giorni per i musei</strong></mark>, che per soli 30 € vi da diritto ad entrare <strong>in più di 30 musei per 3 giorni</strong> (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto <strong>risparmiare un po&#39; di soldi</strong>. Se vi interessa {{< nofollow "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "lo potete acquistare qui" >}}. La card si ritira all&#39; aeroporto o nei punti informazione in città. </p>
-
-
-<small>Affiliate</small>
+<p>Gran parte di queste attrazioni sono incluse nel <mark><strong>pass di 3 giorni per i musei</strong></mark>, che per soli 30 € vi da diritto ad entrare <strong>in più di 30 musei per 3 giorni</strong> (i musei sono elencati nella pagina di acquisto, nella guida vi lasciamo un avviso accanto ai musei inclusi). Noi lo abbiamo fatto e ci è stato molto utile, è stato davvero conveniente e ci ha fatto <strong>risparmiare un po&#39; di soldi</strong>. Se vi interessa {{< nofollow "https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "lo potete acquistare qui" >}}💰. La card si ritira all&#39; aeroporto o nei punti informazione in città. </p>
 
 
 ### Museo della storia tedesco (Deutsches Historisches Museum)
@@ -955,7 +952,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
 
 
 {{< noamp >}}
- <script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="it-IT" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-currency="EUR" data-gyg-partner-id="CSSHL9T" data-gyg-tour-ids="141648,21231,68464"></div> <noscript><center><a rel="nofollow" href="https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa-nojs">🎟️ Museum Pass Berlin: pass per più di 30 musei di Berlino valido per 3 giorni. Acquista su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>
+ <script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="it-IT" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-currency="EUR" data-gyg-partner-id="CSSHL9T" data-gyg-tour-ids="141648,21231,68464"></div> <noscript><center><a rel="nofollow" href="https://www.getyourguide.it/berlino-l17/pass-musei-di-berlino-3-giorni-in-oltre-50-musei-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa-nojs">🎟️ Museum Pass Berlin: pass per più di 30 musei di Berlino valido per 3 giorni. Acquista su GetYourGuide.</a></center></noscript> <br><small>💰</small>
  {{</ noamp >}}
 
 
@@ -1045,9 +1042,9 @@ Se volete potete anche acquistare una _**Berlin Welcome Card**_ per utilizzare *
 
 Sono disponibili biglietti per 2, 3, 4, 5 e 6 giorni.
 
-Ci sono due tipi di card per i trasporti (ce n'è anche una con alcune attrazioni incluse): {{< nofollow "https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "quella per la zona ABC" >}} che potrebbe esservi utile se atterrate all' aeroporto Schönefeld e state in città per pochi giorni, così risparmiate i biglietti di andata e ritorno. <small>Affiliate</small>
+Ci sono due tipi di card per i trasporti (ce n'è anche una con alcune attrazioni incluse): {{< nofollow "https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "quella per la zona ABC" >}}💰 che potrebbe esservi utile se atterrate all' aeroporto Schönefeld e state in città per pochi giorni, così risparmiate i biglietti di andata e ritorno.
 
-Se atterrate invece al Tegel oppure state a Berlino per una settiama, allora vi conviene la {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "card valida solo per la zona AB" >}}, che **costa meno**. <small>Affiliate</small>
+Se atterrate invece al Tegel oppure state a Berlino per una settiama, allora vi conviene la {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "card valida solo per la zona AB" >}}💰, che **costa meno**.
 
 **La card comprende** anche: <br>
 ✔️ **Sconti sulle attrazioni** aderenti (tra cui la **Torre della TV**) <br>

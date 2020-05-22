@@ -76,20 +76,10 @@
   translation: "SEE COMMENTS"
 - id: comprasuamazon
   translation: "Check prices on Amazon.com"
-- id: donazione
-  translation: "Donation"
-- id: donazione_desc
-  translation: "Help us by supporting our project"
-- id: pubblicita
-  translation: "Advertisement"
-- id: pubblicita_desc
-  translation: "This advertisement helps us by supporting our project"
-- id: pubblicita_img
-  translation: "/amazon-ad.png"
 - id: pubblicita_url
   translation: "https://amazon.com?tag="
 - id: acquista-gyg
-  translation: "BUY"
+  translation: "BUY ON GETYOURGUIDE"
 - id: acquisto-sicuro
   translation: "Purchase with securety on"
 

@@ -37,7 +37,7 @@ expirydate: ' '
 scadenza: ' '
 lastmod: '2020-02-11T11:34:55+00:00'
 ---
-Ciao a tutti, viaggiatori. Oggi vi propongo un articolo molto breve diverso dal solito. Oggi voglio rendervi partecipi di una cosa che ho scoperto di recente e che penso possa interessare a qualcuno di voi: **guide turistiche gratis per l' Irlanda**. 
+Ciao a tutti, viaggiatori. Oggi vi propongo un articolo molto breve diverso dal solito. Oggi voglio rendervi partecipi di una cosa che ho scoperto di recente e che penso possa interessare a qualcuno di voi: **guide turistiche gratis per l' Irlanda**.
 
 Ultimamente mi sto appassioando molto a questo paese e qualche settimana fa, mentre cercavo delle informazioni sul **[sito ufficiale per il turismo irlandese](https://www.ireland.com)** ho scoperto che questo ti permette anche di **richiedere gratuitamente delle guide e delle mappe per visitare al meglio l' Irlanda** e le sue città più importanti. Dopo essere rimasto **pienamente soddisfatto del servizio**, ho deciso di condividere con voi questa cosa. Spero possa esservi utile!
 
@@ -61,9 +61,9 @@ e molte altre.
 
 ## Ricevere le guide per posta
 
-È possibile anche ricevere alcune di queste guide e alcune cartine geografiche in formato cartaceo, direttamente per posta e sempre gratuitamente (se si vive in Europa, naturalmente). 
+È possibile anche ricevere alcune di queste guide e alcune cartine geografiche in formato cartaceo, direttamente per posta e sempre gratuitamente (se si vive in Europa, naturalmente).
 
-Per fare ciò basta recarsi a [questa pagina](https://www.ireland.com/it-it/postalbrochures/) e scegliere cosa si vuole ricevere (non sono disponibili tutte le guide e le mappe scaricabili). Una volta effettuata la scelta, basta cliccare su "_Effettua l' ordine_" e compilare i campi richiesti con le proprie informazioni per la spedizione. 
+Per fare ciò basta recarsi a [questa pagina](https://www.ireland.com/it-it/postalbrochures/) e scegliere cosa si vuole ricevere (non sono disponibili tutte le guide e le mappe scaricabili). Una volta effettuata la scelta, basta cliccare su "_Effettua l' ordine_" e compilare i campi richiesti con le proprie informazioni per la spedizione.
 
 <div style="width: 100%"><a href="https://www.ireland.com/it-it/postalbrochures/" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);	background-color:#44c767;	border-radius:28px;	border:1px solid #18ab29;	display:inline-block;	cursor:pointer;	color:#ffffff;	font-family:Arial;	font-size:17px;	padding:16px 31px;	text-decoration:none;	text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center">RICEVI LE GUIDE PER POSTA</a>	</div>
 
@@ -73,4 +73,4 @@ Ho provato io stesso ad effettuare l' ordine e devo dire le spedizioni sono davv
 
 Questo è quanto, volevo solo rendervi partecipi di questa possibiltà che potrebbe essere utile a qualcuno di voi!
 
-<div style="box-shadow:inset 0px 1px 0px 0px #f29c93;	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);	background-color:#fe1a00;	border-radius:6px;	border:1px solid #d83526;	display:inline-block;	color:#ffffff;	font-family:Arial;	font-size:15px;	font-weight:bold;	padding:6px 24px;	text-decoration:none;	text-shadow:0px 1px 0px #b23e35;width: 100%; text-align: center"> Viaggio in Irlanda? 	<a href="https://www.getyourguide.it/irlanda-n34/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=button-cta&cmp=guide_irlanda_gratis_button" class="noext" style="box-shadow:inset 0px 1px 0px 0px #ffffff;	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);	background-color:#ededed;	border-radius:6px;	border:1px solid #dcdcdc;	display:inline-block;	cursor:pointer;	color:#777777;	font-family:Arial;	font-size:15px;	font-weight:bold;	padding:6px 24px;	text-decoration:none;	text-shadow:0px 1px 0px #ffffff; display: block; max-width: 300px; margin: 10px auto auto auto"> Scopri le attività su GetYourGuide!</a>	</div><small> Affiliate </small>​
+<div style="box-shadow:inset 0px 1px 0px 0px #f29c93;	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);	background-color:#fe1a00;	border-radius:6px;	border:1px solid #d83526;	display:inline-block;	color:#ffffff;	font-family:Arial;	font-size:15px;	font-weight:bold;	padding:6px 24px;	text-decoration:none;	text-shadow:0px 1px 0px #b23e35;width: 100%; text-align: center"> Viaggio in Irlanda? 	<a href="https://www.getyourguide.it/irlanda-n34/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=button-cta&cmp=guide_irlanda_gratis_button" class="noext" style="box-shadow:inset 0px 1px 0px 0px #ffffff;	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);	background-color:#ededed;	border-radius:6px;	border:1px solid #dcdcdc;	display:inline-block;	cursor:pointer;	color:#777777;	font-family:Arial;	font-size:15px;	font-weight:bold;	padding:6px 24px;	text-decoration:none;	text-shadow:0px 1px 0px #ffffff; display: block; max-width: 300px; margin: 10px auto auto auto"> Scopri le attività su GetYourGuide!</a>	</div><small> 💰 </small>​

@@ -73,20 +73,10 @@
   translation: "VAI AI COMMENTI"
 - id: comprasuamazon
   translation: "Vedi i prezzi su Amazon.it"
-- id: donazione
-  translation: "Donazione"
-- id: donazione_desc
-  translation: "Aiutaci a supportare il nostro progetto."
-- id: pubblicita
-  translation: "Pubblicità"
-- id: pubblicita_desc
-  translation: "Questa pubblicità ci aiuta a supportare il nostro progetto."
-- id: pubblicita_img
-  translation: "/amazon-ad.png"
 - id: pubblicita_url
   translation: "https://amazon.it?tag="
 - id: acquista-gyg
-  translation: "COMPRA"
+  translation: "COMPRA SU GETYOURGUIDE"
 - id: acquisto-sicuro
   translation: "Acquisto sicuro tramite"
 

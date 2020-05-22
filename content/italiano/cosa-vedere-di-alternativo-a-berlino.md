@@ -155,9 +155,7 @@ Museo davvero ben fatto sullo spionaggio e sulle tecniche di crittografia. Ciò 
 Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
 Il **lunedì il museo è chiuso**.
 
-<center><b><a href="https://www.getyourguide.it/berlino-l17/stasi-e-bond-biglietto-per-lo-spy-museum-berlino-t59251/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=button-cta&cmp=cosa-vedere-alternativo-berlino">Potete acquistare i biglietti qui ➡️</a></b></center>
-
-<small>Affiliate</small>
+<center><b><a href="https://www.getyourguide.it/berlino-l17/stasi-e-bond-biglietto-per-lo-spy-museum-berlino-t59251/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=button-cta&cmp=cosa-vedere-alternativo-berlino">Potete acquistare i biglietti qui ➡️</a>💰</b></center>
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
   </div>
@@ -180,7 +178,7 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
 
 ---
 {{< noamp >}}
-<script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="it-IT" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="berlino-cosa-vedere-alternativo" data-gyg-currency="EUR" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-middle" data-gyg-tour-ids=",170637,,37028,,43642"></div> <noscript><center><a rel="nofollow" href="https://www.getyourguide.it/berlino-l17/berlino-biglietti-per-il-museo-dei-videogiochi-t43642/?partner=true&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-alternativo-berlino-nojs">🕹️ Museo dei Videogiochi di Berlino: acquista i biglietti su GetYourGuide.</a></center></noscript> <br><small>Affiliate</small>
+<script async defer src="https://widget.getyourguide.com/v2/widget.js"></script><div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="it-IT" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="berlino-cosa-vedere-alternativo" data-gyg-currency="EUR" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-middle" data-gyg-tour-ids=",170637,,37028,,43642"></div> <noscript><center><a rel="nofollow" href="https://www.getyourguide.it/berlino-l17/berlino-biglietti-per-il-museo-dei-videogiochi-t43642/?partner=true&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=cosa-vedere-alternativo-berlino-nojs">🕹️ Museo dei Videogiochi di Berlino: acquista i biglietti su GetYourGuide.</a></center></noscript> <br><small>💰</small>
 {{</ noamp >}}
 
 ---
@@ -264,15 +262,14 @@ Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo*
 
 **Se possedete una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB" >}}**, la carta per i trasporti di Berlino, la stazione di **Wannsee è inclusa**, quindi non serve fare altri biglietti.
 
-Se provenite dallo Schönefeld e avete la **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card per la zona ABC" >}}**, allora **potrete raggiungere anche la vicina città di Potsdam**.
-<small>Affiliate</small>
+Se provenite dallo Schönefeld e avete la **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card per la zona ABC" >}}**💰, allora **potrete raggiungere anche la vicina città di Potsdam**.
 
 <div style="text-align: center"><a href="https://www.google.com/maps/place/House+of+the+Wannsee+Conference/@52.4332375,13.1624479,16z/data=!4m13!1m7!3m6!1s0x47a858be4d35e285:0x52120465b5face0!2sWannsee,+14109+Berlino,+Germania!3b1!8m2!3d52.415113!4d13.1468678!3m4!1s0x47a858fa53c728e1:0x40087ca9f52dd011!8m2!3d52.4329117!4d13.1655264"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.43275/13.16474"  >OpenStreetMap</a> - <a href="geo:52.43275,13.16474?z=18"  >Applicazione mappe</a>
   </div>
 
 {{< umap mapName="cosa-vedere-di-alternativo-a-berlino_371321" >}}
 {{< noamp >}}
-<div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="it-IT" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="berlino-cosa-vedere-alternativo" data-gyg-currency="EUR" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-end" data-gyg-tour-ids=",49759,,112600,,2385"></div> <noscript><hr><center><a rel="nofollow" href="https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=cosa-vedere-alternativo-berlino-nojs">❓ Hitler: How could it happen? Museo sulla figura di Hitler e sugli eventi che portarono alla Seconda Guerra Mondiale. Acquista i biglietti su GetYourGuide.</a></center></hr></noscript> <br><small>Affiliate</small>
+<div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="it-IT" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="berlino-cosa-vedere-alternativo" data-gyg-currency="EUR" data-gyg-partner-id="CSSHL9T" data-gyg-placement="content-end" data-gyg-tour-ids=",49759,,112600,,2385"></div> <noscript><hr><center><a rel="nofollow" href="https://www.getyourguide.it/berlino-l17/berlino-documentazione-di-hitler-allo-story-bunker-t112600/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=cosa-vedere-alternativo-berlino-nojs">❓ Hitler: How could it happen? Museo sulla figura di Hitler e sugli eventi che portarono alla Seconda Guerra Mondiale. Acquista i biglietti su GetYourGuide.</a></center></hr></noscript> <br><small>💰</small>
 {{</ noamp >}}
 
 Questi erano i nostri suggerimenti più insoliti per Berlino, in futuro, se dovessimo ritornarci, aggiorneremo questo post con le foto e i posti ancora più alternativi che abbiamo trovato. Nei commenti fateci sapere se conoscete dei posti strani anche voi o consigliateci altre città da visitare.<br>

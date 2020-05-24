@@ -12,12 +12,13 @@ The content of this website, as well as the images and photographs made by us, a
 This website utilized Open Source components, here's a list of the components and their licenses:
 
 - [HUGO](https://gohugo.io/) licensed under [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE)
+- [Bootstrap](https://getbootstrap.com/) v4.5 licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 - [Cookie Consent](https://www.osano.com/cookieconsent/documentation/license/) by Osano licensed under MIT
 - [SharingButtons.io](https://sharingbuttons.io/) licensed under [MIT](https://github.com/mxstbr/sharingbuttons.io/blob/master/LICENSE.md)
 - [WOW.js](https://wowjs.uk/) licensed under [MIT](https://github.com/graingert/WOW/blob/master/LICENSE)
 - [Animate.css](https://animate.style/) licensed under [MIT](https://github.com/animate-css/animate.css/blob/master/LICENSE)
 - Hugo Notice by Nicolas Martignoni licensed under [GNU GPL 3.0](https://github.com/martignoni/hugo-notice/blob/master/LICENSE)
-- Twemoji by Twitter licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Twemoji](https://twemoji.twitter.com) by Twitter licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - [instant.page](https://instant.page/) licensed under [MIT](https://github.com/instantpage/instant.page/blob/master/LICENSE)
 - lazyload licensed under [MIT](https://github.com/verlok/lazyload/blob/master/LICENSE)
 - [leaflet.js](https://leafletjs.com/) licensed under [BSD 2-Clause "Simplified" License](https://github.com/Leaflet/Leaflet/blob/master/LICENSE)

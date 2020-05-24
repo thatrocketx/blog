@@ -2,10 +2,10 @@
 <html lang="{{ .Language.Lang }}">
     {{- partial "head.html" . -}}
     <body data-instant-allow-query-string>
-      <a href="#content" class="nascosto">{{ T "salta_contenuto"}}</a>
+      <a href="#content" class="sr-only">{{ T "salta_contenuto"}}</a>
         {{- partial "header.html" . -}}
-        <div id="content" class="main-contenitore">
-        <section class="main">
+        <div id="content" class="container">
+        <section class="py-4">
         {{- block "main" . }}{{- end }}
         </section>
       </div>

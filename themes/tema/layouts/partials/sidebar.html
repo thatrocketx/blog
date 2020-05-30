@@ -1,9 +1,9 @@
-<div class="border-left pl-4">
+<div class="border-left pl-4 dark-text-white">
 {{ $related := .Site.RegularPages.Related . | first 5 }}
   {{ with $related }}
   <h2> {{ T "vedi-anche"}} </h2>
     {{ range . }}
-    <div class="card my-2 rounded-lg mw-700 mx-auto overflow-hidden" aria-describedby="sommario">
+    <div class="card my-2 rounded-lg mw-700 mx-auto overflow-hidden dark-bg-dark" aria-describedby="sommario">
       <a href="{{ .URL }}" class="no-underline">
         <div class="card-img-top overflow-hidden ">
           {{ if and (isset .Params "videoself") }}
@@ -13,7 +13,7 @@
             {{end}}
         </div>
         <div class="card-body">
-          <h1 class="h5 text-dark">{{ .Title }}</h1>
+          <h1 class="h5 text-dark dark-text-white">{{ .Title }}</h1>
 
             {{ if (isset .Params "categories") }}{{range .Params.categories}}<span class="badge badge-secondary">{{ . }}</span> {{ end }} {{ end }}
             {{ if (isset .Params "cities") }}<span class="badge badge-secondary">{{ .Params.cities }} </span>{{ end }}{{ if (isset .Params "countries") }} <span class="badge badge-secondary"> {{ .Params.countries }} </span> {{ end }}
@@ -27,7 +27,7 @@
 <h2> {{T "ultimi-articoli" }}</h2>
 {{ range  .Site.RegularPages | first 2 }}
 {{ if not (isset .Params "nolist" ) }}
-<div class="card my-2 rounded-lg mw-700 mx-auto overflow-hidden" aria-describedby="sommario">
+<div class="card my-2 rounded-lg mw-700 mx-auto overflow-hidden dark-bg-dark" aria-describedby="sommario">
   <a href="{{ .URL }}" class="no-underline">
     <div class="card-img-top overflow-hidden ">
       {{ if and (isset .Params "videoself") }}
@@ -37,7 +37,7 @@
         {{end}}
     </div>
     <div class="card-body">
-        <h1 class="h5 text-dark">{{ .Title }}</h1>
+        <h1 class="h5 text-dark dark-text-white">{{ .Title }}</h1>
 
           {{ if (isset .Params "categories") }}{{range .Params.categories}}<span class="badge badge-secondary">{{ . }}</span> {{ end }} {{ end }}
           {{ if (isset .Params "cities") }}<span class="badge badge-secondary">{{ .Params.cities }} </span>{{ end }}{{ if (isset .Params "countries") }} <span class="badge badge-secondary"> {{ .Params.countries }} </span> {{ end }}

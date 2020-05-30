@@ -1,6 +1,6 @@
 {{ define "main"}}
-<main>
-<div class="titolo-in-lista">{{.Title}} <a href="rss/index.xml" title="Feed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="18" viewBox="0 0 402.041 402.04" class="rss-lista"><g>	<g><path  d="M54.816,292.382c-15.229,0-28.169,5.331-38.831,15.988C5.33,319.026,0,331.969,0,347.197
+<main class="mw-700 mx-auto">
+<div class="h3 font-weight-bold dark-text-white">{{.Title}} <a href="rss/index.xml" title="Feed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="18" viewBox="0 0 402.041 402.04" class="rss-lista"><g>	<g><path  d="M54.816,292.382c-15.229,0-28.169,5.331-38.831,15.988C5.33,319.026,0,331.969,0,347.197
 			c0,15.232,5.325,28.172,15.985,38.828c10.662,10.657,23.606,15.988,38.831,15.988c15.227,0,28.168-5.331,38.828-15.988
 			c10.656-10.656,15.986-23.596,15.986-38.828c0-15.229-5.33-28.171-15.986-38.827C82.987,297.713,70.046,292.382,54.816,292.382z"
 			/><path  d="M181.01,221.002c-21.51-21.698-46.158-38.97-73.948-51.816c-27.79-12.85-56.914-20.511-87.366-22.985h-1.425
@@ -13,7 +13,7 @@
 			c0,4.76,1.667,8.897,4.996,12.419c3.33,3.523,7.373,5.376,12.132,5.57c40.924,2.478,79.799,12.188,116.63,29.127
 			c36.83,16.94,68.806,38.972,95.93,66.09c27.118,27.123,49.149,59.101,66.089,95.931c16.94,36.836,26.557,75.705,28.839,116.627
 			c0.195,4.764,2.046,8.809,5.564,12.139c3.524,3.329,7.762,4.999,12.71,4.999h40.823c5.331,0,9.701-1.902,13.134-5.715
-			c3.809-3.806,5.517-8.274,5.144-13.415C399.52,333.017,388.093,285.291,367.728,239.701z"/><span class="nascosto">Feed</span></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></a></div>
+			c3.809-3.806,5.517-8.274,5.144-13.415C399.52,333.017,388.093,285.291,367.728,239.701z"/><span class="sr-only">Feed</span></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></a></div>
  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
   crossorigin=""/>
@@ -36,7 +36,7 @@
     const pos = {
   "type": "FeatureCollection",
   "features": [
-	 {{ range $i, $e := .Pages }}{{ if (isset .Params "posizione") }}{{ if $i }},{{else}} {{ end }} 
+	 {{ range $i, $e := .Pages }}{{ if (isset .Params "posizione") }}{{ if $i }},{{else}} {{ end }}
     {
       "type": "Feature",
       "properties": {
@@ -52,10 +52,10 @@
 const features = L.geoJSON(pos, {
   onEachFeature: function (feature, layer) {
     layer.bindPopup('<a href="'+feature.properties.url+'">'+feature.properties.name+'<img src="'+feature.properties.img+'" alt="" style="max-width:100%;max-height:200px;display:block;margin:auto;margin-top:4px"></a><p>'+feature.properties.description+'</p>');
-  }   
+  }
 });
 features.addTo(map);
-map.fitBounds(features.getBounds());	    
+map.fitBounds(features.getBounds());
 </script>
  {{ range  (.Paginator 8).Pages }}
  {{- partial "articoli.html" . -}}

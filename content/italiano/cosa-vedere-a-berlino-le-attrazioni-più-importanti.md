@@ -61,13 +61,12 @@ Qui avvengono **gran parte degli scambi per la metropolitana** e **partono i bus
 
 Si trova proprio **dietro la Torre della TV** ed è il posto nel quale si trovano **quasi tutte le catene più famose** e i negozi.
 
-🕰️ Simbolo della piazza è l' **Urania Weltzeituhr**, un orologio universale costruito nel 1969.
+🕰️ Simbolo della piazza è l'**Urania Weltzeituhr**, un orologio universale costruito nel 1969.
 
 State solo attenti ai tram che percorrono le vie intorno la piazza.
 Da qui **potere facilmente raggiungere altri posti** famosi come la **Torre della TV** (si trova proprio davanti), **Nikolaiviertel** ed **East Side Gallery**.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Alexanderplatz/@52.5219184,13.411026,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e1edb11286f:0x30fc01c366e4166e!8m2!3d52.5219184!4d13.4132147"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.52166/13.41185"  >OpenStreetMap</a> - <a href="geo:52.52166,13.41185?z=17"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.52166,13.41185?z=17" >}}
 
 ### Alte Bibliothek
 
@@ -76,10 +75,9 @@ Da qui **potere facilmente raggiungere altri posti** famosi come la **Torre dell
 
 Situata a Bebelplatz, **è una vecchia biblioteca di Berlino**.
 
-**Venne fatta costruire da Federico il Grande nel 1775** per ospitare la **Biblioteca Reale** e rendere i libri accessibili alla borghesia. Venne fortemente **ispirata dal palazzo reale di Vienna**. **Oggi è la sede della facoltà di legge dell' Università Humboldt** di Berlino (la **più antica università** della città).
+**Venne fatta costruire da Federico il Grande nel 1775** per ospitare la **Biblioteca Reale** e rendere i libri accessibili alla borghesia. Venne fortemente **ispirata dal palazzo reale di Vienna**. **Oggi è la sede della facoltà di legge dell'Università Humboldt** di Berlino (la **più antica università** della città).
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Universit%C3%A4tsbibliothek+Humboldt-Universit%C3%A4t+zu+Berlin,+ZwB+Rechtswissenschaften/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x0:0x6afecf18e757f4b9!8m2!3d52.516408!4d13.393313"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51644/13.39316"  >OpenStreetMap</a> - <a href="geo:52.51644,13.39316?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51644,13.39316?z=19" >}}
 
 
   <div style="width: 100%"><a href="https://www.getyourguide.it/s/?psrc=widget&version=2&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&cmp=berlino-cosa-vedere-bottone" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center"><svg width="50px" height="50px" style="float: left;margin-top: -15px" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" ><g transform="matrix(1.8075 0 0 1.8075 -1516.1 329.57)"><g transform="matrix(1.1609 0 0 1.1609 -173.43 -60.475)" fill="#fff" stroke="#f9f9f9"><rect x="917.48" y="-39.51" width="3.7418" height="70.345" stroke-width=".50932"/><path d="m917.23-13.38-2.5507 45.715v1.7643h9.3702v-1.7643l-2.7737-61.478-3.616 1.7639z" stroke-width=".26458px"/><rect x="916.91" y="-37.301" width="5.0271" height="2.6017" stroke-width=".50932"/><circle cx="919.34" cy="-44.974" r="6.6587" stroke-width=".50932"/><rect x="916.4" y="-59.716" width="5.7374" height="8.7932" stroke-width=".50932"/><rect x="918.36" y="-103.49" width="1.8085" height="43.779" stroke-width=".50932"/></g></g></svg> Scopri Berlino in barca!</a>  </div>
@@ -90,33 +88,30 @@ Situata a Bebelplatz, **è una vecchia biblioteca di Berlino**.
 {{< img "Bebelplatz dalla via opposta" "/img/articoli/bebel-platz_compressed.jpg" >}}
 
 
-Piazza molto famosa di Berlino, è il **luogo nel quale si trovano l' Alte Bibliothek**, la Staatsoper Unter Den Linden (Opera di Stato) e la Cattedrale di Sant'Edvige.
+Piazza molto famosa di Berlino, è il **luogo nel quale si trovano l'Alte Bibliothek**, la Staatsoper Unter Den Linden (Opera di Stato) e la Cattedrale di Sant'Edvige.
 
-🕯️ In questa piazza, il **10 maggio del 1933** vi fu il famigerato **primo rogo dei libri da parte dei nazisti**, nel quale vennero distrutte moltissime opere considerate non conformi alle idee del partito. Vi è un **memoriale** a ricordare l' evento.
+🕯️ In questa piazza, il **10 maggio del 1933** vi fu il famigerato **primo rogo dei libri da parte dei nazisti**, nel quale vennero distrutte moltissime opere considerate non conformi alle idee del partito. Vi è un **memoriale** a ricordare l'evento.
 
 Originariamente si chiamava Opernplatz, venne rinominata Bebelplatz nel 1947 in onore di August Bebel, politico e scrittore co-fondatore del Parito Socialdemocratico di Germania, uno dei partiti politici più vecchi al mondo.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Bebelplatz/@52.51663,13.3929962,18z/data=!4m5!3m4!1s0x47a84e207787e7a3:0xa87068b4927a3de0!8m2!3d52.5166162!4d13.394147"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51653/13.39383"  >OpenStreetMap</a> - <a href="geo:52.51653,13.39383?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51653,13.39383?z=18" >}}
 
 ### Berliner Philharmonie
 
 {{< img "Ingresso della Philharmonie" "/img/articoli/phiharmonie_compressed.jpg" >}}
 
 
-Sala da concerto. La sala venne costruita quando, all' innalzamento del Muro di Berlino nel 1961, Berlino Ovest si ritrovò senza una sala da concerto (la vecchia Philarmonie era andata **distrutta durante la Seconda Guerra Mondiale**). Fa parte del **complesso culturale del Kulturforum**.
+Sala da concerto. La sala venne costruita quando, all'innalzamento del Muro di Berlino nel 1961, Berlino Ovest si ritrovò senza una sala da concerto (la vecchia Philarmonie era andata **distrutta durante la Seconda Guerra Mondiale**). Fa parte del **complesso culturale del Kulturforum**.
 
-Purtroppo, al momento della scrittura di questo articolo, la strada intorno all' edificio è in ristrutturazione quindi non è possibile vedere l' edificio in alcune angolazioni.
+Purtroppo, al momento della scrittura di questo articolo, la strada intorno all'edificio è in ristrutturazione quindi non è possibile vedere l'edificio in alcune angolazioni.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Philharmonie+Berlin,+10785+Berlin,+Germania/@52.5100058,13.3676479,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851b611718aef:0xccfaa51f69694864!8m2!3d52.5100058!4d13.3698366"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50996/13.36943"  >OpenStreetMap</a> - <a href="geo:52.50996,13.36943?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50996,13.36943?z=19" >}}
 
-### Cattedrale di Sant' Edvige
+### Cattedrale di Sant'Edvige
 
-Cattedrale posta sul retro dell' Opera di Stato, a Bebelplatz. **Venne commissionata nel 1773 da Frederick il Grande**. Venne **modellata sul Pantheon di Roma**. Era la **prima chiesa cattolica post-riforma** di Berlino e fino al 1854 rimase l' unica. Venne **restaurata dopo la seconda guerra mondiale**. Nella cripta **vi sono i resti di Bernard Lichtenberg**, prete che trasformò la chiesa in un centro antinazista. Purtroppo al momento della nostra visita la chiesa era chiusa e quindi non è stato possibile entrarci dentro.
+Cattedrale posta sul retro dell'Opera di Stato, a Bebelplatz. **Venne commissionata nel 1773 da Frederick il Grande**. Venne **modellata sul Pantheon di Roma**. Era la **prima chiesa cattolica post-riforma** di Berlino e fino al 1854 rimase l'unica. Venne **restaurata dopo la seconda guerra mondiale**. Nella cripta **vi sono i resti di Bernard Lichtenberg**, prete che trasformò la chiesa in un centro antinazista. Purtroppo al momento della nostra visita la chiesa era chiusa e quindi non è stato possibile entrarci dentro.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Cattedrale+di+Berlino/@52.515324,13.3921687,17z/data=!4m5!3m4!1s0x47a84e1e549f0fc7:0x147458d5478e7977!8m2!3d52.5157704!4d13.3948097"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51570/13.39419"  >OpenStreetMap</a> - <a href="geo:52.51570,13.39419?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51570,13.39419?z=19" >}}
 
 ### Checkpoint Charlie
 
@@ -125,14 +120,13 @@ Cattedrale posta sul retro dell' Opera di Stato, a Bebelplatz. **Venne commissio
 
 **Era il principale passaggio tra Berlino Est e Berlino Ovest**.
 
-🔤 Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontiera** ( La terza lettera dell' alfabeto, la [C è solitamente chiamata Charlie](https://it.wikipedia.org/wiki/Alfabeto_fonetico_NATO)). Verso la fine di ottobre, proprio in questo punto ci fu un pericolosissimo [**confronto tra la Germania Est e Germania Ovest**](https://it.wikipedia.org/wiki/Crisi_di_Berlino_del_1961#Confronto_diretto_al_Checkpoint_Charlie), che divenne uno dei momenti della Guerra Fredda più vicini alla **Terza Guerra Mondiale**. Fu un momento di grande agitazione, che si risolse fortunatamente in modo non violento. La placca sulla pila di sacchi di sabbia **ricorda questo famigerato evento**.
+🔤 Il nome Charlie deriva dal fatto che questo era il **terzo passaggio di frontiera** ( La terza lettera dell'alfabeto, la [C è solitamente chiamata Charlie](https://it.wikipedia.org/wiki/Alfabeto_fonetico_NATO)). Verso la fine di ottobre, proprio in questo punto ci fu un pericolosissimo [**confronto tra la Germania Est e Germania Ovest**](https://it.wikipedia.org/wiki/Crisi_di_Berlino_del_1961#Confronto_diretto_al_Checkpoint_Charlie), che divenne uno dei momenti della Guerra Fredda più vicini alla **Terza Guerra Mondiale**. Fu un momento di grande agitazione, che si risolse fortunatamente in modo non violento. La placca sulla pila di sacchi di sabbia **ricorda questo famigerato evento**.
 
 **Vi conviene andarci il prima possibile** di mattina perché **si affolla** di turisti abbastanza velocemente (già alle 9 di mattina) e spesso vi si piazzano anche dei personaggi vestiti da soldati tedeschi e russi che potrebbero rovinare eventuali fotografie.
 
 State molto attenti alle **truffe** che avvengono qualche volta davanti a questo monumento. Il [gioco dei tre bussolotti](https://it.wikipedia.org/wiki/Gioco_delle_tre_campanelle) (in questo caso) non ha niente a che fare con la fortuna, lasciate perdere!
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Checkpoint+Charlie/@52.5074534,13.3902253,20z/data=!4m5!3m4!1s0x47a851d15c26d8cd:0x23a50042477d89c8!8m2!3d52.5074434!4d13.3903913"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50751/13.39037"  >OpenStreetMap</a> - <a href="geo:52.50751,13.39037?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50751,13.39037?z=19" >}}
 
 
  {{< gyg img="https://cdn.getyourguide.com/img/tour_img-1132553-97.jpg" link="https://www.getyourguide.com/berlin-l17/skip-the-line-berlin-wall-museum-at-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_checkpoint_nuovo_affiliato" title="Berlino: biglietto per il Museo Haus am Checkpoint Charlie" desc="Visita il Museo Haus am Checkpoint Charlie, fondato poco dopo la costruzione del Muro di Berlino, svolgendo un ruolo fondamentale nella storia tedesca, ricordata oggi attraverso gli oggetti e i mezzi di trasporto esposti nelle sue sale." price="da 14,50€ p.p." >}}
@@ -143,10 +137,9 @@ State molto attenti alle **truffe** che avvengono qualche volta davanti a questo
 
 Museo abbastanza lontano dal centro di Berlino.
 
-È dedicato alla **documentazione dei rapporti tra la Germania e la Russia** che si ebbero tra il 1917 e il 1990. Uno delle attrazioni più famose è il **tavolo su cui vi fu la resa incondizionata della Germania** durante la Seconda Guerra Mondiale l' 8 Maggio 1945. Ci sono documenti, fotografie, uniformi sia tedesche che sovietiche.
+È dedicato alla **documentazione dei rapporti tra la Germania e la Russia** che si ebbero tra il 1917 e il 1990. Uno delle attrazioni più famose è il **tavolo su cui vi fu la resa incondizionata della Germania** durante la Seconda Guerra Mondiale l'8 Maggio 1945. Ci sono documenti, fotografie, uniformi sia tedesche che sovietiche.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Museo+tedesco-russo+Berlino+Karlshorst/@52.4862661,13.5374981,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84920fb2e08e1:0xb5a4b26e54f008eb!8m2!3d52.4862661!4d13.5396868"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.48618/13.54031"  >OpenStreetMap</a> - <a href="geo:52.48618,13.54031?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.48618,13.54031?z=18" >}}
 
 ### Deutscher Dom
 
@@ -155,11 +148,11 @@ Museo abbastanza lontano dal centro di Berlino.
 
 Costruita come la Neue Kirche (nuova chiesa) tra il 1702 e 1708, è ora **una delle chiese più famose di Berlino**. Il duomo venne **costruito nel 1785**. È uno degli edifici che sorge a Gendarmenmarkt.
 
-Entrando all' interno **si può visitare una mostra**, davvero molto bella, **sul parlamento tedesco**, grazie alla quale si può avere una **panoramica generale di come funzioni il Parlamento**, come si divide la Germania, la storia e molto altro. È possibile anche portare con sè degli opuscoli per leggerli poi successivamente.
+Entrando all'interno **si può visitare una mostra**, davvero molto bella, **sul parlamento tedesco**, grazie alla quale si può avere una **panoramica generale di come funzioni il Parlamento**, come si divide la Germania, la storia e molto altro. È possibile anche portare con sè degli opuscoli per leggerli poi successivamente.
 
-Inoltre all' ultimo piano sono presenti anche dei **modelli della vecchia Berlino**, del parlamento tedesco **e della [Volkshalle](https://it.wikipedia.org/wiki/Gro%C3%9Fe_Halle)**, l' **enorme edificio che Hitler sognava di costruire** dopo la vittoria della Seconda Guerra Mondiale.
+Inoltre all'ultimo piano sono presenti anche dei **modelli della vecchia Berlino**, del parlamento tedesco **e della [Volkshalle](https://it.wikipedia.org/wiki/Gro%C3%9Fe_Halle)**, l'**enorme edificio che Hitler sognava di costruire** dopo la vittoria della Seconda Guerra Mondiale.
 
-{{< img "Ricostruzione di una sala governativa all' interno del Deutscher Dom" "/img/articoli/museo-deutscher-dom_compressed.jpg" >}}
+{{< img "Ricostruzione di una sala governativa all'interno del Deutscher Dom" "/img/articoli/museo-deutscher-dom_compressed.jpg" >}}
 
 
 Come detto prima, è davvero una bella mostra, assolutamente da non perdere e in più è **totalmente Gratis**!
@@ -173,8 +166,7 @@ Come detto prima, è davvero una bella mostra, assolutamente da non perdere e in
 
 Chiuso il lunedì.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutscher+Dom/@52.5127168,13.3903554,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851da6e329be1:0xca0d40954fa15a8!8m2!3d52.5127168!4d13.3925442"  >Google Maps</a> - <a href="https://www.openstreetmap.org/way/43347270"  >OpenStreetMap</a> - <a href="geo:52.51275,13.39270?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51275,13.39270?z=19" >}}
 
 ### Duomo di Berlino
 
@@ -187,43 +179,41 @@ Chiuso il lunedì.
 
 Venne **gravemente danneggiato durante la Seconda Guerra Mondiale**, ma venne restaurato nel 1981.
 
-**L' ingresso è a pagamento**.
+**L'ingresso è a pagamento**.
 
-Purtroppo, al momento della scrittura, l' intero complesso è in fase di restaurazione e della chiesa si vede ben poco, ma si mostra essere comunque una bellissima struttura.
+Purtroppo, al momento della scrittura, l'intero complesso è in fase di restaurazione e della chiesa si vede ben poco, ma si mostra essere comunque una bellissima struttura.
 
-**Merita comunque una visita dall' esterno**. Attenzione ai bus che passano sulla strada fuori la chiesa, a volte sono abbastanza silenziosi.
+**Merita comunque una visita dall'esterno**. Attenzione ai bus che passano sulla strada fuori la chiesa, a volte sono abbastanza silenziosi.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Duomo+di+Berlino/@52.5190608,13.3988893,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851def3c2d14b:0x780e68d5b02f8afc!8m2!3d52.5190608!4d13.401078"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51891/13.40119"  >OpenStreetMap</a> - <a href="geo:52.51891,13.40119?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51891,13.40119?z=18" >}}
 
 ### East Side Gallery
 
 {{< img "Vista laterale del murale My God, Help Me to Survive this Deadly Love" "/img/articoli/east-side-gallery-berlino_compressed.jpg" >}}
 
 
-Forse **il pezzo di Muro più famoso della città**. È abbastanza distante dal centro (mezz' ora a piedi da Alexanderplatz), ma vale assolutamente la pena visitarlo, soprattutto se si è **amanti dell' arte**.
+Forse **il pezzo di Muro più famoso della città**. È abbastanza distante dal centro (mezz'ora a piedi da Alexanderplatz), ma vale assolutamente la pena visitarlo, soprattutto se si è **amanti dell'arte**.
 
-🎨 È la **sezione del Muro di Berlino più lunga**. Nel 1989, dopo la caduta, questa parte del muro è diventata **la più grande collezione di murali all' aria aperta del mondo**. Ci sono più di 100 dipinti di 129 artisti da 20 paesi diversi. Purtroppo parte del muro, sempre al momento della scrittura, è coperta da una lunga galleria per dei lavori in corso (si riesce comunque a vedere abbastanza bene qualche dipinto).
+🎨 È la **sezione del Muro di Berlino più lunga**. Nel 1989, dopo la caduta, questa parte del muro è diventata **la più grande collezione di murali all'aria aperta del mondo**. Ci sono più di 100 dipinti di 129 artisti da 20 paesi diversi. Purtroppo parte del muro, sempre al momento della scrittura, è coperta da una lunga galleria per dei lavori in corso (si riesce comunque a vedere abbastanza bene qualche dipinto).
 
 La foto di fronte al quadro più famoso, _My God, Help Me to Survive this Deadly Love_, sarà abbastanza ardua in alcune ore, in quanto si forma una fila di gente abbastanza lunga, però si risolve tutto abbastanza velocemente.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/East+Side+Gallery/@52.5054011,13.43636,16z/data=!3m1!4b1!4m5!3m4!1s0x47a847a6f5edaf4b:0xde9be97b4a912818!8m2!3d52.5050224!4d13.4396953"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=16/52.5055/13.4403"  >OpenStreetMap</a> - <a href="geo:52.5055,13.4403?z=16"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.5055,13.4403?z=16" >}}
 
 ### Erlebnis Europa (Europa Experience)
 
 {{< img "Entrata alla sala del Parlamento a 360°" "/img/articoli/erlebnis-europa_compressed.jpg" >}}
 
 
-**Mostra gratuita** sull' Unione Europea.
+**Mostra gratuita** sull'Unione Europea.
 
-È probabilmente **una delle mostre gratuite più belle** della città. Non è noiosa, anzi, è molto **interattiva** ed è molto divertente da vedere, soprattutto se si è in gruppo. Contiene molte **informazioni sulla storia e sulle leggi dell' Unione Europea** e di cosa l' Europa fa per il cittadino.
+È probabilmente **una delle mostre gratuite più belle** della città. Non è noiosa, anzi, è molto **interattiva** ed è molto divertente da vedere, soprattutto se si è in gruppo. Contiene molte **informazioni sulla storia e sulle leggi dell'Unione Europea** e di cosa l'Europa fa per il cittadino.
 
-La parte più bella è assolutamente la ricostruzione della Sala del Parlamento nella quale ci si può sedere e si può scegliere la propria lingua per ascoltare dagli auricolari (in stile parlamentare), in contemporanea con gli altri, l' audio del video proiettato a 360° tutto intorno.
+La parte più bella è assolutamente la ricostruzione della Sala del Parlamento nella quale ci si può sedere e si può scegliere la propria lingua per ascoltare dagli auricolari (in stile parlamentare), in contemporanea con gli altri, l'audio del video proiettato a 360° tutto intorno.
 
-Alla fine vi è l' **area foto** nella quale, inserendo una vostra email, dovrebbero **inviarvi la foto scattata sul green screen** con lo sfondo scelto. Dico dovrebbero perché noi abbiamo fatto ben 4 tentativi (4 fotografie) e fin' ora non abbiamo visto nemmeno un pixel della foto. Presumiamo che il sistema **sia guasto**...
+Alla fine vi è l'**area foto** nella quale, inserendo una vostra email, dovrebbero **inviarvi la foto scattata sul green screen** con lo sfondo scelto. Dico dovrebbero perché noi abbiamo fatto ben 4 tentativi (4 fotografie) e fin'ora non abbiamo visto nemmeno un pixel della foto. Presumiamo che il sistema **sia guasto**...
 
-Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile prendere, **sempre gratuitamente**, **un opuscolo o un libro a scelta** dall' enorme bancone presente sulla sinistra. 🇪🇺
+Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile prendere, **sempre gratuitamente**, **un opuscolo o un libro a scelta** dall'enorme bancone presente sulla sinistra. 🇪🇺
 
 **ORARI DI APERTURA**
 
@@ -231,8 +221,7 @@ Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile 
 | -------- | -------- |
 | 10:00    | 18:00    |
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Erlebnis+Europa/@52.5054011,13.43636,16z/data=!4m5!3m4!1s0x47a851c6913d326b:0x14ebe52cf302fbaa!8m2!3d52.5167436!4d13.3802667"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51674/13.38050"  >OpenStreetMap</a> - <a href="geo:52.51674,13.38050?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51674,13.38050?z=19" >}}
 
 ### Fernsehturm (Torre della TV)
 
@@ -241,11 +230,11 @@ Poco importa, è stato comunque divertente. In ogni caso alla fine è possibile 
 
 Alta 368m, è la **quarta torre televisiva più alta in Europa**.
 
-Venne ordinata dal governatore della Germania dell' Est Walter Ulbricht nel 1950.
+Venne ordinata dal governatore della Germania dell'Est Walter Ulbricht nel 1950.
 
-La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche come dimostrazione della forza e della tecnologia della Germania dell' Est.
+La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche come dimostrazione della forza e della tecnologia della Germania dell'Est.
 
-👨🏻‍🚀 **La forma (che ricorda un razzo) fu ispirata dalla corsa allo spazio del 1960** e al lancio dello Sputnik da parte dell' Unione Sovietica.
+👨🏻‍🚀 **La forma (che ricorda un razzo) fu ispirata dalla corsa allo spazio del 1960** e al lancio dello Sputnik da parte dell'Unione Sovietica.
 
 🏙️ **È possibile salire sulla torre** per avere una vista panoramica della città. **Il prezzo per salire è di circa 16 euro**.
 
@@ -253,8 +242,7 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 
 [Qui invece trovate la sua sezione dedicata in questa guida.](#accesso-torre-della-televisione).
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947"  >OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.52067,13.40947?z=19" >}}
 
 
   {{< gyg img="https://cdn.getyourguide.com/img/location_img-4285-402408154-88.jpg" link="https://www.getyourguide.it/torre-della-televisione-l4285/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_torre_nuovo_affiliato" title="Torre della Televisione: prenota i biglietti" desc="Con i suoi 368 metri di altezza, la Torre della Televisione è la struttura più alta di Berlino (e anche di tutta la Germania!)." price="da 22,50€" >}}
@@ -269,8 +257,7 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 {{< img "Foto del crocifisso con Torre di Berlino sullo sfondo" "/img/articoli/franziskaner-klosterkirche-con-torre-della-tv_compressed.jpg" >}}
 
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Franziskaner-Klosterkirche/@52.5184153,13.4124623,20z/data=!4m5!3m4!1s0x47a84e219a90a47b:0x4c0f455432331894!8m2!3d52.51837!4d13.4123399"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51843/13.41261"  >OpenStreetMap</a> - <a href="geo:52.51843,13.41261?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51843,13.41261?z=19" >}}
 
 ### Französischer Dom
 
@@ -279,17 +266,16 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 
 Si trova a Gendarmenmarkt al lato opposto del Deutscher Dom. **Venne costruita nel 1705 dai rifugiati Ugunotti** ed è formata da due strutture: la torre bombata, che venne aggiunta nel 1785 e la Französische Kirche (chiesa francese), una copia della chiesa originale di Charenton.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Franz%C3%B6sischer+Dom/@52.5141895,13.3922974,19z/data=!4m5!3m4!1s0x47a851da6e329be1:0x2d167f9d3fd82ae8!8m2!3d52.5143993!4d13.3923984"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51433/13.39233"  >OpenStreetMap</a> - <a href="geo:52.51433,13.39233?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51433,13.39233?z=19" >}}
 
 ### Gedenkstatte Berliner Mauer
 
-{{< img "Vista laterale dell' inizio del memoriale" "/img/articoli/memoriale-muro-di-berlino_compressed.jpg" >}}
+{{< img "Vista laterale dell'inizio del memoriale" "/img/articoli/memoriale-muro-di-berlino_compressed.jpg" >}}
 
 
 **Memoriale di 1.4km dedicato alle persone che sono morte per attraversare il Muro di Berlino**. Racconta la storia di come la barriera si perfezionò nel tempo per evitare che le persone fuggissero.
 
-Il memoriale si estende in via Bernauer, una delle strade fondamentali della Guerra Fredda in quanto il muro la attraversava tutta, con una parte della strada ad Est e l' altra ad Ovest (un enorme cartello mostra come il muro divideva la strada in due).
+Il memoriale si estende in via Bernauer, una delle strade fondamentali della Guerra Fredda in quanto il muro la attraversava tutta, con una parte della strada ad Est e l'altra ad Ovest (un enorme cartello mostra come il muro divideva la strada in due).
 
 Ci sono **sezioni del muro originale**, tunnel, torri di controllo ed altri **elementi storici**.
 
@@ -304,19 +290,17 @@ Ogni punto di questo memoriale ha qualcosa di davvero toccante: troverete fondam
 
 State attenti alle truffe che spesso avvengono in questo luogo: se si avvicinano delle persone con dei fogli e vi chiedono di firmare qualcosa o se vi domandano se parlate inglese, dite di no e allontanatevi il prima possibile perché potrebbero provare a distrarvi per derubarvi e potreste non rendervene nemmeno conto.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Visitor+center+of+the+Berlin+Wall+Memorial/@52.5346113,13.3822149,16z/data=!4m5!3m4!1s0x47a851ed8ea1d191:0x6688af17f4244b1a!8m2!3d52.5337768!4d13.387447"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.53466/13.38513"  >OpenStreetMap</a> - <a href="geo:52.53466,13.38513?z=17"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.53466,13.38513?z=17" >}}
 
 ### Gendarmenmarkt
 
 **È considerata** come **una delle piazze più belle** di Berlino.
 
-**Fu creata nel 1690**, prendendo il nome dalla **Gens d' Armes**, un reggimento prussiano di Ugonotti francesi del 18esimo secolo che vi si stabilirono dopo essere stati espulsi dalla Francia.
+**Fu creata nel 1690**, prendendo il nome dalla **Gens d'Armes**, un reggimento prussiano di Ugonotti francesi del 18esimo secolo che vi si stabilirono dopo essere stati espulsi dalla Francia.
 
 Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Gendarmenmarkt/@52.5140099,13.3930886,17z/data=!4m5!3m4!1s0x47a851da6e329be1:0x69ed42f426573790!8m2!3d52.5137235!4d13.3926719"  >Google Maps</a> - <a href="https://www.openstreetmap.org/search?query=We%20love%20that%20Rocket%20X#map=17/52.51343/13.39310"  >OpenStreetMap</a> - <a href="geo:52.51343,13.39310?z=17"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51343,13.39310?z=17" >}}
 
 ### Hackesche Höfe
 
@@ -324,8 +308,7 @@ Qui sorgono il Deutscher Dom, la Konzerthaus e il Französischer Dom.
 
 Purtroppo questo è uno dei posti che non siamo riusciti a visitare per il poco tempo e di cui ci dispiace. Nel caso dovessimo riorganizzare qualcosa a Berlino questo sarebbe il primo posto in cui probabilmente andremmo.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5243706,13.4019238,18z"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.52462/13.40189"  >OpenStreetMap</a> - <a href="geo:52.52462,13.40189?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.52462,13.40189?z=18" >}}
 
 ### Kaiser-Wilhelm-Gedächtniskirche
 
@@ -334,18 +317,17 @@ Purtroppo questo è uno dei posti che non siamo riusciti a visitare per il poco 
 
 **Chiesa del 1890 danneggiata da un bombardamento** durante la Seconda Guerra Mondiale.
 
-Il 23 novembre 1943, un bombardamento degli alleati distrusse gran parte della chiesa, lasciando solo la torre ovest intatta. In ricordo della parte est della chiesa, oggi è presente una torre. La parte originale, invece, funge da **memoriale** della chiesa, con foto d' epoca, ricostruzioni plastiche e informazioni sulla struttura originale.
+Il 23 novembre 1943, un bombardamento degli alleati distrusse gran parte della chiesa, lasciando solo la torre ovest intatta. In ricordo della parte est della chiesa, oggi è presente una torre. La parte originale, invece, funge da **memoriale** della chiesa, con foto d'epoca, ricostruzioni plastiche e informazioni sulla struttura originale.
 
 Il monumento si trova **abbastanza lontano dal centro**, tanto è vero che abbiamo percorso gran parte del parco di Tiergarten per arrivarci.
 
-Purtroppo l' intero monumento, nel momento in cui scriviamo, **è in fase di restaurazione** e per questo è comperto da un' enorme pubblicità e da vare impalcature che lo rovinano completamente.
+Purtroppo l'intero monumento, nel momento in cui scriviamo, **è in fase di restaurazione** e per questo è comperto da un'enorme pubblicità e da vare impalcature che lo rovinano completamente.
 
 {{< img "Interno della nuova chiesa Kaiser-Wilhelm-Gedächtniskirche" "/img/articoli/chiesa-nuova-berlino.jpg" >}}
 
-**Molto bella**, invece, **la nuova chiesa**, soprattutto all' interno. Vi consiglio di vederla, soprattutto una volta che la restaurazione sarà terminata.
+**Molto bella**, invece, **la nuova chiesa**, soprattutto all'interno. Vi consiglio di vederla, soprattutto una volta che la restaurazione sarà terminata.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Kaiser-Wilhelm-Ged%C3%A4chtniskirche/@52.5049252,13.3353514,18z/data=!4m5!3m4!1s0x47a850ff09fc6b77:0x1070dac9e29eb09c!8m2!3d52.5048183!4d13.3350822"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.50464/13.33515"  >OpenStreetMap</a> - <a href="geo:52.50464,13.33515?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50464,13.33515?z=18" >}}
 
 ### Konzerthaus
 
@@ -354,10 +336,9 @@ Purtroppo l' intero monumento, nel momento in cui scriviamo, **è in fase di res
 
 Maestosa sala da concerto del 1821 al centro di Gendarmenmarkt.
 
-La statua davanti rappresenta il poeta [Fiedrich Schiller](https://it.wikipedia.org/wiki/Friedrich_Schiller), lo scrittore dell' Inno alla gioia musicato da Beethoven.
+La statua davanti rappresenta il poeta [Fiedrich Schiller](https://it.wikipedia.org/wiki/Friedrich_Schiller), lo scrittore dell'Inno alla gioia musicato da Beethoven.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Konzerthaus+Berlin/@52.5135747,13.3917331,19z/data=!4m5!3m4!1s0x47a851da5ed87d97:0xc85b1ffb144309e5!8m2!3d52.5136439!4d13.3917895"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51358/13.39202"  >OpenStreetMap</a> - <a href="geo:52.51358,13.39202?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51358,13.39202?z=19" >}}
 
 ### Memoriale a Peter Fechter
 
@@ -372,28 +353,27 @@ Il suo corpo venne lasciato sanguinante in mezzo alla strada in attesa della sua
 
 **Il punto** dove si trova **è quello in cui esattamente morì**. Potete notare a terra **la striscia in mattoni** che simboleggia la strada sulla quale passava il Muro.
 
-L' iscrizione recita
+L'iscrizione recita
 
 > Egli voleva soltanto la libertà.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Peter+Fechter+-+Monument/@52.5078512,13.3929988,21z/data=!4m5!3m4!1s0x47a851d6c9f5ad1b:0xb4fd2cbf111e491c!8m2!3d52.5078374!4d13.3930749"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50677/13.39338"  >OpenStreetMap</a> - <a href="geo:52.50677,13.39338?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50677,13.39338?z=19" >}}
 
 ### Memoriale degli eroi silenziosi  & Memoriale della Resistenza Tedesca
 
 {{< img "Entrata Memoriale Resistenza e Eroi Silenziosi" "/img/articoli/img_2127_compressed.jpg" >}}
 
 
-In questo edificio, dove una volta sorgeva l' Alto Comando dell' armata nazista, vengono raccontate le **storie di chi ha lottato contro il nazismo**. Il memoriale consiste in **due piani**: il primo è dedicato alla **Resistenza Tedesca**, con le storie di chi ha **lottato contro il nazismo**, compresi i racconti dei vari **tentativi di assassinio** falliti **di Hitler** e della **storia delle persone** dietro di essi, di come hanno organizzato il loro piano e di come hanno reperito i materiali e di come hanno costruito gli ordigni necessari.
-Tra questi vi è anche la storia di uno dei **[piani di assassinio più famosi](https://it.wikipedia.org/wiki/Attentato_a_Hitler_del_20_luglio_1944)**, organizzato dai membri dell' esercito Friedrich Olbricht, Henning von Tresckow e Claus von Stauffenberg, inizialmente **proprio all' interno di questo palazzo** e che prevedeva l' uccisione di Hitler all' interno della sua _Tana del Lupo_. Questo, come tutti gli altri tentativi (che troverete ben spiegati), fallì **soltanto per pura fortuna di Hitler**.
+In questo edificio, dove una volta sorgeva l'Alto Comando dell'armata nazista, vengono raccontate le **storie di chi ha lottato contro il nazismo**. Il memoriale consiste in **due piani**: il primo è dedicato alla **Resistenza Tedesca**, con le storie di chi ha **lottato contro il nazismo**, compresi i racconti dei vari **tentativi di assassinio** falliti **di Hitler** e della **storia delle persone** dietro di essi, di come hanno organizzato il loro piano e di come hanno reperito i materiali e di come hanno costruito gli ordigni necessari.
+Tra questi vi è anche la storia di uno dei **[piani di assassinio più famosi](https://it.wikipedia.org/wiki/Attentato_a_Hitler_del_20_luglio_1944)**, organizzato dai membri dell'esercito Friedrich Olbricht, Henning von Tresckow e Claus von Stauffenberg, inizialmente **proprio all'interno di questo palazzo** e che prevedeva l'uccisione di Hitler all'interno della sua _Tana del Lupo_. Questo, come tutti gli altri tentativi (che troverete ben spiegati), fallì **soltanto per pura fortuna di Hitler**.
 
 È una mostra davvero ben fatta, soprattutto se si è **appassionati di Seconda Guerra Mondiale**. È molto toccante leggere le vite di queste persone che hanno molto spesso sacrificato la propria vita e che comunque hanno rischiato molto per lottare contro il nazismo.
 
-Al **piano superiore** vi è la **mostra sugli eroi silenziosi**, ovvero una mostra con la quale viene ricordata la vita di quelle persone che hanno aiutato gli ebrei a nascondersi o gli **hanno salvato in qualche modo la vita**, mostrando anche oggetti originali dell' epoca. Tra le varie cose vi sono anche alcune pagine della famosa **[Lista di Schindler](https://it.wikipedia.org/wiki/Lista_di_Schindler)**.
+Al **piano superiore** vi è la **mostra sugli eroi silenziosi**, ovvero una mostra con la quale viene ricordata la vita di quelle persone che hanno aiutato gli ebrei a nascondersi o gli **hanno salvato in qualche modo la vita**, mostrando anche oggetti originali dell'epoca. Tra le varie cose vi sono anche alcune pagine della famosa **[Lista di Schindler](https://it.wikipedia.org/wiki/Lista_di_Schindler)**.
 
 Per visitare la **mostra gratuita** basta entrare nel **primo edificio** sulla sinistra (una volta entrati nel palazzo) e salire le scale. **La mostra inizia nella prima stanza, dalla sinistra**.
 
-All' esterno è presente una **statua in ricordo di chi ha lottato contro il nazismo**.
+All'esterno è presente una **statua in ricordo di chi ha lottato contro il nazismo**.
 
 {{< img "Statua dedicata alle persone che si opposero al nazismo" "/img/articoli/museo-eroi-silenziosi-berlino-statua_compressed.jpg" >}}
 
@@ -407,34 +387,33 @@ All' esterno è presente una **statua in ricordo di chi ha lottato contro il naz
 | Venerdi | 9:00     | 18:00    |
 | Sab-Dom | 10:00    | 18:00    |
 
-Chiuso il 24, 25, 26 e 31 dicembre e l' 1 gennaio.
+Chiuso il 24, 25, 26 e 31 dicembre e l'1 gennaio.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Resistance+Memorial+Center/@52.5077958,13.3626203,19z/data=!4m5!3m4!1s0x47a851b49ef5d5af:0x985de95bf31847cb!8m2!3d52.5077126!4d13.3626739"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50768/13.36270"  >OpenStreetMap</a> - <a href="geo:52.50768,13.36270?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50768,13.36270?z=19" >}}
 
 ### Memoriale per gli ebrei assassinati d'Europa
 
 {{< img "Stele con Reichstag nello sfondo" "/img/articoli/memoriale-olocausto-2.jpg" >}}
 
 
-Molto probabilmente il memoriale più famoso di Berlino, si trova sul punto nel quale una volta c' era una striscia della morte del Muro di Berlino.
+Molto probabilmente il memoriale più famoso di Berlino, si trova sul punto nel quale una volta c'era una striscia della morte del Muro di Berlino.
 
-È **dedicato alle vittime dell' Olocausto**.
+È **dedicato alle vittime dell'Olocausto**.
 
 Per arrivarci basta passare la Porta di Brandeburgo e prendere, se venite dalla facciata, la via a sinistra, mentre se venite da Tiergarten, arrivati alla strada (quella con la linea del muro, per intenderci) basta girare a destra. Il memoriale si trova davvero a quattro passi.
 
-Il memoriale è **composto da 2.711 stele** e, cosa che non sapevamo, sono disposte in modo tale che sembrino basse all' inizio, per poi, scendendo, diventare sempre più alte, tanto che quasi ci si perde tra questi blocchi enormi.
+Il memoriale è **composto da 2.711 stele** e, cosa che non sapevamo, sono disposte in modo tale che sembrino basse all'inizio, per poi, scendendo, diventare sempre più alte, tanto che quasi ci si perde tra questi blocchi enormi.
 
 {{< img "Stele alte, foto nel mezzo del memoriale" "/img/articoli/memoriale-olocausto.jpg" >}}
 
 
-Nella zona sud-est **è possibile scendere nei sotteranei** per visitare la **mostra gratuita sull' Olocausto**. L' ultimo ingresso si ha **45 min prima della chiusura**, vi consiglio di tenerlo presente perché noi per questo motivo non ci siamo andati (purtroppo bisogna aspettare un po' se si capita in orari affollati).
+Nella zona sud-est **è possibile scendere nei sotteranei** per visitare la **mostra gratuita sull'Olocausto**. L'ultimo ingresso si ha **45 min prima della chiusura**, vi consiglio di tenerlo presente perché noi per questo motivo non ci siamo andati (purtroppo bisogna aspettare un po'se si capita in orari affollati).
 
 **ORARI DI APERTURA**
 
 Monumento: 24h
 
-Mostra sull' Olocausto:
+Mostra sull'Olocausto:
 
 |                      | APERTURA | CHIUSURA |
 | -------------------- | -------- | -------- |
@@ -443,38 +422,35 @@ Mostra sull' Olocausto:
 
 Chiuso il lunedì. Chiuso il 24, 25, 26 dicembre, chiuso dalle 16:00 in poi il 31 dicembre.
 
-Si può entrare fino a 45 min prima dell' orario di chiusura.
+Si può entrare fino a 45 min prima dell'orario di chiusura.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Memoriale+per+gli+ebrei+assassinati+d'Europa/@52.5139474,13.376524,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851c607196a5b:0x1434a79012ee5bc8!8m2!3d52.5139474!4d13.3787127?hl=it">Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51390/13.37875"  >OpenStreetMap</a> - <a href="geo:52.51390,13.37875?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51390,13.37875?z=18" >}}
 
 ### Monumento commemorativo dedicato alle vittime del programma nazista di Eutanasia
 
 {{< img "Pannello informativo" "/img/articoli/aktion-t4-memoriale_compressed.jpg" >}}
 
 
-Memoriale dedicato alle vittime del programma dell' [Aktion T4](https://it.wikipedia.org/wiki/Aktion_T4) nazista, che prevedeva la morte delle persone affette da malattie o problemi.
+Memoriale dedicato alle vittime del programma dell'[Aktion T4](https://it.wikipedia.org/wiki/Aktion_T4) nazista, che prevedeva la morte delle persone affette da malattie o problemi.
 
 Il memoriale è composto da un **lungo pannello informativo con storia, video e foto** e da un monumento in ricordo.
 
-Da vedere se ci si trova nell' area della Philarmonie  in quanto si trova proprio a lato, verso la strada (il memoriale si trova a Tiergartenstaße, 4, la via nella quale avveniva il programma, da qui il nome T4).
+Da vedere se ci si trova nell'area della Philarmonie  in quanto si trova proprio a lato, verso la strada (il memoriale si trova a Tiergartenstaße, 4, la via nella quale avveniva il programma, da qui il nome T4).
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5105831,13.3691635,20z"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51038/13.36866"  >OpenStreetMap</a> - <a href="geo:52.51038,13.36866?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51038,13.36866?z=19" >}}
 
 ### Neue Wache
 
 {{< img "Facciata esterna" "/img/articoli/neue-wache_compressed.jpg" >}}
 
 
-Questo monumento si trova proprio di fronte all' Opera di Stato (a Bebelplatz), leggermente a destra.
+Questo monumento si trova proprio di fronte all'Opera di Stato (a Bebelplatz), leggermente a destra.
 
 **Venne voluto da Federico Guglielmo III di Prussia**. Originariamente era un memoriale alle vittime delle guerre napoleoniche. Ora è il **memoriale delle vittime della guerra**.
 
-Entrando all' interno si trova un enorme spazio vuoto con al centro una statua che rappresenta **una madre che culla il suo figlio soldato morto**.
+Entrando all'interno si trova un enorme spazio vuoto con al centro una statua che rappresenta **una madre che culla il suo figlio soldato morto**.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Neue+Wache/@52.5178268,13.3955271,20z/data=!4m5!3m4!1s0x47a851dc12cdb693:0xdae82496d519367c!8m2!3d52.5178906!4d13.3955285"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51789/13.39563"  >OpenStreetMap</a> - <a href="geo:52.51789,13.39563?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51789,13.39563?z=19" >}}
 
 ### Nikolaiviertel
 
@@ -483,15 +459,14 @@ Entrando all' interno si trova un enorme spazio vuoto con al centro una statua c
 
 📜 Zona che **ricrea la città di Berlino così come era in età medioevale**.
 
-Il centro storico di Berlino fu infatti **completamente distrutto durante la Seconda Guerra Mondiale**. Questa ricostruzione venne ultimata nel 1987 e venne **commissionata dal governo della Germania dell' Est** per celebrare il **750esimo compleanno della città**.
+Il centro storico di Berlino fu infatti **completamente distrutto durante la Seconda Guerra Mondiale**. Questa ricostruzione venne ultimata nel 1987 e venne **commissionata dal governo della Germania dell'Est** per celebrare il **750esimo compleanno della città**.
 
-È davvero una zona molto bella, entrandovici sembra di essere ritornati indietro nel tempo: si trovano **ristoranti tipici** (in uno di questi abbiamo mangiato l' Eisbein che trovate nella foto del [nostro articolo sul cibo](/mangiare-a-berlino/)), piccoli negozietti, statue e una **bella vista sul fiume Sprea**. Davvero un bellissimo posto, forse una delle cose più belle che abbiamo visto della città.
+È davvero una zona molto bella, entrandovici sembra di essere ritornati indietro nel tempo: si trovano **ristoranti tipici** (in uno di questi abbiamo mangiato l'Eisbein che trovate nella foto del [nostro articolo sul cibo](/mangiare-a-berlino/)), piccoli negozietti, statue e una **bella vista sul fiume Sprea**. Davvero un bellissimo posto, forse una delle cose più belle che abbiamo visto della città.
 
-{{< img "Statua dell' orso a Nikolaiviertel" "/img/articoli/nikolaikirche-statua-orso_compressed.jpg" >}}
+{{< img "Statua dell'orso a Nikolaiviertel" "/img/articoli/nikolaikirche-statua-orso_compressed.jpg" >}}
 
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Nikolaikirche/@52.517178,13.4069868,18z/data=!4m5!3m4!1s0x47a84e20c6611801:0x54922f7cce9a1368!8m2!3d52.5168346!4d13.4074831"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51683/13.40676"  >OpenStreetMap</a> - <a href="geo:52.51683,13.40676?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51683,13.40676?z=19" >}}
 
 ### Porta di Brandeburgo
 
@@ -500,24 +475,23 @@ Il centro storico di Berlino fu infatti **completamente distrutto durante la Sec
 
 Che dire, questo è **uno dei monumenti più famosi della città**. È Il simbolo della Germania riunificata.
 
-Fu **commissionata dal re di Prussia Friedrich Wilhelm II** e venne completata **nel 1791**, come simbolo di **pace**, ed aveva lo scopo di creare un' entrata alle vie principali di grande impatto.
+Fu **commissionata dal re di Prussia Friedrich Wilhelm II** e venne completata **nel 1791**, come simbolo di **pace**, ed aveva lo scopo di creare un'entrata alle vie principali di grande impatto.
 
-La sua struttura è **ispirata all' Acropoli di Atene**.
+La sua struttura è **ispirata all'Acropoli di Atene**.
 
-Questa porta è l' unica delle 18 porte ad essere rimasta intatta.
+Questa porta è l'unica delle 18 porte ad essere rimasta intatta.
 
-Sulla punta, **la Quadriga rappresenta una dea alata che conduce quattro cavalli**. Nel 1806 **venne rubata da Napoleone** come bottino di guerra ma venne recuperata da un generale prussiano nel 1815. **Dopo quest' evento venne aggiunta la croce di ferro** sulla corona posta in cima all' asta.
+Sulla punta, **la Quadriga rappresenta una dea alata che conduce quattro cavalli**. Nel 1806 **venne rubata da Napoleone** come bottino di guerra ma venne recuperata da un generale prussiano nel 1815. **Dopo quest'evento venne aggiunta la croce di ferro** sulla corona posta in cima all'asta.
 
  Venne **fortemente danneggiata durante la Seconda Guerra Mondiale**, ma venne restaurata grazie agli stampi originali ancora custoditi.
 
-🧱 Proprio davanti date un' occhiata alla lunga **linea di mattoni** perché sta ad indicare il confine del muro di Berlino, la troverete in molte parti della città.
+🧱 Proprio davanti date un'occhiata alla lunga **linea di mattoni** perché sta ad indicare il confine del muro di Berlino, la troverete in molte parti della città.
 
 Di notte è spettacolare.
 
 {{< instagram "B422DvVoT_X" >}}
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Porta+di+Brandeburgo/@52.516344,13.3776837,19z/data=!4m5!3m4!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162747!4d13.3777039"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51622/13.37761"  >OpenStreetMap</a> - <a href="geo:52.51622,13.37761?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51622,13.37761?z=19" >}}
 
 ### Potsdamer Platz
 
@@ -527,12 +501,11 @@ Questa piazza ha per noi un valore più affettivo rispetto alle altre perché qu
 
 Venne **costruita negli anni novanta**, dopo il crollo del muro, **come il nuovo centro di Berlino**.
 
-🚦 A parte il centro commerciale, a Potsdamer Platz è possibile vedere l' enorme **torre del semaforo con l' orologio** che ricorda il fatto che in questa piazza venne installato il **primo semaforo della Germania nel 1924**, e le **rimanenze del Muro di Berlino**.
+🚦 A parte il centro commerciale, a Potsdamer Platz è possibile vedere l'enorme **torre del semaforo con l'orologio** che ricorda il fatto che in questa piazza venne installato il **primo semaforo della Germania nel 1924**, e le **rimanenze del Muro di Berlino**.
 
 È molto bello seguire la lunga linea di mattoni sui marciapiedi (non sulla strada però mi raccomando) e vedere le **rimanenze del muro**. In questo modo ci si rende conto di come questa piazza fosse divisa da questa lunga barriera.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Potsdamer+Platz/@52.5094293,13.3753073,18z/data=!4m5!3m4!1s0x0:0x4ca1983c254de1aa!8m2!3d52.5096488!4d13.375944"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=17/52.50908/13.37478"  >OpenStreetMap</a> - <a href="geo:52.50908,13.37478?z=17"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50908,13.37478?z=17" >}}
 
 ### Reichstag
 
@@ -550,12 +523,11 @@ Nel 1933, infatti, i nazisti usarono proprio questo incendio come pretesto per o
 
 Durante la Seconda Guerra Mondiale fu vittima dei vari bombardamenti.
 
-<mark>È possibile **salire GRATUITAMENTE sulla cupola in vetro**</mark> attraverso l' ascensore per ammirare la città e per leggere la storia dell' edificio. <mark>Per fare ciò **è necessario [PRENOTARE](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino/#come-prenotare) con largo anticipo**</mark>.
+<mark>È possibile **salire GRATUITAMENTE sulla cupola in vetro**</mark> attraverso l'ascensore per ammirare la città e per leggere la storia dell'edificio. <mark>Per fare ciò **è necessario [PRENOTARE](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino/#come-prenotare) con largo anticipo**</mark>.
 
-Se siete interessati [qui trovate una guida su come prenotarsi](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino), per chi invece è ferrato con l' inglese vi lascio direttamente il link al [sito sul quale effettuare la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en).
+Se siete interessati [qui trovate una guida su come prenotarsi](/prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino), per chi invece è ferrato con l'inglese vi lascio direttamente il link al [sito sul quale effettuare la prenotazione](https://visite.bundestag.de/BAPWeb/pages/createBookingRequest.jsf?lang=en).
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Palazzo+del+Reichstag/@52.518456,13.3756935,18z/data=!4m5!3m4!1s0x0:0x641b52d3abf17de5!8m2!3d52.5186202!4d13.3761871"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.51859/13.37553"  >OpenStreetMap</a> - <a href="geo:52.51859,13.37553?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51859,13.37553?z=18" >}}
 
 ### Siegessäule
 
@@ -563,8 +535,7 @@ La **colonna della vittoria** celebra i **trionfi militari** prussiani del 19esi
 
 La colonna era **originariamente piazzata vicino al Reichstag** (lo potrete vedere nel modellino della vecchia Berlino al Deutscher Dom), fu successivamente **spostata dai nazisti nel parco di Tiergarten** come conseguenza del nuovo piano urbanistico, così che la colonna potesse essere vista dalla Porta di Brandeburgo.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Colonna+della+Vittoria/@52.5144587,13.3502071,19z/data=!4m5!3m4!1s0x47a851af28d3f1c3:0x55627fdba380e5c9!8m2!3d52.5145433!4d13.3501187"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51439/13.34993"  >OpenStreetMap</a> - <a href="geo:52.51439,13.34993?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51439,13.34993?z=19" >}}
 
 ### Parco di Tiergarten
 
@@ -572,11 +543,10 @@ La colonna era **originariamente piazzata vicino al Reichstag** (lo potrete vede
 
 
 **Parco enorme** a **pochi passi dalla Porta di Brandeburgo**. 🌲
-Ogni parte contiene qualcosa da vedere, da statue a giardini come l' _Englisher Garten_, costruiti per commemorare il Ponte Aereo di Berlino.
+Ogni parte contiene qualcosa da vedere, da statue a giardini come l'_Englisher Garten_, costruiti per commemorare il Ponte Aereo di Berlino.
 Se vi trovate da quelle parti potete farvi un giro, se passate per il marciapiede lungo la via che lo attraversa potrete vedere anche la Siegessäule e il Sowjetisches Ehrenmal.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/@52.5143313,13.3555659,15z"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=15/52.5136/13.3555"  >OpenStreetMap</a> - <a href="geo:52.5136,13.3555?z=15"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.5136,13.3555?z=15" >}}
 
 ### Topografia del Terrore
 
@@ -585,13 +555,13 @@ Se vi trovate da quelle parti potete farvi un giro, se passate per il marciapied
 
 Se si è amanti del periodo della seconda guerra e del post-guerra, questo è un posto che accontenterà sicuramente.
 
-In questa **mostra gratuita** viene raccontato e mostrato il **terrore che il nazismo instaurava** sulla popolazione e sui luoghi che occupava con l' ausilio di foto e video anche abbastanza forti.
+In questa **mostra gratuita** viene raccontato e mostrato il **terrore che il nazismo instaurava** sulla popolazione e sui luoghi che occupava con l'ausilio di foto e video anche abbastanza forti.
 
-L' edificio nel quale si tiene la mostra era una volta il **quartier generale delle SS e della Gestapo**, dove venivano torturate ed **imprigionate** le persone non gradite dal regime.
+L'edificio nel quale si tiene la mostra era una volta il **quartier generale delle SS e della Gestapo**, dove venivano torturate ed **imprigionate** le persone non gradite dal regime.
 
-All' esterno è invece possibile notare un **pezzo originale del Muro di Berlino**.
+All'esterno è invece possibile notare un **pezzo originale del Muro di Berlino**.
 
-**Collegandosi col proprio cellulare** al Wifi è possibile ascoltare **gratuitamente l' audioguida** (anche in italiano), quindi <mark>assicuratevi di portare un paio di cuffie</mark> con voi! (noi non lo sapevamo, ci siamo dovuti arrangiare usando solo il cellulare)
+**Collegandosi col proprio cellulare** al Wifi è possibile ascoltare **gratuitamente l'audioguida** (anche in italiano), quindi <mark>assicuratevi di portare un paio di cuffie</mark> con voi! (noi non lo sapevamo, ci siamo dovuti arrangiare usando solo il cellulare)
 
 **ORARI DI APERTURA**
 
@@ -599,10 +569,9 @@ All' esterno è invece possibile notare un **pezzo originale del Muro di Berlino
 | -------- | -------- |
 | 10:00    | 20:00    |
 
-Chiuso il 24 e il 31 dicembre e l' 1 gennaio.
+Chiuso il 24 e il 31 dicembre e l'1 gennaio.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Topographie+des+Terrors/@52.5072009,13.3831069,17z/data=!4m5!3m4!1s0x47a851cc389778c7:0x374bd5cc05c96648!8m2!3d52.5066836!4d13.383702"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50680/13.38352"  >OpenStreetMap</a> - <a href="geo:52.50680,13.38352?z=19"  >Applicazione mappe</a>
-  </div>   
+{{< map "geo:52.50680,13.38352?z=19" >}}   
      <br>  
 
 
@@ -664,8 +633,7 @@ Le spiegazioni sono in tedesco ed in inglese.
 | -------- | -------- |
 | 10:00    | 18:00    |
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutsches+Historisches+Museum/@52.5178619,13.3966627,18z/data=!4m5!3m4!1s0x0:0xf9fb901171a947c3!8m2!3d52.5181519!4d13.3969497"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51808/13.39666"  >OpenStreetMap</a> - <a href="geo:52.51808,13.39666?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51808,13.39666?z=19" >}}
 
 ### Museo della tecnologia (Deutsches Technikmuseum)
 <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green;margin-bottom:10px"> Incluso nel pass da 3 giorni per i musei </div>
@@ -673,9 +641,9 @@ Le spiegazioni sono in tedesco ed in inglese.
 {{< img "Prima vista del museo" "/img/articoli/technikmuseum_compressed.jpg" >}}
 
 
-**Museo sulla scienza e sulla tecnica** che vi porterà in un tour completo nella storia delle moderne tecnologie: **dal computer, al telefono fino ad arrivare all' aereo**.
+**Museo sulla scienza e sulla tecnica** che vi porterà in un tour completo nella storia delle moderne tecnologie: **dal computer, al telefono fino ad arrivare all'aereo**.
 
-È un **museo eccellente**. Vi avvisiamo che visitarlo **non sarà una cosa da mezz' ora**, è davvero **enorme**. Considerate che noi siamo entrati alle 9:30 e siamo usciti alle 12:30, quindi sceglietevi una giornata libera senza altri impegni (ad esempio non prenotate la salita sul Reichstag).
+È un **museo eccellente**. Vi avvisiamo che visitarlo **non sarà una cosa da mezz'ora**, è davvero **enorme**. Considerate che noi siamo entrati alle 9:30 e siamo usciti alle 12:30, quindi sceglietevi una giornata libera senza altri impegni (ad esempio non prenotate la salita sul Reichstag).
 
 Si trova davvero di tutto:
 
@@ -694,15 +662,15 @@ Si divide su più piani ed è veramente fantastico, vi consigliamo assolutamente
 {{< img "Treno in mostra nel museo" "/img/articoli/technikmuseum-treni_compressed.jpg" >}}
 
 
-Ci sono anche **giochi interattivi** per comprendere meglio il funzionamento delle varie tecnologie mostrate. Ad esempio nell' area dedicata ai computer potrete imparare **come si conta in binario** e come funzionano i boolean e le porte logiche utilizzando semplicemente dei bottoni e delle manovelle, oppure potrete imparare come funziona una macchina per cucire e molto altro. Molto bello da vedere, sia per gli adulti che per i bambini o i ragazzi.
+Ci sono anche **giochi interattivi** per comprendere meglio il funzionamento delle varie tecnologie mostrate. Ad esempio nell'area dedicata ai computer potrete imparare **come si conta in binario** e come funzionano i boolean e le porte logiche utilizzando semplicemente dei bottoni e delle manovelle, oppure potrete imparare come funziona una macchina per cucire e molto altro. Molto bello da vedere, sia per gli adulti che per i bambini o i ragazzi.
 
 Il nostro preferito insieme a quello dello spionaggio. ❤️
 
-**CONSIGLIO:** Potete scaricare l' **audioguida gratuita** per il museo **su Google Play o App Store**. Vi lascio qui sotto i link!
+**CONSIGLIO:** Potete scaricare l'**audioguida gratuita** per il museo **su Google Play o App Store**. Vi lascio qui sotto i link!
 
-[Scarica l' app su Google Play](https://play.google.com/store/apps/details?id=com.fluxguide.technikmuseumberlin)
+[Scarica l'app su Google Play](https://play.google.com/store/apps/details?id=com.fluxguide.technikmuseumberlin)
 
-[Scarica l' app su App Store](https://apps.apple.com/us/app/deutsches-technikmuseum/id1037297225)
+[Scarica l'app su App Store](https://apps.apple.com/us/app/deutsches-technikmuseum/id1037297225)
 
 **PREZZI**
 
@@ -718,10 +686,9 @@ Il nostro preferito insieme a quello dello spionaggio. ❤️
 | Mar-Ven | 9:00     | 17:30    |
 | Sab-Dom | 10:00    | 18:00    |
 
-Chiuso il lunedì. Chiuso il 24, 25 e 31 dicembre e l' 1 maggio.
+Chiuso il lunedì. Chiuso il 24, 25 e 31 dicembre e l'1 maggio.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Deutsches+Technikmuseum+Berlin/@52.499199,13.3771899,17z/data=!4m5!3m4!1s0x0:0x4435919b99126a78!8m2!3d52.4986979!4d13.3778849"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.49713/13.37578"  >OpenStreetMap</a> - <a href="geo:52.49713,13.37578?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.49713,13.37578?z=18" >}}
 
 ### Museo dello spionaggio (Deutsches Spionagemuseum)
 <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green;margin-bottom:10px"> Incluso nel pass da 3 giorni per i musei </div>
@@ -733,7 +700,7 @@ Museo molto ben fatto sullo spionaggio.
 
 Da dove cominciare: innanzitutto **non è il classico museo**, è molto **interattivo** e divertente.
 
-Si inizia con un po' di **storia sullo spionaggio** e sui vari metodi di spionaggio del passato, si arriva alla cifratura dei messaggi, agli oggetti e molto altro.
+Si inizia con un po'di **storia sullo spionaggio** e sui vari metodi di spionaggio del passato, si arriva alla cifratura dei messaggi, agli oggetti e molto altro.
 
 Troverete moltissimi **oggetti da spia** originali e molte altre **ricostruzioni**, con la storia (in inglese e tedesco) e il loro funzionamento.
 
@@ -748,7 +715,7 @@ Ci sono inoltre dei pannelli dedicati alle grandi menti, **gli inventori** delle
 * **Farvi una foto e stamparla**
 * e molto altro
 
-Durante la vostra visita **scattatevi una foto e pubblicatela su Instagram o su Twitter** con l' hashtag [\#spionagemuseum](https://instagram.com/explore/tags/spionagemuseum/) (potete anche collegarvi al wifi del museo per non consumare i dati), verso la fine troverete un **punto nel quale potrete stampare tutte le vostre foto** (anche in più copie per i gruppi).
+Durante la vostra visita **scattatevi una foto e pubblicatela su Instagram o su Twitter** con l'hashtag [\#spionagemuseum](https://instagram.com/explore/tags/spionagemuseum/) (potete anche collegarvi al wifi del museo per non consumare i dati), verso la fine troverete un **punto nel quale potrete stampare tutte le vostre foto** (anche in più copie per i gruppi).
 
 Questo museo piacerà anche ai non amanti dello spionaggio e vi farà imparare molte cose. Inoltre con i suoi spazi interattivi e i giochi è adatto anche a bambini e ragazzi. Altamente consigliato anche questo. 👌
 
@@ -768,8 +735,7 @@ Il museo si trova a Potsdamer Platz ed è impossibile da non notare.
 
 Chiuso il lunedì.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Spy+Museum/@52.5089706,13.3788046,19z/data=!4m5!3m4!1s0x0:0xdd5eea35bbd0995a!8m2!3d52.508986!4d13.37927"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50903/13.37907"  >OpenStreetMap</a> - <a href="geo:52.50903,13.37907?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50903,13.37907?z=19" >}}
 
 ### Museo del cinema (German Cinematheque - Museum of Film and Television)
 <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green;margin-bottom:10px"> Incluso nel pass da 3 giorni per i musei </div>
@@ -780,7 +746,7 @@ Museo sul cinema e sulla televisione.
 
 Il museo si trova a Potsdamer Platz in un enorme palazzo rosso.
 
-Infatti **il museo si divide su più piani** e, a partire dal basso, si possono usare le scale o l' ascensore per visitare le varie aree del museo.
+Infatti **il museo si divide su più piani** e, a partire dal basso, si possono usare le scale o l'ascensore per visitare le varie aree del museo.
 
 <mark>Il **giovedì il museo è gratis dalle 16:00 alle 20:00**.</mark>
 
@@ -799,8 +765,7 @@ Infatti **il museo si divide su più piani** e, a partire dal basso, si possono 
 
 Chiuso il martedì.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/German+Film+and+Television+Academy+Berlin+GmbH/@52.509457,13.3739444,19z/data=!4m5!3m4!1s0x47a851c99b1ac3bb:0x900d321a3dad3e17!8m2!3d52.509558!4d13.3738972"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.50954/13.37320"  >OpenStreetMap</a> - <a href="geo:52.50954,13.37320?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50954,13.37320?z=19" >}}
 
 ### Altes Museum
 <div style="color: green; padding: 3px 5px 3px 5px; display: inline-block; border-radius: 10px; border: 2px solid green;margin-bottom:10px"> Incluso nel pass da 3 giorni per i musei </div>
@@ -809,11 +774,11 @@ Museo di archeologia.
 
 Davvero un bel museo, con un personale molto simpatico.
 
-È un **museo dedicato all' età greca e romana**, quindi se si è amanti del periodo classico vale assolutamente la pena.
+È un **museo dedicato all'età greca e romana**, quindi se si è amanti del periodo classico vale assolutamente la pena.
 
 Il museo contiene, tra le tante cose, molti peperti famosi, visti molto spesso sui libri di arte e storia greca, vecchi calendari, tantissime statue e una copia dei nostri amati bronzi di Riace.
 
-Si trova di fronte al Duomo di Berlino, è abbastanza appariscente. Da qui potete visitare anche altri musei che non abbiamo visitato ma che sono molto famosi come il museo di Pergamo, il Neues Museum e l' Alte Nationalgalerie.
+Si trova di fronte al Duomo di Berlino, è abbastanza appariscente. Da qui potete visitare anche altri musei che non abbiamo visitato ma che sono molto famosi come il museo di Pergamo, il Neues Museum e l'Alte Nationalgalerie.
 
 **PREZZI**
 
@@ -831,8 +796,7 @@ Si trova di fronte al Duomo di Berlino, è abbastanza appariscente. Da qui potet
 
 Chiuso il martedì.
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Altes+Museum/@52.5194124,13.3989051,19z/data=!4m5!3m4!1s0x47a851dd6a1d6f33:0xb61e5106fd47fdbb!8m2!3d52.5194664!4d13.3987445"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.51947/13.39851"  >OpenStreetMap</a> - <a href="geo:52.51947,13.39851?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.51947,13.39851?z=19" >}}
 
   {{< gyg img="https://cdn.getyourguide.com/img/tour_img-2515988-97.jpg" link="https://www.getyourguide.com/berlin-l17/museum-pass-berlin-3-day-entry-to-over-50-museums-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_musei_nuovo_affiliato" title="Musei di Berlino: pass di 3 giorni per oltre 30 musei" desc="Usa il tuo Pass Musei di Berlino per un itinerario culturale davvero flessibile. Soddisfa tutti i tuoi desideri entrando in oltre 30 musei a scelta in 3 giorni." price="da 29€" >}}
 
@@ -849,9 +813,9 @@ In ogni caso, nonostante ciò si dimostra essere un bel museo, molto moderno.
 
 **Racconta la vita degli ebrei in Germania dal Medioevo al presente**, con i loro contributi e le loro tradizioni (questa parte è ben visibile al piano superiore).
 
-All' interno il museo si divide in tre assi: l' asse dell' Emigrazione con il Labirinto dell' Esilio, quello dell' Olocausto e quello della Continuità, proseguendo su questo asse si arriva ad un piano superiore, che è in realtà il museo vero e proprio (quello che si vede nelle foto).
+All'interno il museo si divide in tre assi: l'asse dell'Emigrazione con il Labirinto dell'Esilio, quello dell'Olocausto e quello della Continuità, proseguendo su questo asse si arriva ad un piano superiore, che è in realtà il museo vero e proprio (quello che si vede nelle foto).
 
-L' intero museo **deve essere visto con occhio simbolico**, a questo proposito vi consiglio di leggere la [dettagliata pagina di Wikipedia dedicata al museo](https://it.wikipedia.org/wiki/Museo_Ebraico_di_Berlino#Architettura_dell'edificio), prima di visitarlo.
+L'intero museo **deve essere visto con occhio simbolico**, a questo proposito vi consiglio di leggere la [dettagliata pagina di Wikipedia dedicata al museo](https://it.wikipedia.org/wiki/Museo_Ebraico_di_Berlino#Architettura_dell'edificio), prima di visitarlo.
 
 **PREZZI**
 
@@ -869,8 +833,7 @@ Bambini fino a 6 anni gratis.
 | -------- | -------- |
 | 9:00     | 20:00    |
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/J%C3%BCdisches+Museum/@52.5021919,13.3953538,19z/data=!4m5!3m4!1s0x0:0x4c2cd254ede6304f!8m2!3d52.5023115!4d13.3954469"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=18/52.50209/13.39534"  >OpenStreetMap</a> - <a href="geo:52.50209,13.39534?z=18"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.50209,13.39534?z=18" >}}
 
 ### Accesso alla Fernsehturm (Torre della TV)
 
@@ -879,17 +842,17 @@ Bambini fino a 6 anni gratis.
 
 Se si vuole avere **una vista totale sulla città di Berlino** è assolutamente necessario salire sulla Torre della TV.
 
-Si, è un po' cara, è vero, ma è davvero **un' esperienza da fare assolutamente** se si va a Berlino.
+Si, è un po'cara, è vero, ma è davvero **un'esperienza da fare assolutamente** se si va a Berlino.
 
-Una volta entrati all' interno della torre si possono fare i biglietti ed aspettare il proprio turno per entrare all' interno dell' ascensore che vi porterà fino in cima, nella sfera. <mark>**Vi consigliamo vivamente di portare con voi un binocolo**</mark> perché quelli già presenti sono, naturalmente, a pagamento.
+Una volta entrati all'interno della torre si possono fare i biglietti ed aspettare il proprio turno per entrare all'interno dell'ascensore che vi porterà fino in cima, nella sfera. <mark>**Vi consigliamo vivamente di portare con voi un binocolo**</mark> perché quelli già presenti sono, naturalmente, a pagamento.
 
 Da lì potrete avere **una vista a 360° della città** con una mini guida posta davanti alla finestra che vi mostrerà i vari punti della città e vi indicherà in che direzione guardare.
 
-**L' attesa dipende** naturalmente **dall' orario in cui deciderete di recarvi**, di solito si parla di **un' oretta al massimo** e, credetemi ne vale la pena. Se volete potete attivare anche **il servizio SMS** che vi avviserà del vostro turno inviando il codice personale (lo troverete sul biglietto insieme al vostro numero identificativo) al numero indicato, oppure potete anche scaricare **l' applicazione** per tenere sotto controllo gli orari dei vari turni (tenete sempre a mente il vostro numero identificativo).
+**L'attesa dipende** naturalmente **dall'orario in cui deciderete di recarvi**, di solito si parla di **un'oretta al massimo** e, credetemi ne vale la pena. Se volete potete attivare anche **il servizio SMS** che vi avviserà del vostro turno inviando il codice personale (lo troverete sul biglietto insieme al vostro numero identificativo) al numero indicato, oppure potete anche scaricare **l'applicazione** per tenere sotto controllo gli orari dei vari turni (tenete sempre a mente il vostro numero identificativo).
 
-[Scarica l' app su Google Play](https://play.google.com/store/apps/details?id=com.mcrumbs.fernsehturm)
+[Scarica l'app su Google Play](https://play.google.com/store/apps/details?id=com.mcrumbs.fernsehturm)
 
-Per gli utenti Apple non siamo riusciti a trovare l' app su App Store, fateci sapere nei commenti qualsiasi alternativa.
+Per gli utenti Apple non siamo riusciti a trovare l'app su App Store, fateci sapere nei commenti qualsiasi alternativa.
 
 Per altre informazioni potete anche leggere la nostra [**guida alla Torre della Televisione di Berlino che include prezzi nel dettaglio, storia, curiosità e consigli per visitarla al meglio**](/torre-della-televisione-di-berlino/).
 
@@ -909,8 +872,7 @@ Per altre informazioni potete anche leggere la nostra [**guida alla Torre della 
 | Marzo-Ottobre     | 9:00     | 00:00 (ultima salita alle 23:30) |
 | Novembre-Febbraio | 10:00    | 00:00 (ultima salita alle 23:30) |
 
-<div style="text-align: center"><a href="https://www.google.com/maps/place/Torre+della+televisione+di+Berlino/@52.5204779,13.4089502,18z/data=!4m5!3m4!1s0x47a84e1f9014ffeb:0xc8fafc484349e4a1!8m2!3d52.5208153!4d13.4094197"  >Google Maps</a> - <a href="https://www.openstreetmap.org/#map=19/52.52067/13.40947"  >OpenStreetMap</a> - <a href="geo:52.52067,13.40947?z=19"  >Applicazione mappe</a>
-  </div>
+{{< map "geo:52.52067,13.40947?z=19" >}}
 
 ### 👁️ Altri posti da visitare
 
@@ -922,7 +884,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
 * **Centro Anna Frank**  <div style="color: green; padding: .1em .2em .1em .2em; display: inline-block; border-radius: 10px; border: 1px solid green; font-size: .6em; margin-left: 5px"> Incluso nel pass da 3 giorni per i musei </div>
   [Wikipedia](https://en.wikipedia.org/wiki/Anne_Frank_Zentrum) (inglese).
 * **Museum für Kommunikation**  <div style="color: green; padding: .1em .2em .1em .2em; display: inline-block; border-radius: 10px; border: 1px solid green; font-size: .6em; margin-left: 5px"> Incluso nel pass da 3 giorni per i musei </div>
-  Museo sull' evoluzione della comunicazione, dai segnali di fumo agli smartphone
+  Museo sull'evoluzione della comunicazione, dai segnali di fumo agli smartphone
   [Sito web](https://www.mfk-berlin.de/en/) (inglese).
 * **Gemäldegalerie**  <div style="color: green; padding: .1em .2em .1em .2em; display: inline-block; border-radius: 10px; border: 1px solid green; font-size: .6em; margin-left: 5px"> Incluso nel pass da 3 giorni per i musei </div>
   Una delle migliori collezioni di arte Europea al mondo, dal 13esimo al 18esimo secolo. Con quadri di Tiziano, Goya, Botticelli, Holbein, Gainsborough, Canaletto, Hals, Rubens, Vermeer e altri maestri.
@@ -943,7 +905,7 @@ Qui sotto vi elenchiamo **gli altri posti che potreste visitare** ma che non abb
   Museo dedicato al Muro di Berlino.
   [Sito web](https://www.mauermuseum.de/en/start/) (inglese).
 * **Panoramapunkt**
-  L' ascensore più veloce di Europa, si può salire fino a 100 metri per avere una vista su Potsdamer Platz.
+  L'ascensore più veloce di Europa, si può salire fino a 100 metri per avere una vista su Potsdamer Platz.
   [Sito web](https://www.panoramapunkt.de/en/welcome.html) (inglese).
 * **Spreepark**
   Un parco abbandonato sulla riva del fiume.
@@ -985,7 +947,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </svg>
 
-   **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai € 3 / 3.50**. C'è anche la possibilità di di **pagare € 1.70 se si fanno soltanto 3 fermate**. Le stazioni della U-BAHN sono contrassegnate da un quadrato blu con una U all' interno.
+   **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai € 3 / 3.50**. C'è anche la possibilità di di **pagare € 1.70 se si fanno soltanto 3 fermate**. Le stazioni della U-BAHN sono contrassegnate da un quadrato blu con una U all'interno.
 2. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <path d="m4.7825 291.6 1.8124 0.3508-0.058465-1.6253-3.0168-0.6665-2.0229 0.80682-0.5028 2.2217 3.4144 1.6838s-0.28063 0.33909-0.43264 0.3274c-0.15201-0.0117-2.5725-1.1693-2.5725-1.1693l-0.21047 1.1576 0.70158 1.1225 2.362 0.60804 1.8592-0.76005 0.94714-2.9466z" fill="#fff"/>
@@ -1001,7 +963,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </svg>
 
-   **S-BAHN** la **stazione dei treni**. Le stazioni della S-BAHN sono contrassegnate da un cerchio verde con una S all' interno.
+   **S-BAHN** la **stazione dei treni**. Le stazioni della S-BAHN sono contrassegnate da un cerchio verde con una S all'interno.
 3. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <g transform="translate(-4.733e-7 .033073)">
@@ -1042,7 +1004,7 @@ Se volete potete anche acquistare una _**Berlin Welcome Card**_ per utilizzare *
 
 Sono disponibili biglietti per 2, 3, 4, 5 e 6 giorni.
 
-Ci sono due tipi di card per i trasporti (ce n'è anche una con alcune attrazioni incluse): {{< nofollow "https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "quella per la zona ABC" >}}💰 che potrebbe esservi utile se atterrate all' aeroporto Schönefeld e state in città per pochi giorni, così risparmiate i biglietti di andata e ritorno.
+Ci sono due tipi di card per i trasporti (ce n'è anche una con alcune attrazioni incluse): {{< nofollow "https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "quella per la zona ABC" >}}💰 che potrebbe esservi utile se atterrate all'aeroporto Schönefeld e state in città per pochi giorni, così risparmiate i biglietti di andata e ritorno.
 
 Se atterrate invece al Tegel oppure state a Berlino per una settiama, allora vi conviene la {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-completa" "card valida solo per la zona AB" >}}💰, che **costa meno**.
 
@@ -1050,7 +1012,7 @@ Se atterrate invece al Tegel oppure state a Berlino per una settiama, allora vi 
 ✔️ **Sconti sulle attrazioni** aderenti (tra cui la **Torre della TV**) <br>
 ✔️ **Mappa** e mini **guida** della città
 
-Se amate godervi la città a piedi, come noi, potete anche farne a meno (Berlino è facilmente percorribile a piedi), ma **se volete evitare tragitti lunghi** e volete soltanto vedere i vari monumenti allora vi consiglio di darci un' occhiata.
+Se amate godervi la città a piedi, come noi, potete anche farne a meno (Berlino è facilmente percorribile a piedi), ma **se volete evitare tragitti lunghi** e volete soltanto vedere i vari monumenti allora vi consiglio di darci un'occhiata.
 
 Queste erano le nostre scelte per la città di Berlino, speriamo di esservi stati di aiuto, vi ringraziamo per aver letto la guida.
 **Fateci sapere se vi è stata utile qui sotto nei commenti**!
@@ -1059,4 +1021,4 @@ Vi auguriamo un piacevole viaggio!
 
 - - -
 
-**Atterri all' aeroporto Schönefeld?** [Qui trovi la nostra guida su come arrivare a Berlino Centro!](/schonefeld-berlino-centro/)
+**Atterri all'aeroporto Schönefeld?** [Qui trovi la nostra guida su come arrivare a Berlino Centro!](/schonefeld-berlino-centro/)

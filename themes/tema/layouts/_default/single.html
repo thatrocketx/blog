@@ -33,7 +33,7 @@ targetBlank();
 <article class="contenuto" lang="{{ .Language.Lang }}" role="article" itemscope itemtype="http://schema.org/Article">
 <meta itemprop='inLanguage' content='{{ .Site.LanguageCode }}'/>
 <meta itemprop='about' content='{{ .Description }}' />
-<header role="banner" class="jumbotron">
+<header role="banner" class="jumbotron dark-bg-dark">
   <div class="text-center">
   <h1 class="h3 pb-2 border-bottom border-primary animated fadeInUp" itemprop="name headline">{{ .Title }}</h1>
   <h2 class="lead flipboard -subtitle" itemprop="subheading">{{if (isset .Params "sottotitolo")}} {{.Params.sottotitolo}} {{else}}{{ .Description }} {{end}}</h2>
@@ -45,25 +45,21 @@ targetBlank();
     </figure>
 </div>
     <div class="text-center border p-2">
-      {{ if (isset .Params "autore") }}<span itemprop="author" class="autore" title="{{ T "autoreinf"}}">{{ .Params.autore }}</span><span class="tempo-lettura-tempo"><span class="separatore"></span> <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="sr-only">{{ T "tempo_lettura"}}:</span></span> {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}}</span><span class="separatore"></span> <span id="commenti-info-articolo">{{ T "commenti"}}:</span> <div class="d-inline-block"><a class="noext" onclick="showDisqus()" href="{{ .Permalink }}#disqus_thread">{{T "vaiaicommenti"}}</a></div>{{ end }}
+      {{ if (isset .Params "autore") }}<img src="/icons/silhouette.svg" width="20" class="d-inline-block"> <span itemprop="author" class="autore" title="{{ T "autoreinf"}}">{{ .Params.autore }}</span><span class="tempo-lettura-tempo"><span class="separatore"></span> <img src="/icons/clock.svg" width="20" class="d-inline-block"><span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="sr-only">{{ T "tempo_lettura"}}:</span></span> {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}{{else}}{{ T "lett_mins"}}{{end}}</span><span class="separatore"></span> <img src="/icons/bubble.svg" width="20" class="d-inline-block"> <span id="commenti-info-articolo">{{ T "commenti"}}:</span> <div class="d-inline-block"><a class="noext" onclick="showDisqus()" href="{{ .Permalink }}#disqus_thread">{{T "vaiaicommenti"}}</a></div>{{ end }}
     </div>
 </header>
-<div class="info articolo testo" itemprop="articleBody">
+<div class="dark-text-white text-dark" itemprop="articleBody">
     {{.TableOfContents}}
     {{ .Content }}
 </div>
-  {{ if (isset .Params "date") }}<time class="data" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" title="{{ T "datainf"}}">{{- .Date.Format "2/1/2006" -}}</time>{{ end }}
-<span class="ultimamodifica">{{ if (isset .Params "lastmod") }}{{ T "ultima-modifica"}} <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="dateModified">
+  {{ if (isset .Params "date") }}<img src="/icons/calendar.svg" width="20" class="d-inline-block"> <time class="text-muted dark-text-muted" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" title="{{ T "datainf"}}">{{- .Date.Format "2/1/2006" -}}</time>{{ end }}
+<span class="text-muted dark-text-muted">{{ if (isset .Params "lastmod") }}{{ T "ultima-modifica"}} <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="dateModified">
  {{- .Lastmod.Format "2/1/2006" -}}</time>{{end}}</span>
  <div class="my-3">
  {{ if (isset .Params "categories") }}<div>{{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="badge badge-secondary bg-primary">{{ . }}</a> {{end}}</div>{{end}}
  {{ if (isset .Params "tags") }}<div>{{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="badge badge-secondary bg-secondary">{{ . }}</a> {{end}}</div>{{ end }}
   </div>
 </article>
-
-<a class="alert alert-warning text-center" role="alert" href="/info/privacy" style="display:block">
-⚠️ La privacy policy è stata aggiornata il 22/05/2020
-</a>
 </div>
 
 {{ if (isset .Params "autore") }}
@@ -75,11 +71,11 @@ targetBlank();
 </div>
 
 {{ if (isset .Params "autore") }}
-<section class="contenuto community" role="region">
+<section class="dark-text-white" role="region">
   <div class= "info articolo">
-    <div style="font-size:1.3em;margin-bottom:10px;text-align:center">
-    <img src="/commenti.svg" width="50" height="50" style="display:inline-block;float:left;margin-right:10px" alt="">
-      {{ T "esortazionecommenti"}} <br><a href="#c" onclick="showDisqus()">{{T "vaiaicommenti"}}</a>
+    <div class="bg-light text-center p-4 m-2 border dark-bg-dark">
+    <img src="/commenti.svg" width="50" height="50" class="d-inline-block float-left mr-4" alt="">
+      <p class="h4 dark-text-white">{{ T "esortazionecommenti"}}</p><a href="#c" class="btn btn-primary" onclick="showDisqus()">{{T "vaiaicommenti"}}</a>
       </div>
       <div class="text-center">
       {{- partial "condividi.html" . -}}
@@ -113,7 +109,7 @@ targetBlank();
 <div class="w-100 overflow-auto">
   <div class="w-700 mx-auto">
   {{ range . }}
-  <div class="card my-2 rounded-lg mw-300 mnh-300 mx-auto overflow-hidden d-inline-block" aria-describedby="sommario">
+  <div class="card my-2 rounded-lg mw-300 mnh-300 mx-auto overflow-hidden d-inline-block dark-bg-dark" aria-describedby="sommario">
     <a href="{{ .URL }}" class="no-underline">
       <div class="card-img-top overflow-hidden ">
         {{ if and (isset .Params "videoself") }}
@@ -123,7 +119,7 @@ targetBlank();
           {{end}}
       </div>
       <div class="card-body">
-          <h1 class="h5 text-dark">{{ .Title }}</h1>
+          <h1 class="h5 text-dark dark-text-white">{{ .Title }}</h1>
 
             {{ if (isset .Params "categories") }}{{range .Params.categories}}<span class="badge badge-secondary">{{ . }}</span> {{ end }} {{ end }}
             {{ if (isset .Params "cities") }}<span class="badge badge-secondary">{{ .Params.cities }} </span>{{ end }}{{ if (isset .Params "countries") }} <span class="badge badge-secondary"> {{ .Params.countries }} </span> {{ end }}

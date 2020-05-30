@@ -16,7 +16,7 @@ We try to use as less tracking elements as possible
 ## Third party services and your privacy
 **We use a third party service for comments: Disqus**, **that might track you on the internet**. For more information **read their Privacy Policy** or use browser extensions (like uBlock Origin) to limit their data collection.
 
-{{< titolo title="How we make money: affiliate links and privacy" link="referral" >}}
+## Affiliate links and privacy
 To mantain this website we make use of affiliate marketing links *in some posts*, so we **receive commissions on the purchase made through these links**, these links are always tagged with the 💰 icon. When you purchase something from these sites or you visit them you are subject to **their privacy policy**. We might get some **anonymized data** from these third parties to understand the **performance** of these links. As always, we invite you to **take a look at their privacy policy**.
 Our partners: GetYouGuide, Amazon.it, DJI
 

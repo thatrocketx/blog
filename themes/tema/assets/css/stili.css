@@ -10321,6 +10321,8 @@ a.text-dark:hover, a.text-dark:focus {
 /*# sourceMappingURL=bootstrap.css.map */
 
 /* CUSTOM */
+
+html {min-width: 316px}
 .logo-svg {
   background-image: url('/trx.png');
   background-image: url('/trx.svg');
@@ -10350,6 +10352,12 @@ a.text-dark:hover, a.text-dark:focus {
 ::moz-selection {
   background: #dd3d57;
   color: #FFF
+}
+
+.separatore::after {
+  content: '-';
+  display: inline-block;
+  padding: 0 5px 0 5px;
 }
 
 .logo-nav .nav-link {
@@ -10392,6 +10400,47 @@ article td {
   padding: 5px;
 }
 
+article h2:target, article h3:target, article h4:target {
+  color: #dd3d57;
+}
+
+article a[href^="https://youtube.com"]::before {
+  content: ' ';
+  display: inline-block;
+  background-image: url('/yt.svg');
+  background-size: 15px;
+  width: 15px;
+  height: 15px;
+  margin-bottom: -3px;
+  margin-right: 5px;
+}
+
+article a[href^="https://it.wikipedia.org"]::before, article a[href^="https://en.wikipedia.org"]::before {
+  content: ' ';
+  display: inline-block;
+  background-image: url('/wiki.svg');
+  background-size: 15px;
+  width: 15px;
+  height: 15px;
+  margin-bottom: -3px;
+  margin-right: 5px;
+}
+
+article a[href^="https://"]:not(.noext)::after, article a[href^="http://"]:not(.noext)::after {
+  content: ' ';
+  display: inline-block;
+  background-image: url('/external.svg');
+  background-size: 15px;
+  width: 15px;
+  height: 15px;
+  margin-left: 4px;
+  margin-bottom: -3px;
+}
+
+.s_instagram_simple {
+  margin: auto;
+}
+
 #sidebar {padding-top: 890px}
 
 .w-700 {width: 700px}
@@ -10416,6 +10465,9 @@ article td {
   .logo-nav .navbar-nav {margin: auto}
   #sidebar {display: none}
 }
+
+.hamburger-menu .top {transform: translateY(15px)}
+.hamburger-menu .bottom {transform: translateY(-15px)}
 
 @media screen and (max-width: 767px) {
 
@@ -10480,6 +10532,9 @@ article td {
   transform-origin: left;
   transition: all .5s ease-in-out;
 }
+
+.hamburger-menu .top {transform: translateY(0);}
+.hamburger-menu .bottom {transform: translateY(0);}
 
 input:checked[id="menuapri"] + label[for="menuapri"] > .hamburger-menu .top {
   transform: rotate(45deg);
@@ -11061,4 +11116,17 @@ input:checked[id="menuapri"] + label[for="menuapri"] > .hamburger-menu .bottom {
   display: inline-block;
   margin: auto;
   margin-bottom: -5px
+}
+
+@media (prefers-color-scheme: dark) {
+  body {background-color: #373434; color: #FFF}
+  svg {fill: #FFF}
+  .logo-svg {
+    background-image: url('/trx-dark.svg');
+  }
+  .dark-bg-dark {background-color: #343a40 !important}
+  .dark-text-white {color: white !important}
+  .dark-text-muted {
+    color: #ced7df !important;
+}
 }

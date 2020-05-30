@@ -28,7 +28,7 @@ posizione: '{"type":"Point","coordinates":[13.3761066,52.5185986]}'
 cities: Berlino
 titoloSEO: Visitare gratuitamente il Reichstag di Berlino
 sottotitolo: >-
-  La guida completa passo per passo per prenotare la propria visita all' interno
+  La guida completa passo per passo per prenotare la propria visita all'interno
   del palazzo del Reichstag e per salire sulla sua cupola di vetro.
 slug: prenotare-gratuitamente-la-visita-al-reichstag-e-alla-cupola-berlino
 immagineprincipale: /img/articoli/cupola-reichstag.jpg
@@ -49,14 +49,14 @@ lastmod: '2020-02-28T14:06:55+00:00'
 ---
 Uno dei monumenti più famosi della città di Berlino è sicuramente il Reichstag, ma una cosa che pochi sanno è che è possibile **visitare gratuitamente** la nota **cupola in vetro** che lo rende famoso in tutto il mondo.
 
-Non solo: è anche possibile accompagnarla con delle **visite guidate** all' interno del Palazzo stesso.
+Non solo: è anche possibile accompagnarla con delle **visite guidate** all'interno del Palazzo stesso.
 
-**Se si prenota in tempo**, infatti, è possibile prendere l' **ascensore gratuito che porta fino al tetto della struttura** e da qui è possibile avere una **vista a 360° della città** e leggere la storia della sua costruzione.
+**Se si prenota in tempo**, infatti, è possibile prendere l'**ascensore gratuito che porta fino al tetto della struttura** e da qui è possibile avere una **vista a 360° della città** e leggere la storia della sua costruzione.
 
 In questa guida vi daremo **qualche informazione sul Reichstag** e vi spiegheremo **come prenotare la vostra visita al Reichstag di Berlino e alla cupola**, passo per passo.
 
 {{< notice note >}}
-Prima di proseguire assicuratevi di avere almeno una **mezz' oretta di tempo libero** e la **data di nascita** di tutte le persone da prenotare.
+Prima di proseguire assicuratevi di avere almeno una **mezz'oretta di tempo libero** e la **data di nascita** di tutte le persone da prenotare.
 {{</ notice >}}
 
 **N.B.**: In questa guida troverete alcuni link per acquistare biglietti per servizi e attrazioni. Questi link, contrassegnati da 💰, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
@@ -69,13 +69,13 @@ Buona lettura!
 
 <mark>**I biglietti** per visitare il Reichstag **sono gratuiti**</mark>, quindi il prezzo del biglietto è 0.
 
-**Le uniche cose a pagamento** all' interno del Palazzo del Reichstag **sono il ristorante e i souvenir** alla fine della visita. Prenotando un posto per il ristorante si ottiene anche un posto per la cupola, quindi in tal caso non è necessario seguire questa guida.
+**Le uniche cose a pagamento** all'interno del Palazzo del Reichstag **sono il ristorante e i souvenir** alla fine della visita. Prenotando un posto per il ristorante si ottiene anche un posto per la cupola, quindi in tal caso non è necessario seguire questa guida.
 
 <div style="width: 100%"><a href="https://www.getyourguide.it/berlino-l17/pausa-caffe-al-kaefer-in-cima-al-palazzo-del-reichstag-t59711/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center">Prenota un posto al ristorante della Cupola del Reichstag</a>  </div>
 
 <small>💰</small>
 
-### Come prenotare la visita alla Cupola del Reichstag e all' interno del Palazzo
+### Come prenotare la visita alla Cupola del Reichstag e all'interno del Palazzo
 
 **La prenotazione della visita al Reichstag va fatta online**, sul sito ufficiale del Bundestag. Qui trovate la **guida su come prenotare i vostri biglietti**.
 
@@ -100,7 +100,7 @@ Se siete interessati, qui sotto **vi abbiamo tradotto velocemente tutto il testo
 > * Quando **ti registri online per la visita**, puoi solo inviare **richieste** per i vari servizi offerti dal Servizio Visitatori; la tua visita **non** sarà prenotata fino a quando non riceverai una **conferma** della prenotazione dal Servizio Visitatori via email, fax o posta.
 > * Assicurati - **prima**  di iniziare a prenotarti per uno dei servizi offerti ai visitatori - di avere **cognome, nome e data di nascita di ogni visitatore** a portata di mano, perché dovrai creare una lista dei visitatori e dare queste informazioni. Solo dopo aver inviato queste informazioni la tua richiesta sarà processata e confermata.
 > * Le richieste per i **tour guidati** possono essere inviate solo per il mese in corso e per i prossimi due mesi.
-> * Le richieste per visitare la **cupola** possono essere inviate soltanto per il mese in corso e quello successivo. **Gli affari parlamentari, il meteo** e la **situazione di sicurezza** hanno effetti su quando è possibile **visitare la cupola o la terrazza**. Quindi **non possiamo garantire** la possibilità di visitare la cuola. Alcune volte è necessario **annullare** una visita alla cupola all' **ultimo momento**, anche se la visita è stata **precedentemente confermata. Purtroppo, non è ci è possibile avvisarti** degli annullamenti all' ultimo momento via email, telefono o fax.
+> * Le richieste per visitare la **cupola** possono essere inviate soltanto per il mese in corso e quello successivo. **Gli affari parlamentari, il meteo** e la **situazione di sicurezza** hanno effetti su quando è possibile **visitare la cupola o la terrazza**. Quindi **non possiamo garantire** la possibilità di visitare la cuola. Alcune volte è necessario **annullare** una visita alla cupola all'**ultimo momento**, anche se la visita è stata **precedentemente confermata. Purtroppo, non è ci è possibile avvisarti** degli annullamenti all'ultimo momento via email, telefono o fax.
 > * **Le agenzie turistiche** devono registrarsi come **commercial agencies**. Se si invia una richiesta come individual/private group (individuo/gruppo privato) o come organisation/company (azienda) questa verrà **immediatamente annullata**.
 > * Durante le **sedute plenarie, non vi è alcuna interpretazione in lingua straniera** per i visitatori.
 
@@ -113,7 +113,7 @@ Leggere le informazioni sottostanti
 1. ❌ **Se non ricevete una conferma** per email, **la vostra prenotazione NON è stata effettuata**
 2. 👥 **Se dovete prenotare per più persone** assicuratevi di avere il **nome, cognome** e la **data di nascita** di ogni persona.
 3. 📅 **Il tour guidato nel Palazzo può essere prenotato fino a 3 mesi prima, la visita alla cupola fino a 2 mesi prima**.
-4. 😲 Se ci sono **problemi con il meteo o altri problemi di sicurezza**, la **visita alla cupola sarà annullata** anche all' ultimo minuto e **non sarete avvisati**.
+4. 😲 Se ci sono **problemi con il meteo o altri problemi di sicurezza**, la **visita alla cupola sarà annullata** anche all'ultimo minuto e **non sarete avvisati**.
 
 {{< img "Testo, casella spuntata e pulsante Next evidenziato.""/img/articoli/2-reichstag-cupola-web-conferma-e-avanti.png" " " >}}
 
@@ -137,9 +137,9 @@ Una volta letta la policy _(sicuramente...)_ **spuntate la casella e cliccate su
 
 Ora è il turno del classico **controllo Captcha**, questo test viene richiesto dal sito per assicurarsi che voi non siate dei robot che effettuano centinaia di prenotazioni a vuoto.
 
-Se siete dei robot non potete proseguire, ci dispiace... Se non lo siete, invece, **scrivete il testo che vedete** oppure trascrivete l' audio (per i non vedenti) **e cliccate sul pulsante _Next_**.
+Se siete dei robot non potete proseguire, ci dispiace... Se non lo siete, invece, **scrivete il testo che vedete** oppure trascrivete l'audio (per i non vedenti) **e cliccate sul pulsante _Next_**.
 
-#### 🔘 Passo 5 - Scelta dell' attività
+#### 🔘 Passo 5 - Scelta dell'attività
 
 {{< img "Pagina della prenotazione con le tre scelte. Nessuna scelta evidenziata.""/img/articoli/5-reichstag-cupola-web-scelta.png" " " >}}
 
@@ -156,12 +156,12 @@ Vi troverete davanti **tre opzioni**:
 
 {{< img "Visita alla cupola selezionata. Informazioni aggiuntive e pulsante Next evidenziato.""/img/articoli/6-reichstag-cupola-web-continuo-scelta.png" " " >}}
 
-*Come potete notare nella foto, nell' ultimo paragrafo vengono specificate le date nelle quali la cupola è chiusa per pulizia, assicuratevi di controllarle prima di continuare*.
+*Come potete notare nella foto, nell'ultimo paragrafo vengono specificate le date nelle quali la cupola è chiusa per pulizia, assicuratevi di controllarle prima di continuare*.
 **Selezionate la vostra opzione e cliccate sul tasto _Next_**.
 
 #### 🔢 Passo 6 - Selezione del numero di persone
 
-{{< img "Numero di persone. Nell' esempio sono inserite due persone. Pulsante Next evidenziato.""/img/articoli/7-reichstag-cupola-web-numero-persone.png" " " >}}
+{{< img "Numero di persone. Nell'esempio sono inserite due persone. Pulsante Next evidenziato.""/img/articoli/7-reichstag-cupola-web-numero-persone.png" " " >}}
 
 Qui dovrete **inserire il numero delle persone da prenotare e cliccare su _Next_**.
 
@@ -179,7 +179,7 @@ Una volta scelti gli orari **cliccate su _Next_**.
 
 {{< img "Form della persona da contattare con campi di esempio per nome, cognome e indirizzo email.""/img/articoli/10-reichstag-cupola-web-nome-cognome.png" " " >}}
 
-In questa pagina dovete inserire le **informazioni sulla persona** responsabile **da contattare per l' invio dei biglietti** e in caso di eventuali problemi.
+In questa pagina dovete inserire le **informazioni sulla persona** responsabile **da contattare per l'invio dei biglietti** e in caso di eventuali problemi.
 
 I campi sono:
 
@@ -214,14 +214,14 @@ Troverete due link.
 **Cliccate il primo link** (o copiatelo ed incollatelo nella barra degli indirizzi).
 
 {{< notice warning >}}
-**Non aprite il secondo link** perché quello è per l' **annullamento della prenotazione**.
+**Non aprite il secondo link** perché quello è per l'**annullamento della prenotazione**.
 {{</ notice >}}
 
 #### 📝 Passo 11 - Compilazione e invio della richiesta
 
 {{< img "Esempio compilazione della richiesta. Il pulsante da cliccare a destra è evidenziato.""/img/articoli/13-reichstag-cupola-web-fine.png" " " >}}
 
-Questo è l' ultimo passaggio per la prenotazione.
+Questo è l'ultimo passaggio per la prenotazione.
 
 Una volta raggiunto il **sito della email**, dovrete **compilare i campi con il Nome, Cognome e Data di nascita di tutte le persone** che visiteranno il Reichstag.
 
@@ -229,24 +229,24 @@ Una volta raggiunto il **sito della email**, dovrete **compilare i campi con il 
 
 #### 🎟️ Passo 12 - La conferma
 
-Ora riceverete una **lettera di conferma** effettiva dell' avvenuta registrazione sulla vostra email. **Se volete potete anche stamparla per sicurezza** (_consigliato_).
+Ora riceverete una **lettera di conferma** effettiva dell'avvenuta registrazione sulla vostra email. **Se volete potete anche stamparla per sicurezza** (_consigliato_).
 
 ## Il giorno della visita: informazioni e consigli
 
-Nel giorno della dovrete innanzitutto assicurarvi di <mark>**portare con voi i documenti**</mark> necessari (la carta d' identità) e presentarvi nel punto di ingresso sulla destra del Reichstag **almeno** <mark>**15 minuti prima**</mark> **dell' orario che avete prenotato.**
+Nel giorno della dovrete innanzitutto assicurarvi di <mark>**portare con voi i documenti**</mark> necessari (la carta d'identità) e presentarvi nel punto di ingresso sulla destra del Reichstag **almeno** <mark>**15 minuti prima**</mark> **dell'orario che avete prenotato.**
 
-Questo perchè dovrete prima superare i vari **controlli di sicurezza** (controllo della prenotazione, controllo documenti, metal detector, ispezioni ecc...) e poi dovrete attendere il vostro turno per entrare all' interno del Reichstag.
+Questo perchè dovrete prima superare i vari **controlli di sicurezza** (controllo della prenotazione, controllo documenti, metal detector, ispezioni ecc...) e poi dovrete attendere il vostro turno per entrare all'interno del Reichstag.
 
-Per la visita sulla cupola prenderete **un' ascensore che vi porterà fino alla terrazza** sul tetto, sulla quale potrete prendere dei fogli informativi e l' **audioguida gratuita** (la dovete chiedere esplicitamente al banco informazioni).
+Per la visita sulla cupola prenderete **un'ascensore che vi porterà fino alla terrazza** sul tetto, sulla quale potrete prendere dei fogli informativi e l'**audioguida gratuita** (la dovete chiedere esplicitamente al banco informazioni).
 
 {{< notice tip >}}
-Se vi interessa scoprire di più sul Bunderstag, date anche un' occhiata alla mostra dedicatagli nel Deutscher Dom.
+Se vi interessa scoprire di più sul Bunderstag, date anche un'occhiata alla mostra dedicatagli nel Deutscher Dom.
 Ne abbiamo parlato nella sezione dedicata al [Deutscher Dom](/cosa-vedere-a-berlino/#deutscher-dom) della nostra [guida a Berlino](/cosa-vedere-a-berlino/).
 {{</ notice >}}
 
 ## Come arrivare al Reichstag
 
-Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell' Olocausto, Bebel Platz ecc...), ma se siete in possesso di una **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "Berlin Welcome Card" >}}**💰 oppure volete prendere i **mezzi pubblici**, potete scendere in queste **stazioni**:
+Il Palazzo del Reichstag è **facilmente raggiungibile a piedi** dalla zona della Porta di Brandeburgo (Memoriale dell'Olocausto, Bebel Platz ecc...), ma se siete in possesso di una **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-guida-reichstag" "Berlin Welcome Card" >}}**💰 oppure volete prendere i **mezzi pubblici**, potete scendere in queste **stazioni**:
 
 <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
 <g transform="translate(0 -289.06)">
@@ -297,9 +297,9 @@ Grazie per la lettura. **Buon viaggio**!
 
 ## Informazioni sul Reichstag
 
-## Cos' è il Palazzo del Reichstag?
+## Cos'è il Palazzo del Reichstag?
 
-**Il Reichstag è la sede del _Bundestag_**, l' attuale **parlamento tedesco**. Oggi, infatti, con il termine Reichstag si intende soltanto il nome dell' edificio nel quale è ospitato.
+**Il Reichstag è la sede del _Bundestag_**, l'attuale **parlamento tedesco**. Oggi, infatti, con il termine Reichstag si intende soltanto il nome dell'edificio nel quale è ospitato.
 
 ## Che significa Reichstag?
 
@@ -317,13 +317,13 @@ Deriva dalle parole
 
 **La costruzione** del Reichstag **iniziò nel 1884** con Guglielmo Ⅰ e finì dieci anni dopo, nel 1894.
 
-Una volta completato, ciò che meravigliò di più l' opinione pubblica fu suprattutto la **cupola in vetro e acciaio**, che si rivelò essere di grande **avanguardia tecnologica**.
+Una volta completato, ciò che meravigliò di più l'opinione pubblica fu suprattutto la **cupola in vetro e acciaio**, che si rivelò essere di grande **avanguardia tecnologica**.
 
-Il **27 febbraio del 1933**, l' intero edificio prese fuoco, in un **incendio** le cui dinamiche esatte sono ancora oggi poco chiare, dando ai nazisti l' opportunità per sospendere i diritti civili e ottenere maggiori poteri.
+Il **27 febbraio del 1933**, l'intero edificio prese fuoco, in un **incendio** le cui dinamiche esatte sono ancora oggi poco chiare, dando ai nazisti l'opportunità per sospendere i diritti civili e ottenere maggiori poteri.
 
-L' arrivo della **Seconda Guerra Mondiale** portò con sè molti problemi, tra i quali i **bombardamenti aerei** che finirono per **danneggiare ulteriormente** il Palazzo.
+L'arrivo della **Seconda Guerra Mondiale** portò con sè molti problemi, tra i quali i **bombardamenti aerei** che finirono per **danneggiare ulteriormente** il Palazzo.
 
-Nell' ultimo anno della Guerra, il palazzo **venne conquistato dall' Armata Rossa** sovietica, famosissima è la [foto nella quale si vede la bandiera dell' Unione Sovietica sul Palazzo](https://en.wikipedia.org/wiki/Raising_a_Flag_over_the_Reichstag).
+Nell'ultimo anno della Guerra, il palazzo **venne conquistato dall'Armata Rossa** sovietica, famosissima è la [foto nella quale si vede la bandiera dell'Unione Sovietica sul Palazzo](https://en.wikipedia.org/wiki/Raising_a_Flag_over_the_Reichstag).
 
 Con la **divisione di Berlino** il Palazzo rimase nella parte Ovest della città fino alla riunificazione.
 
@@ -331,6 +331,6 @@ Il **3 ottobre del 1990**, infatti, proprio **nel Palazzo del Reichstag** si ten
 
 Nel **1992** il Palazzo, non ancora in ottimo stato, ottene finalmente un **restauro** con il quale, tra le altre cose, vi fu la **ricostruzione della Cupola**.
 
-Tutta la storia, con le varie fotografie dell' epoca, è ben spiegata proprio all' interno della cupola, quindi assicuratevi di dare un' occhiata più approfondita agli eventi che vi hanno colpito di più proprio sul luogo.
+Tutta la storia, con le varie fotografie dell'epoca, è ben spiegata proprio all'interno della cupola, quindi assicuratevi di dare un'occhiata più approfondita agli eventi che vi hanno colpito di più proprio sul luogo.
 
 - - -

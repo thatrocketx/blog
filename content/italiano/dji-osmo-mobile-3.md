@@ -42,35 +42,35 @@ lastmod: '2020-02-11T13:02:06+00:00'
 ---
 Ciao a tutti, oggi vogliamo parlarvi di **un nostro nuovo acquisto**, il DJI **Osmo Mobile 3**, cos'è, come funziona e il nostro parere.
 
-## Cos' è l' Osmo Mobile 3
+## Cos'è l'Osmo Mobile 3
 
-L' Osmo Mobile 3 **è uno stabilizzatore video** per **smartphone** della DJI, la famosissima azienda produttrice di droni, di cui già possiedo un drone, che ho utilizzato per il video e le foto dell' articolo sull' [hotel abbandonato sul Vesuvio](/hotel-eremo-vesuvio/).
+L'Osmo Mobile 3 **è uno stabilizzatore video** per **smartphone** della DJI, la famosissima azienda produttrice di droni, di cui già possiedo un drone, che ho utilizzato per il video e le foto dell'articolo sull'[hotel abbandonato sul Vesuvio](/hotel-eremo-vesuvio/).
 
-Come potete notare dal video di anteprima su [that Rocket X](/), questo drone ha una stabilità impressionante e l' [Osmo Mobile 3](https://store.dji.com/product/osmo-mobile-3?clickpid=6910372&clicksid=6087d5910d1e34fd959050d8bb3cadee&from=dap_product&clickaid=nsKzrv1TWyvzsiaJuN0WaRGoIr8gg-Ch&pm=link&vid=83691) utilizza la stessa tecnologia di stabilizzazione utilizzata proprio da questi droni, ovvero stabilizzatori meccanici che aiutano a mantenere ferma la ripresa anche in condizioni difficili.
+Come potete notare dal video di anteprima su [that Rocket X](/), questo drone ha una stabilità impressionante e l'[Osmo Mobile 3](https://store.dji.com/product/osmo-mobile-3?clickpid=6910372&clicksid=6087d5910d1e34fd959050d8bb3cadee&from=dap_product&clickaid=nsKzrv1TWyvzsiaJuN0WaRGoIr8gg-Ch&pm=link&vid=83691) utilizza la stessa tecnologia di stabilizzazione utilizzata proprio da questi droni, ovvero stabilizzatori meccanici che aiutano a mantenere ferma la ripresa anche in condizioni difficili.
 
 La nostra versione dello stabilizzatore è quella "normale", ovvero quella senza accessori, ma se volete esiste anche la **versione combo** che comprende anche una custodia per trasportare il gimbal e un treppiedi. Se volete potete [acquistarla su Amazon cliccando qui](https://amzn.to/2QNHN9l)💰 (di fianco trovate anche quella base, potete effettuare il cambio dal menu).
 
-{{<img "Custodia dell' Osmo Mobile 3 chiusa, vista frontale" "/img/articoli/osmo-1.jpeg">}}
+{{<img "Custodia dell'Osmo Mobile 3 chiusa, vista frontale" "/img/articoli/osmo-1.jpeg">}}
 
 ## La confezione
 
-La scatola dell' Osmo Mobile 3 si presenta molto basica, con una semplice immagine dell' Osmo su fondo bianco e il logo della DJI, classica, come lo era per il drone.
+La scatola dell'Osmo Mobile 3 si presenta molto basica, con una semplice immagine dell'Osmo su fondo bianco e il logo della DJI, classica, come lo era per il drone.
 
-Noi abbiamo comprato la **[versione base](https://store.dji.com/product/osmo-mobile-3?clickpid=6910372&clicksid=6087d5910d1e34fd959050d8bb3cadee&from=dap_product&clickaid=nsKzrv1TWyvzsiaJuN0WaRGoIr8gg-Ch&pm=link&vid=83691)** e, quindi, al suo interno abbiamo trovato l' Osmo (naturalmente), un sacchetto, un laccio di sicurezza (per fissarlo al braccio) e un cavo USB per ricaricarlo.
+Noi abbiamo comprato la **[versione base](https://store.dji.com/product/osmo-mobile-3?clickpid=6910372&clicksid=6087d5910d1e34fd959050d8bb3cadee&from=dap_product&clickaid=nsKzrv1TWyvzsiaJuN0WaRGoIr8gg-Ch&pm=link&vid=83691)** e, quindi, al suo interno abbiamo trovato l'Osmo (naturalmente), un sacchetto, un laccio di sicurezza (per fissarlo al braccio) e un cavo USB per ricaricarlo.
 
-L' Osmo utilizza un attacco USB di tipo C quindi se si dovesse rompere **potete utilizzare anche quello di un cellulare** di ultima generazione (non iPhone però e attenzione, alcuni vecchi cellulari usano la mini USB, controllate questa cosa), visto che l' Osmo Mobile è, appunto, mobile, quindi per cellulari, questa cosa vi tornerà utile perché potrete **ricaricare il vostro cellulare e l' Osmo con lo stesso caricabatterie**.
+L'Osmo utilizza un attacco USB di tipo C quindi se si dovesse rompere **potete utilizzare anche quello di un cellulare** di ultima generazione (non iPhone però e attenzione, alcuni vecchi cellulari usano la mini USB, controllate questa cosa), visto che l'Osmo Mobile è, appunto, mobile, quindi per cellulari, questa cosa vi tornerà utile perché potrete **ricaricare il vostro cellulare e l'Osmo con lo stesso caricabatterie**.
 
 {{<img "Foto di that Rocket X" "/img/articoli/osmo-3.jpg">}}
 
 ## App DJI e attivazione
 
-Per attivare l' Osmo bisogna **scaricare l' app DJI Mimo dal [Play Store](https://play.google.com/store/apps/details?id=dji.mimo) o dall' [App Store](https://apps.apple.com/us/app/dji-mimo/id1431720653)**, che servirà anche a controllare l' Osmo in tutte le funzionalità.
+Per attivare l'Osmo bisogna **scaricare l'app DJI Mimo dal [Play Store](https://play.google.com/store/apps/details?id=dji.mimo) o dall'[App Store](https://apps.apple.com/us/app/dji-mimo/id1431720653)**, che servirà anche a controllare l'Osmo in tutte le funzionalità.
 
-L' app è **molto intuitiva** e abbastanza semplice, in ogni caso bisognerà **seguire le procedure indicate** e accendere il gimbal e accoppiarlo al vostro cellulare tramite **Bluetooth** (5.0).
+L'app è **molto intuitiva** e abbastanza semplice, in ogni caso bisognerà **seguire le procedure indicate** e accendere il gimbal e accoppiarlo al vostro cellulare tramite **Bluetooth** (5.0).
 
-Una volta finito **non cancellate l' app**, perché vi servirà tutte le volte che vorrete utilizzare l' Osmo, come ad esempio per stabilizzarlo in orizzontale o in verticale e utilizzare le **tantissime modalità presenti** e che cercheremo di utilizzare anche noi nei prossimi mesi. Apparte questo, per manovrare il gimbal basta **utilizzare il joystick centrale** a portata di pollice dall' impugnatura.
+Una volta finito **non cancellate l'app**, perché vi servirà tutte le volte che vorrete utilizzare l'Osmo, come ad esempio per stabilizzarlo in orizzontale o in verticale e utilizzare le **tantissime modalità presenti** e che cercheremo di utilizzare anche noi nei prossimi mesi. Apparte questo, per manovrare il gimbal basta **utilizzare il joystick centrale** a portata di pollice dall'impugnatura.
 
-<div style="width:100%"><div style="float:left; width: 50%">{{<img "L' osmo con un cellulare sopra in orizzontale" "/img/articoli/osmo-8.jpg">}}</div><div style="width:50%;float:right;">{{<img "Retro dell' Osmo" "/img/articoli/osmo-9.jpg">}}</div></div>
+<div style="width:100%"><div style="float:left; width: 50%">{{<img "L'osmo con un cellulare sopra in orizzontale" "/img/articoli/osmo-8.jpg">}}</div><div style="width:50%;float:right;">{{<img "Retro dell'Osmo" "/img/articoli/osmo-9.jpg">}}</div></div>
 
 Tra le tante modalità troviamo:
 
@@ -88,7 +88,7 @@ Con questa modalità è possibile scattare ampie foto panoramiche, molto più pr
 
 ### Motion Time Lapse
 
-Questa è molto simpatica e permette di creare timelapse che si muovono, cambiando l' angolazione delle foto durante gli scatti. Il risultato finale è davvero eccezionale.
+Questa è molto simpatica e permette di creare timelapse che si muovono, cambiando l'angolazione delle foto durante gli scatti. Il risultato finale è davvero eccezionale.
 
 ### ActiveTrack per tracciare il volto
 
@@ -100,18 +100,18 @@ Questa è una funzione più "rapida" che funzionale, in pratica cliccando un bot
 
 ## Il nostro parere
 
-Ormai sono passati sei mesi da quando abbiamo utilizzato per la prima volta l' Osmo, sulle spiagge di Napoli.
+Ormai sono passati sei mesi da quando abbiamo utilizzato per la prima volta l'Osmo, sulle spiagge di Napoli.
 
 Lo stabilizzatore è ottimo, ma non lo abbiamo provato in condizioni critiche, ma per quanto riguarda il semplice camminare va benissimo, soprattutto in città e in montagna (sul Vesuvio per noi).
 
-Le modalità sono davvero ben fatte e funzionano bene. L' app è abbastanza chiara, anche se potrebbe essere sempre migliorata graficamente.
+Le modalità sono davvero ben fatte e funzionano bene. L'app è abbastanza chiara, anche se potrebbe essere sempre migliorata graficamente.
 
-L' unico problema è che se si ha un cellulare con una batteria scarsa e che si scarica velocemente, allora utilizzare il Bluetooth peggiorerà soltanto la situazione.
+L'unico problema è che se si ha un cellulare con una batteria scarsa e che si scarica velocemente, allora utilizzare il Bluetooth peggiorerà soltanto la situazione.
 
-Un altro problema è come tenerlo all' impiedi. L' Osmo Mobile 3 non si mantiene in piedi da solo, perché ha una base smussata, quindi se non avete un treppiedi e volete usarlo in una posizione stabile, allora probabilmente vi conviene acquistare la versione combo, oppure prenderne uno. Il treppiede presente nella versione combo ha un classico attacco con vite per fotocamere (tipo F), quindi se già ne avete uno potete acquistare la versione normale e risparmiare un po' di soldi.
+Un altro problema è come tenerlo all'impiedi. L'Osmo Mobile 3 non si mantiene in piedi da solo, perché ha una base smussata, quindi se non avete un treppiedi e volete usarlo in una posizione stabile, allora probabilmente vi conviene acquistare la versione combo, oppure prenderne uno. Il treppiede presente nella versione combo ha un classico attacco con vite per fotocamere (tipo F), quindi se già ne avete uno potete acquistare la versione normale e risparmiare un po'di soldi.
 In ogni caso, questo è un oggetto che di solito **va utilizzato in movimento** quindi se lo utilizzate per i nostri stessi scopi (in viaggio), allora non vi servirà.
 
-<div style="width: 100%"><div style="width: 50%; float: left">{{<img "La base del DJI Osmo Mobile 3 è smussata ai lati" "/img/articoli/osmo-4.jpg">}}</div><div style="width: 50%; float: right">{{<img "L' Osmo Mobile 3 con il treppiedi" "/img/articoli/osmo-5.jpg">}}</div></div>
+<div style="width: 100%"><div style="width: 50%; float: left">{{<img "La base del DJI Osmo Mobile 3 è smussata ai lati" "/img/articoli/osmo-4.jpg">}}</div><div style="width: 50%; float: right">{{<img "L'Osmo Mobile 3 con il treppiedi" "/img/articoli/osmo-5.jpg">}}</div></div>
 
 I video stabilizzati vengono davvero molto bene. Naturalmente bisogna avere a disposizione un cellulare con una buona fotocamera, perché altrimenti si rischia di avere un semplice video con la risoluzione di una videocamera degli anni 20, ma con una stabilità ottima... Questo è, naturalmente, da tener presente.
 

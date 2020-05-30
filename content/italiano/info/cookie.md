@@ -30,6 +30,6 @@ Ecco i cookie che utilizziamo su questo sito:
 -   testCookie (Domain: mediacdn.disqus.com) - Controllo cookie
 
 ### Da GetYourGuide
--   visitorId (dominio: widget.getyourguide.com, durata: sessione) - **cookie tracciante** per tracciare l' ID dell' utente che clicca sul banner.
+-   visitorId (dominio: widget.getyourguide.com, durata: sessione) - **cookie tracciante** per tracciare l'ID dell'utente che clicca sul banner.
 
 Per ora non disponiamo di opt-out, ma in futuro molto probabilmente vi sarà un aggiornamento per escludersi dal tracciamento dei cookie (appena riusciamo a farlo funzionare).

@@ -1,0 +1,29 @@
+{{ $geo := .Get 0 }}
+{{ $lat := $geo | replaceRE "geo:(\\d+.\\d+),(\\d+.\\d+)\\?z=(\\d+)" "$1"}}
+{{ $lon := $geo | replaceRE "geo:(\\d+.\\d+),(\\d+.\\d+)\\?z=(\\d+)" "$2"}}
+{{ $zoom := $geo | replaceRE "geo:(\\d+.\\d+),(\\d+.\\d+)\\?z=(\\d+)" "$3"}}
+<div class="bg-light dark-bg-dark text-dark dark-text-white border p-2 text-center m-4">
+  <div class="row">
+    <div class="col-md-5">
+    <a {{ printf "href=\"%s\"" $geo | safeHTMLAttr }}>
+<img class="rounded w-100 lazyloaded" data-src="https://osm-static-maps.herokuapp.com/?geojson=[{%22type%22:%22Feature%22,%22geometry%22:{%22type%22:%22Point%22,%22coordinates%22:[{{ $geo | replaceRE "geo:(\\d+.\\d+),(\\d+.\\d+)\\?z=(\\d+)" "$2,$1"}}]}}]&height=100&width=300&zoom=13">
+</a>
+</div>
+<div class="col">
+  {{ $urlPre := "https://nominatim.openstreetmap.org/reverse" }}
+  {{ $gjson := getJSON $urlPre "?lat=" $lat "&lon=" $lon "&format=jsonv2&accept-language=it&zoom=15&namedetails=1" }}
+  {{ with $gjson }}
+        <p class="h4">{{ $gjson.namedetails.name | safeHTML }}</p>
+        <p class="h6">{{ $gjson.address.city | safeHTML }}</p>
+  {{end}}
+  <div class="row">
+  <div class="col align-middle mt-2">
+    <a href="https://www.google.com/maps/place/@{{ $lat }},{{ $lon }},{{ $zoom }}z">Google Maps</a>
+  </div>
+  <div class="col-sm align-middle mt-2">
+  <a href="https://www.openstreetmap.org/?mlat={{ $lat }}&mlon={{ $lon }}#map={{ $zoom }}/{{ $lat }}/{{ $lon }}">OpenStreetMap</a>
+  </div>
+  </div>
+  </div>
+  </div>
+</div>

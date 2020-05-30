@@ -1,7 +1,8 @@
 {{ $readingtime := .ReadingTime }}
 {{ $readingtimeone := 1 }}
-<div class="card shadow my-2 rounded-lg mw-700 mx-auto overflow-hidden" aria-describedby="sommario">
+<div class="card shadow my-2 rounded-lg mw-700 mx-auto overflow-hidden dark-bg-dark" aria-describedby="sommario">
   <a href="{{ .URL }}" class="no-underline">
+    {{ if (isset .Params "immagine") }}
     <div class="card-img-top overflow-hidden h-291">
       {{ if and (isset .Params "videoself") }}
       <video autoplay loop muted playsinline class="of-cover w-100 h-100 lazyloaded" poster="{{ .Params.immagine }}" data-src="{{ .Params.videoseo }}" tabindex="-1"></video>
@@ -9,16 +10,17 @@
         {{ if (isset .Params "immagine") }}<img src="{{ .Params.immagine }}" class="of-cover w-100 h-100" alt="" aria-describedby="sommario">{{end}}
         {{end}}
     </div>
+    {{ end }}
     <div class="card-body">
       {{ if (isset .Params "categories") }}{{range .Params.categories}}<span class="badge badge-secondary bg-primary">{{ . }}</span> {{ end }} {{ end }}
-      <h1 class="h3 text-dark">{{ .Title }}</h1>
-      <div id="sommario" class="text-muted mh-130 overflow-hidden text-truncate">{{ if (isset .Params "sottotitolo")}} {{ .Params.description }} {{ else }} {{ .Summary | plainify | safeHTML }}{{if .Truncated }}<span class="leggi-altro"> {{ T "leggi-altro"}}</span>{{end}}{{ end }}</div>
+      <h1 class="h3 text-dark dark-text-white">{{ .Title }}</h1>
+      <div id="sommario" class="text-muted mh-130 overflow-hidden text-truncate dark-text-muted">{{ if (isset .Params "sottotitolo")}} {{ .Params.description }} {{ else }} {{ .Summary | plainify | safeHTML }}{{if .Truncated }}<span class="leggi-altro"> {{ T "leggi-altro"}}</span>{{end}}{{ end }}</div>
     </div>
-    <div class="card-footer text-muted">
+    <div class="card-footer text-muted dark-text-muted">
       <div class="row">
         <div class="col-sm-8">
           {{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "2/1/2006" -}}</time> -
-          <span class="tempo-lettura" role="img" aria-label="{{ T "tempo_lettura"}}" title="{{ T "tempo_lettura"}}"><span class="sr-only">{{ T "tempo_lettura"}}:</span></span>
+          <img src="/icons/clock.svg" width="20" class="d-inline-block"><span class="sr-only">{{ T "tempo_lettura"}}:</span></span>
           {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}
           {{else}}{{ T "lett_mins"}}{{end}} {{end}}
         </div>

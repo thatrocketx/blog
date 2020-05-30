@@ -78,7 +78,7 @@ Lo **strudel** è un dolce a pasta arrotolata o ripiena che può essere dolce o 
 
 ### LA PILS
 
-E' una birra, nata nella città di **Plzeň**, nella regione della Boemia in Repubblica Ceca. Si distingue dalle altre birre per il ruolo marcato del luppolo. La Pils è nata nel 1842 dalla combinazione del colore pallido dovuto dal rinomato luppolo di **Žatec**.
+È una birra, nata nella città di **Plzeň**, nella regione della Boemia in Repubblica Ceca. Si distingue dalle altre birre per il ruolo marcato del luppolo. La Pils è nata nel 1842 dalla combinazione del colore pallido dovuto dal rinomato luppolo di **Žatec**.
 
 ### BERLINER WEISSE
 
@@ -94,7 +94,7 @@ Si tratta di una birra a bassa fermentazione), sebbene originariamente durante l
 
 ## **RISTORANTI A BERLINO E IL CONTO**
 
-Berlino è piena di ristoranti e posti in cui mangiare il ripico street food. La scelta è così varia che ce n’è per tutti i gusti e per tutte le tasche. Inoltre, il conto va chiesto esplicitamente. Se, **caso raro**, non dovessero sapere l' inglese, in tedesco potreste dire:
+Berlino è piena di ristoranti e posti in cui mangiare il ripico street food. La scelta è così varia che ce n’è per tutti i gusti e per tutte le tasche. Inoltre, il conto va chiesto esplicitamente. Se, **caso raro**, non dovessero sapere l'inglese, in tedesco potreste dire:
 
 > **Zahlen, bitte**
 

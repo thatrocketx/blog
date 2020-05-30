@@ -5,12 +5,12 @@
 <script src="/js/search{{ .Language.Lang }}.js"></script>
 {{ end }}
 {{ define "main" }}
-<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+<section class="resume-section p-3 p-lg-5 d-flex flex-column mnh-300">
   <div class="my-auto" >
-    <form action="{{ .RelPermalink }}">
-      <input id="search-query" name="s" class="ricerca" placeholder="{{ T "cerca404"}}" type="search" autofocus/>
+    <form action="{{ .RelPermalink }}" class="input-group-lg my-4">
+      <input id="search-query" name="s" class="form-control rounded" placeholder="{{ T "cerca404"}}" type="search" autofocus/>
     </form>
-    <div id="search-results">
+    <div id="search-results" class="mnh-300">
       <noscript> <h3><strong>{{ T "ricerca-nojs" }}</strong> <br><a href="https://www.google.com/search?q=site%3Athatrocketx.com" rel="nofollow">Google</a> - <a href="https://duckduckgo.com/?q=site%3Athatrocketx.com" rel="nofollow">DuckDuckGo</a> - <a href="https://www.bing.com/search?q=site%3Athatrocketx.com" rel="nofollow">Bing</a> - <a href="https://www.startpage.com/do/metasearch.pl?query=site%3Athatrocketx.com" rel="nofollow">Startpage</a> - <a href="https://www.qwant.com/?q=site%3Athatrocketx.com" rel="nofollow">Qwant</a> - <a href="https://www.ecosia.org/search?q=site%3Athatrocketx.com" rel="nofollow">Ecosia</a></h3> </noscript>
      <h3>{{ T "risultati-ricerca"}}</h3>
     </div>
@@ -18,10 +18,12 @@
 </section>
 <!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
 <script id="search-result-template" type="text/x-js-template">
-    <div id="summary-${key}" class="risultato">
-      <h4 class="risultato-titolo"><a href="${link}">${title}</a></h4>
-      ${ isset categories }${categories}${ end }
-	  <p>${snippet}</p>
+    <a href="${link}" id="summary-${key}" class="card my-3 dark-bg-dark text-dark dark-text-white">
+      <div class="card-body">
+      <h4 class="risultato-titolo">${title}</h4>
+      <p class="card-subtitle mb-2 text-muted dark-text-muted">${ isset categories }${categories}${ end }</p>
+	 <p class="card-text">${snippet}</p>
     </div>
+    </a>
 </script>
 {{ end }}

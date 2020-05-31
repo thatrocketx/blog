@@ -44,7 +44,7 @@ adside: '<img
 publishdate: 2019-08-28T09:00:15.000Z
 expirydate: " "
 scadenza: ""
-lastmod: 2020-03-07T17:16:00.000Z
+lastmod: 2020-05-31T14:03:00.000Z
 ---
 {{< notice note >}}
 Sei affascinato dall'Hotel Eremo? [**Vota l'Hotel Eremo** al Vesuvio come **Luogo del Cuore** sul sito del **Fondo Ambiente Italiano (FAI)** per provare a proteggerlo!](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc) Abbiamo tempo **fino al 15 dicembre** per arrivare almeno tra i primi posti! 💪
@@ -108,7 +108,7 @@ Da qui è possibile rendersi conto di quanto fosse grande l'hotel: si può notar
 {{< img "Parte della terrazza dell'Hotel Eremo con oggetti abbandonati." "/img/articoli/eremo-terrazza.jpg" >}}
 ​
 
-Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l'ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattata una da una delle finestre dell'hotel. Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti segni satanici, che ora sembrano essere stati cancellati per la maggior parte o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​
+Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l'ampio piazzale con al suo centro una **statua di Gesù** i cui occhi sono stati verniciati di rosso.  Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti graffiti con simbologia satanica, che ora sembrano essere stati cancellati per la maggior parte o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​ È sicuramente uno dei simboli più iconici dell'Hotel, fotografato da quasi ogni turista.
 
 {{< img "Foto della statua di Gesù nel piazzale dell'Hotel Eremo, vista da lontano." "/img/articoli/eremo-statua-gesu.jpg" >}}
 

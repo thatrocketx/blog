@@ -50,11 +50,11 @@ lastmod: 2020-03-07T17:16:00.000Z
 Sei affascinato dall'Hotel Eremo? [**Vota l'Hotel Eremo** al Vesuvio come **Luogo del Cuore** sul sito del **Fondo Ambiente Italiano (FAI)** per provare a proteggerlo!](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc) Abbiamo tempo **fino al 15 dicembre** per arrivare almeno tra i primi posti! 💪
 {{</ notice >}}
 
-Vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
+A Ercolano, vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
 
-Ciò che rende quest'hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l'_(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un'ottima presenza "_turistica_" grazie agli amanti dei luoghi abbandonati.
+Ciò che rende questo hotel **diverso** da tutti gli altri è sì la sua bellezza, ma anche **la sua storia**. Questo è l'_(ex)_ **Hotel Eremo**. Un hotel che ancora oggi gode di un'ottima presenza "_turistica_" grazie agli amanti dei luoghi abbandonati.
 
-Anche noi, come molte persone, **abbiamo deciso di andarci di persona** (e ci siamo ritornati più volte) per vederlo dal vivo e soddisfare quella strana voglia di **esplorare** i **luoghi più nascosti**, poco frequentati dai turisti (in inglese direbbero _urban exploration_ [^1], per dare un'occhiata in giro e tornare per qualche ora indietro nel tempo e provare ad immaginare come era in passato, prima che i soggiorni nell'hotel cessassero e l'hotel venisse abbandonato.​
+Anche noi, come molte persone, **abbiamo deciso di andare e vederlo** (e ci siamo ritornati più volte) dal vivo e soddisfare quella strana voglia di **esplorare** i **luoghi più nascosti**, poco frequentati dai turisti (in inglese direbbero _urban exploration_ [^1]), per dare un'occhiata in giro e tornare per qualche ora indietro nel tempo e provare ad immaginare come era in passato, prima che i soggiorni nell'hotel cessassero e l'hotel venisse abbandonato.​
 
 In questo articolo vi racconteremo **la nostra esperienza** durante la nostra visita all'**Hotel Eremo**: cosa abbiamo visto e **cosa abbiamo scoperto** di questo piccolo **gioiello abbandonato** sul **Vesuvio**.​
 
@@ -62,11 +62,12 @@ In questo articolo vi racconteremo **la nostra esperienza** durante la nostra vi
 
 
 ## Una breve introduzione - La storia dell'Hotel Eremo e del suo abbandono​
-L'Hotel Eremo **venne costruito** a partire dal **1902**, molto probabilmente voluto da _John Mason Cook_, l'allora proprietario della Thomas Cook (la stessa compagnia che operava aerei e offriva viaggi, fallita il 23 settembre del 2019) per **ospitare i turisti** che visitavano il **Vesuvio** utilizzando la vecchia ferrovia che collegava Ercolano con il vulcano. La Cook aveva infatti avuto in concessione la costruzione della **ferrovia Pugliano-Vesuvio**, sulla base di un vecchio progetto e, tra le varie tappe, aveva appunto inserito la fermata _Eremo_ per le persone che volessero fermarsi a soggiornarvi.  Successivamente, durante il periodo di prima decadenza del turismo, l'intero impianto ferroviario venne ceduto ad un'altra società.​
+L'Hotel Eremo **venne costruito** a partire dal **1902** [^2], molto probabilmente voluto da _John Mason Cook_, l'allora proprietario della Thomas Cook (la stessa compagnia è fallita poi nel 2019 []) per **ospitare i turisti** che visitavano il **Vesuvio** utilizzando la vecchia ferrovia che collegava Ercolano con il vulcano. La Cook aveva infatti avuto in concessione la costruzione della **ferrovia Pugliano-Vesuvio**, sulla base di un vecchio progetto [^2] e, tra le varie tappe, aveva appunto inserito la fermata _Eremo-Osservatorio_ [^3] per le persone che volessero fermarsi a soggiornarvi.  Successivamente, durante il periodo di prima decadenza del turismo, l'intero impianto ferroviario venne ceduto ad un'altra società.​
 
-Con le **eruzioni** del Vesuvio che si manifestarono nel '900, tra le quali ricordiamo l'[eruzione del 1944](https://it.wikipedia.org/wiki/Eruzione_del_Vesuvio_del_1944), parte della linea ferroviaria venne danneggiata e per questo motivo vi fu un **notevole calo di traffico** turistico, complici anche i conflitti della Seconda Guerra Mondiale. Nel 1951 **l'hotel venne ceduto a privati**, ma successivamente, a causa della costruzione della nuova strada provinciale, la ferrovia che lo accompagnava venne definitvamente soppressa. Per chi volesse approfondire la storia dell'Eremo e della ferrovia, consiglio la lettura dell'[articolo scritto da lestradeferrate](http://www.lestradeferrate.it/mono67.htm) e la [pagina Wikipedia dedicata](https://it.wikipedia.org/wiki/Ferrovia_Pugliano-Vesuvio).​
+Con le **eruzioni** del Vesuvio che si manifestarono nel '900, tra le quali ricordiamo l'[eruzione del 1944](https://it.wikipedia.org/wiki/Eruzione_del_Vesuvio_del_1944), parte della linea ferroviaria venne danneggiata e per questo motivo vi fu un **notevole calo di traffico** turistico, complici anche i conflitti della Seconda Guerra Mondiale [^2]. Nel 1951 **l'hotel venne ceduto a privati**, ma successivamente, a causa della costruzione della nuova strada provinciale, la ferrovia che lo accompagnava venne definitvamente soppressa [^2][^3]. Per chi volesse approfondire la storia dell'Eremo e della ferrovia, consiglio la lettura dell'[articolo scritto da lestradeferrate](http://www.lestradeferrate.it/mono67.htm) e la [pagina Wikipedia dedicata](https://it.wikipedia.org/wiki/Ferrovia_Pugliano-Vesuvio).​
 
-Non siamo riusciti a trovare informazioni chiare sul perché l'hotel sia stato abbandonato, ma è molto probabile che i costi di manutenzione non giustificassero la scarsa richiesta. Probabilmente la distanza dell'hotel dal centro ha giocato un ruolo chiave per l'**abbandono**.​
+L'Hotel passò quindi a privati che lo gestirono all'incirca fino agli anni '70/'80[^3].
+Non siamo riusciti a trovare informazioni chiare sul perché l'hotel sia stato abbandonato, ma è molto probabile che i costi di manutenzione non giustificassero la scarsa richiesta e sia quindi fallito [^3]. Probabilmente anche la distanza dell'hotel dal centro città ha giocato un ruolo chiave per l'**abbandono**.​
 
 ## Arrivo all'hotel​
 Il nostro primo incontro con questo edificio lo abbiamo avuto per puro caso, seguendo uno dei **sentieri del Parco Nazionale del Vesuvio** che abbiamo scoperto essere il numero 4.​
@@ -172,3 +173,6 @@ Ormai non crediamo ci sia alcuna speranza di **rivederlo così com'era** una vol
 <a href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc" class="noext">{{< img "Vota l'Hotel Eremo sul sito del FAI" "/img/articoli/fai-eremo.jpg" " ">}}</a>
 
 [^1]: Andare in posti in cui non si dovrebbe. ([Urban Dictionary](https://www.urbandictionary.com/define.php?term=urban+exploration))
+[^2]: Fonte: [Ferrovia Pugliano-Vesuvio su Wikipedia](https://it.wikipedia.org/wiki/Ferrovia_Pugliano-Vesuvio)
+[^3]: Fonte: [La stazione di Eremo-Osservatorio di lestradeferrate.it](http://www.lestradeferrate.it/67vesuvio/67eremo.htm)
+[^4]: Fonte: [Thomas Cook Group su Wikipedia](https://it.wikipedia.org/wiki/Thomas_Cook_Group)

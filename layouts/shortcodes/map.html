@@ -11,9 +11,9 @@
 </div>
 <div class="col">
   {{ $urlPre := "https://nominatim.openstreetmap.org/reverse" }}
-  {{ $gjson := getJSON $urlPre "?lat=" $lat "&lon=" $lon "&format=jsonv2&accept-language=it&zoom=15&namedetails=1" }}
+  {{ $gjson := getJSON $urlPre "?lat=" $lat "&lon=" $lon "&format=jsonv2&accept-language=it&zoom=17" }}
   {{ with $gjson }}
-        <p class="h4">{{ $gjson.namedetails.name | safeHTML }}</p>
+        <p class="h4">{{ if $gjson.address.road }}{{ $gjson.address.road | safeHTML }}{{ else if $gjson.address.suburb }}{{ $gjson.address.suburb | safeHTML }}{{ else }}{{ $gjson.address.county }}{{ end }}</p>
         <p class="h6">{{ $gjson.address.city | safeHTML }}</p>
   {{end}}
   <div class="row">

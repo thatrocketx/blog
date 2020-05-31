@@ -57,8 +57,8 @@ Quando si va in una città si ha sempre la voglia di trovare qualche luogo "stra
 ### Friede sei mit Dir
 
 È un **murale "particolare"** che si trova sulla sede di uno dei giornali più famosi della Germania, il Taz, vicinissimo a Checkpoint Charlie.
-L'opera è puramente **satirica** e fu **dedicata all'ex direttore di un altro giornale** famoso, il Bild. Si diceva, infatti, che il direttore si fosse **sottoposto ad un intervento** per allungarsi in quel senso.
-Il nome dell'opera significa letteralmente **"La pace sia con te"**, ma il nome originale nasconde dei giochi di parola al suo interno.
+L'opera è puramente **satirica** e fu **dedicata all'ex direttore di un altro giornale** famoso in patria, il Bild. Si diceva, infatti, che il direttore si fosse **sottoposto ad un intervento** per allungarsi in quel senso.
+Il nome dell'opera significa letteralmente **"La pace sia con te"**, ma il nome originale nasconde dei giochi di parola al suo interno. [^1]
 
 Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza innocuo.
 
@@ -66,7 +66,12 @@ Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza
 
 ### Spreepark
 
-**Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la **prenotazione online anticipata** ([vedere qui](/cosa-vedere-a-berlino#cosa-vedere-su-prenotazione)). Il parco **fu, per un lungo periodo di tempo, l'unico parco divertimenti di Berlino Est** e il migliore di tutta la Germania dell'Est. Col passare del tempo, **l'aumento dei prezzi portò ad un traffico sempre minore**, fino a quando, nel 2001, **chiuse per i troppi debiti**. Uno dei proprietari venne accusato, successivamente, di aver cercato di trasportare ben **180 kg di cocaina**, nascondendola in una delle attrazioni. Nel 2014 venne acquistato dalla città di Berlino. Oggi **il parco è visitabile soltanto se accompagnati da una guida turistica** che si può prenotare online (scavalcare i cancelli è illegale). Si trova a qualche chilometro da East Side Gallery.
+**Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la **prenotazione online anticipata** ([vedere qui](/cosa-vedere-a-berlino#cosa-vedere-su-prenotazione)). Il parco **fu, per un lungo periodo di tempo, l'unico parco divertimenti di Berlino** e il migliore di tutta la Germania dell'Est.
+Col passare del tempo, **l'aumento dei prezzi portò ad un traffico sempre minore**, fino a quando, nel 2001, **chiuse per i troppi debiti**.
+Uno dei proprietari venne accusato, successivamente, di aver cercato di trasportare ben **180 kg di cocaina**, nascondendola in una delle attrazioni.
+Nel 2014 venne acquistato dalla città di Berlino. Oggi **il parco è visitabile soltanto se accompagnati da una guida turistica** [^2], che si può prenotare online (scavalcare i cancelli è illegale).
+Si trova a qualche chilometro da East Side Gallery.
+
 **A PAGAMENTO (5€ - SOLO SU PRENOTAZIONE)** ([sito per la prenotazione](https://gruen-berlin.de/en/spreepark/visitor-information-0))
 
 {{< map "geo:52.48546,13.48860?z=17" >}}
@@ -78,7 +83,7 @@ Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza
 
 Ci si può fare un giro se si va al [Deutsches Technikmuseum](/cosa-vedere-a-berlino/#deutsches-technikmuseum) in quanto si trova proprio di fronte.
 
-È un **parco costruito su una vecchia ferrovia**. Al centro **c'è ancora il binario** e ci si può fermare per farsi la classica foto sui binari, senza il rischio di essere travolti da un treno, noi l'abbiamo fatta!
+È un **parco costruito su una vecchia ferrovia** [^3]. Al centro **c'è ancora il binario** e ci si può fermare per farsi la classica foto sui binari, senza il rischio di essere travolti da un treno, noi l'abbiamo fatta!
 
 {{< map "geo:52.49394,13.37526?z=17" >}}
 
@@ -87,17 +92,17 @@ Ci si può fare un giro se si va al [Deutsches Technikmuseum](/cosa-vedere-a-ber
 {{< img "Interno della chiesa" "/img/articoli/parochialkirche_compressed.jpg" >}}
 
 
-Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondiale**. Ora è in ricostruzione.
+Vecchia chiesa del 1695 **fortemente danneggiata durante la Seconda Guerra Mondiale** [^4]. Ora è in ricostruzione.
 
 {{< map "geo:52.51699,13.41265?z=19" >}}
 
 ### Bunker di Hitler (Führerbunker)
 
-**Luogo nel quale era situato il bunker di Hitler**. Oggi è un **parcheggio**, un cartello spiega come era strutturato.
+**Luogo nel quale era situato il bunker di Hitler**. Oggi è un **parcheggio**, un cartello spiega come era strutturato [^5].
 
 Si trova **qualche metro dopo il Memoriale dell'Olocausto**.
 
-Piccola curiosità: se avete visto il film [Lui è tornato](https://it.wikipedia.org/wiki/Lui_%C3%A8_tornato_(film)), che trovate anche su [Netflix](https://www.netflix.com/it/title/80094357), nella scena iniziale il luogo in cui Hitler "risorge" è proprio questo parcheggio.
+Piccola curiosità: se avete visto il film [Lui è tornato](https://it.wikipedia.org/wiki/Lui_%C3%A8_tornato_(film)), che trovate anche su [Netflix](https://www.netflix.com/it/title/80094357), nella scena iniziale il luogo in cui Hitler "risorge" è proprio questo parcheggio. [^6]
 
 {{< map "geo:52.51258,13.38064?z=19" >}}
 
@@ -106,32 +111,30 @@ Piccola curiosità: se avete visto il film [Lui è tornato](https://it.wikipedia
 {{< img "Statua dell'ampelmann" "/img/articoli/statua-gigante-omino-del-semaforo-ampelmann_compressed.jpg" >}}
 
 
-Rimanenza di una **[vecchia installazione artistica](https://www.ottmar-hoerl.de/en/projects/2015/2015_einheitsmaennchen.php) del 2015 per commemorare il 25° anniversario della Riunificazione della Germania**.
+Rimanenza di una **vecchia installazione artistica del 2015 per commemorare il 25° anniversario della Riunificazione della Germania**.
 
-Mostra una versione più dettagliata del famoso omino del semaforo (Ampelmann), che per l'occasione prende il nome di Einheitsmännchen ovvero **Omino dell'Unità**. L'opera artistica fu elaborata dal Prof. Ottmar Hörl su commissione dello Stato Federale dell'Hesse. Lo stesso tipo di installazione fu posta anche in altri luoghi della Germania come Stoccarda e Francoforte sul Meno.
+Mostra una versione più dettagliata del famoso omino del semaforo (Ampelmann), che per l'occasione prende il nome di Einheitsmännchen ovvero **Omino dell'Unità**. L'opera artistica fu elaborata dal Prof. Ottmar Hörl su commissione dello Stato Federale dell'Hesse. Lo stesso tipo di installazione fu posta anche in altri luoghi della Germania come Stoccarda e Francoforte sul Meno. [^7]
 
-Si trova a qualche metro a sud del memoriale dell'Olocausto, a **Ministergärten**.
+Si trova a qualche metro a sud del memoriale dell'Olocausto, vicino **Ministergärten**.
 
 {{< map "geo:52.51176,13.37744?z=19" >}}
 
-  ### Tempelhofer Feld
+### Tempelhofer Feld
 
-**Vecchio aeroporto abbandonato** di Berlino che ora funge da parco pubblico.
+**Vecchio aeroporto abbandonato** di Berlino che ora funge da parco pubblico. [^8]
 
-Nato come Aeroporto di Berlino Tempelhof nel 1923, è un luogo storico di notevole importanza: qui vi fu la **prima dimostrazione di volo** di  Armand Zipfel e di Orville Wright nel 1909 (prima che lo spazio diventasse effettivamente un aeroporto).
+Nato come Aeroporto di Berlino Tempelhof nel 1923, è un luogo storico di notevole importanza: qui **venne fondata**, nel 1926, **la Lufthansa** [^9], la compagnia aerea che precedeva la *nuova Lufthansa* [^10], che ancora oggi effettua voli da e per la Germania.
+Durante il periodo nazista ricevette un notevole ristrutturamento, che lo portò ad ingrandirsi tanto da diventare **uno degli edifici più grandi al mondo** [^9].
 
-Qui **venne fondata**, nel 1926, **la Lufthansa**, la compagnia aerea che precedeva la *nuova Lufthansa*, che ancora oggi effettua voli da e per la Germania.
-Durante il periodo nazista ricevette un notevole ristrutturamento, che lo portò ad ingrandirsi tanto da diventare **il terzo edificio più grande del mondo**.
+Dopo la caduta del governo nazista, l'aeroporto finì prima nelle mani delle truppe  sovietiche e successivamente venne in quelle delle truppe statunitensi, che lo utilizzarono, in occasione della Guerra Fredda, per il famoso [**Ponte Aereo** di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino) [^9].
 
-Dopo la caduta del governo nazista, l'aeroporto finì prima nelle mani delle truppe  sovietiche e successivamente venne in quelle delle truppe statunitensi, che lo utilizzarono, in occasione della Guerra Fredda, per il famoso [**Ponte Aereo** di Berlino](https://it.wikipedia.org/wiki/Ponte_aereo_per_Berlino).
-
-Con l'apertura del Tegel nel **1975**, l'aeroporto subì un grave declino di traffico, che lo portò alla **chiusura nel 2008**.
+Con l'apertura del Tegel nel **1975**, l'aeroporto subì un grave declino di traffico, che lo portò alla **chiusura nel 2008** [^9].
 
 Purtroppo questo è uno dei luoghi che avevamo sicuramente in mente da visitare, ma a causa della sua distanza e del poco tempo a nostra disposizione ci è stato impossibile. Se avete la possibilità vi consigliamo di andarci, per **il suo valore storico merita assolutamente una visita**, soprattutto se si è amanti del mondo dell'aviazione, come lo siamo noi.
 
 {{< map "geo:52.4722,13.3980?z=15" >}}
 
-  ### Museo dello spionaggio (Deutsches Spionagemuseum)
+### Museo dello spionaggio (Deutsches Spionagemuseum)
 
 {{< img "Parte della mostra" "/img/articoli/img_2064_compressed.jpg" >}}
 
@@ -152,14 +155,14 @@ Il **lunedì il museo è chiuso**.
 
 {{< map "geo:52.50903,13.37907?z=19" >}}
 
- ### S-Bahn Nordbahnhof
+### S-Bahn Nordbahnhof
 
 {{< img "Facciata con nome della stazione S-Bahn Nordbahnhof" "/img/articoli/stazione-fantasma-nordbahnhof_compressed.jpg" >}}
 
 
 **Una delle tante "_Stazioni Fantasma_"**, è la più conosciuta soprattutto perché si trova proprio accanto al Memoriale del Muro di Berlino. Merita assolutamente una vistita, perchè al suo interno vi è un'**esposizione di foto storiche** risalenti soprattutto all'epoca della Guerra Fredda.
 
-Le stazioni fantasma erano **stazioni che si trovavano a Berlino Est** e nelle quali era consentito il passaggio ai treni provenienti da Berlino Ovest (tre linee di Berlino Ovest avevano delle stazioni in Berlino Est), ma **nelle quali non ci si poteva fermare**. Al loro interno vi erano **guardie armate della Germania dell'Est che controllavano** che i treni non si fermassero.
+Le stazioni fantasma erano **stazioni che si trovavano a Berlino Est** e nelle quali era consentito il passaggio ai treni provenienti da Berlino Ovest (tre linee di Berlino Ovest avevano delle stazioni in Berlino Est), ma **nelle quali non ci si poteva fermare**. Al loro interno vi erano **guardie armate della Germania dell'Est che controllavano** che i treni non si fermassero. [^11]
 
 [Qui trovate un **video dell'epoca sulle stazioni fantasma**](https://youtube.com/watch?v=7QYpfwbZcgc).
 
@@ -178,9 +181,9 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
 
 Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all'incirca **12 650 tonnellate**).
 
-**Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo [nella guida, nella sezione sul Deutscher Dom](/cosa-vedere-a-berlino#deutscher-dom)).
+**Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino [^12] (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo [nella guida, nella sezione sul Deutscher Dom](/cosa-vedere-a-berlino#deutscher-dom)).
 
-Il costo dell'intero edificio fu di circa 400 000 Reichsmark.
+Il costo dell'intero edificio fu di circa 400 000 Reichsmark. [^12]
 Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate lì (visto che è lontano dal centro) approfittatene**.
 
 {{< map "geo:52.48398,13.37142?z=19" >}}
@@ -191,7 +194,7 @@ Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate l
 
 
 
-Memoriale russo **dedicato agli 80mila soldati sovietici** morti durante la Battaglia di Berlino.
+Memoriale russo **dedicato agli 80mila soldati sovietici** morti durante la Battaglia di Berlino [^13].
 
 Si trova nei pressi di Tiergarten, sulla strada che va dalla Porta di Brandeburgo alla Siegessäule, non potrete non vederlo, è davvero enorme.
 
@@ -203,9 +206,9 @@ Di solito è poco affollato.
 
 
 
-Vecchie mura della città di Berlino.
+Vecchie mura della città di Berlino [^14].
 
-Con la Seconda Guerra Mondiale, gran parte della vecchia città storica di Berlino venne distrutta. Questi pochi metri di muro è ciò che è rimasto delle vecchie mura difensive della città antica medioevale che sorgeva nei pressi di Alexandeplatz.
+Con la Seconda Guerra Mondiale, gran parte della vecchia città storica di Berlino venne distrutta. Questi pochi metri di muro è ciò che è rimasto delle vecchie mura difensive della città antica medioevale che sorgeva nei pressi di Alexandeplatz [^15].
 
 Negli anni della Guerra Fredda, venne costruita, dal governo della Germania dell'Est, [Nikolaiviertel](/cosa-vedere-a-berlino#nikolaiviertel): una serie di strutture nel vecchio quartiere di Berlino omonimo, che riprende lo stile della città antica.
 
@@ -217,7 +220,7 @@ Negli anni della Guerra Fredda, venne costruita, dal governo della Germania dell
 {{< img "Torre di controllo vicino Potsdamer Platz" "/img/articoli/torre-di-controllo-berlino-potsdamer-platz_compressed.jpg" >}}
 
 
-**Una delle nove torri di controllo rimaste** su 300 che erano presenti a tenere **sotto controllo la popolazione della Germania dell'Est** ed evitare che le persone scappassero scavalcando il muro.
+**Una delle nove torri di controllo rimaste** su 300 che erano presenti a tenere **sotto controllo la popolazione della Germania dell'Est** ed evitare che le persone scappassero scavalcando il muro. La sua posizione non è quella originaria, ma merita comunque una visita. [^16]
 
 Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici turisti presenti). Si trova **a pochi passi da Potsdamer Platz**, andando verso Checkpoint Charlie, quindi se vi trovate da quelle parti fateci contenti e date un'occhiata a questo pezzo di storia.
 
@@ -231,7 +234,7 @@ Siamo rimasti meravigliati nel vederla così priva di turismo (eravamo gli unici
 
 Se volete fare qualcosa di diverso potete anche **uscire da Berlino** e dirigervi veso **Stettino**, in **Polonia**.
 
-Stettino è una città della Pomerania Occidentale ed era, durante la Seconda Guerra Mondiale, la **terza città più grande della Germania**. Tra le tante cose è possibile assaggiare un [**piatto tipico della città**](https://en.wikipedia.org/wiki/Pasztecik_szczeci%C5%84ski) e visitare un **bunker della Seconda Guerra Mondiale e della Guerra Fredda**.
+Stettino è una città della Pomerania Occidentale ed era, durante la Seconda Guerra Mondiale, la **terza città più grande della Germania** [^17]. Tra le tante cose è possibile assaggiare un [**piatto tipico della città**](https://en.wikipedia.org/wiki/Pasztecik_szczeci%C5%84ski) e visitare un **bunker della Seconda Guerra Mondiale e della Guerra Fredda**.
 
 Si può fare una visita di una giornata (non si può vedere molto, chiaramente) per fare qualcosa di diverso. È davvero una bella città ed è molto colorata e caratteristica. Potete [raggiungerla direttamente con il Flixbus](https://www.flixbus.it/tratte-autobus/berlino-stettino) per **più o meno 20 € andata e ritorno**. Il tempo di percorrenza è di circa due ore.
 
@@ -245,7 +248,7 @@ In alternativa potete raggiungere anche Słubice che si trova al confine tra Ger
 
 ### Casa della Conferenza di Wannsee
 
-Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale*, lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo.
+Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale* [^18], lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo.
 
 **Se possedete una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB" >}}**, la carta per i trasporti di Berlino, la stazione di **Wannsee è inclusa**, quindi non serve fare altri biglietti.
 
@@ -260,3 +263,22 @@ Se provenite dallo Schönefeld e avete la **{{< nofollow "https://www.getyourgui
 
 Questi erano i nostri suggerimenti più insoliti per Berlino, in futuro, se dovessimo ritornarci, aggiorneremo questo post con le foto e i posti ancora più alternativi che abbiamo trovato. Nei commenti fateci sapere se conoscete dei posti strani anche voi o consigliateci altre città da visitare.<br>
 Grazie per la lettura e **buon viaggio**!
+
+[^1]: Fonte: [Friede sei mit Dir su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Friede_sei_mit_Dir)
+[^2]: Fonte: [Spreepark su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Spreepark)
+[^3]: Fonte: [Articolo di Visit Berlin](https://www.visitberlin.de/en/park-gleisdreieck)
+[^4]: Fonte: [Parochialkirche su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Parochialkirche)
+[^5]: [Video in cui viene mostrata la zona con il cartello](https://www.youtube.com/watch?v=c9ijGPsSSnE)
+[^6]: Fonte: Visione film + conferma su [Look who's back su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Look_Who%27s_Back)
+[^7]: Fonte: [Sito web dell' installazione artistica](https://www.ottmar-hoerl.de/en/projects/2015/2015_einheitsmaennchen.php)
+[^8]: Fonte: [Tempelhofer Feld su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Tempelhofer_Feld)
+[^9]: Fonte: [Berlin Tempelhof Airport su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Berlin_Tempelhof_Airport)
+[^10]: Fonte: [Lufthansa su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Lufthansa)
+[^11]: Fonte: [Ghost stations in Berlin su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Ghost_station#Ghost_stations_in_Berlin)
+[^12]: Fonte: [Schwerbelastungskörper su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Schwerbelastungsk%C3%B6rper)
+[^13]: Fonte: [Soviet War Memorial (Tiergarten) su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Soviet_War_Memorial_(Tiergarten))
+[^14]: Fonte: [Berliner Stadtmauer su Wikipedia in lingua tedesca](https://de.wikipedia.org/wiki/Berliner_Stadtmauer)
+[^15]: Fonte: [History of Berlin su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/History_of_Berlin)
+[^16]: Fonte: [Berlin Wall su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Berlin_Wall)
+[^17]: Fonte: [Szczecin su Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Szczecin)
+[^18]: Fonte: [Conferenza di Wannsee su Wikipedia](https://it.wikipedia.org/wiki/Conferenza_di_Wannsee)

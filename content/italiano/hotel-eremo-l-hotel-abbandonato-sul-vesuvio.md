@@ -164,7 +164,7 @@ In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porr
 Questo è uno dei posti meglio mantenuti, probabilmente perché è rischioso da raggiungere. Una delle perle nascoste dell'hotel.
 
 {{< notice note >}}
-Nel caso in cui vi recaste, vi preghiamo di **non distruggere** e **non rubare** nulla dall'hotel, anche perché [potreste commettere un reato](https://www.laleggepertutti.it/149661_entrare-in-un-edificio-abbandonato-e-reato). Ricordate di essere civili.
+Se vi recate all'Hotel Eremo, vi preghiamo di **non distruggere** e **non rubare** nulla, non solo perché sarebbe un vero peccato, ma anche perché [potreste commettere un reato](https://www.laleggepertutti.it/149661_entrare-in-un-edificio-abbandonato-e-reato). Ricordate di essere civili.
 {{</ notice >}}
 
 ## Conclusioni​

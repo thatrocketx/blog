@@ -17,6 +17,7 @@ These are the cookies we use on this website:
 ### Cookie Consent
 
 -   cookieconsent_status - checks if the cookie banner has been accepted
+-   nf_ab
 
 ## Third party cookies
 

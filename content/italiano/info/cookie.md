@@ -18,6 +18,7 @@ Ecco i cookie che utilizziamo su questo sito:
 ### Cookie Consent
 
 -   cookieconsent_status (durata: sessione) - determina se è stato accettato il banner sui cookie
+-   nf_ab (durata: sessione)
 
 ## Cookie di terze parti
 ### Da DISQUS (commenti - solo se attivati) [info](https://help.disqus.com/user-profile/use-of-cookies)

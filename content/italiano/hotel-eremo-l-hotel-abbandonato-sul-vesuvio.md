@@ -153,7 +153,7 @@ Una volta entrati, sulla destra, si trova una piccola **scala a chiocciola** (st
 
 Una cosa molto emozionante è poter leggere, sotto il legno e l'acciaio, **i nomi delle varie ditte che vi hanno lavorato** e soprattutto poter quasi sentirsi protetti in questo piccolo luogo e dimenticarsi di trovarsi in un hotel così grande.
 
-{{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-porta_c.jpg" >}}
+{{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra essere un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-porta_c.jpg" >}}
 ​
 
 In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porre degli oggetti o se avesse altri scopi, forse di riscaldamento, non ne siamo assolutamente certi.

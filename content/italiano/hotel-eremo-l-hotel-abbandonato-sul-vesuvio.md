@@ -58,7 +58,7 @@ Anche noi, come molte persone, **abbiamo deciso di andare e vederlo** (e ci siam
 
 In questo articolo vi racconteremo **la nostra esperienza** durante la nostra visita all'**Hotel Eremo**: cosa abbiamo visto e **cosa abbiamo scoperto** di questo piccolo **gioiello abbandonato** sul **Vesuvio**.​
 
-{{< img "Vecchio cancello per entrare all'Hotel Eremo" "/img/articoli/cancello-eremo_c.jpg" >}}
+{{< img "Antico cancello dell'Hotel Eremo" "/img/articoli/cancello-eremo_c.jpg" >}}
 
 
 ## Una breve introduzione - La storia dell'Hotel Eremo e del suo abbandono​
@@ -69,6 +69,10 @@ Con le **eruzioni** del Vesuvio che si manifestarono nel '900, tra le quali rico
 L'Hotel passò quindi a privati che lo gestirono all'incirca fino agli anni '70/'80[^3].
 Non siamo riusciti a trovare informazioni chiare sul perché l'hotel sia stato abbandonato, ma è molto probabile che i costi di manutenzione non giustificassero la scarsa richiesta e sia quindi fallito [^3]. Probabilmente anche la distanza dell'hotel dal centro città ha giocato un ruolo chiave per l'**abbandono**.​
 
+{{< notice note >}}
+Proviamo a rendere l'Hotel Eremo bello come una volta. [**Vota l'Hotel Eremo** al Vesuvio come **Luogo del Cuore** sul sito del **FAI**!](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc) Più di 20 persone hanno già votato! 👊
+{{</ notice >}}
+
 ## Arrivo all'hotel​
 Il nostro primo incontro con questo edificio lo abbiamo avuto per puro caso, seguendo uno dei **sentieri del Parco Nazionale del Vesuvio** che abbiamo scoperto essere il numero 4.​
 
@@ -76,7 +80,7 @@ Il nostro intento originario era quello di vedere il famoso **[Osservatorio Vesu
 
 L'entrata all'hotel manca, ormai, di qualsiasi forma di sicurezza: il vecchio cancello, ormai **perennemente chiuso**, è stato conquistato da Madre Natura ed è ora divorato da una **fitta vegetazione**. Passando per la stradina aperta di fianco al cancello, si arriva direttamente ad una delle **entrate**: un ampio **spazio vuoto**, che diventa qualche volta luogo di sosta per chi percorre i sentieri del Parco Nazionale del Vesuvio.​
 
-{{< img "Entrata dell'Hotel Eremo, dal lato opposto si trova la terrazza con vista su Napoli." "/img/articoli/eremo-entrata-completa.jpg" >}}
+{{< img "Entrata dell'Hotel Eremo, di fronte è possibile vedere la terrazza con vista su Napoli." "/img/articoli/eremo-entrata-completa.jpg" >}}
 
 
 {{< notice note >}}
@@ -106,12 +110,12 @@ Da qui è possibile rendersi conto di quanto fosse grande l'hotel: si può notar
 
 Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l'ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattata una da una delle finestre dell'hotel. Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti segni satanici, che ora sembrano essere stati cancellati per la maggior parte o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​
 
-{{< img "Foto della statua di Gesù nello spiazzato dell'Hotel Eremo." "/img/articoli/eremo-statua-gesu.jpg" >}}
+{{< img "Foto della statua di Gesù nel piazzale dell'Hotel Eremo." "/img/articoli/eremo-statua-gesu.jpg" >}}
 
 
 Ecco una foto che abbiamo scattato con il drone, in cui si la statua si vede più nel dettaglio.
 
-{{< img "Foto della statua di Gesù nello spiazzato dell'Hotel Eremo." "/img/articoli/foto-gesu-eremo-drone.jpg" >}}
+{{< img "Foto della statua di Gesù nel piazzale dell'Hotel Eremo." "/img/articoli/foto-gesu-eremo-drone.jpg" >}}
 
 
 ## Il secondo piano​
@@ -121,7 +125,7 @@ Salendo al piano superiore, invece, è possibile dare un'occhiata a delle stanze
 Le scale sono prive di corrimano e non sicure, prestare attenzione.
 {{</ notice >}}
 
-{{< img "Foto di una camera dell'Hotel Eremo, oggi completamente distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}
+{{< img "Foto di quella che sembra essere una stanza dell'Hotel Eremo, oggi completamente distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}
 ​
 
 Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due terrazze laterali** che donano una vista diversa da quella principale, focalizzandosi di più sul Vesuvio. Piccola curiosità per i fan di **Liberato** (l'artista musicale): una delle scene del video della canzone [_Me staje appennenn'amò_](https://youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
@@ -130,7 +134,7 @@ Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due t
 ​
 
 ## Il terzo piano​
-{{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/porta-terzo-piano-eremo_c.jpg" >}}
+{{< img "La porta per raggiungere terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/porta-terzo-piano-eremo_c.jpg" >}}
 ​
 
 {{< notice warning >}}
@@ -139,7 +143,7 @@ Raggiungere il terzo piano è **molto pericoloso**, la poca attenzione può port
 
 Vicino alle scale che portano al secondo piano si trova una porta semi-aperta che si affaccia **nel vuoto**, grazie quale è possibile raggiungere il terzo piano.
 
-{{< img "La porta che porta al terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/scala-terzo-piano-eremo_c.jpg" >}}
+{{< img "Scale a chiocciola che portano verso il terzo piano" "/img/articoli/scala-terzo-piano-eremo_c.jpg" >}}
 ​
 
 Una volta entrati, sulla destra, si trova una piccola **scala a chiocciola** (stranamente ancora intatta) che porta ad ad uno stretto deposito pieno di **polvere, vari stracci e pezzi di legno**. Ipotizziamo fosse un luogo accessibile soltanto al personale dell'hotel.
@@ -152,9 +156,9 @@ Una cosa molto emozionante è poter leggere, sotto il legno e l'acciaio, **i nom
 {{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-porta_c.jpg" >}}
 ​
 
-In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porre degli oggetti o se avesse altri scopi, forse di riscaldamento, non ne siamo assolutamente certi. Non pensiamo sia un forno, perché sarebbe stato scomodo da utilizzare e soprattutto la sua posizione non sarebbe stata molto strategica.
+In una stanza si scorge un piccolo incavo nella pietra, non sappiamo se per porre degli oggetti o se avesse altri scopi, forse di riscaldamento, non ne siamo assolutamente certi.
 
-{{< img "Una parte del terzo piano, qui si può vedere, in lontananza, quello che sembra un piccolo incavo nella pietra." "/img/articoli/terzo-piano-eremo-2_c.jpg" >}}
+{{< img "Corridoio principale del terzo piano." "/img/articoli/terzo-piano-eremo-2_c.jpg" >}}
 ​
 
 Questo è uno dei posti meglio mantenuti, probabilmente perché è rischioso da raggiungere. Una delle perle nascoste dell'hotel.

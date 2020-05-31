@@ -69,10 +69,6 @@ Con le **eruzioni** del Vesuvio che si manifestarono nel '900, tra le quali rico
 L'Hotel passò quindi a privati che lo gestirono all'incirca fino agli anni '70/'80[^3].
 Non siamo riusciti a trovare informazioni chiare sul perché l'hotel sia stato abbandonato, ma è molto probabile che i costi di manutenzione non giustificassero la scarsa richiesta e sia quindi fallito [^3]. Probabilmente anche la distanza dell'hotel dal centro città ha giocato un ruolo chiave per l'**abbandono**.​
 
-{{< notice note >}}
-Proviamo a rendere l'Hotel Eremo bello come una volta. [**Vota l'Hotel Eremo** al Vesuvio come **Luogo del Cuore** sul sito del **FAI**!](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc) Più di 20 persone hanno già votato! 👊
-{{</ notice >}}
-
 ## Arrivo all'hotel​
 Il nostro primo incontro con questo edificio lo abbiamo avuto per puro caso, seguendo uno dei **sentieri del Parco Nazionale del Vesuvio** che abbiamo scoperto essere il numero 4.​
 

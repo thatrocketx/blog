@@ -95,7 +95,7 @@ L'hotel è ormai completamente **distrutto** a causa dei vari **vandalismi** ed 
 
 Con quel poco che è rimasto (le mura e qualche pezzo di mobilia troppo vecchia per essere usata), però, è possibile fare un resoconto e **immaginare un po'** come potesse essere questo hotel, e possiamo dedurre che a suo tempo sia stato un **hotel di tutto prestigio**.​
 
-{{< img "Uno dei graffiti nell'Hotel Eremo recita 'Non Scendete', scherzando sul fatto che la parte inferiore dell'edificio è completamente vuota e senza scale." "/img/articoli/eremo-non-scendete.jpg" >}}
+{{< img "Uno dei graffiti nell'Hotel Eremo recita 'Non Scendete' in prossimità di un grande buco, scherzando sul fatto che la parte inferiore dell'edificio è quasi completamente vuota." "/img/articoli/eremo-non-scendete.jpg" >}}
 ​
 
 Proseguendo dritto, percorrendo lo spazio tra le colonne e dirigendosi verso la luce, è possibile affacciarsi dall'**enorme terrazza**, che ci dona una meravigliosa **vista su Napoli**: dal **lungomare** alle zone più periferiche e, per qualche minuto, quasi si dimentica dove ci si trova.
@@ -110,31 +110,32 @@ Da qui è possibile rendersi conto di quanto fosse grande l'hotel: si può notar
 
 Per chi avesse la possibilità di scendere al piano inferiore (non è molto illuminato, quindi bisogna stare attenti), è possibile visitare l'ampio spiazzato con al suo centro una statua di **Gesù** i cui **occhi** sono stati **verniciati di rosso**. Noi non siamo riusciti a scendere per scattare le foto perché si era fatto tardi, ma ne abbiamo scattata una da una delle finestre dell'hotel. Dal vivo il tutto è più suggestivo e sembra di essere davvero in un luogo spettrale. In passato in questo luogo vi erano anche molti segni satanici, che ora sembrano essere stati cancellati per la maggior parte o sono stati probabilmente coperti dai tanti graffiti che si aggiungono ogni anno.​
 
-{{< img "Foto della statua di Gesù nel piazzale dell'Hotel Eremo." "/img/articoli/eremo-statua-gesu.jpg" >}}
+{{< img "Foto della statua di Gesù nel piazzale dell'Hotel Eremo, vista da lontano." "/img/articoli/eremo-statua-gesu.jpg" >}}
 
 
 Ecco una foto che abbiamo scattato con il drone, in cui si la statua si vede più nel dettaglio.
 
-{{< img "Foto della statua di Gesù nel piazzale dell'Hotel Eremo." "/img/articoli/foto-gesu-eremo-drone.jpg" >}}
+{{< img "Foto della statua di Gesù nel piazzale dell'Hotel Eremo, foto scattata tramite l'utilizzo del drone." "/img/articoli/foto-gesu-eremo-drone.jpg" >}}
 
 
 ## Il secondo piano​
 Salendo al piano superiore, invece, è possibile dare un'occhiata a delle stanze, che dovevano essere le **stanze degli ospiti dell'hotel**. Anche qui la maggior parte della struttura è stata distrutta dai vandali.
 
 {{< notice warning >}}
-Le scale sono prive di corrimano e non sicure, prestare attenzione.
+Le scale sono prive di corrimano e poco sicure, prestare attenzione.
 {{</ notice >}}
 
 {{< img "Foto di quella che sembra essere una stanza dell'Hotel Eremo, oggi completamente distrutta." "/img/articoli/eremo-foto-stanze.jpg" >}}
 ​
 
-Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due terrazze laterali** che donano una vista diversa da quella principale, focalizzandosi di più sul Vesuvio. Piccola curiosità per i fan di **Liberato** (l'artista musicale): una delle scene del video della canzone [_Me staje appennenn'amò_](https://youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
+Se si prosegue verso sinistra o verso destra, invece, si arriva verso le **due terrazze laterali** che donano una vista diversa da quella principale, focalizzandosi di più sul Vesuvio.
+Piccola curiosità per i fan di **Liberato** (l'artista musicale): una delle scene del video della canzone [_Me staje appennenn'amò_](https://youtube.com/watch?v=8pFwPKNDF6E) **è stata girata in questo punto**. Il graffito della scena **è ancora presente**.
 
 {{< img "Vista da uno dei due balconi al piano superiore dell'Hotel Eremo." "/img/articoli/eremo-vista-balcone.jpg" >}}
 ​
 
 ## Il terzo piano​
-{{< img "La porta per raggiungere terzo piano, si affaccia nel vuoto ed è molto pericolosa da raggiungere" "/img/articoli/porta-terzo-piano-eremo_c.jpg" >}}
+{{< img "La porta per raggiungere terzo piano, si affaccia sul vuoto ed è molto pericolosa da raggiungere" "/img/articoli/porta-terzo-piano-eremo_c.jpg" >}}
 ​
 
 {{< notice warning >}}

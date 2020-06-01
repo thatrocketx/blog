@@ -254,7 +254,7 @@ Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo*
 
 {{< gyg link="https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" title="Berlin Welcome Card zona AB e sconti" price="da € 23" >}}
 
-Se provenite dallo [Schönefeld](/schonefeld-berlino-centro) e avete la **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card per la zona ABC" >}}**💰, allora **potrete raggiungere anche la vicina città di Potsdam**.
+Se provenite dallo [Schönefeld](/schonefeld-berlino-centro) e avete la **{{< nofollow "https://www.getyourguide.it/berlin-welcomecard-con-guida-turistica-tascabile-t6045?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card per la zona ABC" >}}**💰, allora **potrete raggiungere anche la vicina città di Potsdam**.
 
 {{< map "geo:52.43275,13.16474?z=18" >}}
 

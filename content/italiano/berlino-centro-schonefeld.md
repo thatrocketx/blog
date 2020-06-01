@@ -58,7 +58,7 @@ Se viaggiate con una compagnia aerea _low cost_ come ad esempio <span style="col
 
 {{< img "Mappa mostra la distanza approsimativa dell'aeroporto di Berlino Schönefeld dal centro di Berlino. La distanza è di circa 18 chilometri." "/img/articoli/distanza-sxf-berlino.jpg" "Mappa <a href=\"https://openstreetmap.org/copyright\">&copy OpenStreetMap contributors</a>">}}
 
-​Per i viaggiatori instancabili, si tratta di un **3-4 ore di cammino** (secondo Google Maps) alla scoperta della Berlino più periferica. Per chi invece non se la sente, troverà conforto in questa guida nella quale vi spiegheremo come arrivare dall'aeroporto di Berlino Schönefeld a **Berlino Centro** utilizzando i mezzi pubblici a disposizione e vi descriveremo la nostra esperienza con il trasporto ferroviario di Berlino.​
+​Per i viaggiatori instancabili, si tratta di un **3-4 ore di cammino** [^1] alla scoperta della Berlino più periferica. Per chi invece non se la sente, troverà conforto in questa guida nella quale vi spiegheremo come arrivare dall'aeroporto di Berlino Schönefeld a **Berlino Centro** utilizzando i mezzi pubblici a disposizione e vi descriveremo la nostra esperienza con il trasporto ferroviario di Berlino.​
 
 {{< notice note >}}
 In questa guida troverete alcuni link per acquistare i biglietti per la *Berlin Welcome Card*. Questi link, contrassegnati da 💰, sono link di affiliazione e, utilizzandoli, una parte del prezzo di acquisto andrà a noi. Sul nostro sito non usiamo pubblicità tracciante o invasiva, quindi vi ringraziamo in anticipo nel caso li utilizziate!
@@ -85,16 +85,16 @@ Qui sotto vi lascio **tutte le stazioni principali di Berlino** nelle quali ferm
 
 #### Biglietto, binari e costo
 
-Il biglietto da acquistare è il biglietto per i trasporti nella **zona ABC** di Berlino. **Il costo del biglietto è di € 3,40**.
+Il biglietto da acquistare è il biglietto per i trasporti nella **zona ABC** di Berlino. **Il costo del biglietto è di € 3,40** [^3].
 
 {{< notice warning >}}
-**EVITATE di acquistare i biglietti per la zona AB** per risparmiare in quanto, sebbene il tragitto sia breve, potrebbero esserci dei problemi con i controlli (abbastanza frequenti) e potreste [ricevere una **multa**](https://www.reddit.com/r/berlin/comments/61y0xs/helpadvice_for_paying_an_sbahnbvg_fine/) da parte della [BVG](https://en.wikipedia.org/wiki/Berliner_Verkehrsbetriebe) (la compagnia che si occupa dei trasporti nel territorio della capitale.).
+**EVITATE di acquistare i biglietti per la zona AB** per risparmiare in quanto, sebbene il tragitto sia breve, potrebbero esserci dei problemi con i controlli (abbastanza frequenti) e potreste ricevere una **multa** [^2] da parte della [BVG](https://en.wikipedia.org/wiki/Berliner_Verkehrsbetriebe) (la compagnia che si occupa dei trasporti nel territorio della capitale.).
 {{</ notice >}}
 
 I due treni partono dagli **ultimi binari**. Arrivate verso **la fine della lunga galleria** della stazione e seguite i **cartelli** con su scritto **RE7 / R14**, potete andare **sia a destra che a sinistra**, entrambe le vie vi porteranno sui binari. La differenza è che da una parte ci sono le scale mentre dall'altra vi è la salita. **Vi consiglio di usare la salita** qualora abbiate delle **valigie pesanti**.
 
 {{< notice tip >}}
-Se userete di frequente i treni nella capitale o se volete visitare anche i paesi limitrofi, date un'occhiata alla [Berlin Welcome Card](https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=schonefeld-guida-welcome-tip), in questo modo **risparmierete molti soldi sull'acquisto dei biglietti per treni, bus e tram**. Trovate maggiori informazioni sul sito o più in basso in questo articolo.
+Se userete di frequente i treni nella capitale o se volete visitare anche i paesi limitrofi, date un'occhiata alla [Berlin Welcome Card](https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=schonefeld-guida-welcome-tip)💰, in questo modo **risparmierete molti soldi sull'acquisto dei biglietti per treni, bus e tram**. Trovate maggiori informazioni sul sito o più in basso in questo articolo.
 {{</ notice >}}
 
 Più in basso trovate una guida su [**dove acquistare i biglietti**](#-dove-acquistare-i-biglietti-dei-treni) e [**come arrivare alla stazione**](#-come-arrivare-alla-stazione) dall'aeroporto.
@@ -176,3 +176,7 @@ Inoltre potrete ottenere **sconti per entrare in molte attrazioni** che potete t
 <hr>
 
 Speriamo che questo articolo vi sia stato utile e vi ringraziamo per averci letto. Vi auguriamo un piacevole soggiorno a Berlino. Se avete suggerimenti, volete segnalare un errore (tutto ciò che abbiamo scritto proviene da ricerche ed esperienza personale) o volete fare domande a chi già ci è stato, scrivete pure un commento qui sotto, qualcuno vi risponderà.​
+
+[^1]: Da una media del calcolo del percorso di [Google Maps](https://maps.google.com) e [Brouter](https://brouter.damsy.net/latest/#map=12/52.5313/13.4102/standard&lonlats=13.518677,52.388976&profile=hiking-beta). Partenza: uscita principale, destinazione: Porta di Brandeburgo
+[^2]: Fonte: [Post su Reddit](https://www.reddit.com/r/berlin/comments/61y0xs/helpadvice_for_paying_an_sbahnbvg_fine/)
+[^3]: Prezzi aggiornati al 2019

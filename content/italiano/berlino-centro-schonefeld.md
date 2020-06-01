@@ -88,8 +88,9 @@ Qui sotto vi lascio **tutte le stazioni principali di Berlino** nelle quali ferm
 Il biglietto da acquistare è il biglietto per i trasporti nella **zona ABC** di Berlino. **Il costo del biglietto è di € 3,40** [^3].
 
 {{< notice warning >}}
-**EVITATE di acquistare i biglietti per la zona AB** per risparmiare in quanto, sebbene il tragitto sia breve, potrebbero esserci dei problemi con i controlli (abbastanza frequenti) e potreste ricevere una **multa** [^2] da parte della [BVG](https://en.wikipedia.org/wiki/Berliner_Verkehrsbetriebe) (la compagnia che si occupa dei trasporti nel territorio della capitale.).
+**EVITATE di acquistare i biglietti per la zona AB** per risparmiare in quanto, sebbene il tragitto sia breve, potrebbero esserci dei problemi con i controlli (abbastanza frequenti) e potreste ricevere una **multa** da parte della [BVG](https://en.wikipedia.org/wiki/Berliner_Verkehrsbetriebe) (la compagnia che si occupa dei trasporti nel territorio della capitale.).
 {{</ notice >}}
+[^2]
 
 I due treni partono dagli **ultimi binari**. Arrivate verso **la fine della lunga galleria** della stazione e seguite i **cartelli** con su scritto **RE7 / R14**, potete andare **sia a destra che a sinistra**, entrambe le vie vi porteranno sui binari. La differenza è che da una parte ci sono le scale mentre dall'altra vi è la salita. **Vi consiglio di usare la salita** qualora abbiate delle **valigie pesanti**.
 

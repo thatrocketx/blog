@@ -252,7 +252,7 @@ Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo*
 
 **Se possedete una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB" >}}**💰, la carta per i trasporti di Berlino, la stazione di **Wannsee è inclusa**, quindi non serve fare altri biglietti.
 
-{{< gyg "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card" "da € 23" >}}
+{{< gyg "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB e sconti" "da € 23" >}}
 
 Se provenite dallo [Schönefeld](/schonefeld-berlino-centro) e avete la **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card per la zona ABC" >}}**💰, allora **potrete raggiungere anche la vicina città di Potsdam**.
 

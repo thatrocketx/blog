@@ -1,7 +1,7 @@
 ---
 draft: false
 date: '2019-09-06T18:35:39+00:00'
-title: 'Cosa vedere a Berlino: 30+ attrazioni e musei da visitare'
+title: 'Cosa vedere a Berlino: 29+ attrazioni e musei da visitare'
 description: >-
   Più di 30 consigli sui luoghi da vedere assolutamente con informazioni e
   curiosità interessanti. Le migliori attrazioni gratis e i musei più importanti

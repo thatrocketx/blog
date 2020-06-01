@@ -66,7 +66,7 @@ Vi consigliamo di NON cercarlo online in posti affollati, anche se è abbastanza
 
 ### Spreepark
 
-**Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la **prenotazione online anticipata** ([vedere qui](/cosa-vedere-a-berlino#cosa-vedere-su-prenotazione)). Il parco **fu, per un lungo periodo di tempo, l'unico parco divertimenti di Berlino** e il migliore di tutta la Germania dell'Est.
+**Vecchio parco divertimenti abbandonato** di Berlino del 1969. È necessaria la **prenotazione online anticipata** ([vedere qui](/cosa-vedere-a-berlino#-cosa-vedere-solo-su-prenotazione)). Il parco **fu, per un lungo periodo di tempo, l'unico parco divertimenti di Berlino** e il migliore di tutta la Germania dell'Est.
 Col passare del tempo, **l'aumento dei prezzi portò ad un traffico sempre minore**, fino a quando, nel 2001, **chiuse per i troppi debiti**.
 Uno dei proprietari venne accusato, successivamente, di aver cercato di trasportare ben **180 kg di cocaina**, nascondendola in una delle attrazioni.
 Nel 2014 venne acquistato dalla città di Berlino. Oggi **il parco è visitabile soltanto se accompagnati da una guida turistica** [^2], che si può prenotare online (scavalcare i cancelli è illegale).
@@ -81,7 +81,7 @@ Si trova a qualche chilometro da East Side Gallery.
 {{< img "Binari abbandonati" "/img/articoli/park-am-gleisdreieck_compressed.jpg" >}}
 
 
-Ci si può fare un giro se si va al [Deutsches Technikmuseum](/cosa-vedere-a-berlino/#deutsches-technikmuseum) in quanto si trova proprio di fronte.
+Ci si può fare un giro se si va al [Deutsches Technikmuseum](/cosa-vedere-a-berlino/#museo-della-tecnologia-deutsches-technikmuseum) in quanto si trova proprio di fronte.
 
 È un **parco costruito su una vecchia ferrovia** [^3]. Al centro **c'è ancora il binario** e ci si può fermare per farsi la classica foto sui binari, senza il rischio di essere travolti da un treno, noi l'abbiamo fatta!
 
@@ -181,7 +181,7 @@ Si trova proprio accanto al Memoriale del Muro di Berlino.
 
 Letteralmente un *corpo che supporta un carico pesante*, è un "monumento" storico di Berlino che consiste semplicemente in un **cilindro in calcestruzzo molto pesante** (pesa all'incirca **12 650 tonnellate**).
 
-**Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino [^12] (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo [nella guida, nella sezione sul Deutscher Dom](/cosa-vedere-a-berlino#deutscher-dom)).
+**Venne realizzato dai nazisti nel 1941** con il solo scopo di **fare una prova** per la costruzione di un eventuale **arco di trionfo** e per altri monumenti che avrebbero voluto costruire a Berlino [^12] (vedesi [Welthauptstadt Germania](https://it.wikipedia.org/wiki/Welthauptstadt_Germania) e il palazzo di cui vi parlavo nella [guida su cosa vedere a Berlino](/cosa-vedere-a-berlino), nella sezione sul [Deutscher Dom](/cosa-vedere-a-berlino#deutscher-dom)).
 
 Il costo dell'intero edificio fu di circa 400 000 Reichsmark. [^12]
 Si trova a **poco più di un chilometro dal Tepelhof**, quindi **se vi trovate lì (visto che è lontano dal centro) approfittatene**.
@@ -250,7 +250,7 @@ In alternativa potete raggiungere anche Słubice che si trova al confine tra Ger
 
 Abbandonando il centro città di Berlino, è possibile **visitare la casa-museo** nella quale si tenne la **Conferenza di Wannsee**, ovvero la conferenza con la quale i nazisti decisero di dare atto alla *soluzione finale* [^18], lo sterminio degli ebrei. Oltre questo, **a Wannsee c'è anche un bellissimo lago** sul quale si può passare il tempo.
 
-**Se possedete una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB" >}}**, la carta per i trasporti di Berlino, la stazione di **Wannsee è inclusa**, quindi non serve fare altri biglietti.
+**Se possedete una {{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card zona AB" >}}**💰, la carta per i trasporti di Berlino, la stazione di **Wannsee è inclusa**, quindi non serve fare altri biglietti.
 
 Se provenite dallo Schönefeld e avete la **{{< nofollow "https://www.getyourguide.it/berlino-l17/-t284327/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-cosa-vedere-alternativo" "Berlin Welcome Card per la zona ABC" >}}**💰, allora **potrete raggiungere anche la vicina città di Potsdam**.
 

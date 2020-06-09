@@ -32,6 +32,8 @@ sottotitolo: Le nostre attrazioni preferite per la capitale tedesca.
 slug: cosa-vedere-a-berlino
 immagineprincipale: /img/articoli/20190812_193550_compressed.jpg
 descrizioneimg: 'Vista sul Reichstag, il palazzo del Parlamento Tedesco. Foto di that Rocket X'
+videoSEO: https://www.thatrocketx.com/video/video-cosa-vedere-berlino-porta-brandeburgo.m4v
+videoself: true
 fontawesome: false
 js: false
 publishdate: '2019-09-06T18:35:39+00:00'

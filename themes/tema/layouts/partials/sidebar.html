@@ -51,4 +51,29 @@
 <hr>
 {{.Params.adside | safeHTML }}
 {{ end }}
+<hr>
+{{ $byLastMod :=  .Site.RegularPages.ByLastmod  }}
+{{ $recent := ($byLastMod | last 3).Reverse }}
+<h2> {{ T "aggiornati-di-recente"}} </h2>
+  {{ range $recent }}
+  <div class="card my-2 rounded-lg mw-700 mx-auto overflow-hidden dark-bg-dark" aria-describedby="sommario">
+    <a href="{{ .URL }}" class="no-underline">
+      <div class="card-img-top overflow-hidden ">
+        {{ if and (isset .Params "videoself") }}
+        <video autoplay loop muted playsinline class="of-cover w-100 h-100 lazyloaded" poster="{{ .Params.immagine }}" data-src="{{ .Params.videoseo }}" tabindex="-1"></video>
+        {{else}}
+          {{ if (isset .Params "immagine") }}<img data-src="{{ .Params.immagine }}" class="of-cover w-100 h-100 lazyloaded" alt="" aria-describedby="sommario">{{end}}
+          {{end}}
+      </div>
+      <div class="card-body">
+        <h1 class="h5 text-dark dark-text-white">{{ .Title }}</h1>
+
+          {{ if (isset .Params "categories") }}{{range .Params.categories}}<span class="badge badge-secondary">{{ . }}</span> {{ end }} {{ end }}
+          {{ if (isset .Params "cities") }}<span class="badge badge-secondary">{{ .Params.cities }} </span>{{ end }}{{ if (isset .Params "countries") }} <span class="badge badge-secondary"> {{ .Params.countries }} </span> {{ end }}
+          {{ if (isset .Params "lastmod") }}<div class="text-muted dark-text-muted small mt-2">{{ T "ultima-modifica"}} <time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="dateModified">
+           {{- .Lastmod.Format "2/1/2006" -}}</div>{{ end }}
+      </div>
+    </a>
+  </div>
+  {{ end }}
 </div>

@@ -20,14 +20,14 @@
       <div class="row">
         <div class="col-sm-8">
           {{ if (isset .Params "autore") }}{{ T "scritto_da"}} {{ .Params.autore }}{{end}} {{ if (isset .Params "date") }}{{ T "il"}} <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "2/1/2006" -}}</time> -
-          <img src="/icons/clock.svg" width="20" class="d-inline-block"><span class="sr-only">{{ T "tempo_lettura"}}:</span></span>
+          <img src="/icons/clock.svg" width="20" class="d-inline-block" alt=""><span class="sr-only">{{ T "tempo_lettura"}}:</span></span>
           {{ .ReadingTime }} {{if eq $readingtime $readingtimeone}}{{T "lett_min"}}
           {{else}}{{ T "lett_mins"}}{{end}} {{end}}
         </div>
         {{ if (isset .Params "mostrascadenza") }}
         <div class="scadenza">{{ T "scadenza" }}: <time datetime="{{ dateFormat "2006-01-02T15:04:05Z07:00" .Params.scadenza }}">{{- dateFormat "2/1/2006" .Params.scadenza -}}</time></div>{{end}}
         <div class="col">
-          {{ if (isset .Params "cities") }}<span class="pubblicato-lista">{{ .Params.cities }},</span>{{ end }}{{ if (isset .Params "countries") }} <span class="paese" data-paese="{{ .Params.countries }}"> {{ .Params.countries }} </span> {{ end }}
+          {{ if (isset .Params "cities") }}<img src="/icons/posizione.svg" width="20" class="d-inline-block mr-2" alt=""><span class="pubblicato-lista">{{ .Params.cities }},</span>{{ end }}{{ if (isset .Params "countries") }} <span class="paese" data-paese="{{ .Params.countries }}"> {{ .Params.countries }} </span> {{ end }}
         </div>
       </div>
     </div>

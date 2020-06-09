@@ -18,6 +18,8 @@
   translation: "We can't find your page, do you want to search for it?"
 - id: cerca404
   translation: "Search on the website"
+- id: segnala-errore-mappa
+  translation: "Report a error on the map"
 
 - id: tema1
   translation: "Reviews"

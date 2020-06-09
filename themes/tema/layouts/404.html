@@ -1,11 +1,11 @@
 {{ define "main" }}
-<div class="wrapper404">
-<img src="/404.svg" alt="" class="errore404" width="200" height="200">
-<h1> {{ T "errore404"}}</h1>
+<div class="mw-800 mx-auto text-center">
+<img src="/404.svg" alt="" class="mx-auto" width="200" height="200">
+<h1 class="my-3 text-danger"> {{ T "errore404"}}</h1>
 <h2> {{T "suggerimento404"}}</h2>
 <div class="my-auto" >
     <form action="/search/">
-      <input id="search-query" name="s" type="search" class="ricerca" placeholder="Cerca sul sito" autofocus/>
+      <input id="search-query" name="s" type="search" class="form-control" placeholder="Cerca sul sito" autofocus/>
     </form>
   </div>
 </div>

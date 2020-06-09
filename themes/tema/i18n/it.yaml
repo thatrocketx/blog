@@ -68,6 +68,8 @@
   translation: "Apri nell' app mappe (cellulare)"
 - id: ultima-modifica
   translation: "Aggiornato al"
+- id: segnala-errore-mappa
+  translation: "Segnala un errore sulla mappa"
 
 - id: vaiaicommenti
   translation: "VAI AI COMMENTI"

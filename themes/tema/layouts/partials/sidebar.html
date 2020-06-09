@@ -7,7 +7,7 @@
       <a href="{{ .URL }}" class="no-underline">
         <div class="card-img-top overflow-hidden ">
           {{ if and (isset .Params "videoself") }}
-          <video autoplay loop muted playsinline class="of-cover w-100 h-100 lazyloaded" poster="{{ .Params.immagine }}" data-src="{{ .Params.videoseo }}" tabindex="-1"></video>
+          <video autoplay loop muted playsinline class="of-cover w-100 h-100 lazyloaded" data-poster="{{ .Params.immagine }}" data-src="{{ .Params.videoseo }}" tabindex="-1"></video>
           {{else}}
             {{ if (isset .Params "immagine") }}<img data-src="{{ .Params.immagine }}" class="of-cover w-100 h-100 lazyloaded" alt="" aria-describedby="sommario">{{end}}
             {{end}}
@@ -31,7 +31,7 @@
   <a href="{{ .URL }}" class="no-underline">
     <div class="card-img-top overflow-hidden ">
       {{ if and (isset .Params "videoself") }}
-      <video autoplay loop muted playsinline class="of-cover w-100 h-100 lazyloaded" poster="{{ .Params.immagine }}" data-src="{{ .Params.videoseo }}" tabindex="-1"></video>
+      <video autoplay loop muted playsinline class="of-cover w-100 h-100 lazyloaded" data-poster="{{ .Params.immagine }}" data-src="{{ .Params.videoseo }}" tabindex="-1"></video>
       {{else}}
         {{ if (isset .Params "immagine") }}<img data-src="{{ .Params.immagine }}" class="of-cover w-100 h-100 lazyloaded" alt="" aria-describedby="sommario">{{end}}
         {{end}}
@@ -60,7 +60,7 @@
     <a href="{{ .URL }}" class="no-underline">
       <div class="card-img-top overflow-hidden ">
         {{ if and (isset .Params "videoself") }}
-        <video autoplay loop muted playsinline class="of-cover w-100 h-100 lazyloaded" poster="{{ .Params.immagine }}" data-src="{{ .Params.videoseo }}" tabindex="-1"></video>
+        <video autoplay loop muted playsinline class="of-cover w-100 h-100 lazyloaded" data-poster="{{ .Params.immagine }}" data-src="{{ .Params.videoseo }}" tabindex="-1"></video>
         {{else}}
           {{ if (isset .Params "immagine") }}<img data-src="{{ .Params.immagine }}" class="of-cover w-100 h-100 lazyloaded" alt="" aria-describedby="sommario">{{end}}
           {{end}}

@@ -47,7 +47,7 @@ adside: >-
 publishdate: '2019-09-19T06:22:54+00:00'
 expirydate: ' '
 scadenza: ' '
-lastmod: '2020-02-28T12:40:48+00:00'
+lastmod: '2020-06-01T13:20:00+00:00'
 ---
 ## Introduzione
 Quando si va in una città si ha sempre la voglia di trovare qualche luogo "strano" o comunque poco conosciuto. Berlino è una città piena di luoghi nascosti e cose di questo genere. In questa mini-guida, appendice della [nostra guida principale alla città](/cosa-vedere-a-berlino), vi elenchiamo i luoghi e le attività meno conosciute della capitale tedesca.

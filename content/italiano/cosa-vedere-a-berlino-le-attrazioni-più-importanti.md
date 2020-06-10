@@ -40,6 +40,9 @@ publishdate: '2019-09-06T18:35:39+00:00'
 expirydate: ' '
 lastmod: '2019-11-30T13:19:00+00:00'
 ---
+{{< notice note >}}
+Stiamo rivedendo alcune informazioni di questo articolo. Verrà aggiornato nei prossimi giorni.
+{{</ notice >}}
 
 ## Introduzione
 

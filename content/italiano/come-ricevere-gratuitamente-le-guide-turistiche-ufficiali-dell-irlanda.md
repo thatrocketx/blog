@@ -57,7 +57,7 @@ Tra le varie guide e mappe troviamo:
 
 e molte altre.
 
-<div style="width: 100%"><a href="https://www.ireland.com/it-it/brochures/" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);	background-color:#44c767;	border-radius:28px;	border:1px solid #18ab29;	display:inline-block;	cursor:pointer;	color:#ffffff;	font-family:Arial;	font-size:17px;	padding:16px 31px;	text-decoration:none;	text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center">SCARICA LE GUIDE IN PDF</a>	</div>
+<div style="width: 100%"><a href="https://www.ireland.com/it-it/brochures/" class="btn-success btn-lg mx-auto text-center d-block mw-700 my-3">SCARICA LE GUIDE IN PDF</a>	</div>
 
 ## Ricevere le guide per posta
 
@@ -65,7 +65,7 @@ e molte altre.
 
 Per fare ciò basta recarsi a [questa pagina](https://www.ireland.com/it-it/postalbrochures/) e scegliere cosa si vuole ricevere (non sono disponibili tutte le guide e le mappe scaricabili). Una volta effettuata la scelta, basta cliccare su "_Effettua l'ordine_" e compilare i campi richiesti con le proprie informazioni per la spedizione.
 
-<div style="width: 100%"><a href="https://www.ireland.com/it-it/postalbrochures/" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);	background-color:#44c767;	border-radius:28px;	border:1px solid #18ab29;	display:inline-block;	cursor:pointer;	color:#ffffff;	font-family:Arial;	font-size:17px;	padding:16px 31px;	text-decoration:none;	text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 300px; text-align: center">RICEVI LE GUIDE PER POSTA</a>	</div>
+<div style="width: 100%"><a href="https://www.ireland.com/it-it/postalbrochures/" class="btn-success btn-lg mx-auto text-center d-block mw-700 my-3">RICEVI LE GUIDE PER POSTA</a>	</div>
 
 ### Tempi di arrivo dell'ordine
 
@@ -73,4 +73,4 @@ Ho provato io stesso ad effettuare l'ordine e devo dire le spedizioni sono davve
 
 Questo è quanto, volevo solo rendervi partecipi di questa possibiltà che potrebbe essere utile a qualcuno di voi!
 
-<div style="box-shadow:inset 0px 1px 0px 0px #f29c93;	background:linear-gradient(to bottom, #fe1a00 5%, #ce0100 100%);	background-color:#fe1a00;	border-radius:6px;	border:1px solid #d83526;	display:inline-block;	color:#ffffff;	font-family:Arial;	font-size:15px;	font-weight:bold;	padding:6px 24px;	text-decoration:none;	text-shadow:0px 1px 0px #b23e35;width: 100%; text-align: center"> Viaggio in Irlanda? 	<a href="https://www.getyourguide.it/irlanda-n34/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=button-cta&cmp=guide_irlanda_gratis_button" class="noext" style="box-shadow:inset 0px 1px 0px 0px #ffffff;	background:linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);	background-color:#ededed;	border-radius:6px;	border:1px solid #dcdcdc;	display:inline-block;	cursor:pointer;	color:#777777;	font-family:Arial;	font-size:15px;	font-weight:bold;	padding:6px 24px;	text-decoration:none;	text-shadow:0px 1px 0px #ffffff; display: block; max-width: 300px; margin: 10px auto auto auto"> Scopri le attività su GetYourGuide!</a>	</div><small> 💰 </small>​
+<div class="jumbotron dark-bg-dark text-center"> <p class="h3">✈️ Viaggio in Irlanda? 🇮🇪</p> 	<a href="https://www.getyourguide.it/irlanda-n34/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=button-cta&cmp=guide_irlanda_gratis_button" class="d-block btn-primary btn-lg my-2"> Scopri le attività su GetYourGuide! <small> 💰 </small>​</a>	</div>

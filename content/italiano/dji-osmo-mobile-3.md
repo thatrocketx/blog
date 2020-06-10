@@ -40,6 +40,11 @@ expirydate: ' '
 scadenza: ' '
 lastmod: '2020-02-11T13:02:06+00:00'
 ---
+
+{{< notice note >}}
+Stiamo rivedendo alcune informazioni di questo articolo. Verrà aggiornato nei prossimi giorni.
+{{</ notice >}}
+
 Ciao a tutti, oggi vogliamo parlarvi di **un nostro nuovo acquisto**, il DJI **Osmo Mobile 3**, cos'è, come funziona e il nostro parere.
 
 ## Cos'è l'Osmo Mobile 3

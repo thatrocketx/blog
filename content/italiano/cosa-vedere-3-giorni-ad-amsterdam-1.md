@@ -65,7 +65,7 @@ A parte la bellissima vista con il classico stile nord-europeo, girandoci attorn
 
 Sulla sinistra del Palazzo Reale si trova invece la sede ad Amsterdam del celebre museo delle ceneri "**Madame Tussauds**", mentre di fronte troviamo l'**Hotel Krasnapolsky**, un hotel a 5 stelle nato nel 1865 come ristorante e divenuto oggi un'icona della piazza.
 
-{{< gyg title="Madame Tussauds - biglietto salta la fila" link="https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" >}}
+{{< gyg title="Madame Tussauds - biglietto salta la fila" link="https://www.getyourguide.com/amsterdam-l36/vip-fasttrack-entrance-madame-tussauds-amsterdam-t36506/" >}}
 
 Proseguendo su *Damstraat*, ovvero la grande strada andando verso l'hotel, si arriva sul canale **Oudezijds Voorburgwal**.
 
@@ -77,7 +77,7 @@ Girandovi attorno e prendendo una delle stradette si ritorna sulla strada che po
 
 Se si ha ancora voglia di visitare si può scendere più a sud per vedere la **Sinagoga portoghese**, la più antica sinagoga della città, costruita nel 1671 e ancora oggi utilizzata per celebrare le funzioni religiose.
 
-{{< gyg title="Tour della sinagoga portoghese in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-in-the-golden-age-the-portuguese-synagogue-t68545/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=amsterdam-3-giorni" price="da € 17" >}}
+{{< gyg title="Tour della sinagoga portoghese in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-in-the-golden-age-the-portuguese-synagogue-t68545/" price="da € 17" >}}
 
 Tornando al Nieuwmarkt e proseguendo sulla Kloveniersburgwal si può ritornare a Piazza Dam (che si trova sulla destra, andando dritto dal ponte).
 
@@ -107,7 +107,7 @@ Parte di questa casa fu infatti utilizzata da Anna e la sua famiglia per ben 2 a
 
 Nella casa-museo è possibile vedere vari documenti multimediali così come la famosa stanza di Anna Frank.
 
-{{< gyg title="Tour guidato su Anna Frank (in inglese)" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-life-of-anne-frank-walking-tour-t250362/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam" price="da € 28,50" >}}
+{{< gyg title="Tour guidato su Anna Frank (in inglese)" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-life-of-anne-frank-walking-tour-t250362/" price="da € 28,50" >}}
 
 Attraversando il canale si può fare un giro nel quartiere **Jordaan**, il cui nome si pensa derivi dalla parola "giardino" e infatti molte strade hanno i nomi di piante e fiumi. Una volta abitato dalla classe dei lavoratori, oggi uno dei quartieri più costosi della città. È famoso soprattutto per i vari negozi, che offrono una vasta varietà di oggetti da poter acquistare come souvenir. Il quartiere è bello grande, quindi ci vuole un po'a visitarlo tutto.
 
@@ -115,7 +115,7 @@ Attraversando il canale si può fare un giro nel quartiere **Jordaan**, il cui n
 
 Da qui potreste andare al Vondelpark, ma di questo parliamo nel giorno 3. Una cosa che potreste fare invece è fare un tour per i canali e visitare quindi Amsterdam dalla comodità della barca, ascoltando le informazioni e le curiosità sulla città (le barche partono anche dal luogo in cui si trova la casa di Anna Frank).
 
-{{< gyg title="Tour per i canali di Amsterdam in barca in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 17,50" >}}
+{{< gyg title="Tour per i canali di Amsterdam in barca in italiano" link="https://www.getyourguide.com/amsterdam-l36/amsterdam-canal-cruise-t56671/" price="da € 17,50" >}}
 
 <h2> Giorno <span style="display: inline-block;padding: 0 15px 3px;margin-left: 5px;border-top: 3px solid #f01717;">3</span></h2>
 
@@ -133,7 +133,7 @@ Poco più avanti si trova anche il **Rijksmuseum**, che raccoglie buona parte de
 
 Se invese non si è amanti dell'arte si può fare un giro al vecchio birrificio della **Heineken**, proprio un po'più avanti, proseguendo sulla strada alla destra del Rijksmuseum.
 
-{{< gyg title="Biglietti per la Heineken Experience" link="https://www.getyourguide.com/amsterdam-l36/heineken-experience-ticket-t205012/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx@protonmail.com&placement=content-middle&cmp=amsterdam/" price="da € 18" >}}
+{{< gyg title="Biglietti per la Heineken Experience" link="https://www.getyourguide.com/amsterdam-l36/heineken-experience-ticket-t205012/" price="da € 18" >}}
 
 Il resto della giornata naturalmente si dovrebbe passare a fare un riepilogo, magari ripassando ai quartieri a luci rosse di sera o facendo un'ultima passeggiata sui ponti e godendosi i vari panorami che questa bellissima città ha da offire e pensare a quanto è bello viaggiare.
 

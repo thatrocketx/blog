@@ -56,7 +56,7 @@ Di ritorno dal nostro viaggio a Berlino, possiamo finalmente stilare **una lista
 
 **Berlino è piena di luoghi e musei gratuiti**, in questa sezione trovate la nostra lista **dei luoghi gratuiti che abbiamo visto e quelli che avremmo voluto vedere**; Berlino è una città ricca di cose da vedere e per questo non ci è stato possibile visitarli tutti, ma siamo riusciti almeno a vederne la maggior parte.
 
-{{< gyg title="Tour di Berlino sul Terzo Reich e sulla Guerra Fredda (anche in italiano)" price="da € 19" link="https://www.getyourguide.it/berlin-small-group-third-reich-and-cold-war-walking-tour-t280242/" original=" ">}}
+{{< gyg title="Tour di Berlino sul Terzo Reich e sulla Guerra Fredda (anche in italiano)" price="da 19 €" link="https://www.getyourguide.it/berlin-small-group-third-reich-and-cold-war-walking-tour-t280242/" original=" ">}}
 
 ### Alexanderplatz
 
@@ -133,7 +133,7 @@ State molto attenti alle **truffe** che avvengono qualche volta davanti a questo
 {{< map "geo:52.50751,13.39037?z=19" >}}
 
 
- {{< gyg img="https://cdn.getyourguide.com/img/tour_img-1132553-97.jpg" link="https://www.getyourguide.com/berlin-l17/skip-the-line-berlin-wall-museum-at-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_checkpoint_nuovo_affiliato" title="Berlino: biglietto per il Museo Haus am Checkpoint Charlie" desc="Visita il Museo Haus am Checkpoint Charlie, fondato poco dopo la costruzione del Muro di Berlino, svolgendo un ruolo fondamentale nella storia tedesca, ricordata oggi attraverso gli oggetti e i mezzi di trasporto esposti nelle sue sale." price="da 14,50€ p.p." >}}
+ {{< gyg img="https://cdn.getyourguide.com/img/tour_img-1132553-97.jpg" link="https://www.getyourguide.com/berlin-l17/skip-the-line-berlin-wall-museum-at-checkpoint-charlie-t158612/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_checkpoint_nuovo_affiliato" title="Berlino: biglietto per il Museo Haus am Checkpoint Charlie" desc="Visita il Museo Haus am Checkpoint Charlie, fondato poco dopo la costruzione del Muro di Berlino, svolgendo un ruolo fondamentale nella storia tedesca, ricordata oggi attraverso gli oggetti e i mezzi di trasporto esposti nelle sue sale." price="da 14,50 €" >}}
 
 
 
@@ -249,7 +249,7 @@ La torre fu costruita non solo per trasmettere programmi TV e radio, ma anche co
 {{< map "geo:52.52067,13.40947?z=19" >}}
 
 
-  {{< gyg img="https://cdn.getyourguide.com/img/location_img-4285-402408154-88.jpg" link="https://www.getyourguide.it/torre-della-televisione-l4285/%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_torre_nuovo_affiliato" title="Torre della Televisione: prenota i biglietti" desc="Con i suoi 368 metri di altezza, la Torre della Televisione è la struttura più alta di Berlino (e anche di tutta la Germania!)." price="da 22,50€" >}}
+  {{< gyg img="https://cdn.getyourguide.com/img/location_img-4285-402408154-88.jpg" link="https://www.getyourguide.it/torre-della-televisione-l4285/%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_torre_nuovo_affiliato" title="Torre della Televisione: prenota i biglietti" desc="Con i suoi 368 metri di altezza, la Torre della Televisione è la struttura più alta di Berlino (e anche di tutta la Germania!)." price="da 22,50 €" >}}
 
 ### Franziskaner-Klosterkirche
 
@@ -597,7 +597,7 @@ Sono relativamente poche le attrazioni (di nostro interesse) che necessitano di 
 <p>  Per gli amanti dei luoghi abbandonati è possibile prenotare la visita in questo <strong>parco abbandonato</strong> della Germania dell&#39; Est.</p>
 <p>  Vi consigliamo di <strong>prenotare MESI PRIMA</strong>, noi abbiamo provato a prenotare tre settimane prima di partire e siamo rimasti senza biglietti disponibili.</p>
 <p>  Questo è link al <a href="https://gruen-berlin.de/en/spreepark/visitor-information-0">sito sul quale prenotare la visita guidata</a>. È disponibile sia in tedesco che in inglese.</p>
-<p>  Il costo del biglietto è di <strong>€ 5</strong>. 👻</p></li>
+<p>  Il costo del biglietto è di <strong>5 €</strong>. 👻</p></li>
   </ul>
 
 
@@ -802,7 +802,7 @@ Chiuso il martedì.
 
 {{< map "geo:52.51947,13.39851?z=19" >}}
 
-  {{< gyg img="https://cdn.getyourguide.com/img/tour_img-2515988-97.jpg" link="https://www.getyourguide.com/berlin-l17/museum-pass-berlin-3-day-entry-to-over-50-museums-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_musei_nuovo_affiliato" title="Musei di Berlino: pass di 3 giorni per oltre 30 musei" desc="Usa il tuo Pass Musei di Berlino per un itinerario culturale davvero flessibile. Soddisfa tutti i tuoi desideri entrando in oltre 30 musei a scelta in 3 giorni." price="da 29€" >}}
+  {{< gyg img="https://cdn.getyourguide.com/img/tour_img-2515988-97.jpg" link="https://www.getyourguide.com/berlin-l17/museum-pass-berlin-3-day-entry-to-over-50-museums-t68464/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino_cosa_vedere_musei_nuovo_affiliato" title="Musei di Berlino: pass di 3 giorni per oltre 30 musei" desc="Usa il tuo Pass Musei di Berlino per un itinerario culturale davvero flessibile. Soddisfa tutti i tuoi desideri entrando in oltre 30 musei a scelta in 3 giorni." price="da 29 €" >}}
 
 
 ### Museo Ebraico
@@ -951,7 +951,7 @@ A Berlino ci sono principalmente quattro tipi di mezzi pubblici che si possono p
    </g>
    </svg>
 
-   **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai € 3 / 3.50**. C'è anche la possibilità di di **pagare € 1.70 se si fanno soltanto 3 fermate**. Le stazioni della U-BAHN sono contrassegnate da un quadrato blu con una U all'interno.
+   **U-BAHN** *(consigliata)* è la **metropolitana**, è il mezzo più veloce e **ferma nella maggior parte dei posti menzionati in questa guida**. I prezzi variano a seconda della zona che si sceglie (A,B o C) e **si aggirano intorno ai 3 € / 3.50**. C'è anche la possibilità di di **pagare 1.70 € se si fanno soltanto 3 fermate**. Le stazioni della U-BAHN sono contrassegnate da un quadrato blu con una U all'interno.
 2. <svg width="30" height="30" version="1.1" viewBox="0 0 7.9374995 7.9375002" xmlns="http://www.w3.org/2000/svg" role="img">
    <g transform="translate(0 -289.06)">
    <path d="m4.7825 291.6 1.8124 0.3508-0.058465-1.6253-3.0168-0.6665-2.0229 0.80682-0.5028 2.2217 3.4144 1.6838s-0.28063 0.33909-0.43264 0.3274c-0.15201-0.0117-2.5725-1.1693-2.5725-1.1693l-0.21047 1.1576 0.70158 1.1225 2.362 0.60804 1.8592-0.76005 0.94714-2.9466z" fill="#fff"/>

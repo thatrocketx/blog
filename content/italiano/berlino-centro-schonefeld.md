@@ -85,7 +85,7 @@ Qui sotto vi lascio **tutte le stazioni principali di Berlino** nelle quali ferm
 
 #### Biglietto, binari e costo
 
-Il biglietto da acquistare è il biglietto per i trasporti nella **zona ABC** di Berlino. **Il costo del biglietto è di € 3,40** [^3].
+Il biglietto da acquistare è il biglietto per i trasporti nella **zona ABC** di Berlino. **Il costo del biglietto è di 3,40 €** [^3].
 
 {{< notice warning >}}
 **EVITATE di acquistare i biglietti per la zona AB** per risparmiare in quanto, sebbene il tragitto sia breve, potrebbero esserci dei problemi con i controlli (abbastanza frequenti) e potreste ricevere una **multa** da parte della [BVG](https://en.wikipedia.org/wiki/Berliner_Verkehrsbetriebe) (la compagnia che si occupa dei trasporti nel territorio della capitale.).
@@ -136,9 +136,9 @@ Qui sotto riportiamo tutte le stazioni nelle quali si ferma la linea **S9**.
 
 #### Biglietto e costo
 
-Il treno attraversa le zone A, B e C di Berlino, per questo motivo **è necessario** comprare il **biglietto per la zona ABC** da **€ 3,40**. Come detto sopra: ATTENZIONE a **NON comprare i biglietti per la zona AB** perché potreste ricevere **sanzioni elevate** in caso di controlli da parte delle autorità tedesche.
+Il treno attraversa le zone A, B e C di Berlino, per questo motivo **è necessario** comprare il **biglietto per la zona ABC** da **3,40 €**. Come detto sopra: ATTENZIONE a **NON comprare i biglietti per la zona AB** perché potreste ricevere **sanzioni elevate** in caso di controlli da parte delle autorità tedesche.
 
-{{< gyg link="https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=schonefeld-guida-welcome" title="Berlin Welcome Card zona ABC e sconti per altre attrazioni" price="da € 28" >}}
+{{< gyg link="https://www.getyourguide.it/berlino-l17/berlin-welcomecard-con-guida-turistica-tascabile-t6045/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-end&cmp=schonefeld-guida-welcome" title="Berlin Welcome Card zona ABC e sconti per altre attrazioni" price="da 28 €" >}}
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6.3499999 6.3500002" version="1.1" width="20" height="20" style="display: inline-block" role="img"><g transform="translate(0,-290.64998)"><path style="opacity:1;fill:#338000;fill-opacity:1;stroke:none;stroke-width:1.78560317;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="M 12.052734 -0.017578125 A 12.008928 12.008928 0 0 0 0.044921875 11.990234 A 12.008928 12.008928 0 0 0 12.052734 24 A 12.008928 12.008928 0 0 0 24.0625 11.990234 A 12.008928 12.008928 0 0 0 12.052734 -0.017578125 z M 10.871094 3.1699219 L 13.236328 3.1699219 L 13.236328 11.009766 L 21.074219 11.009766 L 21.074219 13.402344 L 13.236328 13.402344 L 13.236328 21.240234 L 10.871094 21.240234 L 10.871094 13.402344 L 3.0332031 13.402344 L 3.0332031 11.009766 L 10.871094 11.009766 L 10.871094 3.1699219 z " transform="matrix(0.26458333,0,0,0.26458333,0,290.64998)"></path></g></svg> **POSITIVO**: Raggiunge più stazioni, economico, comodo e maggior numero di treni
 

@@ -74,11 +74,11 @@ Salire sulla Torre della TV **non è proprio economico**, sia chiaro, ma vi assi
 
 {{< img "Berlino vista dalla Torre della Televisione""/img/articoli/vista-torre-della-tv-berlino_compressed.jpg" >}}
 
-Il costo di un **singolo biglietto** per la terrazza panoramica è di **€ 16.50** per gli adulti e € 9.50 per i bambini dai 4 ai 14 anni.
+Il costo di un **singolo biglietto** per la terrazza panoramica è di **16.50 €** per gli adulti e 9.50 € per i bambini dai 4 ai 14 anni.
 
 I biglietti si possono **{{< nofollow "https://www.getyourguide.it/torre-della-televisione-l4285/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "acquistare online" >}}** o all'**interno della torre**, i biglietti acquistati online hanno un sovrapprezzo di **prevendita** di cira 5 euro.
 
-**Se si possiede una {{< nofollow "https://www.getyourguide.it/s/?q=berlin%20welcome%20card&customerSearch=true&p=1&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "Berlin Welcome Card" >}}** (l'abbonamento per i trasporti di Berlino), il prezzo del biglietto sarà **scontato a circa € 12,40** per gli adulti (**25% di sconto**).
+**Se si possiede una {{< nofollow "https://www.getyourguide.it/s/?q=berlin%20welcome%20card&customerSearch=true&p=1&partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" "Berlin Welcome Card" >}}** (l'abbonamento per i trasporti di Berlino), il prezzo del biglietto sarà **scontato a circa 12,40 €** per gli adulti (**25% di sconto**).
 
 
 <div style="width: 100%"><a href="https://www.getyourguide.it/torre-della-televisione-l4285/?partner_id=CSSHL9T&utm_medium=online_publisher&utm_source=thatrocketx%40protonmail.com&placement=content-middle&cmp=berlino-torre-della-tv" rel="nofollow" class="noext" style="background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%); background-color:#44c767; border-radius:28px; border:1px solid #18ab29; display:inline-block; cursor:pointer; color:#ffffff;  font-family:Arial;  font-size:17px; padding:16px 31px;  text-decoration:none; text-shadow:0px 1px 0px #2f6627; margin: auto; display: block; max-width: 700px; text-align: center; min-height: 50px; display: flex; align-content: center; align-items: center; justify-content: center"><svg width="100px" height="50px" style="float: left" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">

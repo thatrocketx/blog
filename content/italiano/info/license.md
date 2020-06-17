@@ -23,6 +23,7 @@ Su questo sito sono stati utilizzati componenti Open Source, di seguito trovate 
 - lazyload con licenza [MIT](https://github.com/verlok/lazyload/blob/master/LICENSE)
 - [leaflet.js](https://leafletjs.com/) con licenza [BSD 2-Clause "Simplified" License](https://github.com/Leaflet/Leaflet/blob/master/LICENSE)
 - Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
+- Latex.CSS con licenza [MIT](https://github.com/vincentdoerig/latex-css/blob/master/LICENSE)
 
 ### Ringraziamenti speciali
 - [30s of Code (CSS)](https://www.30secondsofcode.org/css/)
@@ -31,3 +32,4 @@ Su questo sito sono stati utilizzati componenti Open Source, di seguito trovate 
 - [realfavicongenerator.net](https://realfavicongenerator.net/)
 - [appsco.pe](https://appsco.pe/developer/splash-screens)
 - [divinerites](https://discourse.gohugo.io/t/shortcode-for-openstreetmap-instead-of-googlemaps/12965)
+- [Smashing Magazine](https://www.smashingmagazine.com)

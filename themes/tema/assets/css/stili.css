@@ -1,3 +1,15 @@
+/* CREATIVE COMMONS FONT https://www.ctrl.blog/entry/creative-commons-unicode-fallback-font.html */
+@font-face {
+  font-display: swap;
+  font-family: 'CCSymbols';
+  font-synthesis: none;
+  src: url('/fonts/CCSymbols.woff2') format('woff2'),
+       url('/fonts/CCSymbols.woff')  format('woff'),
+       url('/fonts/CCSymbols.ttf')  format('truetype');
+  unicode-range: u+a9, u+229c,
+                 u+1f10d-f, u+1f16d-f;
+}
+
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
@@ -11131,6 +11143,7 @@ input:checked[id="menuapri"] + label[for="menuapri"] > .hamburger-menu .bottom {
 }
 }
 
+/* LATEX CSS https://github.com/vincentdoerig/latex-css */
 
 @media print {
   @font-face {

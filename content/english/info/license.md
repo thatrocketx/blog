@@ -6,9 +6,9 @@ nolist: true
 ---
 
 ## Website license
-The content of this website, as well as the images and photographs made by us, are licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The content of this website, as well as the images and photographs made by us, are licensed under [Creative Commons BY-SA 4.0 <span style="font-family: CCSymbols">🅭 🅯 🄎</span>](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Licenses of the Open Source components
+## Licenses of Open Source components
 This website utilized Open Source components, here's a list of the components and their licenses:
 
 - [HUGO](https://gohugo.io/) licensed under [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE)

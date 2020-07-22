@@ -73,7 +73,8 @@
 
 - id: ultima-modifica
   translation: "Updated on"
-
+- id: foto
+  translation: "Photo"
 - id: vaiaicommenti
   translation: "SEE COMMENTS"
 - id: comprasuamazon
@@ -83,7 +84,7 @@
 - id: acquista-gyg
   translation: "BUY ON GETYOURGUIDE"
 - id: acquisto-sicuro
-  translation: "Purchase with securety on"
+  translation: "Purchase securely on"
 
 
 

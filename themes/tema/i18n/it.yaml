@@ -70,7 +70,8 @@
   translation: "Aggiornato al"
 - id: segnala-errore-mappa
   translation: "Segnala un errore sulla mappa"
-
+- id: foto
+  translation: "Foto"
 - id: vaiaicommenti
   translation: "VAI AI COMMENTI"
 - id: comprasuamazon

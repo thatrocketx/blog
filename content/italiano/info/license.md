@@ -6,7 +6,7 @@ nolist: true
 ---
 
 ## Licenza del sito
-I contenuti di questo sito, così come le foto da noi scattate, sono rilasciati con licenza [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+I contenuti di questo sito, così come le foto da noi scattate, sono rilasciati con licenza [Creative Commons BY-SA 4.0 <span style="font-family: CCSymbols">🅭 🅯 🄎</span>](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Licenze componenti Open Source
 Su questo sito sono stati utilizzati componenti Open Source, di seguito trovate una lista delle licenze di ogni singolo componente utlizzato:

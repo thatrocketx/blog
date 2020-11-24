@@ -47,7 +47,12 @@ scadenza: ""
 lastmod: 2020-05-31T14:03:00.000Z
 ---
 {{< notice note >}}
-Sei affascinato dall'Hotel Eremo? [**Vota l'Hotel Eremo** al Vesuvio come **Luogo del Cuore** sul sito del **Fondo Ambiente Italiano (FAI)** per provare a proteggerlo!](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc) Abbiamo tempo **fino al 15 dicembre** per arrivare almeno tra i primi posti! 💪
+### 🚨 MANCANO POCHI GIORNI MA POSSIAMO ANCORA PROVARCI 🚨
+[**Vota l'Hotel Eremo** al Vesuvio](https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc)
+oppure
+[**Vota la Stazione Cook**](https://www.fondoambiente.it/luoghi/stazione-cook?ldc)
+come **Luogo del Cuore** sul sito del **Fondo Ambiente Italiano (FAI)** per provare a proteggerlo!
+Abbiamo tempo **fino al 15 dicembre** per arrivare almeno tra i primi posti! 💪
 {{</ notice >}}
 
 A Ercolano, vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​

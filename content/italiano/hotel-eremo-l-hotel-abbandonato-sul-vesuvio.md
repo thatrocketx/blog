@@ -52,7 +52,7 @@ lastmod: 2020-05-31T14:03:00.000Z
 come <strong>Luogo del Cuore</strong> sul sito del <strong>Fondo Ambiente Italiano (FAI)</strong> per provare a proteggerlo!
 <hr class="my-3">
 Hai ancora un voto?
-<a class="btn btn-outline-danger font-weight-bold d-inline-block" href="https://www.fondoambiente.it/luoghi/reggia-di-portici?ldc">Vota anche la Reggia di Portici, il luogo più votato della Campania</a>
+<a class="btn btn-outline-danger font-weight-bold d-block my-3" href="https://www.fondoambiente.it/luoghi/reggia-di-portici?ldc">Vota anche la Reggia di Portici, il luogo più votato della Campania</a>
 Insieme possiamo farla salire in classifica!
 <br>Abbiamo tempo <span class="text-danger font-weight-bold">fino al 15 dicembre</span> per arrivare almeno tra i primi posti! 💪
 </div>

@@ -67,7 +67,7 @@ toLower = true
 [privacy]
   [privacy.instagram]
     disable = false
-    simple = true
+    simple = false
   [privacy.twitter]
     disable = false
     enableDNT = true

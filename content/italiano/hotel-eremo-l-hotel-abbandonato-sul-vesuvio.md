@@ -46,9 +46,9 @@ expirydate: " "
 scadenza: ""
 lastmod: 2020-05-31T14:03:00.000Z
 ---
-<div class="alert alert-info" role="alert">
+<div class="alert alert-info text-center" role="alert">
 <div class="h5 font-weight-bold"> 🚨 MANCANO POCHI GIORNI MA POSSIAMO ANCORA PROVARCI 🚨 </div>
-<div class="mx-auto"><a class="btn btn-outline-secondary font-weight-bold" href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc">Vota l'Hotel Eremo al Vesuvio</a> oppure <a class="btn btn-outline-secondary font-weight-bold" href="https://www.fondoambiente.it/luoghi/stazione-cook?ldc">Vota la Stazione Cook</a></div>
+<div class="mx-auto my-3"><a class="btn btn-outline-secondary font-weight-bold" href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc">Vota l'Hotel Eremo al Vesuvio</a> oppure <a class="btn btn-outline-secondary font-weight-bold" href="https://www.fondoambiente.it/luoghi/stazione-cook?ldc">Vota la Stazione Cook</a></div>
 come <strong>Luogo del Cuore</strong> sul sito del <strong>Fondo Ambiente Italiano (FAI)</strong> per provare a proteggerlo!
 <br>Abbiamo tempo <span class="text-danger font-weight-bold">fino al 15 dicembre</span> per arrivare almeno tra i primi posti! 💪
 </div>

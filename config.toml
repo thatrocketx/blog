@@ -66,7 +66,7 @@ toLower = true
   weight = 70.0
 [privacy]
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = false
   [privacy.twitter]
     disable = false

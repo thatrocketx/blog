@@ -57,6 +57,7 @@ Hai ancora un voto?
 Insieme possiamo farla salire in classifica!
 <br>Abbiamo tempo <span class="text-danger font-weight-bold">fino al 15 dicembre</span> per arrivare almeno tra i primi posti! 💪
 </div>
+<i>that Rocket X non ha alcun legame con il Fondo Ambiente Italiano, questa è un'iniziativa di promozione personale</i>
 
 A Ercolano, vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
 

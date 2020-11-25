@@ -493,8 +493,6 @@ Sulla punta, **la Quadriga rappresenta una dea alata che conduce quattro cavalli
 
 Di notte è spettacolare.
 
-{{< instagram "B422DvVoT_X" >}}
-
 {{< map "geo:52.51622,13.37761?z=19" >}}
 
 ### Potsdamer Platz

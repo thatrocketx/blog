@@ -49,8 +49,8 @@ lastmod: 2020-05-31T14:03:00.000Z
 <div class="alert alert-info text-center" role="alert">
 <div class="bg-white rounded mb-2"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/FAI_marchio_RGB.jpg" width="80"></div>
 <div class="h5 font-weight-bold">🎉 MAI COSÌ TANTI 🎈</div>
-Grazie all'aiuto di voi lettori di questo articolo, quest'anno l'Hotel Eremo ha ricevuto ben **74 voti** al censimento dei Luoghi del Cuore del FAI, non era mai successo prima! <br>
-Grazie a tutti quelli che hanno votato! ❤️
+Grazie all'aiuto di voi lettori di questo articolo, quest'anno l'Hotel Eremo ha ricevuto ben <strong>74 voti</strong> al censimento dei Luoghi del Cuore del FAI, non era mai successo prima! <br>
+<strong>Grazie a tutti quelli che hanno votato!</strong> ❤️
 </div>
 
 A Ercolano, vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​

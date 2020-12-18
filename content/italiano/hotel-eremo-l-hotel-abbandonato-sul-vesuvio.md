@@ -48,16 +48,9 @@ lastmod: 2020-05-31T14:03:00.000Z
 ---
 <div class="alert alert-info text-center" role="alert">
 <div class="bg-white rounded mb-2"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/FAI_marchio_RGB.jpg" width="80"></div>
-<div class="h5 font-weight-bold"> 🚨 MANCANO POCHI GIORNI MA POSSIAMO ANCORA PROVARCI 🚨 </div>
-<div class="mx-auto my-3"><a class="btn btn-outline-secondary font-weight-bold progress-bar-striped progress-bar-animated" href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc">Vota l'Hotel Eremo al Vesuvio</a> oppure <a class="btn btn-outline-secondary font-weight-bold progress-bar-striped progress-bar-animated" href="https://www.fondoambiente.it/luoghi/stazione-cook?ldc">Vota la Stazione Cook</a></div>
-come <strong>Luogo del Cuore</strong> sul sito del <strong>Fondo Ambiente Italiano (FAI)</strong> per provare a proteggerlo!
-<hr class="my-3">
-Hai ancora un voto?
-<a class="btn btn-outline-danger font-weight-bold d-block my-3 progress-bar-striped progress-bar-animated" href="https://www.fondoambiente.it/luoghi/reggia-di-portici?ldc">Vota anche la Reggia di Portici, il luogo più votato della Campania</a>
-Insieme possiamo farla salire in classifica!
-<br>Abbiamo tempo <span class="text-danger font-weight-bold">fino al 15 dicembre</span> per arrivare almeno tra i primi posti! 💪
-<br><br>
-<small><i>that Rocket X non ha alcun legame con il Fondo Ambiente Italiano, questa è un'iniziativa di promozione personale</i></small>
+<div class="h5 font-weight-bold">🎉 MAI COSÌ TANTI 🎈</div>
+Grazie all'aiuto di voi lettori di questo articolo, quest'anno l'Hotel Eremo ha ricevuto ben **74 voti** al censimento dei Luoghi del Cuore del FAI, non era mai successo prima! <br>
+Grazie a tutti quelli che hanno votato! ❤️
 </div>
 
 A Ercolano, vicino Napoli, sulla strada che porta verso il Vesuvio, sorge un hotel che si fa notare per la sua posizione ma anche per come si presenta.​
@@ -181,7 +174,6 @@ Il senso che si prova mentre si visita questo luogo è un misto tra **curiosità
 
 Ormai non crediamo ci sia alcuna speranza di **rivederlo così com'era** una volta, se non in alcune foto d'epoca che si trovano su delle vecchie cartoline, ma in fondo è un **pezzo di storia** ed è un luogo unico, un hotel che anche dopo la sua chiusura continua a mostrarsi in tutta la sua bellezza, anche se in modo diverso.​
 
-<a href="https://www.fondoambiente.it/luoghi/albergo-eremo-al-vesuvio?ldc" class="noext">{{< img "Vota l'Hotel Eremo sul sito del FAI" "/img/articoli/fai-eremo.jpg" " ">}}</a>
 
 [^1]: Andare in posti in cui non si dovrebbe. ([Urban Dictionary](https://www.urbandictionary.com/define.php?term=urban+exploration))
 [^2]: Fonte: [Ferrovia Pugliano-Vesuvio su Wikipedia](https://it.wikipedia.org/wiki/Ferrovia_Pugliano-Vesuvio)

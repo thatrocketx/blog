@@ -17,7 +17,7 @@ expirydate: " "
 scadenza: " "
 lastmod: 2021-03-12T12:27:03.991Z
 ---
-<h1> Sparse </h1> nel mondo ci sono le città chiuse, ma cosa sono?  Sono località sottoposte a particolari restrizioni di accesso e di residenza e di segretezza. L'ingresso in città chiuse è precluso agli estranei, se non per giustificati motivi di lavoro autorizzati.
+Sparse nel mondo ci sono le città chiuse, ma cosa sono?  Sono località sottoposte a particolari restrizioni di accesso e di residenza e di segretezza. L'ingresso in città chiuse è precluso agli estranei, se non per giustificati motivi di lavoro autorizzati.
 Oltre alle località della Russia esistono città chiuse anche in Cina, Arabia Saudita, Sudafrica e negli Stati Uniti d'America.
 
 Lo stato con più città chiuse attualmente è la Russia che ne conta ben 45. Sono nate al termine della Seconda guerra mondiale l'URSS iniziò a fondare una serie di "città chiuse", indicate con l'acronimo di ZATO, una sigla in codice che nascondeva la verità sulla loro origine: "formazioni amministrativo-territoriali chiuse". Queste città avevano una funzione militare-scientifica. Molte di esse furono coinvolte in progetti di ricerca sull'energia nucleare, la bomba atomica e armi batteriologiche. Alcune città segrete sono state aperte soltanto negli ultimi decenni.
